@@ -1,12 +1,11 @@
 ---
 title: _index
+menu:
+  main:
+    name: Home
+    weight: 1
+    params:
+      icon: home
 ---
 
----
-menu:
-    main:
-        name: Home
-        weight: 1
-        params:
-            icon: home
----
+

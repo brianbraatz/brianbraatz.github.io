@@ -1,45 +1,55 @@
 ---
-title: "Sql Joins"
+title: Sql Joins
 date: 2025-01-18T17:51:54-08:00
 draft: false
 ---
 
 
+````embed-cpp
+
+PATH: "https://brianbraatz.com/portfolio/Profile.h"
+
+LINES: "2,9,30-40,100-122,150"
+
+TITLE: "Some title"
+
+````
+
 Details
-![[sqljoins2.png]]
+![sqljoins2.png](sqljoins2.png)
+
 # Sql Joins Illustrated
 
-### _BrianBraatz.com_
+### *BrianBraatz.com*
 
 ![Alt text for the image](./image.jpg)
 
+#### *Brian Braatz*
 
-#### _Brian Braatz_
-
-- 1 SQL Joins Illustrated - MySql
-    - 1.1 Database Setup
-    - 1.2 Sample Data
-    - 1.3 Dataset - Table
-    - 1.4 Dataset - Venn Diagram
-    - 1.5 Inner Join
-    - 1.6 Left Outer Join
-    - 1.7 Right Outer Join
-    - 1.8 Cartesian Join \ Cross Join
+* 1 SQL Joins Illustrated - MySql
+  * 1.1 Database Setup
+  * 1.2 Sample Data
+  * 1.3 Dataset - Table
+  * 1.4 Dataset - Venn Diagram
+  * 1.5 Inner Join
+  * 1.6 Left Outer Join
+  * 1.7 Right Outer Join
+  * 1.8 Cartesian Join \ Cross Join
 
 # 1 SQL Joins Illustrated - MySql
 
-```python
+````python
 def greet(name):
     print(f"Hello, {name}!")
     
 greet("Alice")
-```
+````
 
 ## 1.1 Database Setup
 
 First, lets setup a simple script to create a test database:
 
-```sql
+````sql
 -- Database setup
 DROP DATABASE IF EXISTS sqljoins;       -- Delete if it exists
 CREATE DATABASE sqljoins;               -- Create a new database
@@ -63,7 +73,7 @@ CREATE TABLE BasketballPlayer
 BasketballPlayerID int,
 Name varchar(255)
 ); 
-```
+````
 
 ## 1.2 Sample Data
 
@@ -71,7 +81,7 @@ In the below sample, we have modelled a basketball and a soccer team.
 
 For example simplicity, we will be joining on the name field.
 
-```sql
+````sql
 -- Insert Basketball Players
 INSERT INTO `BasketballPlayer` VALUES (1,'Alan');
 INSERT INTO `BasketballPlayer` VALUES (2,'Amanda');
@@ -83,13 +93,13 @@ INSERT INTO `SoccerPlayer` VALUES (1,'Amanda');
 INSERT INTO `SoccerPlayer` VALUES (2,'Sally');
 INSERT INTO `SoccerPlayer` VALUES (3,'Jose');
 INSERT INTO `SoccerPlayer` VALUES (4,'Ian');
-```
+````
 
 Looking at the data you will notice that only Amanda and Sally play both Soccer and Basketball.
 
 ## 1.3 Dataset - Table
 
-```sql
+````sql
       BasketballPlayer TABLE              SoccerPlayer TABLE
 + -------------------- + --------- +    + --------------- + --------- +
 | BasketballPlayerID   | Name      |    | SoccerPlayerID  | Name      |
@@ -99,23 +109,25 @@ Looking at the data you will notice that only Amanda and Sally play both Soccer 
 | 3                    | Tay       |    | 3               | Jose      |
 | 4                    | Sally     |    | 4               | Ian       |
 + -------------------- + --------- +    + --------------- + --------- +
-```
+````
 
 ## 1.4 Dataset - Venn Diagram
 
-![[sqljoins1.png]]
+![sqljoins1.png](sqljoins1.png)
 
 ## 1.5 Inner Join
 
 The Inner Join shows only the rows that exist in both tables. Visualize it as the inner section of the Venn diagram.
 
-> select * from BasketballPlayer BP INNER JOIN SoccerPlayer SP on BP.Name = SP.Name
+ > 
+ > select * from BasketballPlayer BP INNER JOIN SoccerPlayer SP on BP.Name = SP.Name
 
 **OR**
 
-> select * from BasketballPlayer BP , SoccerPlayer SP where BP.Name = SP.Name;
+ > 
+ > select * from BasketballPlayer BP , SoccerPlayer SP where BP.Name = SP.Name;
 
-```sql
+````sql
 + ----------------------- + --------- + ------------------- + --------- +
 | BasketballPlayerID      | Name      | SoccerPlayerID      | Name      |
 + ----------------------- + --------- + ------------------- + --------- +
@@ -123,18 +135,18 @@ The Inner Join shows only the rows that exist in both tables. Visualize it as th
 | 4                       | Sally     | 2                   | Sally     |
 + ----------------------- + --------- + ------------------- + --------- +
 2 rows
-```
+````
 
-![[sqljoins2.png]]
-
+![sqljoins2.png](sqljoins2.png)
 
 ## 1.6 Left Outer Join
 
 Left Outer Join will give us ALL the records from the LEFT table AND the records that match to the left table. Empty fields will be null.
 
-> select * from BasketballPlayer BP LEFT OUTER JOIN SoccerPlayer SP on BP.Name = SP.Name
+ > 
+ > select * from BasketballPlayer BP LEFT OUTER JOIN SoccerPlayer SP on BP.Name = SP.Name
 
-```sql
+````sql
 + ----------------------- + --------- + ------------------- + --------- +
 | BasketballPlayerID      | Name      | SoccerPlayerID      | Name      |
 + ----------------------- + --------- + ------------------- + --------- +
@@ -144,17 +156,19 @@ Left Outer Join will give us ALL the records from the LEFT table AND the records
 | 4                       | Sally     | 2                   | Sally     |
 + ----------------------- + --------- + ------------------- + --------- +
 4 rows
-```
-![[sqljoins3.png]]
-![[post/New/SQL/SQLJoins/sqljoins3.png]]
+````
+
+![sqljoins3.png](sqljoins3.png)
+![post/New/SQL/SQLJoins/sqljoins3.png](sqljoins3.png)
 
 ## 1.7 Right Outer Join
 
 The Right Outer Join will give us ALL the records from the RIGHT table AND the records that match to the left table. Empty fields will be null.
 
-> select * from BasketballPlayer BP RIght OUTER JOIN SoccerPlayer SP on BP.Name = SP.Name
+ > 
+ > select * from BasketballPlayer BP RIght OUTER JOIN SoccerPlayer SP on BP.Name = SP.Name
 
-```sql
+````sql
 + ----------------------- + --------- + ------------------- + --------- +
 | BasketballPlayerID      | Name      | SoccerPlayerID      | Name      |
 + ----------------------- + --------- + ------------------- + --------- +
@@ -164,17 +178,18 @@ The Right Outer Join will give us ALL the records from the RIGHT table AND the r
 |                         |           | 4                   | Ian       |
 + ----------------------- + --------- + ------------------- + --------- +
 4 rows
-```
+````
 
-![[post/New/SQL/SQLJoins/sqljoins4.png]]
+![post/New/SQL/SQLJoins/sqljoins4.png](sqljoins4.png)
 
 ## 1.8 Cartesian Join \ Cross Join
 
 The Cartesian Join or Cross Join has very little realistic use. It returns the Cartesian product of the sets of records from the two or more joined tables. This result is usually encountered when someone learning SQL forgets to put in a where clause :) .
 
-> select * from BasketballPlayer, SoccerPlayer
+ > 
+ > select * from BasketballPlayer, SoccerPlayer
 
-```sql
+````sql
 + ----------------------- + --------- + ------------------- + --------- +
 | BasketballPlayerID      | Name      | SoccerPlayerID      | Name      |
 + ----------------------- + --------- + ------------------- + --------- +
@@ -196,4 +211,4 @@ The Cartesian Join or Cross Join has very little realistic use. It returns the C
 | 4                       | Sally     | 4                   | Ian       |
 + ----------------------- + --------- + ------------------- + --------- +
 16 rows
-```
+````
