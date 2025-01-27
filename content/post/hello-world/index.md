@@ -16,7 +16,6 @@ hello world below
 [index](..\..\page\about\index.md)
 
 thats the profile
-*../New/CPP/Profiler*
 
 Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
 
