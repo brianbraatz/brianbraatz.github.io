@@ -3,7 +3,7 @@ title: Image gallery
 description: Create beautiful interactive image gallery using Markdown
 date: 2023-08-26 00:00:00+0000
 image: 2.jpg
-lastmod: 2025-01-26T21:52:22.334Z
+lastmod: 2025-01-27T11:55:27.571Z
 ---
 Hugo theme Stack supports the creation of interactive image galleries using Markdown. It's powered by [PhotoSwipe](https://photoswipe.com/) and its syntax was inspired by [Typlog](https://typlog.com/).
 

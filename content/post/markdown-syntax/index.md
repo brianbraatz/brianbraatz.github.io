@@ -10,9 +10,9 @@ tags:
 categories:
   - themes
   - syntax
-lastmod: 2025-01-27T09:54:33.349Z
+lastmod: 2025-01-27T11:56:41.883Z
 ---
-[post/math-typesetting/index](/post/math-typesetting/index)
+[post/hello-world/index.md](/post/hello-world/index.md)
 
 This article offers a sample of b asic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 

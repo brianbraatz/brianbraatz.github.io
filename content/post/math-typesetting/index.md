@@ -3,7 +3,7 @@ title: Math Typesetting
 description: Math typesetting using KaTeX
 date: 2023-08-24 00:00:00+0000
 math: true
-lastmod: 2025-01-26T21:52:22.352Z
+lastmod: 2025-01-27T11:00:51.222Z
 ---
 Stack has built-in support for math typesetting using [KaTeX](https://katex.org/).
 

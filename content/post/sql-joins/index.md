@@ -3,8 +3,10 @@ title: Sql Joins
 description: sql typesetting using KaTeX
 date: 2024-08-24 00:00:00+0000
 math: true
-lastmod: 2025-01-27T02:36:15.077Z
+lastmod: 2025-01-27T11:05:02.967Z
 ---
+[post/shortcodes/index](/post/shortcodes/index)
+
 Details
 
 # Sql Joins Illustrated
@@ -100,7 +102,7 @@ Looking at the data you will notice that only Amanda and Sally play both Soccer 
 
 ## 1.4 Dataset - Venn Diagram
 
-![sqljoins1.png](/static2/post/sql-joins/sqljoins1.png)\
+![post/sql-joins/sqljoins1.png](/static2/post/sql-joins/sqljoins1.png)\
 ![](/static2/post/sql-joins/sqljoins1.png)
 
 ## 1.5 Inner Join

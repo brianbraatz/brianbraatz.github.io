@@ -3,10 +3,10 @@ title: TEST ME
 description: Math typesetting using KaTeX
 date: 2023-08-24 00:00:00+0000
 math: true
-lastmod: 2025-01-27T02:27:40.435Z
+lastmod: 2025-01-27T10:57:15.058Z
 ---
 Stack has built-in support for math typesetting using [KaTeX](https://katex.org/).\
-![Pasted image 20250126182432.png](/static2/post/testme/Pasted%20image%2020250126182432.png)\
+![post/testme/Pasted image 20250126182432.png](/static2/post/testme/Pasted%20image%2020250126182432.png)\
 **It's not enabled by default side-wide,** but you can enable it for individual posts by adding `math: true` to the front matter. Or you can enable it side-wide by adding `math = true` to the `params.article` section in `config.toml`.
 
 ## Inline math

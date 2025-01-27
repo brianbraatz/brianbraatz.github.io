@@ -2,7 +2,7 @@
 title: Sql Joins
 date: 2025-01-18T17:51:54-08:00
 draft: false
-lastmod: 2025-01-27T02:53:11.035Z
+lastmod: 2025-01-27T10:57:15.122Z
 ---
 ```embed-cpp
 
@@ -15,7 +15,7 @@ TITLE: "Some title"
 ```
 
 Details\
-![sqljoins2.png](/static2/post/New/SQL/SQLJoins/sqljoins2.png)
+![post/New/SQL/SQLJoins/sqljoins2.png](/static2/post/New/SQL/SQLJoins/sqljoins2.png)
 
 # Sql Joins Illustrated
 
@@ -112,7 +112,7 @@ Looking at the data you will notice that only Amanda and Sally play both Soccer 
 
 ## 1.4 Dataset - Venn Diagram
 
-![sqljoins1.png](/static2/post/New/SQL/SQLJoins/sqljoins1.png)
+![post/New/SQL/SQLJoins/sqljoins1.png](/static2/post/New/SQL/SQLJoins/sqljoins1.png)
 
 ## 1.5 Inner Join
 
@@ -134,7 +134,7 @@ The Inner Join shows only the rows that exist in both tables. Visualize it as th
 2 rows
 ```
 
-![sqljoins2.png](/static2/post/New/SQL/SQLJoins/sqljoins2.png)
+![post/New/SQL/SQLJoins/sqljoins2.png](/static2/post/New/SQL/SQLJoins/sqljoins2.png)
 
 ## 1.6 Left Outer Join
 
@@ -154,7 +154,7 @@ Left Outer Join will give us ALL the records from the LEFT table AND the records
 4 rows
 ```
 
-![sqljoins3.png](/static2/post/New/SQL/SQLJoins/sqljoins3.png)\
+![post/New/SQL/SQLJoins/sqljoins3.png](/static2/post/New/SQL/SQLJoins/sqljoins3.png)\
 ![post/New/SQL/SQLJoins/sqljoins3.png](/static2/post/New/SQL/SQLJoins/sqljoins3.png)
 
 ## 1.7 Right Outer Join

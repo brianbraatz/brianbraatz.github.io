@@ -3,8 +3,10 @@ title: Shortcodes
 description: Useful shortcodes that can be used in Markdown
 date: 2023-08-25 00:00:00+0000
 image: cover.jpg
-lastmod: 2025-01-26T21:52:22.372Z
+lastmod: 2025-01-27T11:05:10.630Z
 ---
+[post/sql-joins/index](/post/sql-joins/index)
+
 For more details, check out the [documentation](https://stack.jimmycai.com/writing/shortcodes).
 
 ## Bilibili video
