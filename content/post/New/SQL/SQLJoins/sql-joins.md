@@ -6,10 +6,13 @@ draft: false
 
 
 Details
-
+![[sqljoins2.png]]
 # Sql Joins Illustrated
 
 ### _BrianBraatz.com_
+
+![Alt text for the image](./image.jpg)
+
 
 #### _Brian Braatz_
 
@@ -142,8 +145,8 @@ Left Outer Join will give us ALL the records from the LEFT table AND the records
 + ----------------------- + --------- + ------------------- + --------- +
 4 rows
 ```
-
 ![[sqljoins3.png]]
+![[post/New/SQL/SQLJoins/sqljoins3.png]]
 
 ## 1.7 Right Outer Join
 
@@ -163,7 +166,7 @@ The Right Outer Join will give us ALL the records from the RIGHT table AND the r
 4 rows
 ```
 
-![[sqljoins4.png]]
+![[post/New/SQL/SQLJoins/sqljoins4.png]]
 
 ## 1.8 Cartesian Join \ Cross Join
 

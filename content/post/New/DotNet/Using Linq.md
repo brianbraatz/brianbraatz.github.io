@@ -1,3 +1,7 @@
+---
+title: Using Linq
+---
+
 
 here is how to use linq
 

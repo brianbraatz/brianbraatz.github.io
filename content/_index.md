@@ -1,4 +1,8 @@
 ---
+title: _index
+---
+
+---
 menu:
     main:
         name: Home
