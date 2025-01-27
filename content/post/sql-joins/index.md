@@ -101,7 +101,7 @@ Looking at the data you will notice that only Amanda and Sally play both Soccer 
 
 ## 1.4 Dataset - Venn Diagram
 
-![sqljoins1.png]({{< ref "sqljoins1.png" >}})
+![[sqljoins1.png]]
 ![](sqljoins1.png)
 
 ## 1.5 Inner Join
