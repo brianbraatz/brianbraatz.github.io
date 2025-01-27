@@ -77,7 +77,11 @@
         </li>
 
         {{ end }}
-       
+     
+
+
+        <li class="menu-bottom-section">
+<!-- under construction  -->
 <div>
     <style>
         .github-link {
@@ -103,19 +107,26 @@
 <!-- <p style="text-align: left;"> <strong style="text-align: left;">Under Construction? :)</strong></p> -->
 <br>
 <br>
-<p style="text-align: center;"><b>Under Construction?</b></p>
-<p style="text-align: center;">Steadily single sourcing my old content here. :) </p>
-<p style="text-align: center;">And Centralizing code into github.</p>
-<p style="text-align: center;">Including publish my private tech tool boxes.</p>
-<p style="text-align: center;">Feel Free to check it out and suggest changes. </p>
-<a class="github-link" href="https://github.com/brianbraatz" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo">
-    Brian brianbraatz GitHub
-</a>
+<p style="text-align: center;   font-size: 12px;"><b>Under Construction!?</b></p>
+<p style="text-align: center; font-size: 12px;">Single sourcing my <br>past, and future content<br>here + github. <br><br>Check out my Github
+    <br>for related files</p>
+<!-- <p style="text-align: center;font-size: 12x;">And centralizing code into github.</p> -->
+<!-- <p style="text-align: center;font-size: 12px;">Including publish my private tech tool boxes.</p>
+<p style="text-align: center;font-size: 12px;">Feel Free to check it out and suggest changes. </p> -->
+
+
+<div style="display: flex; align-items: right;">
+    <div>
+        <a class="github-link" href="https://github.com/brianbraatz" target="_blank" rel="noopener noreferrer">
+            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo">Brian Braatz</a>
+    
+    </div>
+            <!-- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="width: 30px; height: 30px; margin-right: 10px;">
+    <span>Brian Braatz</span> -->
+</div>
 
 </div>
 
-        <li class="menu-bottom-section">
             <ol class="menu">
                 {{- $currentLanguageCode := .Language.Lang -}}
                 {{ if ( compare.Gt .Site.Home.AllTranslations.Len 1 ) }}
@@ -130,14 +141,14 @@
                         </li>
                     {{ end }}
                 {{ end }}
-
+<!-- 
                 {{ if (default false .Site.Params.colorScheme.toggle) }}
                     <li id="dark-mode-toggle">
                         {{ partial "helper/icon" "toggle-left" }}
                         {{ partial "helper/icon" "toggle-right" }}
                         <span>{{ T "darkMode" }}</span>
                     </li>
-                {{ end }}
+                {{ end }} -->
             </ol>
         </li>
 
