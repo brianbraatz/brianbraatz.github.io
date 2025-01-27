@@ -2,7 +2,7 @@
 title: Profiler
 ---
 
-[THE JOINS](..\SQL\SQLJoins\sql-joins.md)
+hi
 
 ````embed-cpp
 PATH: "https://brianbraatz.com/portfolio/Profile.h" 
