@@ -37,6 +37,7 @@
         </div>
     </header>
 
+
     {{- with .Site.Menus.social -}}
         <ol class="menu-social">
             {{ range . }}
@@ -76,7 +77,44 @@
         </li>
 
         {{ end }}
-        
+       
+<div>
+    <style>
+        .github-link {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            color: black;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+        }
+        .github-link img {
+            width: 24px;
+            height: 24px;
+            margin-right: 8px;
+        }
+    </style>
+
+ 
+    <!-- <ul>
+        <li>This site is a final and single destination for my content old and new.<li>
+        <li>Older content will appear here as I go through and publish it.</li>
+    </ul> -->
+<!-- <p style="text-align: left;"> <strong style="text-align: left;">Under Construction? :)</strong></p> -->
+<br>
+<br>
+<p style="text-align: center;"><b>Under Construction?</b></p>
+<p style="text-align: center;">Steadily single sourcing my old content here. :) </p>
+<p style="text-align: center;">And Centralizing code into github.</p>
+<p style="text-align: center;">Including publish my private tech tool boxes.</p>
+<p style="text-align: center;">Feel Free to check it out and suggest changes. </p>
+<a class="github-link" href="https://github.com/brianbraatz" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo">
+    Brian brianbraatz GitHub
+</a>
+
+</div>
+
         <li class="menu-bottom-section">
             <ol class="menu">
                 {{- $currentLanguageCode := .Language.Lang -}}
