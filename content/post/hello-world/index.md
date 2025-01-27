@@ -13,7 +13,6 @@ weight: 1
 ---
 
 hello world below
-[index](..\..\page\about\index.md)
 
 thats the profile
 
