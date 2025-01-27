@@ -10,12 +10,34 @@ tags:
   - Example
   - Tag
 weight: 1
-lastmod: 2025-01-27T11:55:36.375Z
+lastmod: 2025-01-27T12:23:56.268Z
 ---
 hello world below
 
 markdown syntax\
 [post/markdown-syntax/index.md](/post/markdown-syntax/index.md)
+
+here is a Hugo link in markdown\
+'''\
+{{< ref "post/markdown-syntax/index.md" >}}
+
+\[markdown-syntax]\({{< ref "post/markdown-syntax/index.md" >}} "markdown-syntax")\
+'''
+
+this is an external link\
+[Profiler](https://brianbraatz.github.io/post/profiler/)
+
+lets try a hugo markdown link\
+the link below works in obsidian- hopefully it works in hugo\
+[markdown-syntax](/post/markdown-syntax/index.md)
+
+comment
+
+<!-- This is a comment 
+[[post/markdown-syntax/index.md]]
+-->
+
+above
 
 Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
 
