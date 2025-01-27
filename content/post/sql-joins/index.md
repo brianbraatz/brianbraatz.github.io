@@ -10,7 +10,7 @@ tags:
   - SQL
 weight: 5
 imag: cover.jpg
-lastmod: 2025-01-27T16:38:09.096Z
+lastmod: 2025-01-27T22:45:36.549Z
 ---
 Details
 
@@ -29,13 +29,6 @@ Details
   * 1.8 Cartesian Join \ Cross Join
 
 # 1 SQL Joins Illustrated - MySql
-
-```python
-def greet(name):
-    print(f"Hello, {name}!")
-    
-greet("Alice")
-```
 
 ## 1.1 Database Setup
 
