@@ -1,8 +1,7 @@
 ---
 title: "Sql Joins"
-description: sql typesetting using KaTeX
-date: 2024-08-24 00:00:00+0000
-math: true
+date: 2025-01-18T17:51:54-08:00
+draft: false
 ---
 
 
@@ -102,7 +101,6 @@ Looking at the data you will notice that only Amanda and Sally play both Soccer 
 ## 1.4 Dataset - Venn Diagram
 
 ![sqljoins1.png]({{< ref "sqljoins1.png" >}})
-![](sqljoins1.png)
 
 ## 1.5 Inner Join
 
@@ -124,7 +122,7 @@ The Inner Join shows only the rows that exist in both tables. Visualize it as th
 2 rows
 ```
 
-![](sqljoins2.png)
+![sqljoins2.png]({{< ref "sqljoins2.png" >}})
 
 
 ## 1.6 Left Outer Join
@@ -145,7 +143,7 @@ Left Outer Join will give us ALL the records from the LEFT table AND the records
 4 rows
 ```
 
-![](sqljoins3.png)
+![sqljoins3.png]({{< ref "sqljoins3.png" >}})
 
 ## 1.7 Right Outer Join
 
@@ -165,7 +163,7 @@ The Right Outer Join will give us ALL the records from the RIGHT table AND the r
 4 rows
 ```
 
-![](sqljoins4.png)
+![sqljoins4.png]({{< ref "sqljoins4.png" >}})
 
 ## 1.8 Cartesian Join \ Cross Join
 
@@ -197,10 +195,5 @@ The Cartesian Join or Cross Join has very little realistic use. It returns the C
 16 rows
 ```
 
-<a href="SQLJoinsIllustrated.sql" download>Click here to download</a>
 
-![](SQLJoinsIllustrated.sql)
-
-C:\Data\hugotest\hugo-theme-stack\stackstarter\hugo-theme-stack-starter\static\files\articles\sql-joins
-[Download Example sql](/static/files/articles/sql-joins/SQLJoinsIllustrated.sql)
-
+![SQLJoinsIllustrated.sql]({{< ref "SQLJoinsIllustrated.sql" >}})
