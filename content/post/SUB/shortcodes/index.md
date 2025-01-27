@@ -3,7 +3,7 @@ title: Shortcodes
 description: Useful shortcodes that can be used in Markdown
 date: 2023-08-25 00:00:00+0000
 image: cover.jpg
-lastmod: 2025-01-27T13:19:54.392Z
+lastmod: 2025-01-27T15:45:56.469Z
 ---
 For more details, check out the [documentation](https://stack.jimmycai.com/writing/shortcodes).
 

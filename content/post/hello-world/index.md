@@ -10,11 +10,13 @@ tags:
   - Example
   - Tag
 weight: 1
-lastmod: 2025-01-27T13:30:00.643Z
+lastmod: 2025-01-27T15:46:48.032Z
 ---
 markdown test
 
 [markdown-syntax](/post/markdown-syntax/index.md)
+
+[Sub Short Codes](/post/SUB/shortcodes/index.md)
 
 <!--- 
 hello world below 
