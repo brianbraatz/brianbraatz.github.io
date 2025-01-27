@@ -10,10 +10,11 @@ tags:
   - Example
   - Tag
 weight: 1
-lastmod: 2025-01-27T03:09:00.363Z
+lastmod: 2025-01-27T10:44:20.157Z
 ---
 hello world below
 
+[post/markdown-syntax/index|link to markdown syntax](post/markdown-syntax/index%7Clink%20to%20markdown%20syntax)\
 thats the profile
 
 Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
