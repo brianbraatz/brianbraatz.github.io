@@ -1,15 +1,20 @@
 ---
 title: Sql Joins
-description: sql typesetting using KaTeX
-date: 2024-08-24 00:00:00+0000
-math: true
-lastmod: 2025-01-27T13:19:54.393Z
+description: Illustrated SQL Joins
+slug: sql-joins-illustrated
+date: 2012-03-06 00:00:00+0000
+image: cover.jpg
+categories:
+  - SQL
+tags:
+  - SQL
+weight: 5
+imag: cover.jpg
+lastmod: 2025-01-27T16:15:14.580Z
 ---
 Details
 
 # Sql Joins Illustrated
-
-### *BrianBraatz.com*
 
 #### *Brian Braatz*
 
@@ -100,7 +105,7 @@ Looking at the data you will notice that only Amanda and Sally play both Soccer 
 
 ## 1.4 Dataset - Venn Diagram
 
-![sqljoins1.png](/post/sql-joins/sqljoins1.png)\
+![post/sql-joins/sqljoins1.png](/post/sql-joins/sqljoins1.png)\
 ![](/post/sql-joins/sqljoins1.png)
 
 ## 1.5 Inner Join
