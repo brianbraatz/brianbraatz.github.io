@@ -3,7 +3,7 @@ title: Unity 3D ISS Explorer
 description: ISS Flying Explorer- Unity 3D - C#
 slug: unity3d-iss-explorer
 date: 2012-03-06 00:00:00+0000
-image: post/unity-3d-iis-explorer/cover.jpg
+image: unityiiscover.png
 categories:
   - SQL
 tags:
@@ -12,7 +12,7 @@ tags:
   - Cross-Platform
   - Unity3D
 weight: 5
-lastmod: 2025-01-28T02:35:13.906Z
+lastmod: 2025-01-28T11:45:07.020Z
 ---
 CS
 
