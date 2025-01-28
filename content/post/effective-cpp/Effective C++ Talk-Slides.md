@@ -8,7 +8,7 @@ categories:
 tags:
   - CPP
 weight: 3
-lastmod: 2025-01-28T00:53:48.978Z
+lastmod: 2025-01-28T00:57:25.439Z
 ---
 Details
 
@@ -124,8 +124,6 @@ Use the shortcode in your Markdown file:
 markdown
 
 CopyEdit
-
-`{{< pdf "path/to/file.pdf" >}}`
 
 ***
 
