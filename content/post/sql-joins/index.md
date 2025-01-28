@@ -3,14 +3,14 @@ title: Sql Joins
 description: Illustrated SQL Joins
 slug: sql-joins-illustrated
 date: 2012-03-06 00:00:00+0000
-image: cover-sql-joins.png
+image: post/sql-joins/cover-sql-joins.png
 categories:
   - SQL
 tags:
   - SQL
 weight: 5
 imag: cover.jpg
-lastmod: 2025-01-27T22:45:36.549Z
+lastmod: 2025-01-28T02:34:59.915Z
 ---
 Details
 

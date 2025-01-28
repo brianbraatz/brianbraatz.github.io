@@ -1,18 +1,16 @@
 ---
 title: Effective C++ Talk-Slides
 description: Slides for talk on Effective C++
-slug: 
+slug: effective-cpp
 date: 2006-07-02
-image: cover.jpg
+image: post/effective-cpp/EcppCover.png
 categories: 
 tags:
   - CPP
 weight: 3
-lastmod: 2025-01-28T02:11:23.824Z
+lastmod: 2025-01-28T02:33:02.087Z
 ---
-Details
-
-# 1
+![](/post/effective-cpp/EcppCover.png)
 
 #### *Brian Braatz*
 
