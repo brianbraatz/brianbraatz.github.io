@@ -8,7 +8,7 @@ categories:
 tags:
   - CPP
 weight: 3
-lastmod: 2025-01-27T23:29:06.750Z
+lastmod: 2025-01-28T00:06:40.459Z
 ---
 Details
 
@@ -44,34 +44,19 @@ LINK format
 
 {{< embed-pdf url="EffectiveCPP.pdf" >}}
 
-<div id="adobe-dc-view" style="height: 360px; width: 500px;"></div>
+## CODE PREVIEW
 
+<div id="adobe-dc-view"></div>
+<div id="adobe-dc-view"></div>
 <script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
-
 <script type="text/javascript">
-
-  document.addEventListener("adobe_dc_view_sdk.ready", function(){
-
-    var adobeDCView = new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>", divId: "adobe-dc-view"});
-
-    adobeDCView.previewFile({
-
-      content:{ location:
-
-        { url: "https://acrobatservices.adobe.com/view-sdk-demo/PDFs/Bodea%20Brochure.pdf"}},
-
-      metaData:{fileName: "Bodea Brochure.pdf"}
-
-    },
-
-    {
-
-      embedMode: "SIZED_CONTAINER"
-
-    });
-
-  });
-
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+		var adobeDCView = new AdobeDC.View({clientId: "cefffa8444c94515b33607ebff74a924", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "https://acrobatservices.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf"}},
+			metaData:{fileName: "Bodea Brochure.pdf"}
+		}, {});
+	});
 </script>
 
 ## 1.1 one one
