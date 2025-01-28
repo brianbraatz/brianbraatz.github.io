@@ -1,17 +1,18 @@
 ---
 title: Effective C# Talk-Slides
-description: Slides for talk on Effective C#
+description: Slides for my talk on Effective C#
 slug: effective-csharp-talk
 date: 2004-05-06
 image: ecsharpcover.png
-categories: 
+categories:
+  - CSharp
 tags:
   - CSharp
   - DotNet
   - Mentoring
 weight: 3
 published: 2001-01-01
-lastmod: 2025-01-28T12:42:09.112Z
+lastmod: 2025-01-28T22:07:33.089Z
 ---
 I have used this many times over the years.
 

@@ -4,13 +4,13 @@ description: Illustrated SQL Joins
 slug: sql-joins-illustrated
 date: 2012-03-06 00:00:00+0000
 image: cover-sql-joins.png
-categories:
-  - SQL
+categories: []
 tags:
   - SQL
+  - Mentoring
 weight: 5
 imag: cover.jpg
-lastmod: 2025-01-28T11:42:09.636Z
+lastmod: 2025-01-28T22:09:33.659Z
 ---
 Details
 

@@ -1,15 +1,16 @@
 ---
 title: Effective C++ Talk-Slides
-description: Slides for talk on Effective C++
+description: Slides for my talk on Effective C++
 slug: effective-cpp
 date: 2006-07-02
 image: EcppCover.png
-categories: 
+categories: []
 tags:
   - CPP
   - Mentoring
+  - Cross-Platform
 weight: 3
-lastmod: 2025-01-28T12:24:11.554Z
+lastmod: 2025-01-28T22:09:05.334Z
 ---
 <!--- 
 image embed
