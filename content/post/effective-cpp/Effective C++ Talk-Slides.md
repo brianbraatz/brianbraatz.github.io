@@ -8,7 +8,7 @@ categories:
 tags:
   - CPP
 weight: 3
-lastmod: 2025-01-28T00:57:25.439Z
+lastmod: 2025-01-28T02:11:23.824Z
 ---
 Details
 
@@ -28,13 +28,15 @@ LINK format
 [DISPLAY](LINK) 
 
 
+![](post/effective-cpp/EffectiveCPP.pdf)
 
--->
 
 # one
 
 ```
+
 ```
+
 
 ## CODE PREVIEW
 
@@ -45,15 +47,17 @@ LINK format
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "cefffa8444c94515b33607ebff74a924", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://acrobatservices.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf"}},
+			content:{location: {url: "https://brianbraatz.com/portfolio/EffectiveCPP.pdf"}},
 			metaData:{fileName: "Bodea Brochure.pdf"}
 		}, {});
 	});
 </script>
 
+
+
 Embedding a PDF file in a Hugo website can be accomplished through several methods. Here are the most common options:
 
-***
+---
 
 ### 1. **Direct Link to the PDF**
 
@@ -63,11 +67,10 @@ markdown
 
 CopyEdit
 
-\[View PDF]\(https://acrobatservices.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf)\`
 
 This approach doesn't embed the PDF but provides an easy way for users to access it.
 
-***
+---
 
 ### 2. **HTML `<embed>` Tag**
 
@@ -76,12 +79,7 @@ The `<embed>` tag is a simple way to display a PDF file directly on a webpage:
 html
 
 CopyEdit
-
-<embed src="https://acrobatservices.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf" type="application/pdf" width="100%" height="600px">\`
-
-This will show the PDF file embedded within the page.
-
-***
+---
 
 ### 3. **HTML `<iframe>` Tag**
 
@@ -91,11 +89,11 @@ html
 
 CopyEdit
 
-<iframe src="https://acrobatservices.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf" width="100%" height="600px" style="border:none;"></iframe>`
+<iframe src="https://brianbraatz.com/portfolio/EffectiveCPP.pdf" width="100%" height="600px" style="border:none;"></iframe>`
 
 This approach is widely supported and easy to implement.
 
-***
+---
 
 ### 4. **Using a JavaScript PDF Viewer**
 
@@ -105,9 +103,9 @@ html
 
 CopyEdit
 
-<div id="pdf-viewer" style="width: 100%; height: 600px;"></div> <script src="js/pdf.js"></script> <script>   const pdfViewer = document.getElementById('pdf-viewer');   const pdfUrl = 'https://acrobatservices.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf';   pdfjsLib.getDocument(pdfUrl).promise.then((pdfDoc) => {     pdfDoc.getPage(1).then((page) => {       const viewport = page.getViewport({ scale: 1 });       const canvas = document.createElement('canvas');       const context = canvas.getContext('2d');       canvas.height = viewport.height;       canvas.width = viewport.width;       pdfViewer.appendChild(canvas);       page.render({ canvasContext: context, viewport });     });   }); </script>`
+<div id="pdf-viewer" style="width: 100%; height: 600px;"></div> <script src="js/pdf.js"></script> <script>   const pdfViewer = document.getElementById('pdf-viewer');   const pdfUrl = 'https://brianbraatz.com/portfolio/EffectiveCPP.pdf';   pdfjsLib.getDocument(pdfUrl).promise.then((pdfDoc) => {     pdfDoc.getPage(1).then((page) => {       const viewport = page.getViewport({ scale: 1 });       const canvas = document.createElement('canvas');       const context = canvas.getContext('2d');       canvas.height = viewport.height;       canvas.width = viewport.width;       pdfViewer.appendChild(canvas);       page.render({ canvasContext: context, viewport });     });   }); </script>`
 
-***
+---
 
 ### 5. **Markdown Shortcodes**
 
@@ -125,7 +123,8 @@ markdown
 
 CopyEdit
 
-***
+
+---
 
 ### 6. **Third-Party Embedding Services**
 
@@ -137,12 +136,25 @@ CopyEdit
 
 `<iframe src="https://drive.google.com/file/d/FILE_ID/preview" width="100%" height="600px" style="border:none;"></iframe>`
 
-***
+---
 
 ### Recommendations:
 
-* **For simplicity**: Use `<embed>` or `<iframe>`.
-* **For enhanced UX**: Use PDF.js or a similar JavaScript library.
-* **For custom styling and reusability**: Create a shortcode.
+- **For simplicity**: Use `<embed>` or `<iframe>`.
+- **For enhanced UX**: Use PDF.js or a similar JavaScript library.
+- **For custom styling and reusability**: Create a shortcode.
 
 If you need help setting up any of these, let me know!
+-->
+
+I have used this many times over the years.
+
+Its a code quality talk based on the great book by Scott Meyers
+
+<embed src="https://brianbraatz.com/portfolio/EffectiveCPP.pdf" type="application/pdf" width="100%" height="600px">\`
+
+### <u>[View](https://brianbraatz.com/portfolio/EffectiveCPP.pdf)</u>
+
+[Effective C++ Amazon Link](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876/)
+
+![](/post/effective-cpp/ecpp.jpg)
