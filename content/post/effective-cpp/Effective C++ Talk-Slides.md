@@ -8,7 +8,7 @@ categories:
 tags:
   - CPP
 weight: 3
-lastmod: 2025-01-28T00:38:16.989Z
+lastmod: 2025-01-28T00:49:06.648Z
 ---
 Details
 
@@ -33,6 +33,10 @@ LINK format
 ```
 {{< embed-pdf url="https://www.brianbraatz.com/portfolio/EffectiveCPP.pdf" >}}
 ```
+{ {
+< 
+embed-pdf url="EffectiveCPP.pdf" >}
+}
 
 
 -->
@@ -41,8 +45,6 @@ LINK format
 
 ```
 ```
-
-{{< embed-pdf url="EffectiveCPP.pdf" >}}
 
 ## CODE PREVIEW
 
