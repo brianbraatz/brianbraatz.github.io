@@ -14,7 +14,7 @@ tags:
   - ObjectiveC
   - MobileApps
 weight: 9
-lastmod: 2025-01-29T14:09:02.726Z
+lastmod: 2025-01-29T14:10:08.702Z
 ---
 # Adaptive Video Bitrate Streaming
 
@@ -55,10 +55,10 @@ Aside from that , this was a fun time in my past, and I think we just bumped int
 
 ## IPhone Video Bitrate Megashares App Demo
 
-### Streaming to a tv via Apple TV from the Phone
-
-{{< video "Megashares Iphone App Streaming to a TV.mp4" >}}
-
 ### Video demo of me doing a demo IPhone App which adjusts video bitrate to match available bandwidth
 
 {{< video "Megashares Video Streaming Apple TV Demo.mp4" >}}
+
+### Streaming to a tv via Apple TV from the Phone
+
+{{< video "Megashares Iphone App Streaming to a TV.mp4" >}}
