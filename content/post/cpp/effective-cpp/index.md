@@ -10,7 +10,7 @@ tags:
   - Mentoring
   - Cross-Platform
 weight: 3
-lastmod: 2025-01-29T11:01:23.286Z
+lastmod: 2025-01-29T15:18:56.450Z
 ---
 <!--- 
 image embed
@@ -154,7 +154,7 @@ C# version [HERE](/post/cpp/effective-cpp/index.md)
 <embed src="https://brianbraatz.com/portfolio/EffectiveCPP.pdf" type="application/pdf" width="100%" height="600px">\`
 
 <div style="text-align: center;"> 
-<a href="https://brianbraatz.com/portfolio/EffectiveCPP.pdf" style="text-align:center; text-decoration: underline">VIEW</a><br>
+<a href="https://brianbraatz.com/portfolio/EffectiveCPP.pdf" style="text-align:center; text-decoration: underline">VIEW FULLPAGE</a><br>
 <a href="https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876/" style="text-align:center; text-decoration: underline">Effective C++ Amazon Link</a>
 </div>
 

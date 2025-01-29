@@ -12,7 +12,7 @@ tags:
   - Mentoring
 weight: 3
 published: 2001-01-01
-lastmod: 2025-01-29T11:02:23.643Z
+lastmod: 2025-01-29T15:18:58.463Z
 ---
 I have used this many times over the years.
 
@@ -23,7 +23,7 @@ C++ version [HERE](/post/cpp/effective-cpp/index.md)
 <embed src="https://brianbraatz.com/portfolio/Effective%20C%20Sharp%202017.pdf" type="application/pdf" width="100%" height="600px">\`
 
 <div style="text-align: center;"> 
-<a href="https://brianbraatz.com/portfolio/Effective%20C%20Sharp%202017.pdf" style="text-align:center; text-decoration: underline">VIEW</a><br>
+<a href="https://brianbraatz.com/portfolio/Effective%20C%20Sharp%202017.pdf" style="text-align:center; text-decoration: underline">VIEW FULLPAGE</a><br>
 
 </div>
 

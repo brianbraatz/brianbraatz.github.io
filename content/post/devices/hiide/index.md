@@ -1,6 +1,6 @@
 ---
 title: The HIIDE Device
-description: HIIDE Device Info- on an old project of Mine
+description: The HIIDE Device- on an old project of mine
 slug: hiide
 date: 2024-05-06
 image: hiide.png
@@ -13,50 +13,71 @@ tags:
   - Devices
   - WPF
   - EmbeddedSystems
+  - Cloud
 weight: 3
 published: 2001-01-01
 draft: false
-lastmod: 2025-01-29T14:54:07.907Z
+lastmod: 2025-01-29T15:50:00.565Z
 ---
-[HiideFrontPageWSJ.jpg](https://brianbraatz.com/portfolio/HIIDE/HiideFrontPageWSJ.jpg)
+## HIIDE -Wall Street Journal FRONT PAGE!
+
+FRONT PAGE!!!! :)
+
+### Snap of Printed WSJ
+
+![](https://brianbraatz.com/portfolio/HIIDE/HiideFrontPageWSJ.jpg)
+
+### WSJ Online Article on HIIDE
+
+![](/post/devices/hiide/wsjbig.png)
+
+https://www.wsj.com/articles/SB125910374196463061
+
+## HIIDE in Use in Iraq and Afghanistan
+
+<embed src="https://brianbraatz.com/portfolio/HIIDE/Images%20of%20HIIDE%20being%20Used%20in%20IRAQ%20and%20Afghanistan.pdf" type="application/pdf" width="100%" height="600px">\`
+
+<div style="text-align: center;"> 
+<a href="https://brianbraatz.com/portfolio/HIIDE/Images%20of%20HIIDE%20being%20Used%20in%20IRAQ%20and%20Afghanistan.pdf" style="text-align:center; text-decoration: underline">VIEW FULLPAGE</a><br>
+
+</div>
+
+## Wired Article on HIIDE and L1
+
+<embed src="https://brianbraatz.com/portfolio/HIIDE/Wired%20Article%20on%20HIIDE-Your%20Local%20Cops%20Now%20Use%20Iraqs%20Iris%20Scanners.pdf" type="application/pdf" width="100%" height="600px">\`
+
+<div style="text-align: center;"> 
+<a href="https://brianbraatz.com/portfolio/HIIDE/Wired%20Article%20on%20HIIDE-Your%20Local%20Cops%20Now%20Use%20Iraqs%20Iris%20Scanners.pdf" style="text-align:center; text-decoration: underline">VIEW FULLPAGE</a><br>
+
+</div>
+
+## HIIDE v5 Specs \ Brochure
 
 <embed src="https://brianbraatz.com/portfolio/HIIDE/HIIDE%99%205%20-%20Solutions%20-%20L-1%20Identity%20Solutions.pdf" type="application/pdf" width="100%" height="600px">\`
 
 <div style="text-align: center;"> 
-<a href="https://brianbraatz.com/portfolio/HIIDE/HIIDE%99%205%20-%20Solutions%20-%20L-1%20Identity%20Solutions.pdf" style="text-align:center; text-decoration: underline">VIEW</a><br>
+<a href="https://brianbraatz.com/portfolio/HIIDE/HIIDE%99%205%20-%20Solutions%20-%20L-1%20Identity%20Solutions.pdf" style="text-align:center; text-decoration: underline">VIEW FULLPAGE</a><br>
 
 </div>
-
-<!-- https://brianbraatz.com/portfolio/HIIDE/HIIDE%99%20Series%204%20-%20Solutions%20-%20L-1%20Identity%20Solutions.pdf -->
-
-<embed src="https://brianbraatz.com/portfolio/HIIDE/HIIDE%99%20Series%204%20-%20Solutions%20-%20L-1%20Identity%20Solutions.pdf" type="application/pdf" width="100%" height="600px">\`
-
-<div style="text-align: center;"> 
-<a href="https://brianbraatz.com/portfolio/HIIDE/HIIDE%99%20Series%204%20-%20Solutions%20-%20L-1%20Identity%20Solutions.pdf" style="text-align:center; text-decoration: underline">VIEW</a><br>
-
-</div>
-
-<!-- https://brianbraatz.com/portfolio/HIIDE/Images%20of%20HIIDE%20being%20Used%20in%20IRAQ%20and%20Afghanistan.pdf -->
 
 <!-- 
-<embed src="https://brianbraatz.com/portfolio/HIIDE/Images%20of%20HIIDE%20being%20Used%20in%20IRAQ%20and%20Afghanistan.pdf" type="application/pdf" width="100%" height="600px">`
+
+-
+ 
+
+<embed src="https://brianbraatz.com/portfolio/HIIDE/Specifications%20-%20Solutions%20-%20L-1%20Identity%20Solutions.pdf" type="application/pdf" width="100%" height="600px">`
 <div style="text-align: center;"> 
-<a href="https://brianbraatz.com/portfolio/HIIDE/Images%20of%20HIIDE%20being%20Used%20in%20IRAQ%20and%20Afghanistan.pdf" style="text-align:center; text-decoration: underline">VIEW</a><br>
-
-</div>
--->
-
-<embed src="https://brianbraatz.com/portfolio/HIIDE/Specifications%20-%20Solutions%20-%20L-1%20Identity%20Solutions.pdf" type="application/pdf" width="100%" height="600px">\`
-
-<div style="text-align: center;"> 
-<a href="https://brianbraatz.com/portfolio/HIIDE/Specifications%20-%20Solutions%20-%20L-1%20Identity%20Solutions.pdf" style="text-align:center; text-decoration: underline">VIEW</a><br>
+<a href="https://brianbraatz.com/portfolio/HIIDE/Specifications%20-%20Solutions%20-%20L-1%20Identity%20Solutions.pdf" style="text-align:center; text-decoration: underline">VIEW FULLPAGE</a><br>
 
 </div>
 <embed src="https://brianbraatz.com/portfolio/HIIDE/Wired%20Article%20on%20HIIDE-Your%20Local%20Cops%20Now%20Use%20Iraqs%20Iris%20Scanners.pdf" type="application/pdf" width="100%" height="600px">`
 <div style="text-align: center;"> 
-<a href="https://brianbraatz.com/portfolio/HIIDE/Wired%20Article%20on%20HIIDE-Your%20Local%20Cops%20Now%20Use%20Iraqs%20Iris%20Scanners.pdf" style="text-align:center; text-decoration: underline">VIEW</a><br>
+<a href="https://brianbraatz.com/portfolio/HIIDE/Wired%20Article%20on%20HIIDE-Your%20Local%20Cops%20Now%20Use%20Iraqs%20Iris%20Scanners.pdf" style="text-align:center; text-decoration: underline">VIEW FULLPAGE</a><br>
 
 </div>
+
+
+
 
 <!--
 C++ version [HERE](post/cpp/effective-cpp/index.md) 
