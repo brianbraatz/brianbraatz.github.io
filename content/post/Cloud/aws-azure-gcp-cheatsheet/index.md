@@ -4,8 +4,7 @@ description: Comparison charts for Amazon AWS, Microsoft Azure, Google Cloud
 slug: aws-azure-gcp-cheatsheet
 date: 2024-02-06
 image: cover.png
-categories:
-  - CSharp
+categories: []
 tags:
   - AWS
   - Azure
@@ -14,7 +13,7 @@ tags:
 weight: 3
 published: 2001-01-01
 draft: false
-lastmod: 2025-01-29T13:34:17.846Z
+lastmod: 2025-01-29T20:08:52.553Z
 ---
 ## **Amazon Web Services (AWS)** **Microsoft Azure** **Google Cloud Platform (GCP)** Cheat Sheet
 

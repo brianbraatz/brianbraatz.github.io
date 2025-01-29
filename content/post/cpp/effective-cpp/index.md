@@ -4,13 +4,14 @@ description: Slides for my talk on Effective C++
 slug: effective-cpp
 date: 2006-07-02
 image: EcppCover.png
-categories: []
+categories: 
 tags:
   - CPP
   - Mentoring
   - Cross-Platform
+  - DesignPatterns
 weight: 3
-lastmod: 2025-01-29T15:18:56.450Z
+lastmod: 2025-01-29T20:05:01.571Z
 ---
 <!--- 
 image embed

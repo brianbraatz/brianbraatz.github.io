@@ -14,10 +14,13 @@ tags:
   - Java
   - DesignPatterns
   - VisitorPattern
+  - TemplateProgramming
 weight: 3
 draft: false
-lastmod: 2025-01-29T13:21:26.357Z
+lastmod: 2025-01-29T20:10:49.340Z
 ---
+[Template Metaprogramming-Wikipedia](https://en.wikipedia.org/wiki/Template_metaprogramming)
+
 # Whats a bag?
 
 ## Bag collections in some popular languages:

@@ -4,15 +4,15 @@ description: Slides for my talk on Effective C#
 slug: effective-csharp-talk
 date: 2004-05-06
 image: ecsharpcover.png
-categories:
-  - CSharp
+categories: []
 tags:
   - CSharp
   - DotNet
   - Mentoring
+  - DesignPatterns
 weight: 3
 published: 2001-01-01
-lastmod: 2025-01-29T15:18:58.463Z
+lastmod: 2025-01-29T20:09:03.122Z
 ---
 I have used this many times over the years.
 

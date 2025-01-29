@@ -1,6 +1,6 @@
 ---
 title: Prototype Games- Unity3D - Cloud - Multiplayer
-description: Prototype Unity 3D Games and other musings...
+description: Prototype C# Unity 3D Games and other musings...
 slug: unity-proto-games
 date: 2004-05-06
 image: mangriawars.png
@@ -15,15 +15,23 @@ tags:
 weight: 3
 published: 2001-01-01
 draft: false
-lastmod: 2025-01-29T16:26:18.792Z
+lastmod: 2025-01-29T20:15:07.597Z
 ---
 # Unity Game Prototypes
 
-Even had Multi-player working, and an Uber Clone that worked over Azure Cloud
+Some Unity Prototypes I built over a few weeks without sleep for a crazy business venture..
 
-At little bit more of the story is in the PDF below
+More on that is in the PDF at the bottom of the page :)
+
+These are prototypes- but they are functional .
+
+I even had Multi-player working on BW and Mangriawars,
+
+AND the Uber Clone was fully functional and scalable (built on top of  Azure Cloud)
 
 here are some screenshots
+
+a few more details in the PDF
 
 ## Mangria Wars!
 

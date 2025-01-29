@@ -4,22 +4,23 @@ description: ISS Flying Explorer- Unity 3D - C#
 slug: unity3d-iss-explorer
 date: 2012-03-06 00:00:00+0000
 image: unityiiscover.png
-categories:
-  - SQL
+categories: []
 tags:
   - DotNet
   - CSharp
   - Cross-Platform
   - Unity3D
 weight: 5
-lastmod: 2025-01-28T11:45:07.020Z
+lastmod: 2025-01-29T20:09:16.233Z
 ---
-CS
+[International Space Station-Wikipedia](https://en.wikipedia.org/wiki/International_Space_Station)
 
-Details
+# Unity 3D ISS Explorer
 
-# Unity 3D IIS Explorer
+did this a few years ago as a proof of concept for a project i was proposing.
 
-did this a few years ago as a proof of concept
+Unity has the ablity to compile time target \ publish to the web (using [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)) tricks), unfortunately the models end up blowing up the memory on this project..
+
+I have a todo to go back to the code and tweak it so I could run it in a web player someday...
 
 {{< video "ISSExplorerDemoUnity3D.mp4" >}}

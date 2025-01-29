@@ -1,10 +1,10 @@
 ---
 title: The HIIDE Device
-description: The HIIDE Device- on an old project of mine
+description: The HIIDE Device- Previous project of mine
 slug: hiide
 date: 2024-05-06
 image: hiide.png
-categories: []
+categories: 
 tags:
   - CSharp
   - CPP
@@ -16,17 +16,20 @@ tags:
 weight: 3
 published: 2001-01-01
 draft: false
-lastmod: 2025-01-29T15:50:49.285Z
+lastmod: 2025-01-29T20:08:01.117Z
 ---
+We used to like to say "You can RUN , but you cannot HIIDE!".\
+Which is proof that software engineers are FUNNY.. hahaha
+
 ## HIIDE -Wall Street Journal FRONT PAGE!
 
-FRONT PAGE!!!! :)
+\*\*WE MADE THE FRONT PAGE OF WSJ!!!! :) \*\*
 
-### Snap of Printed WSJ
+### Photo of Printed WSJ Paper
 
 ![](https://brianbraatz.com/portfolio/HIIDE/HiideFrontPageWSJ.jpg)
 
-### WSJ Online Article on HIIDE
+### WSJ Online Article on HIIDE (Same Article)
 
 ![](/post/devices/hiide/wsjbig.png)
 
