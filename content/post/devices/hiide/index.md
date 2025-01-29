@@ -4,8 +4,7 @@ description: The HIIDE Device- on an old project of mine
 slug: hiide
 date: 2024-05-06
 image: hiide.png
-categories:
-  - CSharp
+categories: []
 tags:
   - CSharp
   - CPP
@@ -17,7 +16,7 @@ tags:
 weight: 3
 published: 2001-01-01
 draft: false
-lastmod: 2025-01-29T15:50:00.565Z
+lastmod: 2025-01-29T15:50:49.285Z
 ---
 ## HIIDE -Wall Street Journal FRONT PAGE!
 
