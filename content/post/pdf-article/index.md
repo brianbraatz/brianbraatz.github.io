@@ -10,8 +10,8 @@ tags:
   - BASICINSTALLEDCOPIED
 weight: 3
 published: 2001-01-01
-draft: false
-lastmod: 2025-01-29T11:58:17.611Z
+draft: true
+lastmod: 2025-01-29T12:02:10.601Z
 ---
 Test link [HERE](/post/cpp/effective-cpp/index.md)
 

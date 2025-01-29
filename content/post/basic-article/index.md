@@ -8,8 +8,8 @@ categories:
 tags:
   - BASICINSTALLEDCOPIED
 weight: 3
-draft: false
-lastmod: 2025-01-29T11:58:12.734Z
+draft: true
+lastmod: 2025-01-29T12:02:17.697Z
 ---
 Details
 
