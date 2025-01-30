@@ -36,9 +36,11 @@ tags:
   - ProcessingLanguage
   - DesignPatterns
   - BubbleSort
+  - Erlang
+  - DesignByContract
 weight: 1
 draft: false
-lastmod: 2025-01-30T13:37:46.141Z
+lastmod: 2025-01-30T15:45:20.533Z
 ---
 ## BUBBBLE BATTLE!
 
@@ -46,11 +48,26 @@ A Bubble Sort is a very simple sorting algorithm that repeatedly steps through t
 
 And you just keep repeating until you dont find anymore swaps. Thats the algorithm.
 
+> NOTE - you have no idea how long it will take to finish - since it keeps looping over the same elements until its done
+
+I found a great visualization of a bubblesort here:
+
+https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/
+
+Pretty cool site BTW!\
+Click through the arrows and you can watch the algorithm on each iteration .
+
+![](/post/faceoff-langs/basic-article/Pasted%20image%2020250130054334.png)
+
+SO.. on with the show:
+
 For fun, here is basic bubble sort implemented in several languages.
 
 Its kind of interesting, at least in this case, to compare the languages
 
 ## Python Bubble Sort
+
+[Python](https://tinyurl.com/2kp5knsn)
 
 ```python
 def bubble_sort(arr):
@@ -72,6 +89,8 @@ print("Sorted array is:", sorted_arr)
 ```
 
 ## C Sharp
+
+https://en.wikipedia.org/wiki/C\_Sharp\_(programming\_language)
 
 ```c#
 using System;
@@ -115,6 +134,8 @@ class Program
 
 ## Go Language
 
+https://en.wikipedia.org/wiki/Go\_(programming\_language)
+
 ```go
 package main
 
@@ -146,6 +167,18 @@ func main() {
 ```
 
 ## Javascript
+
+https://en.wikipedia.org/wiki/JavaScript
+
+[Why is JavaScript called JavaScript, since it has nothing to do with Java?](https://stackoverflow.com/questions/2018731/why-is-javascript-called-javascript-since-it-has-nothing-to-do-with-java)\
+"""\
+From an [interview](http://www.infoworld.com/d/developer-world/javascript-creator-ponders-past-future-704) made to its creator [Brendan Eich](http://en.wikipedia.org/wiki/Brendan_Eich):
+
+> **InfoWorld:** As I understand it, JavaScript started out as Mocha, then became LiveScript and then became JavaScript when Netscape and Sun got together. But it actually has nothing to do with Java or not much to do with it, correct?
+>
+> **Eich:** That’s right. It was all within six months from May till December (1995) that it was Mocha and then LiveScript. And then in early December, Netscape and **Sun** did a license agreement and it became JavaScript. And the idea was to make it a complementary scripting language to go with Java, with the compiled language.
+
+""""
 
 ```javascript
 function bubbleSort(arr) {
@@ -204,6 +237,8 @@ public class BubbleSort {
 
 ## Objective-C
 
+https://en.wikipedia.org/wiki/Objective-C
+
 ```c++
 #import <Foundation/Foundation.h>
 
@@ -234,6 +269,8 @@ int main(int argc, const char * argv[]) {
 
 ## Swift
 
+https://en.wikipedia.org/wiki/Swift\_(programming\_language)
+
 ```swift
 func bubbleSort(_ arr: inout [Int]) {
     let n = arr.count
@@ -255,6 +292,8 @@ print("Sorted array is: \(arr)")
 ```
 
 ## Rust
+
+https://en.wikipedia.org/wiki/Rust\_(programming\_language)
 
 ```rust
 fn bubble_sort(arr: &mut [i32]) {
@@ -282,6 +321,10 @@ fn main() {
 
 ## Perl
 
+https://en.wikipedia.org/wiki/Perl
+
+An old friend and coworker used to say to me "Perl is the only language where its much easier to just re-write some code, vs trying to READ it.. " hahaha
+
 ```perl
 sub bubble_sort {
     my ($arr) = @_;
@@ -304,6 +347,34 @@ print "Sorted array is: @arr\n";
 ```
 
 ## 8051 Assembly language:
+
+![](/post/faceoff-langs/basic-article/Pasted%20image%2020250130055411.png)
+
+https://www.campuscomponent.com/blogs/post/getting-started-with-8051-microcontroller
+
+### From above site
+
+""""
+
+## The 8051 Microcontroller Features:
+
+* 8-bit CPU
+
+* 4 KB ROM
+
+* 128 bytes RAM
+
+* 32 I/O pins
+
+* Two 16-bit timers
+
+* Full duplex UART for serial communication
+
+## Understanding 8051 Microcontroller Architecture
+
+![Getting Started with 8051 Microcontroller](https://lh7-us.googleusercontent.com/1twocL7CBTRdIFEe-48IJ9VrL08_oVkFMZARw98-eF0oBtjjpkwrJvwYYPBDxP-yJw7oJ1DAhXhIHAQVj0XT6N9cvZyeqdaDiSUS_S9T9C8srLBrg5An8Ro6W8bJLOM6N4cgl7SDBdEkGRRUrYEyBA)
+
+""""
 
 Back - in the 1990s I did a lot of projects with the 8051.
 
@@ -362,6 +433,7 @@ END START
 
 ## COBOL
 
+https://en.wikipedia.org/wiki/COBOL\
 My farther-in-law spent his whole career writing COBOL..
 
 its interesting..
@@ -410,8 +482,41 @@ STOP RUN.
 
 ## Foxpro
 
+https://en.wikipedia.org/wiki/FoxPro\
+OH I miss this language.... in a way..
+
+In the early 1990s I had a job doing component level repair of 386 and 486 motherboards.. I kind of "made my own" software job, by offering to spend my weekends coding a database system to run the repair department on.
+
+The language I did this in was foxpro!
+
+Good times\
+![](/post/faceoff-langs/basic-article/Pasted%20image%2020250130054848.png)
+
+This was DOS btw... AND it was multi-user (!!!)
+
+I really loved the blue color.. It just made me want to make some coffee and write some code..
+
+Later Foxpro came out with a newer version that supported SQL queries..
+
+At my first look of that- I determined this was dumb (my young brain did not appreciate the set theory value of queries). SQL would never take on !
+
+Also- to be fair- the SQL query engine in that first version was very slow..
+
+It was much more fun to write a foxpro loop and loop over the table.. and the print out the lines to the report , as you found them ..
+
+good times..
+
+in anycase- back to the show
+
+below is a Foxpro bubble sort.\
+It has a BASIC feel to it.
+
+for the those not familiar, Foxpro is based on the dbase language
+
+[Dbase](https://en.wikipedia.org/wiki/DBase)
+
 ```cobol
-* BubbleSort.prg
+* Foxpro BubbleSort.prg
 
 PUBLIC ARRAY arr(7)
 arr(1) = 64
@@ -446,6 +551,8 @@ ENDFOR
 ```
 
 ## SQL Bubblesort
+
+https://en.wikipedia.org/wiki/SQL
 
 ```sql
 CREATE PROCEDURE BubbleSort
@@ -490,9 +597,26 @@ BEGIN
 END
 ```
 
-Kinda weird- you could argue a few other ways to do it :)
+Yes- this is stupid... An sql engine natively has much better ways to sort things :)
 
 ## Forth
+
+[Forth (programming language)](https://en.wikipedia.org/wiki/Forth_\(programming_language\))
+
+I was kind of geeky about this when I was younger\
+its a stack based language..
+
+Later in life I met a friend who was hired to work on an Accounting system written in forth..\
+the good and bad of it is this- with Forth- you are constantly making new\
+"words" and then more words on top of those and so on and so on..
+
+so the application code is "readable" to a human..
+
+the complexity is hidden
+
+but the problem is - all these forth programs build up all their own words for their app.. and they ar all very different..
+
+If you hire a forth programmer to work on your system- they will have to read all the code in the system to understand it..
 
 ```forth
 : SWAP ( n1 n2 -- n1 n2 )
@@ -528,6 +652,26 @@ ARRAY 7 BUBBLE-SORT
 ```
 
 ## Eiffel
+
+[Eiffel (programming language)](https://en.wikipedia.org/wiki/Eiffel_\(programming_language\)))
+
+I dig this language
+
+back in the 2000's I went to ALOT of conferences..
+
+I was lucky to attend an all day workshop on the Eiffel language.\
+I got to meet the very interesting Bertrand Meyer and have a lunch with him.
+
+from the wiki\
+""""""
+
+The design of the language is closely connected with the Eiffel programming method. Both are based on a set of principles, including [design by contract](https://en.wikipedia.org/wiki/Design_by_contract "Design by contract"), [command–query separation](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation "Command–query separation"), the [uniform-access principle](https://en.wikipedia.org/wiki/Uniform_access_principle "Uniform access principle"), the [single-choice principle](https://en.wikipedia.org/wiki/Single_choice_principle "Single choice principle"), the [open–closed principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle "Open–closed principle"), and [option–operand separation](https://en.wikipedia.org/wiki/Option%E2%80%93operand_separation "Option–operand separation").
+
+"""""
+
+As a younger person , I feel in love with Design by Contract as a pattern. I still dig it, but at the time it blew my mind..
+
+Also at the time- I was working at a company where we were climbing through 1,000,000 plus lines of C++ that didnt have very good separation.. so the Eiffel language struck a chord with me
 
 ```python
 class
@@ -584,6 +728,24 @@ end
 
 ## C++ Template Metaprogramming
 
+[C++ Template Metaprogramming ](https://en.wikipedia.org/wiki/Template_\(C%2B%2B\))
+
+God I fell in love with this stuff.. It was my geek out thing to do on the weekends..
+
+see [index](/post/cpp/cpp-bag/index.md)\
+and [index](/post/cpp/cpp-profiler-tmp/index.md)
+
+C++ Templates- it was discovered after the fact, are turing complete!\
+It wasnt intended this way.. but C++ nerds went nuts with this
+
+here is a god paper on C++ and Turing complete\
+https://rtraba.com/wp-content/uploads/2015/05/cppturing.pdf
+
+https://en.wikipedia.org/wiki/Turing\_completeness
+
+This lead my interesting into functional programming languages\
+https://en.wikipedia.org/wiki/Functional\_programming
+
 ```c++
 #include <iostream>
 #include <array>
@@ -625,7 +787,53 @@ int main() {
 }
 ```
 
+check out the F# implementation.\
+it has a similiar feel to the C++ template code- because they are both functional languages
+
+## F# Language
+
+[F# Language](https://en.wikipedia.org/wiki/F_Sharp_\(programming_language\))
+
+```F#
+let bubbleSort (arr: int[]) =
+    let swap i j =
+        let temp = arr.[i]
+        arr.[i] <- arr.[j]
+        arr.[j] <- temp
+
+    let rec sortPass n =
+        if n = 1 then
+            arr
+        else
+            for i in 0 .. n - 2 do
+                if arr.[i] > arr.[i + 1] then
+                    swap i (i + 1)
+            sortPass (n - 1)
+
+    sortPass (Array.length arr)
+
+let arrayToSort = [|5; 3; 8; 4; 2|]
+let sortedArray = bubbleSort arrayToSort
+printfn "Sorted Array: %A" sortedArray
+```
+
+<!-- This F# implementation of bubble sort defines a `bubbleSort` function that takes an array of integers and sorts it in ascending order. Here's a breakdown of the code:
+
+- `swap i j`**:** A helper function to swap the elements at indices `i` and `j` in the array.
+    
+- `sortPass n`**:** A recursive function that performs one pass of the bubble sort algorithm. It iterates through the array and swaps adjacent elements if they are in the wrong order, then recursively calls itself with `n-1` until the array is sorted.
+    
+- `bubbleSort (arr: int[])`**:** The main function that sorts the array by calling `sortPass` with the length of the array.
+    
+
+You can use this function to sort an array of integers as shown in the example. If you have any more questions or need further assistance, feel free to ask!
+-->
+
 ## AutoHotkey
+
+https://en.wikipedia.org/wiki/AutoHotkey
+
+Great scripting language for Windows automation
 
 ```python
 arr := [64, 34, 25, 12, 22, 11, 90]
@@ -650,6 +858,8 @@ MsgBox, Sorted array is: %arr%
 ```
 
 ## Visual Basic
+
+[Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic_\(classic\))
 
 ```vb
 Module BubbleSort
@@ -721,6 +931,7 @@ int main() {
 
 ## GWBASIC
 
+https://en.wikipedia.org/wiki/GW-BASIC\
 From the good old days of dos.
 
 always number your lines in 10's .. so you can add more in the middle later haha....
@@ -755,6 +966,8 @@ always number your lines in 10's .. so you can add more in the middle later haha
 
 ## Apple II BASIC
 
+https://en.wikipedia.org/wiki/Applesoft\_BASIC
+
 ```vb
 10 DIM ARR(7)
 20 DATA 64, 34, 25, 12, 22, 11, 90
@@ -782,6 +995,12 @@ always number your lines in 10's .. so you can add more in the middle later haha
 
 ## Commodore 64 BASIC
 
+[Commodore 64 BASIC](https://en.wikipedia.org/wiki/Commodore_BASIC)
+
+NOTE: Apple and C64 look similar- hahah - probably because basic was liscenced by Microsoft
+
+Apple's first basic was Integer Basic - Written by Woz I believe
+
 ```vb
 10 DIM ARR(7)
 20 DATA 64, 34, 25, 12, 22, 11, 90
@@ -808,6 +1027,15 @@ always number your lines in 10's .. so you can add more in the middle later haha
 ```
 
 ## DOS Batch Scripting
+
+https://en.wikipedia.org/wiki/DOS\
+https://en.wikipedia.org/wiki/Batch\_file
+
+Ahh the good old days..
+
+who needs fancy powershell?
+
+(haha actually BAT programming will drive you nuts- its very very hack- but it worked )
 
 ```shell
 @echo off
@@ -853,6 +1081,9 @@ endlocal
 
 ## Powershell
 
+https://en.wikipedia.org/wiki/PowerShell\
+Compared to BAT files- Looks like a normal language eh?
+
 ```powershell
 # Bubble Sort in PowerShell
 
@@ -879,6 +1110,10 @@ $arr
 ```
 
 ## Bash
+
+[Bash](https://en.wikipedia.org/wiki/Bash_\(Unix_shell\))
+
+Bash is macho
 
 ```bash
 #!/bin/bash
@@ -913,6 +1148,21 @@ echo "Sorted array is: ${arr[@]}"
 ```
 
 ## Visual Basic Script
+
+https://en.wikipedia.org/wiki/VBScript\
+20+ years ago, most of my automation scripting was written in VB Script , with usually bat files on top of them .. .
+
+you COULD actually spawn visual studio and debug these things..
+
+it was good..
+
+and then after Microsoft locked down the security of the OS- VBScript was too powerful, and so it was much less easy to just run a vbscript
+
+a common trick was hackers would email an unsuspecting person a VB Script- and then they run that - and now the bad guys have full access to your system ..
+
+so for your enjoyment- VB Script Bubblesort:
+
+NOTE VB script compared to VB- has less formal types-they are compatible but not 100%
 
 ```vb
 ' BubbleSort.vbs
@@ -952,7 +1202,11 @@ For i = 0 To n - 1
 Next
 ```
 
-## TCL Scripting
+## TCL (**Tool Command Language**) Scripting
+
+https://en.wikipedia.org/wiki/Tcl\
+A good friend became a TCL geek- I never got 100% into the koolaide- but I still find it interesting..\
+This was an early system people would put into C and C++ programs to expose parts of the system to be scriptable in TCL.
 
 ```tcl
 proc bubble_sort {arr} {
@@ -983,9 +1237,12 @@ set sorted_arr [bubble_sort $arr]
 puts "Sorted array is: $sorted_arr"
 ```
 
+<!-- 
 ## Processing.org Language
 
-```javascript
+Gee that looks alot like javascript ! :) 
+
+~~~javascript
 int[] arr = {64, 34, 25, 12, 22, 11, 90};
 
 void setup() {
@@ -1013,4 +1270,66 @@ void bubbleSort(int[] arr) {
   }
 }
 
+~~~
+-->
+
+## Erlang
+
+[Erland](https://en.wikipedia.org/wiki/Erlang_\(programming_language\))
+
+```erlang
+-module(bubble_sort).
+-export([sort/1]).
+
+sort(List) ->
+    bubble_sort(List, []).
+
+bubble_sort([], Sorted) ->
+    Sorted;
+bubble_sort([H|T], Sorted) ->
+    bubble_sort_pass(T, H, [], Sorted).
+
+bubble_sort_pass([], Max, L, Sorted) ->
+    bubble_sort(L, [Max|Sorted]);
+bubble_sort_pass([H|T], Max, L, Sorted) when H > Max ->
+    bubble_sort_pass(T, H, [Max|L], Sorted);
+bubble_sort_pass([H|T], Max, L, Sorted) ->
+    bubble_sort_pass(T, Max, [H|L], Sorted).
 ```
+
+Call this module by calling the `sort` function with a list of numbers that you want to sort. For example:
+
+```erlang
+c(bubble_sort).
+{ok,bubble_sort}
+
+bubble_sort:sort([5, 3, 8, 4, 2]).
+[2,3,4,5,8]
+```
+
+Note the "c()" business is "compile" in Erlangs interactive shell.
+
+Erlang came out of Ericsson..
+
+Its designed to be very stable - to run phone systems
+
+### from the wikipedia link
+
+""""\
+Erlang applications are built of very lightweight Erlang processes in the Erlang runtime system. Erlang processes can be seen as "living" objects ([object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming "Object-oriented programming")), with data encapsulation and [message passing](https://en.wikipedia.org/wiki/Message_passing "Message passing"), but capable of changing behavior during runtime. The Erlang runtime system provides strict [process isolation](https://en.wikipedia.org/wiki/Process_isolation "Process isolation") between Erlang processes (this includes data and garbage collection, separated individually by each Erlang process) and transparent communication between processes (see [Location transparency](https://en.wikipedia.org/wiki/Location_transparency "Location transparency")) on different Erlang nodes (on different hosts).
+
+Joe Armstrong, co-inventor of Erlang, summarized the principles of processes in his [PhD](https://en.wikipedia.org/wiki/Doctor_of_Philosophy "Doctor of Philosophy") [thesis](https://en.wikipedia.org/wiki/Thesis "Thesis"):[\[18\]](https://en.wikipedia.org/wiki/Erlang_\(programming_language\)#cite_note-18)
+
+* Everything is a process.
+* Processes are strongly isolated.
+* Process creation and destruction is a lightweight operation.
+* Message passing is the only way for processes to interact.
+* Processes have unique names.
+* If you know the name of a process you can send it a message.
+* Processes share no resources.
+* Error handling is non-local.
+* Processes do what they are supposed to do or fail.
+
+Joe Armstrong remarked in an interview with Rackspace in 2013: "If [Java](https://en.wikipedia.org/wiki/Java_\(programming_language\) "Java (programming language)") is '[write once, run anywhere](https://en.wikipedia.org/wiki/Write_once,_run_anywhere "Write once, run anywhere")', then Erlang is 'write once, run forever'."[\[19\]](https://en.wikipedia.org/wiki/Erlang_\(programming_language\)#cite_note-19)
+
+"""

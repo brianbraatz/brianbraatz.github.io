@@ -3,14 +3,14 @@ title: Python Standard Library Cheatsheet
 description: Python Standard Library Cheatsheet
 slug: python-stdlib-cheatsheet
 date: 2014-05-06
-image: post/Articles/IMAGES/5.jpg
+image: post/Articles/IMAGES/10.jpg
 categories: 
 tags:
   - Cheatsheet
   - Python-StandardLibrary
 weight: 30
 draft: false
-lastmod: 2025-01-30T12:58:12.924Z
+lastmod: 2025-01-30T15:35:38.341Z
 ---
 ## Python Standard Library Overview
 
