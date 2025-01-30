@@ -15,7 +15,7 @@ hasCJKLanguage = false
 disqusShortname = "hugo-theme-stack"
 
 [pagination]
-pagerSize = 5
+pagerSize = 25
 
 # [params]
 #  themeMode = "light"  # Explicitly set the theme to light mode

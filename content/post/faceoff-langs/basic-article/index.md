@@ -2,7 +2,7 @@
 title: Bubble Sort BATTLE!
 description: Bubble sort algorithm implemented in multiple languages
 slug: bubblesort-battle
-date: 2024-05-11
+date: 2024-09-22
 image: bubblewarcover.png
 categories: 
 tags:
@@ -38,7 +38,7 @@ tags:
   - BubbleSort
 weight: 1
 draft: false
-lastmod: 2025-01-29T21:33:00.665Z
+lastmod: 2025-01-29T21:33:51.632Z
 ---
 ## BUBBBLE BATTLE!
 
