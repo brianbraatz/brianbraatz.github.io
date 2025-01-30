@@ -1,6 +1,6 @@
 ---
 title: Bubble Sort BATTLE!
-description: Bubble sort algorithm implemented in multiple languages
+description: Bubble sort comparison -Python, C#, Javascript, Perl.. and more
 slug: bubblesort-battle
 date: 2024-09-22
 image: bubblewarcover.png
@@ -38,7 +38,7 @@ tags:
   - BubbleSort
 weight: 1
 draft: false
-lastmod: 2025-01-29T21:33:51.632Z
+lastmod: 2025-01-30T13:37:46.141Z
 ---
 ## BUBBBLE BATTLE!
 
