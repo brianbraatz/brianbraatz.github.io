@@ -3,7 +3,7 @@ title: DockerFile Cheatsheet
 description: 
 slug: docker-file-cheatsheet
 date: 2023-02-06
-image: post/Articles/IMAGES/19.jpg
+image: post/Articles/IMAGES/docker1.jpg
 categories: 
 tags:
   - Cheatsheet
@@ -12,7 +12,7 @@ tags:
   - WebDevelopment
 weight: 10
 draft: false
-lastmod: 2025-01-30T15:30:45.264Z
+lastmod: 2025-01-31T00:22:01.738Z
 ---
 ### Dockerfile Cheatsheet
 

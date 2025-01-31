@@ -3,7 +3,7 @@ title: Effective C# Talk-Slides
 description: Slides for my talk on Effective C#
 slug: effective-csharp-talk
 date: 2004-05-06
-image: ecsharpcover.png
+image: post/Articles/IMAGES/csharpblue.png
 categories: 
 tags:
   - CSharp
@@ -12,9 +12,11 @@ tags:
   - DesignPatterns
 weight: 2
 published: 2001-01-01
-lastmod: 2025-01-30T15:40:17.626Z
+lastmod: 2025-01-31T00:02:57.864Z
 ---
-I have used this many times over the years.
+<!-- ecsharpcover.png --> 
+
+I have used this talk many times over the years.
 
 I have found that when you go over this material in a lunch and learn type of setting, it inspires alot of good conversation about the general topic of writing solid code.
 

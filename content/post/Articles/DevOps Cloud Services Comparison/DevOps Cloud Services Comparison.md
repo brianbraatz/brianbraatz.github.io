@@ -3,7 +3,7 @@ title: DevOps Cloud Services Comparison
 description: DevOps from Azure,Amazon Web Services (AWS) -Google Cloud Platform (GCP)
 slug: React-file-cheatsheet
 date: 2014-05-06
-image: post/Articles/IMAGES/7.jpg
+image: post/Articles/IMAGES/16.jpg
 categories: 
 tags:
   - Cheatsheet
@@ -12,9 +12,9 @@ tags:
   - GoogleCloud
   - DevOps
   - WebDevelopment
-weight: 4
+weight: 6
 draft: false
-lastmod: 2025-01-30T15:37:12.258Z
+lastmod: 2025-01-31T00:14:31.832Z
 ---
 see also [Amazon AWS, Microsoft Azure, Google Cloud Cheat Sheet](/post/Cloud/aws-azure-gcp-cheatsheet/index.md)
 

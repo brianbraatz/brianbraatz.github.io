@@ -1,7 +1,7 @@
 ---
 title: React Cheatsheet
 description: 
-slug: React-file-cheatsheet
+slug: React-file-cheatsheet-thing
 date: 2014-05-06
 image: post/Articles/IMAGES/12.jpg
 categories: 
@@ -11,9 +11,9 @@ tags:
   - Typescript
   - Javascript
   - WebDevelopment
-weight: 10
+weight: 5
 draft: false
-lastmod: 2025-01-30T15:35:47.819Z
+lastmod: 2025-01-31T00:12:41.968Z
 ---
 ## React Cheatsheet
 
