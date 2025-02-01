@@ -13,9 +13,9 @@ tags:
   - MicroServices
 weight: 10
 draft: false
-lastmod: 2025-01-31T21:45:32.954Z
+lastmod: 2025-02-01T14:07:14.925Z
 ---
-# Building Microservices with Go: A Simple Guide
+# Microservices with Go
 
 Microservices architecture is a pattern where a system is broken down into smaller, independently deployable services.
 
@@ -311,7 +311,11 @@ docker build -t order-service ./order-service
 docker run -p 8080:8080 user-service
 docker run -p 8081:8081 order-service
 
-~~
+```
+
+**NOW GO WRITE COME CODE!!!!!!!!!!!!!!!!!!!!**
+
+:)
 
 <!--
 
@@ -474,5 +478,3 @@ CopyEdit
 In this guide, we created two simple Go-based microservices: `user-service` and `order-service`. These services communicate with each other over HTTP, and we used Docker to containerize them. This setup is a basic example, but you can extend it by adding more services, using a service discovery mechanism, and incorporating other tools such as Kubernetes for orchestration.
 
 This should give you a good starting point for building Go-based microservices!-->
-
-```

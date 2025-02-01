@@ -10,9 +10,10 @@ tags:
   - Angular
   - Typescript
   - WebDevelopment
+  - React
 weight: 10
 draft: false
-lastmod: 2025-01-31T17:35:24.485Z
+lastmod: 2025-01-31T22:27:24.119Z
 ---
 ### Angular Cheatsheet
 

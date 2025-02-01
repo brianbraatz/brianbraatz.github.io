@@ -10,9 +10,10 @@ tags:
   - DotNet
   - Mentoring
   - DesignPatterns
+  - WPF
 weight: 2
 published: 2001-01-01
-lastmod: 2025-01-31T00:02:57.864Z
+lastmod: 2025-01-31T22:28:18.876Z
 ---
 <!-- ecsharpcover.png --> 
 
