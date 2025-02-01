@@ -3,18 +3,22 @@ title: Java in a Nutshell
 slug: java-in-a-nutshell
 date: 2013-12-15
 image: https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg
-categories: []
+categories: 
 tags:
   - Java
   - Programming
-  - Software Development
-  - Web Development
+  - Software
+  - Web
+  - Development
   - Concurrency
   - GUI
-  - Unit Testing
+  - Unit
+  - Testing
+  - WebDevelopment
+  - JUnit
 draft: false
 weight: 30
-lastmod: 2025-02-01T17:40:43.281Z
+lastmod: 2025-02-01T18:49:56.026Z
 ---
 ## History and Motivation
 
@@ -28,7 +32,7 @@ Java was designed with the mantra "Write Once, Run Anywhere" (WORA), aiming for 
 
 It quickly gained popularity, especially with the rise of the internet, and became a staple in software development. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Java_%28programming_language%29?utm_source=chatgpt.com))
 
-## Peronal Memories...
+## Personal Memories...
 
 I can attest to the popularity of Java. When it was becoming fashionable in the mid 1990s, I was a C++ nerd.
 
@@ -40,7 +44,7 @@ BUTT.. (get it?)... this blog needs to remain kid friendly.. so we move on ..
 
 If you were writing software around this time. Java was "the thing" ...
 
-My sister im law (who is not an engineer) , even asked me about it..
+My sister in law (who is not an engineer) , even asked me about it..
 
 It was crazy popular and crazy slow.. but the zealouts didnt care...
 
@@ -50,9 +54,9 @@ I dont hate it anymore. and after working on several larger Java projects I have
 
 C++ organically grew up.. so things like the design of the libraries can be all over the map and not always consistent..
 
-A nice thing about Java (and one could aruge the things that came after ).. is the consistency of patterns and design in the commoni libaries..
+A nice thing about Java (and one could argue the things that came after ).. is the consistency of patterns and design in the common libraries..
 
-These days I tend to prefer C#, but without Java - we would all still be coding things in perl or something
+These days I tend to prefer C#, but without Java - we would all still be coding things in DOS Bat files or something.....
 
 ## Common Operations in Java
 
@@ -161,7 +165,7 @@ More examples on building web services with Java:
 
 ## Concurrency Support
 
-Java has built-in support for multithreading, allowing you to perform multiple tasks simultaneously (which is like totally multi-threadsing...).
+Java has built-in support for multithreading, allowing you to perform multiple tasks simultaneously (which is like totally multi-threading...).
 
 You can create threads by extending the `Thread` class or implementing the `Runnable` interface:
 

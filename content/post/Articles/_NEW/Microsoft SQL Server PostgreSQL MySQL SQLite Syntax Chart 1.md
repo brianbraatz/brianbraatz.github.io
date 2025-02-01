@@ -1,5 +1,5 @@
 ---
-title: " Microsoft SQL Server PostgreSQL MySQL SQLite Syntax Chart"
+title: " Microsoft SQL Server \\ PostgreSQL \\ MySQL \\ SQLite -Syntax Chart"
 description: Comparison of the SQL DIalects for MSSQL, Postgres, MySql SQLLite
 slug: mssql-postgres-mysql-sqllite-dialect
 date: 2023-04-06
@@ -11,11 +11,12 @@ tags:
   - PostgresSql
   - MySql
   - SqlLite
+  - MSSQL
 weight: 30
 draft: false
-lastmod: 2025-01-31T14:36:24.814Z
+lastmod: 2025-02-01T19:12:08.550Z
 ---
-Dialect Chart -**Microsoft SQL Server (MSSQL)**, **PostgreSQL**, **MySQL**, and **SQLite**
+Dialect Chart -Microsoft SQL Server \ PostgreSQL \ MySQL \ SQLite -Syntax Chart
 
 | Operation                     | Microsoft SQL Server (MSSQL)    | PostgreSQL                                   | MySQL                                                   | SQLite                                               |
 | ----------------------------- | ------------------------------- | -------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------- |

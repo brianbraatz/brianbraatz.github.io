@@ -3,7 +3,7 @@ title: Go In A Nutshell
 description: Quick dip into the Go Programming language
 slug: go-nutshell
 date: 2023-02-06
-image: post/Articles/IMAGES/golight.png
+image: post/Articles/IMAGES/Go-Logo_Blue.png
 categories: 
 tags:
   - Docker
@@ -13,7 +13,7 @@ tags:
   - MicroServices
 weight: 10
 draft: false
-lastmod: 2025-01-31T21:26:36.655Z
+lastmod: 2025-02-01T19:33:52.778Z
 ---
 <!--
 

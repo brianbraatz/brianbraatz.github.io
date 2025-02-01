@@ -6,17 +6,12 @@ image: https://cdn.perl.org/perlweb/images/icons/header_camel.png
 categories: 
 tags:
   - Perl
-  - regular
-  - expressions
-  - regex
-  - text
-  - processing
-  - programming
-  - languages
+  - Regex
+  - Scripting
 draft: false
 weight: 28
 description: Perl And Regex Explained
-lastmod: 2025-02-01T18:16:29.703Z
+lastmod: 2025-02-01T18:44:47.061Z
 ---
 ![Perl Logo](https://cdn.perl.org/perlweb/images/icons/header_camel.png)
 
@@ -135,3 +130,35 @@ CHeck out:\
 https://imgur.com/t/perl
 
 ![](/post/Articles/IMAGES/daily%20struggle%20-%20Imgur.png)
+
+***
+
+## Regex Cheat Sheet
+
+| Pattern                                                       | Description                                            |
+| ------------------------------------------------------------- | ------------------------------------------------------ |
+| `.`                                                           | Matches any character except a newline                 |
+| `^`                                                           | Matches the start of a string                          |
+| `$`                                                           | Matches the end of a string                            |
+| `\d`                                                          | Matches any digit (0-9)                                |
+| `\D`                                                          | Matches any non-digit                                  |
+| `\w`                                                          | Matches any word character (alphanumeric + underscore) |
+| `\W`                                                          | Matches any non-word character                         |
+| `\s`                                                          | Matches any whitespace character                       |
+| `\S`                                                          | Matches any non-whitespace character                   |
+| `*`                                                           | Matches 0 or more of the preceding element             |
+| `+`                                                           | Matches 1 or more of the preceding element             |
+| `?`                                                           | Matches 0 or 1 of the preceding element                |
+| `{n}`                                                         | Matches exactly n occurrences                          |
+| `{n,}`                                                        | Matches n or more occurrences                          |
+| `{n,m}`                                                       | Matches between n and m occurrences                    |
+| `[]`                                                          | Matches any one of the enclosed characters             |
+| `[^]`OR operator                                              | Matches any character *not* in the brackets            |
+| `()`                                                          | Capturing group                                        |
+| `(?=...)`                                                     | Lookahead assertion                                    |
+| `(?<=...)`                                                    | Lookbehind assertion                                   |
+| `(?!...)`                                                     | Negative lookahead                                     |
+| `(?<!...)`                                                    | Negative lookbehind                                    |
+| [Regex Cheatsheet](/post/Articles/perl/Regex%20Cheatsheet.md) |                                                        |
+
+https://brianbraatz.github.io/tags/perl/

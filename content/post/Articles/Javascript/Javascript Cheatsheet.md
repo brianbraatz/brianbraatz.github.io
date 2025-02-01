@@ -1,5 +1,5 @@
 ---
-title: React Cheatsheet
+title: Javascript Cheatsheet
 description: Javascript Cheatsheet
 slug: javascript-cheatsheet
 date: 2014-05-06
@@ -12,7 +12,7 @@ tags:
   - WebDevelopment
 weight: 10
 draft: false
-lastmod: 2025-01-30T15:34:28.960Z
+lastmod: 2025-02-01T19:30:15.833Z
 ---
 ## Javascript Cheatsheet
 

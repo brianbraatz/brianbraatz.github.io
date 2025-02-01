@@ -3,7 +3,7 @@ title: Angular Cheatsheet
 description: 
 slug: Angular-file-cheatsheet
 date: 2014-05-06
-image: post/Articles/IMAGES/18.jpg
+image: post/Articles/IMAGES/angular_wordmark_gradient.png
 categories: 
 tags:
   - Cheatsheet
@@ -13,7 +13,7 @@ tags:
   - React
 weight: 10
 draft: false
-lastmod: 2025-01-31T22:27:24.119Z
+lastmod: 2025-02-01T19:41:42.904Z
 ---
 ### Angular Cheatsheet
 

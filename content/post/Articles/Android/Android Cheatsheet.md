@@ -3,7 +3,7 @@ title: Android Cheatsheet
 description: Buzzword Decoder + important bits of the Android ASK
 slug: Android-SDK-cheatsheet
 date: 2014-05-06
-image: post/Articles/IMAGES/22.jpg
+image: post/Articles/IMAGES/Android_robot_511x600.png
 categories: 
 tags:
   - Cheatsheet
@@ -13,7 +13,7 @@ tags:
   - Android
 weight: 10
 draft: false
-lastmod: 2025-01-31T20:50:48.556Z
+lastmod: 2025-02-01T19:42:33.511Z
 ---
 | **Category**             | **Description**                                                        | **Important Classes/Components**                                       |
 | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |

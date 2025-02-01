@@ -12,9 +12,10 @@ tags:
   - Javascript
   - WebDevelopment
   - JQuery
+  - Ajax
 weight: 10
 draft: false
-lastmod: 2025-01-30T15:35:23.967Z
+lastmod: 2025-02-01T19:13:32.359Z
 ---
 ## jQuery Cheatsheet
 

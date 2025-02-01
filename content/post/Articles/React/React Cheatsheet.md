@@ -3,7 +3,7 @@ title: React Cheatsheet
 description: 
 slug: React-file-cheatsheet-thing
 date: 2014-05-06
-image: post/Articles/IMAGES/12.jpg
+image: post/Articles/IMAGES/reactlogolong.png
 categories: 
 tags:
   - Cheatsheet
@@ -13,7 +13,7 @@ tags:
   - WebDevelopment
 weight: 5
 draft: false
-lastmod: 2025-01-31T00:12:41.968Z
+lastmod: 2025-02-01T19:26:04.416Z
 ---
 ## React Cheatsheet
 

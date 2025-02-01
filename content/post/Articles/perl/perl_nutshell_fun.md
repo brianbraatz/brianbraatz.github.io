@@ -7,12 +7,13 @@ tags:
   - Scripting
   - Cross-Platform
   - Linux
+  - Regex
 date: 2008-04-20
 image: post/Articles/IMAGES/cameleatingnutsmall_800_clipped.png
 categories: 
 weight: 30
 draft: false
-lastmod: 2025-02-01T18:13:21.948Z
+lastmod: 2025-02-01T18:44:41.244Z
 ---
 # 🐪 The Perl Programming Language in a Nutshell (With Extra Nuts)
 
@@ -130,7 +131,9 @@ Perl is powerful, quirky, and possibly older than some of its users. It's great 
 
 Whether you love Perl or fear it, one thing’s for sure—once you start using it, you’ll never look at regular expressions the same way again.
 
+<!-- 
 ![A terrified developer looking at Perl regex](https://i.imgur.com/funny-perl-dev.png)
+-->
 
 [Perl’s official website](https://www.perl.org/)\*
 
@@ -142,4 +145,10 @@ https://imgur.com/t/perl
 
 ![](/post/Articles/IMAGES/daily%20struggle%20-%20Imgur.png)
 
-also see [Perl Regex Fun](/post/Articles/perl/Perl%20Regex.md)
+also see
+
+[Perl Regex Fun](/post/Articles/perl/Perl%20Regex.md)
+
+[Regex Cheatsheet](/post/Articles/perl/Regex%20Cheatsheet.md)
+
+https://brianbraatz.github.io/tags/perl/
