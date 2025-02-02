@@ -12,9 +12,9 @@ tags:
   - Version Control
 draft: false
 weight: 30
-lastmod: 2025-02-02T01:27:09.491Z
+lastmod: 2025-02-02T14:16:37.016Z
 ---
-# Git Submodules vs. Git Subtrees: The Battle of the Git Giants
+# Git Submodules vs. Git Subtrees
 
 ## Git Submodules: The Lone Rangers
 
@@ -67,6 +67,101 @@ Git Subtrees are like the friendly neighborhood superheroes who integrate seamle
 * When you need to update the embedded repository frequently.
 * When you want a single, unified repository with a shared commit history. ([dev.devbf.com](https://dev.devbf.com/posts/git-submodule-vs-subtree-which-should-you-use-and-when-719ab/))
 
+## Techniques for Git embedding another Git
+
+### **Use a sparse checkout for the submodule**
+
+You can configure a sparse checkout for the submodule to only check out the specific subdirectory you want.
+
+Steps:
+
+1. Add the submodule as usual:
+
+   ```bash
+   git submodule add <repository-url> <submodule-path>
+   ```
+
+2. Navigate to the submodule directory:
+
+   ```bash
+   cd <submodule-path>
+   ```
+
+3. Enable sparse checkout:
+
+   ```bash
+   git sparse-checkout init
+   ```
+
+4. Specify the subdirectory you want:
+
+   ```bash
+   git sparse-checkout set <subdirectory-path>
+   ```
+
+5. Update the submodule:
+
+   ```bash
+   git pull --depth=1
+   ```
+
+***
+
+### **Use a custom branch or repository containing only the subdirectory**
+
+If you have control over the repository being used as a submodule, you can create a separate branch or fork containing just the subdirectory. Then, add that repository as the submodule.
+
+Steps:
+
+6. Clone the repository containing the desired subdirectory:
+
+   ```bash
+   git clone <repository-url>
+   ```
+
+7. Remove all files except the desired subdirectory:
+
+   ```bash
+   cd <repository-name>
+   git filter-repo --path <subdirectory-path> --force
+   ```
+
+8. Push the filtered repository to a new remote:
+
+   ```bash
+   git remote add origin <new-repo-url>
+   git push -u origin main
+   ```
+
+9. Add this new repository as the submodule.
+
+***
+
+### **Use a script to pull and copy only the subdirectory**
+
+If you don’t want the entire repository as a submodule, you can write a script to pull the repository, copy only the subdirectory, and use it in your project.
+
+Steps:
+
+10. Write a script to clone the repository and copy the specific directory:
+
+    ```bash
+    #!/bin/bash
+    git clone --depth=1 <repository-url> temp-repo
+    cp -r temp-repo/<subdirectory-path> ./desired-path
+    rm -rf temp-repo
+    ```
+
+11. Execute this script when needed.
+
+***
+
+### **Which approach to choose?**
+
+* If you want the submodule to stay connected to the upstream repository and be updated easily, **use sparse checkout**.
+* If you want a clean repository without unrelated files, **filter the repository** or create a custom branch/repo.
+* If the submodule doesn’t need to be tied to Git history, **use a script**.
+
 ## Key Ideas
 
 | Feature                 | Git Submodules                                                                                                                                                                        | Git Subtrees                                                                                                                                                                          |
@@ -84,3 +179,17 @@ Git Subtrees are like the friendly neighborhood superheroes who integrate seamle
 * [Git Subtree: Alternative to Git Submodule | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/git-subtree)
 * [Managing Git Projects: Git Subtree vs. Submodule](https://gitprotect.io/blog/managing-git-projects-git-subtree-vs-submodule/)
 * [Decoupling vs Simplicity: An In-Depth Comparison of Git Submodules vs Subtrees](https://linuxhaxor.net/code/difference-between-git-submodule-and-subtree.html)
+
+Git doesn't support using only a specific subdirectory from a repository as a submodule directly. When you add a submodule, it clones the entire repository, not just a part of it. However, there are a few workarounds to achieve a similar result:
+
+***
+
+<!-- 
+Can I have a git repository which has just submodule where only a subdirectory from the repository used as a submodule is included ?
+ChatGPT said:
+ChatGPT
+Git doesn't support using only a specific subdirectory from a repository as a submodule directly. When you add a submodule, it clones the entire repository, not just a part of it. However, there are a few workarounds to achieve a similar result:
+
+
+
+-->

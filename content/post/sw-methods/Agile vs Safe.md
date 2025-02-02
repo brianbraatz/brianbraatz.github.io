@@ -3,7 +3,7 @@ title: How SAFe Agile Differs from Regular Agile
 description: Comparison of SAFe Agile vs Regular Agile
 slug: how-safe-agile-differs-from-regular-agile
 date: 2024-12-15
-image: post/Articles/IMAGES/21.jpg
+image: post/Articles/IMAGES/22.jpg
 categories: []
 tags:
   - Agile
@@ -13,7 +13,7 @@ tags:
   - Scaling Agile
 draft: false
 weight: 30
-lastmod: 2025-02-02T01:27:31.301Z
+lastmod: 2025-02-02T01:41:23.521Z
 ---
 Hey there, fellow Agile nerd!
 
