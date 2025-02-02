@@ -15,7 +15,7 @@ tags:
 draft: false
 weight: 30
 description: Query Plans for fun and profit...
-lastmod: 2025-02-01T19:09:40.213Z
+lastmod: 2025-02-01T20:32:11.465Z
 ---
 # Understanding and Interpreting SQL Query Plans for Performance Optimization
 
@@ -168,7 +168,3 @@ Much better!
 * [History of SQL](https://en.wikipedia.org/wiki/SQL)
 * [How Indexes Work](https://use-the-index-luke.com/)
 * [SQL Performance Optimization](https://www.sqlperformance.com/)
-
-<!-- ![Funny SQL Meme](https://i.imgur.com/example.jpg) -->
-
-<img src="https://i.imgur.com/example.jpg" width="500">

@@ -18,7 +18,7 @@ tags:
   - JUnit
 draft: false
 weight: 30
-lastmod: 2025-02-01T18:49:56.026Z
+lastmod: 2025-02-01T20:57:37.047Z
 ---
 ## History and Motivation
 
@@ -30,7 +30,7 @@ However, Oak was already taken (darn you, trademark laws!), so they settled on J
 
 Java was designed with the mantra "Write Once, Run Anywhere" (WORA), aiming for platform independence and security.
 
-It quickly gained popularity, especially with the rise of the internet, and became a staple in software development. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Java_%28programming_language%29?utm_source=chatgpt.com))
+It quickly gained popularity, especially with the rise of the internet, and became a staple in software development. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Java_%28programming_language%29))
 
 ## Personal Memories...
 

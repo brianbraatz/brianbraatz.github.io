@@ -13,7 +13,7 @@ tags:
   - SqlLite
 weight: 30
 draft: true
-lastmod: 2025-01-31T14:38:32.215Z
+lastmod: 2025-02-01T20:57:37.036Z
 ---
 Write an article titled “why I love the SQLite Database engine “. I’m the article first explain what SQLite is, then explain its origins and history. Then explain that SQLite is a great low ceremony engine . Explain that it’s a great engine to use to start a project quickly and it’s a grata engine to run unit tests on . Then explain how you use SQLite everyday because it’s included in the standard sdks for android and iOS . If you use an app on your phone it’s likely SQLite. Then explain what it’s not good for -multi user . Then make a chart of syntax comparing the syntax of SQLite to Microsoft sql , MySQL , to Postgres. Then make a chart of features comparing the syntax of SQLite to Microsoft sql , MySQL , to Postgres.
 
@@ -27,7 +27,7 @@ SQLite is a free, open-source, serverless relational database engine that is sel
 
 SQLite was created by D. Richard Hipp in the spring of 2000 while working for General Dynamics on a U.S. Navy project. He needed a lightweight, reliable database that could operate without the overhead of a separate server process. This led to the development of SQLite as a Tcl extension, with its first version released in August 2000. Over the years, SQLite has evolved into one of the most widely used database engines, embedded in countless applications and devices.
 
-[en.wikipedia.org](https://en.wikipedia.org/wiki/SQLite?utm_source=chatgpt.com)
+[en.wikipedia.org](https://en.wikipedia.org/wiki/SQLite)
 
 **A Low-Ceremony Engine**
 

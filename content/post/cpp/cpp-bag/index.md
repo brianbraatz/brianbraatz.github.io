@@ -17,7 +17,7 @@ tags:
   - TemplateProgramming
 weight: 3
 draft: false
-lastmod: 2025-01-29T20:10:49.340Z
+lastmod: 2025-02-01T20:57:37.081Z
 ---
 [Template Metaprogramming-Wikipedia](https://en.wikipedia.org/wiki/Template_metaprogramming)
 
@@ -58,19 +58,19 @@ While not all programming languages have a built-in bag collection, many offer i
 <!-- 
 - **Java**: The Java Collections Framework does not include a bag interface by default. BUT! Apache Commons Collections provide a `Bag` interface with implementations like `HashBag` and `TreeBag`. These classes allow for the storage of elements with their occurrence counts.
     
-    [en.wikipedia.org](https://en.wikipedia.org/wiki/Set_%28abstract_data_type%29?utm_source=chatgpt.com)
+    [en.wikipedia.org](https://en.wikipedia.org/wiki/Set_%28abstract_data_type%29)
     
 - **Python**: Python's standard library includes the `collections.Counter` class, which functions similarly to a bag by counting the occurrences of elements in a collection. The `collections-extended` library offers a `bag` class with more specialized features for multiset operations.
     
-    [collections-extended.lenzm.net](https://collections-extended.lenzm.net/bags/?utm_source=chatgpt.com)
+    [collections-extended.lenzm.net](https://collections-extended.lenzm.net/bags/)
     
 - **C#**: The .NET framework includes a `Bag` collection within its System.Collections.Concurrent namespace, providing a thread-safe implementation that allows for the storage of elements with their counts.
     
-    [en.wikipedia.org](https://en.wikipedia.org/wiki/Comparison_of_C_Sharp_and_Java?utm_source=chatgpt.com)
+    [en.wikipedia.org](https://en.wikipedia.org/wiki/Comparison_of_C_Sharp_and_Java)
     
 - **Smalltalk**: Smalltalk's standard library includes the `Bag` class, which allows for the collection of elements without any specific order and permits duplicates. This class provides methods to add, remove, and count occurrences of elements.
     
-    [en.wikipedia.org](https://en.wikipedia.org/wiki/Set_%28abstract_data_type%29?utm_source=chatgpt.com)
+    [en.wikipedia.org](https://en.wikipedia.org/wiki/Set_%28abstract_data_type%29)
     --?
     -->
 
@@ -98,7 +98,7 @@ Set (abstract data type)
 
 May 13, 2024
 
-](https://en.wikipedia.org/wiki/Set_%28abstract_data_type%29?utm_source=chatgpt.com)
+](https://en.wikipedia.org/wiki/Set_%28abstract_data_type%29)
 
 [
 
@@ -108,7 +108,7 @@ bags (Multisets) — collections_extended 2.0.2 documentation - LenzM.net
 
 Bags are a multiset implementation for Python. Currently, bags have constant time inclusion testing but can only contain hashable elements due to the implementation. There are three classes provided: An abstract base class for bags. A mutable (unhashable) Bag. An immutable (implements collections.abc.Hashable) Bag.
 
-](https://collections-extended.lenzm.net/bags/?utm_source=chatgpt.com)
+](https://collections-extended.lenzm.net/bags/)
 
 [
 
@@ -118,7 +118,7 @@ Comparison of C Sharp and Java
 
 3 days ago
 
-](https://en.wikipedia.org/wiki/Comparison_of_C_Sharp_and_Java?utm_source=chatgpt.com)
+](https://en.wikipedia.org/wiki/Comparison_of_C_Sharp_and_Java)
 
 More
 
