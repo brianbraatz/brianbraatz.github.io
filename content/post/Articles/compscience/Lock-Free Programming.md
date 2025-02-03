@@ -7,16 +7,14 @@ categories:
 tags:
   - Concurrency
   - Lock-Free
-  - Andrei
-  - Alexandrescu
   - AssemblyLanguage
-  - Threading
   - LockFreeThreading
   - CPP
+  - Multithreading
 draft: false
 weight: 30
 description: Dive into a Multi-Threading world with NO LOCKS!
-lastmod: 2025-02-01T20:18:09.852Z
+lastmod: 2025-02-03T13:18:58.070Z
 ---
 # Understanding Lock-Free Programming
 

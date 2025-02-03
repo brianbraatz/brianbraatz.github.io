@@ -2,7 +2,7 @@
 title: Perl and Regular Expressions A Match Made in Regex Heaven
 slug: perl-and-regular-expressions
 date: 2013-12-15
-image: https://cdn.perl.org/perlweb/images/icons/header_camel.png
+image: post/Articles/IMAGES/header_camel.png
 categories: 
 tags:
   - Perl
@@ -11,7 +11,7 @@ tags:
 draft: false
 weight: 28
 description: Perl And Regex Explained
-lastmod: 2025-02-01T18:44:47.061Z
+lastmod: 2025-02-03T13:44:56.951Z
 ---
 ![Perl Logo](https://cdn.perl.org/perlweb/images/icons/header_camel.png)
 

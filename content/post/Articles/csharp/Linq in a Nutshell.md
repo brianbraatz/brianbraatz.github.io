@@ -15,17 +15,21 @@ tags:
   - MultiThreading
 draft: false
 weight: 30
-lastmod: 2025-02-02T14:17:17.545Z
+lastmod: 2025-02-02T15:47:27.054Z
 ---
 ![LINQ Logo](https://seeklogo.com/images/L/linq-logo-8B9C0C6C6A-seeklogo.com.png)
 
 # LINQ in a Nutshell
 
-Hey there, code wranglers! Ever found yourself tangled in loops and conditionals just to fetch some data? Wish you could just *ask* for what you want, like ordering a coffee?
+Ever found yourself tangled in loops and conditionals just to fetch some data?
+
+Wish you could just *ask* for what you want, like ordering a coffee?
 
 Well, say hello to LINQ!
 
+<!--
 It's like the barista of the .NET world, serving up your data just the way you like it.
+-->
 
 ## A Quick Trip Down Memory Lane: The History of LINQ
 
@@ -41,7 +45,7 @@ Now, developers could write queries directly in C# or VB.NET, bringing type safe
 
 LINQ is like that Swiss Army knife in your coding toolkit. Let's slice through its main uses:
 
-### 1. LINQ to Objects
+## 1. LINQ to Objects
 
 Got a collection? LINQ's got you. Whether it's arrays, lists, or dictionaries, you can filter, project, and aggregate data with style.
 
@@ -80,7 +84,19 @@ public class Program
 }
 ```
 
-### 2. LINQ to SQL
+**Explanation**: `Where()` filters the collection based on the provided condition, and `ToList()` executes the query and converts the result into a list.
+
+##### Common LINQ Method Syntax Methods:
+
+* `Where()` – Filters elements based on a predicate.
+* `Select()` – Projects elements to a new form.
+* `OrderBy()`/`OrderByDescending()` – Orders elements in ascending or descending order.
+* `GroupBy()` – Groups elements based on a key.
+* `Take()` – Limits the number of items returned.
+* `Skip()` – Skips a specified number of items.
+* `FirstOrDefault()`/`SingleOrDefault()` – Returns the first or single item that matches the criteria.\*\*\*\*
+
+## 2. LINQ to SQL
 
 Talking to SQL Server?
 
@@ -111,7 +127,18 @@ public class Program
 }
 ```
 
-### 3. LINQ to Entities (Entity Framework)
+* **Explanation**: The query syntax uses keywords like `from`, `where`, and `select`, which closely resemble SQL statements. It allows for more readable and compact code, especially in complex queries.
+
+##### Common LINQ Query Syntax Clauses:
+
+* `from` – Specifies the data source.
+* `where` – Filters data based on a condition.
+* `select` – Projects data into a new form.
+* `orderby` – Sorts data based on specified criteria.
+* `join` – Joins multiple data sources.
+* `group` – Groups elements based on a specified key.
+
+## 3. LINQ to Entities (Entity Framework)
 
 Think of this as LINQ to SQL's beefed-up cousin.
 
@@ -143,7 +170,7 @@ public class Program
 }
 ```
 
-### 4. LINQ to XML
+## 4. LINQ to XML
 
 Parsing XML can feel like deciphering ancient scripts. LINQ to XML makes it as easy as reading a bedtime story.
 
@@ -177,7 +204,7 @@ public class Program
 }
 ```
 
-### 5. LINQ to DataSet
+## 5. LINQ to DataSet
 
 Got a DataSet from the ADO.NET days?
 
@@ -220,7 +247,7 @@ public class Program
 }
 ```
 
-### 6. Parallel LINQ (PLINQ)
+## 6. Parallel LINQ (PLINQ)
 
 Need speed? PLINQ runs your queries in parallel, making heavy data lifting feel like a feather.
 
@@ -244,7 +271,7 @@ public class Program
 }
 ```
 
-### 7. Asynchronous LINQ Queries
+## 7. Asynchronous LINQ Queries
 
 Why wait? Combine LINQ with async programming to keep your apps responsive and your users happy.
 
@@ -304,10 +331,93 @@ public class Program
 }
 ```
 
-### Explanation:
-
-* **Asynchronous Query Execution:** `ToListAsync()` ensures the database query runs asynchronously.
-* **Entity Framework Core Integration:** Works with real databases.
-* **Ensuring Database Exists:** `EnsureCreatedAsync()` prevents errors when running the example.
+* **Explanation:**
+  * **Asynchronous Query Execution:** `ToListAsync()` ensures the database query runs asynchronously.
+  * **Entity Framework Core Integration:** Works with real databases.
+  * **Ensuring Database Exists:** `EnsureCreatedAsync()` prevents errors when running the example.
 
 The example can handle database queries without blocking the main thread! 🚀
+
+## 8. **Raw SQL Queries**
+
+Entity Framework allows you to write raw SQL queries, which can be useful when you need to use complex SQL features that aren't easily expressible in LINQ or for performance optimizations.
+
+##### Example: Fetching all active users using raw SQL:
+
+```c#
+var activeUsers = context.Users
+                         .FromSqlRaw("SELECT * FROM Users WHERE IsActive = 1")
+                         .ToList();
+
+```
+
+* **Explanation**: The `FromSqlRaw()` method allows you to run raw SQL queries against the database. You can use parameterized queries to prevent SQL injection.
+
+##### Common Raw SQL Query Methods:
+
+* `FromSqlRaw()` – Executes a raw SQL query and maps the result to entities.
+* `ExecuteSqlRaw()` – Executes a raw SQL command without expecting any results, typically used for updates, inserts, or deletes.
+
+##### Example of Parameterized Raw SQL:
+
+```csharp
+var activeUsers = context.Users
+                         .FromSqlRaw("SELECT * FROM Users WHERE IsActive = {0}", true)
+                         .ToList();
+```
+
+In this case, `{0}` is replaced by the value `true`, which ensures safe query execution.
+
+***
+
+## 9. **Compiled Queries**
+
+Entity Framework allows you to compile queries that can improve performance by reducing query parsing and translation overhead. This is especially helpful for frequently executed queries.
+
+##### Example: Compiling a query:
+
+```csharp
+var query = EF.CompileQuery((DbContext context) =>
+    context.Users.Where(u => u.IsActive).ToList());
+
+```
+
+* **Explanation**: `CompileQuery()` is used to compile a LINQ query and cache it for future executions, improving performance in cases where the same query is executed repeatedly.
+
+***
+
+## 10. **Entity Framework Core: Asynchronous Queries**
+
+With Entity Framework Core, you can perform queries asynchronously to avoid blocking the thread, especially for I/O-bound operations like database queries.
+
+##### Example: Asynchronous LINQ Method Syntax:
+
+```csharp
+
+var activeUsers = await context.Users
+                               .Where(u => u.IsActive)
+                               .ToListAsync();
+```
+
+* **Explanation**: `ToListAsync()` is an asynchronous version of `ToList()`. It returns a `Task`, allowing the application to continue executing while waiting for the database query to complete.
+
+***
+
+## 11. **GroupBy with Aggregates**
+
+You can also perform aggregations using LINQ in Entity Framework. This is particularly useful for queries that need to group data and compute values like sums, averages, or counts.
+
+##### Example: Grouping and Counting:
+
+```csharp
+
+var userCountsByCountry = from user in context.Users
+                          group user by user.Country into userGroup
+                          select new
+                          {
+                              Country = userGroup.Key,
+                              UserCount = userGroup.Count()
+                          };
+```
+
+* **Explanation**: `group by` is used to group users by their country, and `Count()` is used to get the number of users in each group.

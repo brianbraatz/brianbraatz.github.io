@@ -1,20 +1,21 @@
 ---
-title: Debuging Obsidian Typescript Plugins
-description: Tips and tricks for plugin debugging
+title: Debuging Obsidian Javascript Plugins
+description: Tips and tricks for plugin debugging in Obsidian
 slug: debug-obsidian-plugins
 date: 2023-11-29
 image: post/Articles/IMAGES/31.jpg
-categories: []
+categories: 
 tags:
   - Obsidian
   - Plugins
   - Debugging
-  - Developer Console
+  - Developer
+  - Console
   - JavaScript
-  - NEW
+  - Typescript
 draft: false
 weight: 30
-lastmod: 2025-02-02T14:15:31.929Z
+lastmod: 2025-02-03T14:39:56.967Z
 ---
 # Debugging Obsidian Plugins Like a Pro (Or At Least Like Someone Who Knows Where the Console Is)
 

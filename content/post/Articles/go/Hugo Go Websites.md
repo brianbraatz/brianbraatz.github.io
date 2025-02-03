@@ -3,7 +3,7 @@ title: Build a Crazy Fast Website with Go and the Hugo Framework
 description: Dive into building a very fast Website in Go with a static backend
 slug: website-go-hugo-framework
 date: 2022-12-15
-image: post/Articles/IMAGES/hugo-logo-wide.svg
+image: post/Articles/IMAGES/hugowide.png
 categories: 
 tags:
   - Hugo
@@ -13,7 +13,7 @@ tags:
   - Javascript
 draft: false
 weight: 30
-lastmod: 2025-02-02T01:33:51.514Z
+lastmod: 2025-02-03T13:53:59.402Z
 ---
 [Hugo](https://gohugo.io/)
 

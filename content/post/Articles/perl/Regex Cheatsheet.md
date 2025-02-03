@@ -2,7 +2,7 @@
 title: Regex Cheatsheet
 slug: regex-cheatsheet
 date: 2013-12-16
-image: https://cdn.perl.org/perlweb/images/icons/header_camel.png
+image: post/Articles/IMAGES/regex.png
 categories: 
 tags:
   - Perl
@@ -11,7 +11,7 @@ tags:
 draft: false
 weight: 28
 description: Regex Cheat Sheet
-lastmod: 2025-02-01T18:42:36.442Z
+lastmod: 2025-02-03T13:43:05.025Z
 ---
 ![Perl Logo](https://cdn.perl.org/perlweb/images/icons/header_camel.png)
 

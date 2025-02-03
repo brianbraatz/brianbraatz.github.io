@@ -41,7 +41,7 @@ tags:
   - WebDevelopment
 weight: 1
 draft: false
-lastmod: 2025-01-31T17:38:39.854Z
+lastmod: 2025-02-03T00:24:16.226Z
 ---
 ## BUBBBLE BATTLE!
 
@@ -383,7 +383,7 @@ very very simple embedded controller with very little memory.
 
 The assembly here is not too far off from 6502 assembly which was another popular embedded CPU.
 
-```asm8051
+```assembly
 ; 8051 Assembly Language Bubble Sort
 
 ORG 0H

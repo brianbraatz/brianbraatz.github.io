@@ -1,10 +1,10 @@
 ---
-title: Openlens goes commercial. Free version lost Docker Pod Shell.
+title: OpenLens goes commercial. Free version lost Docker Pod Shell.
 description: Instructions on how to bring it back
 slug: how-to-attach-a-shell-to-a-pod-in-openlens
 date: 2022-06-13
-image: post/Articles/IMAGES/3.jpg
-categories: []
+image: post/Articles/IMAGES/openlenssmall.png
+categories: 
 tags:
   - Docker
   - Kubernetes
@@ -14,7 +14,7 @@ tags:
   - Kubectl
 draft: false
 weight: 30
-lastmod: 2025-02-02T14:15:37.462Z
+lastmod: 2025-02-03T13:13:57.321Z
 ---
 # How to Attach a Shell to a Pod in OpenLens
 
