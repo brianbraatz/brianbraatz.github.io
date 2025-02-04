@@ -14,7 +14,7 @@ tags:
   - Communication
 draft: false
 weight: 30
-lastmod: 2025-02-02T01:29:23.693Z
+lastmod: 2025-02-04T00:27:32.947Z
 ---
 <!--
 # WebSockets, Sockets, and SignalR: A Fun Dive into Real-Time Communication with Python
@@ -62,7 +62,7 @@ Think of them as the multitaskers of the programming world, juggling multiple ta
 
 For more on coroutines, check out the [Python documentation on coroutines](https://docs.python.org/3/library/asyncio-task.html#coroutines).
 
-## Let's Get Our Hands Dirty: Writing a Python WebSocket Server
+## Writing a Python WebSocket Server
 
 Time to write a simple WebSocket server in Python.
 
@@ -99,7 +99,51 @@ In this script:
 * The `main` function sets up the server to listen on `localhost` at port `8765`.
 * We use `asyncio.run(main())` to start the server.
 
-To test this server, you can use a WebSocket client or even write a simple one in Python. For more details, check out the [websockets library documentation](https://pypi.org/project/websockets/).
+To create a Python client that connects to a WebSocket server, you can use the `websockets` library, which provides a straightforward and efficient way to handle WebSocket communications asynchronously.
+
+**Write the WebSocket Client:**
+
+Here's a sample Python client that connects to a WebSocket server, sends a message, and awaits a response:
+
+```python
+import asyncio
+import websockets
+
+async def communicate():
+    uri = "ws://localhost:8765"  # Replace with your server's URI
+    async with websockets.connect(uri) as websocket:
+        # Send a message to the server
+        message = "Hello, Server!"
+        await websocket.send(message)
+        print(f"Sent to server: {message}")
+
+        # Await a response from the server
+        response = await websocket.recv()
+        print(f"Received from server: {response}")
+
+# Run the communicate coroutine
+asyncio.run(communicate())
+```
+
+**Explanation:**
+
+* **Import Statements:** We import `asyncio` for asynchronous operations and `websockets` for WebSocket functionalities.
+
+* **`communicate` Coroutine:** This asynchronous function handles the connection and communication with the WebSocket server.
+  * **Connection:** It connects to the server specified by `uri`.
+  * **Sending a Message:** Sends a greeting message to the server.
+  * **Receiving a Response:** Waits for and prints the server's response.
+
+* **Running the Coroutine:** `asyncio.run(communicate())` starts the asynchronous communication.
+
+**Note:** Ensure that the WebSocket server is running and accessible at the specified URI (`ws://localhost:8765` in this example) before running the client.
+
+For more detailed information and advanced usage, you can refer to the [websockets library documentation](https://websockets.readthedocs.io/en/stable/intro/tutorial1.html).
+
+<!-- To test this server, you can use a WebSocket client or even write a simple one in Python. For more details, check out the 
+-->
+
+[websockets library documentation](https://pypi.org/project/websockets/).
 
 ## Key Ideas
 

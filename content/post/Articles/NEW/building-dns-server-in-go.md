@@ -14,9 +14,9 @@ tags:
   - WebDevelopment
 draft: false
 weight: 477
-lastmod: 2025-02-03T14:06:48.790Z
+lastmod: 2025-02-03T17:40:50.907Z
 ---
-# Implementing a Firewall in the Go Programming Language
+# Implementing a DNS Server in the Go Programming Language
 
 ## A Quick Look at Go’s Origins
 

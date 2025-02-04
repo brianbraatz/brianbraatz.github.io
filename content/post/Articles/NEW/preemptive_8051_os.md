@@ -1,5 +1,5 @@
 ---
-title: How to write a Preemptive multi-threaded OS in 8051 Assembly Language
+title: Write a Preemptive multi-threaded OS in 8051 Assembly Language
 description: For fun and profit...
 slug: multi-threaded-os-in-8051-assembly-language
 date: 2023-03-04
@@ -16,7 +16,7 @@ tags:
   - AssemblyLanguage
 draft: false
 weight: 476
-lastmod: 2025-02-03T01:08:46.232Z
+lastmod: 2025-02-04T00:44:06.278Z
 ---
 # How to write a Preemptive multi-threaded OS in 8051 Assembly Language
 

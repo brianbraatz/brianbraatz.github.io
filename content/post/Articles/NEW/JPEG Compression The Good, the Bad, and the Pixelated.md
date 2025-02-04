@@ -14,7 +14,7 @@ tags:
   - Image Formats
 draft: false
 weight: 342
-lastmod: 2025-02-03T12:40:05.251Z
+lastmod: 2025-02-03T17:31:37.857Z
 ---
 # JPEG Compression: The Good, the Bad, and the Pixelated
 
@@ -99,7 +99,7 @@ Image compression is a balancing act. JPEG offers a middle ground with manageabl
 
 For a visual explanation of how JPEG compression works, check out this video:
 
-[How are Images Compressed? \[46MB → 4.07MB\] JPEG In Depth](https://www.youtube.com/watch?v=Kv1Hiv3ox8I\&utm_source=chatgpt.com)
+[How are Images Compressed? \[46MB → 4.07MB\] JPEG In Depth](https://www.youtube.com/watch?v=Kv1Hiv3ox8I)
 
 ***
 

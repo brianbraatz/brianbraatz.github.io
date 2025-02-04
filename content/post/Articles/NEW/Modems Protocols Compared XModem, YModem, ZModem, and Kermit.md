@@ -1,24 +1,29 @@
 ---
-title: "Modems and File Transfer Protocols: XModem, YModem, ZModem, and Kermit"
-description: "Modems and File Transfer Protocols: XModem, YModem, ZModem, and Kermit"
+title: "Modems & File Transfer Protocols: XModem, YModem, ZModem, and Kermit"
+description: Exploring the differences and evolution of these Serial Protocols
 slug: modems-and-file-transfer-protocols-xmodem-ymodem-zmodem-kermit
 date: 2023-11-15
 image: post/Articles/IMAGES/kermit_small.png
-categories: []
+categories: 
 tags:
   - Modems
-  - File Transfer Protocols
+  - File
+  - Transfer
+  - Protocols
   - XModem
   - YModem
   - ZModem
   - Kermit
-  - Data Communication
-  - Sliding Window Protocol
+  - Data
+  - Communication
+  - Sliding
+  - Window
+  - Protocol
 draft: false
 weight: 342
-lastmod: 2025-02-03T12:26:25.856Z
+lastmod: 2025-02-04T00:38:59.930Z
 ---
-# Modems and File Transfer Protocols: XModem, YModem, ZModem, and Kermit
+# Modems & File Transfer Protocols: XModem, YModem, ZModem, and Kermit
 
 ## Introduction
 
@@ -138,6 +143,66 @@ This approach improves efficiency, especially over high-latency connections.
 | **Kermit** | Yes (in later versions) | Early versions used stop-and-wait; later versions implemented sliding window for improved performance. |
 
 **Note:** The sliding window protocol allows for multiple packets to be sent before needing acknowledgment, enhancing throughput, especially over long-distance or noisy connections.
+
+***
+
+![](/post/Articles/IMAGES/kermit.jpg)
+
+## The Kermit Connection: From File Transfers to Frog Fame
+
+So, you've met Kermit the Protocol, the unsung hero of file transfers.
+
+But did you know there's and actual connection to the REAL KERMIT THE FROG!?!?! 🐸
+
+( He **IS** real you know.. )
+
+### What's in a Name?
+
+Back in 1981, the tech wizards at Columbia University developed a file transfer protocol that was as adaptable as a frog leaping between lily pads.
+
+But they hit a snag: what to name this digital marvel?
+
+After some brainstorming (and probably a few cups of strong coffee), they decided to name it after everyone's favorite Muppet, Kermit the Frog.
+
+Why? Because, like the protocol, Kermit could "hop" between different platforms with ease. Plus, who doesn't love a good Muppet reference? [Source: Columbia University](https://www.columbia.edu/kermit/about.html)
+
+### A Ribbit of History
+
+Kermit the Frog, the lovable  Muppet, made his debut in 1955, created by the legendary Jim Henson.
+
+In the '80s, the Kermit protocol was making waves in the tech world.
+
+The folks at Columbia even got permission from Henson Associates to use the name.
+
+Pretty cool! [Source: Columbia University](https://www.columbia.edu/kermit/about.html)
+
+### Why the Frog?
+
+You might wonder, why name a protocol after a frog?
+
+Well, frogs are known for their ability to thrive in various environments—just like the Kermit protocol, which was designed to work across diverse computer systems.
+
+Plus, it's hard to resist the charm of a frog with a banjo. [Source: Columbia University](https://www.columbia.edu/kermit/about.html)
+
+### The Legacy
+
+While Kermit the Protocol might not be as famous as his amphibious counterpart, he played a crucial role in the early days of computer networking.
+
+And let's be honest, naming a protocol after a Muppet is a stroke of genius that makes the tech world a bit more fun.
+
+🐸🎸
+
+{{< youtube WS3Lkc6Gzlk >}}
+
+<!-- 
+{{< youtube jS5fTzMP_mg >}}
+-->
+
+<!-- 
+So, next time you think of Kermit, remember he's not just a frog singing about rainbows; he's also a pioneer in the world of file transfers. Now that's what I call a versatile amphibian! 🐸🎸
+-->
+
+***
 
 <!-- 
 ## Performance Showdown: How Fast Are They?

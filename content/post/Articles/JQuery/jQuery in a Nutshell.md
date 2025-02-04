@@ -11,7 +11,7 @@ tags:
   - Javascript
 weight: 4
 draft: false
-lastmod: 2025-01-31T00:06:51.215Z
+lastmod: 2025-02-04T00:01:15.295Z
 ---
 # jQuery in a Nutshell
 
@@ -51,7 +51,7 @@ THIS IS THE FUTURE AND IT IS AWESOME!!!!!!!!!!!!!!\
 ![](/post/Articles/IMAGES/cattinfoil-large.webp)
 
 ( props to\
-https://www.teeshirtpalace.com/products/funny-tinfoil-hat-cat-lover-cooling-performance-crew-t-shirt\_fth5188992-a4282)
+<https://www.teeshirtpalace.com/products/funny-tinfoil-hat-cat-lover-cooling-performance-crew-t-shirt_fth5188992-a4282> for an epic t-shirt)
 
 ### How AJAX Works
 
