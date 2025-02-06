@@ -18,7 +18,7 @@ tags:
   - Cloud
 draft: false
 weight: 456
-lastmod: 2025-02-06T21:22:59.816Z
+lastmod: 2025-02-06T22:01:34.050Z
 ---
 # OAuth in a Nutshell
 

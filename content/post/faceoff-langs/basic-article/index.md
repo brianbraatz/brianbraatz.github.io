@@ -41,7 +41,7 @@ tags:
   - WebDevelopment
 weight: 1
 draft: false
-lastmod: 2025-02-06T18:17:14.986Z
+lastmod: 2025-02-06T22:02:30.677Z
 ---
 ## BUBBBLE BATTLE!
 
@@ -727,25 +727,29 @@ feature -- Sorting
 end
 ```
 
-## C++ Template Metaprogramming
+<!-- 
+## C++ Template Metaprogramming 
 
-[C++ Template Metaprogramming ](https://en.wikipedia.org/wiki/Template_\(C%2B%2B\))
+[C++ Template Metaprogramming ](https://en.wikipedia.org/wiki/Template_(C%2B%2B))
+
 
 God I fell in love with this stuff.. It was my geek out thing to do on the weekends..
 
-see [index](/post/cpp/cpp-bag/index.md)\
-and [index](/post/cpp/cpp-profiler-tmp/index.md)
+see [index](post/cpp/cpp-bag/index.md)
+and [index](post/cpp/cpp-profiler-tmp/index.md)
 
-C++ Templates- it was discovered after the fact, are turing complete!\
-It wasnt intended this way.. but C++ nerds went nuts with this
+C++ Templates- it was discovered after the fact, are turing complete!
+It wasnt intended this way.. but C++ nerds went nuts with this 
 
-here is a god paper on C++ and Turing complete\
+here is a god paper on C++ and Turing complete
 https://rtraba.com/wp-content/uploads/2015/05/cppturing.pdf
 
-https://en.wikipedia.org/wiki/Turing\_completeness
+https://en.wikipedia.org/wiki/Turing_completeness
 
-This lead my interesting into functional programming languages\
-https://en.wikipedia.org/wiki/Functional\_programming
+This lead my interesting into functional programming languages 
+https://en.wikipedia.org/wiki/Functional_programming
+
+
 
 ```c++
 #include <iostream>
@@ -788,8 +792,9 @@ int main() {
 }
 ```
 
-check out the F# implementation.\
+check out the F# implementation.
 it has a similiar feel to the C++ template code- because they are both functional languages
+-->
 
 ## F# Language
 
