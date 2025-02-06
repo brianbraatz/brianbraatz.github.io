@@ -1,5 +1,5 @@
 ---
-title: Handling TIFF Images in Blazor with SignalR.md
+title: Handling TIFF Images in Blazor with SignalR
 description: Dealing with Medial, Document and Microscope images in Blazor Web
 slug: images-blazor-signalr-tiff
 date: 2024-10-05
@@ -16,7 +16,7 @@ tags:
   - WebDevelopment
 draft: false
 weight: 312
-lastmod: 2025-02-06T18:40:49.646Z
+lastmod: 2025-02-06T19:13:37.894Z
 ---
 ![](/post/Articles/IMAGES/SEMMisc_pollen.jpg)
 
@@ -29,6 +29,9 @@ By Dartmouth College Electron Microscope Facility - Source and public domain not
 
 ## **Welcome to the TIFF Cage Match**
 -->
+
+**See the PYTHON Version of the Article here:**\
+[Handling TIFF Images with Python Flask and AJAX](/post/Articles/NEW/Handling%20TIFF%20Images%20with%20Python%20Flask%20and%20AJAX.md)
 
 ## \*\* TIFF?\*\*
 
