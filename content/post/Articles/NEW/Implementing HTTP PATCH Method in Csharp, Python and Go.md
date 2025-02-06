@@ -15,10 +15,8 @@ tags:
   - WebDevelopment
 draft: false
 weight: 342
-lastmod: 2025-02-03T15:08:42.775Z
+lastmod: 2025-02-06T19:15:31.061Z
 ---
-# Mastering the HTTP PATCH Method
-
 <!-- 
 ## Introduction
 

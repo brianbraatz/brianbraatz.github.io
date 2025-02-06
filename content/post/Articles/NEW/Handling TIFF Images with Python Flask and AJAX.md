@@ -1,5 +1,5 @@
 ---
-title: Handling TIFF Images with Python, Flask and AJAX.md
+title: Handling TIFF Images with Python, Flask and AJAX
 description: Python Version of the Blazor Article
 slug: tiff-images-python-and-ajax
 date: 2024-10-05
@@ -15,7 +15,7 @@ tags:
   - MedicalImaging
 draft: false
 weight: 30
-lastmod: 2025-02-06T18:57:58.020Z
+lastmod: 2025-02-06T19:21:29.446Z
 ---
 See C# version here for explanation\
 [Handling TIFF Images in Blazor with SignalR](/post/Articles/NEW/Handling%20TIFF%20Images%20in%20Blazor%20with%20SignalR.md)
