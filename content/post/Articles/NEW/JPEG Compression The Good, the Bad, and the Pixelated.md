@@ -14,7 +14,7 @@ tags:
   - Image Formats
 draft: false
 weight: 342
-lastmod: 2025-02-03T17:31:37.857Z
+lastmod: 2025-02-06T18:03:06.409Z
 ---
 # JPEG Compression: The Good, the Bad, and the Pixelated
 

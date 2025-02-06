@@ -4,7 +4,7 @@ description: PyQt and PySide Compared
 slug: pyqt-and-pyside-compared
 date: 2023-05-18
 image: post/Articles/IMAGES/27.jpg
-categories: []
+categories: 
 tags:
   - Pyqt
   - Pyside
@@ -13,9 +13,10 @@ tags:
   - Qt
   - Comparison
   - Programming
+  - PythonGuI
 draft: true
 weight: 30
-lastmod: 2025-02-05T19:05:55.359Z
+lastmod: 2025-02-05T19:40:33.034Z
 ---
 # PyQt and PySide Compared
 
