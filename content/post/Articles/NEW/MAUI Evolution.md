@@ -6,14 +6,16 @@ date: 2010-12-05
 image: post/Articles/IMAGES/mauibeach.jpg
 categories: []
 tags:
-  - Go
-  - Firewall
-  - Networking
-  - Security
-  - DNS
+  - Maui
+  - WPF
+  - Dotnet
+  - Desktop Development
+  - Cross-platform
+  - CSharp
+  - Mobile
 draft: false
 weight: 287
-lastmod: 2025-02-06T20:38:01.790Z
+lastmod: 2025-02-06T21:54:23.310Z
 ---
 <!-- 
 title: Evolution of MAUI From Mono to Xamarin to MAUI
