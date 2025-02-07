@@ -15,11 +15,11 @@ tags:
 weight: 3
 published: 2001-01-01
 draft: false
-lastmod: 2025-01-29T20:15:07.597Z
+lastmod: 2025-02-06T22:42:04.441Z
 ---
 # Unity Game Prototypes
 
-Some Unity Prototypes I built over a few weeks without sleep for a crazy business venture..
+Some Unity Prototypes I built over a **several months without sleep** for a crazy business venture..
 
 More on that is in the PDF at the bottom of the page :)
 

@@ -16,7 +16,7 @@ tags:
   - AssemblyLanguage
 draft: false
 weight: 476
-lastmod: 2025-02-04T00:44:06.278Z
+lastmod: 2025-02-07T18:55:26.411Z
 ---
 # How to write a Preemptive multi-threaded OS in 8051 Assembly Language
 
@@ -51,8 +51,6 @@ Now, let’s be real. Me calling this an "Operating System", in the article titl
 Real embedded engineers know that this is *firmware*, but OS just sounds cooler. 😎
 
 ## Understanding Preemptive Scheduling
-
-Here's the TL;DR:
 
 1. We set up a hardware timer to fire at regular intervals.
 2. When the timer interrupt occurs, the CPU jumps to our scheduler.

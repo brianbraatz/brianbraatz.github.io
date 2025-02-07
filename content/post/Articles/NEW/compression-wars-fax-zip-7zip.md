@@ -18,10 +18,12 @@ tags:
   - Encoding
 draft: false
 weight: 345
-lastmod: 2025-02-03T15:37:45.446Z
+lastmod: 2025-02-07T18:59:40.133Z
 ---
-![](/post/Articles/IMAGES/Hookes-law-springs.png)\
-https://en.wikipedia.org/wiki/Hooke%27s\_law\
+![](/post/Articles/IMAGES/Hookes-law-springs.png)
+
+Image fron :\
+<https://en.wikipedia.org/wiki/Hooke%27s_law>\
 :)
 
 # The Compression Evolution: Fax Machines, ZIP, and 7Zip

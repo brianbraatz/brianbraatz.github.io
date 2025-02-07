@@ -16,9 +16,11 @@ tags:
   - Docker
 weight: 6
 draft: false
-lastmod: 2025-02-03T14:55:16.703Z
+lastmod: 2025-02-07T16:44:59.800Z
 ---
-see also [Amazon AWS, Microsoft Azure, Google Cloud Cheat Sheet](/post/Cloud/aws-azure-gcp-cheatsheet/index.md)
+<!-- 
+see also [Amazon AWS, Microsoft Azure, Google Cloud Cheat Sheet](post/Cloud/aws-azure-gcp-cheatsheet/index.md)
+-->
 
 just a comparison and buzzword cracker :)
 

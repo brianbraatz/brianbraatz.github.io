@@ -3,7 +3,7 @@ title: Angular In a Nutshell
 description: Angular In a Nutshell
 slug: angular-in-a-nutshell
 date: 2021-10-05
-image: post/Articles/IMAGES/9.jpg
+image: post/Articles/IMAGES/angular1.png
 categories: []
 tags:
   - Angular
@@ -15,7 +15,7 @@ tags:
   - TypeScript
 draft: false
 weight: 134
-lastmod: 2025-02-02T19:00:14.620Z
+lastmod: 2025-02-07T17:51:02.721Z
 ---
 # Angular In a Nutshell
 

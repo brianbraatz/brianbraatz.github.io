@@ -2,7 +2,7 @@
 title: Evolution of MAUI From Mono to Xamarin to MAUI
 description: How we went from Mono to Xamarin to MAUI
 slug: from-mono-to-xamarin-to-maui
-date: 2010-12-05
+date: 2024-12-05
 image: post/Articles/IMAGES/mauibeach.jpg
 categories: []
 tags:
@@ -15,13 +15,13 @@ tags:
   - Mobile
 draft: false
 weight: 287
-lastmod: 2025-02-06T21:54:23.310Z
+lastmod: 2025-02-07T17:46:53.461Z
 ---
 <!-- 
 title: Evolution of MAUI From Mono to Xamarin to MAUI
 description: How we went from Mono to Xamarin to MAUI
 slug: from-mono-to-xamarin-to-maui
-date: 2025-12-05
+date: 2024-12-05
 image: post/Articles/IMAGES/brickwall.jpg
 categories: 
 tags:

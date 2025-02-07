@@ -1,5 +1,5 @@
 ---
-title: "SAML2AWS: The Best Dev Way to Authenticate to AWS"
+title: "SAML2AWS: The Best Dev Way to Authenticate to Amazon AWS Cloud"
 description: How to use saml2aws to make cloud dev smoother
 slug: mastering-saml2aws-the-best-way-to-authenticate-to-aws
 date: 2024-06-19
@@ -14,7 +14,7 @@ tags:
   - CLoud
 draft: false
 weight: 101
-lastmod: 2025-02-03T01:59:01.104Z
+lastmod: 2025-02-07T17:48:36.424Z
 ---
 # Mastering SAML2AWS: The Best Way to Authenticate to AWS
 

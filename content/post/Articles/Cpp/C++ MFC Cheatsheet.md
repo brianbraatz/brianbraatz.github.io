@@ -3,7 +3,7 @@ title: Microsoft Foundation Classes Cheatsheet
 description: 
 slug: cpp-mfc-cheatsheet
 date: 2014-05-06
-image: post/Articles/IMAGES/4.jpg
+image: post/Articles/IMAGES/mfxlogo.png
 categories: 
 tags:
   - Cheatsheet
@@ -12,7 +12,7 @@ tags:
   - CPP-MFC
 weight: 30
 draft: false
-lastmod: 2025-01-30T12:57:26.692Z
+lastmod: 2025-02-07T18:06:37.102Z
 ---
 ## MFC Cheatsheet
 

@@ -11,7 +11,7 @@ tags:
 draft: false
 weight: 28
 description: Perl And Regex Explained
-lastmod: 2025-02-03T13:44:56.951Z
+lastmod: 2025-02-07T17:46:08.738Z
 ---
 ![Perl Logo](https://cdn.perl.org/perlweb/images/icons/header_camel.png)
 
@@ -89,7 +89,7 @@ print "$sentence\n";  # Output: Rust is great. Rust is fun.
 Perl's regex engine lets you capture parts of a match using parentheses:
 
 ```perl
-my $date = "2025-02-01";
+my $date = "2024-02-01";
 if ($date =~ /(\d{4})-(\d{2})-(\d{2})/) {
     print "Year: $1, Month: $2, Day: $3\n";
 }

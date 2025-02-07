@@ -2,7 +2,7 @@
 title: Monitor Websites for Changes with Python and Playwright
 description: Webscraping with intelligent change dectection
 slug: monitor-websites-with-python
-date: 2025-02-03
+date: 2024-02-03
 image: post/Articles/IMAGES/windsheildscraping.jpg
 categories: 
 tags:
@@ -18,7 +18,7 @@ tags:
   - Chrome
 draft: false
 weight: 324
-lastmod: 2025-02-06T20:58:13.942Z
+lastmod: 2025-02-07T17:45:59.750Z
 ---
 # How to Monitor Websites for Changes Like a Cyber Detective
 

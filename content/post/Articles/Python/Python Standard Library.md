@@ -3,7 +3,7 @@ title: Python Standard Library Cheatsheet
 description: Python Standard Library Cheatsheet
 slug: python-stdlib-cheatsheet
 date: 2014-05-06
-image: post/Articles/IMAGES/10.jpg
+image: post/Articles/IMAGES/pythonstandardlibrary.png
 categories: 
 tags:
   - Cheatsheet
@@ -12,8 +12,12 @@ tags:
   - WebDevelopment
 weight: 30
 draft: false
-lastmod: 2025-01-31T17:37:21.226Z
+lastmod: 2025-02-07T18:32:41.185Z
 ---
+![](/post/Articles/IMAGES/pythonstandardlibrary.png)
+
+https://www.amazon.com/Python-Standard-Library-Nutshell-Handbooks/dp/0596000960
+
 ## Python Standard Library Overview
 
 ```python

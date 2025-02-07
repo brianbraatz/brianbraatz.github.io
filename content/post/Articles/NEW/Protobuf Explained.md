@@ -22,11 +22,11 @@ tags:
   - GoLang
 draft: false
 weight: 278
-lastmod: 2025-02-03T15:36:06.240Z
+lastmod: 2025-02-07T18:11:54.594Z
 ---
 # Protobuf: The Not-So-Secret Sauce Behind Efficient Data Serialization
 
-Ever tried sending a massive JSON file over the network and thought, "There has to be a better way"? W
+Ever tried sending a massive JSON file over the network and thought, "There has to be a better way"?
 
 ## What's Protobuf, Anyway?
 

@@ -3,14 +3,14 @@ title: Python Language Cheatsheet
 description: Python Language Cheatsheet
 slug: python-cheatsheet
 date: 2020-08-26
-image: post/Articles/IMAGES/9.jpg
+image: post/Articles/IMAGES/pythonlogo.png
 categories: 
 tags:
   - Python
   - Cheatsheet
   - WebDevelopment
 weight: 30
-lastmod: 2025-01-31T17:37:17.587Z
+lastmod: 2025-02-07T18:27:20.201Z
 ---
 ### Python Cheatsheet
 
