@@ -15,7 +15,7 @@ tags:
   - Tagging
 draft: false
 weight: 485
-lastmod: 2025-02-08T18:40:53.448Z
+lastmod: 2025-02-08T18:46:15.423Z
 ---
 # How to Auto-Tag Words in a Markdown File Using SED and AWK
 
@@ -229,7 +229,7 @@ with open("article_out.md", "w") as f:
 
 ***
 
-## **Final Thoughts**
+## **Current Thoughts**
 
 * **If speed is your goal**, use **SED + AWK** together.
 * **If accuracy & maintainability matter**, use **Python**.
