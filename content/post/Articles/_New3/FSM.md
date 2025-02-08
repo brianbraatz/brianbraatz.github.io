@@ -16,7 +16,7 @@ tags:
   - DesignPatterns
 draft: false
 weight: 152
-lastmod: 2025-02-07T17:52:27.570Z
+lastmod: 2025-02-08T18:39:08.641Z
 ---
 # Finite State Machines, History, Understanding How They Work, and Code Examples in Go, Python, C#, and C++
 
@@ -42,7 +42,7 @@ So grab a coffee, settle in, and let’s get started.
 
 Finite state machines have been around longer than your grandpa’s first calculator. The concept was formalized by **Warren McCulloch and Walter Pitts** in 1943 when they described neural networks using logic gates. Later, the idea of state machines was expanded by **John Myhill and Raymond Moore**, leading to what we now call **Mealy and Moore Machines**.
 
-TL;DR: Smart people figured out that a system could have different states and transition between them based on inputs. And here we are, still using that idea to control robots, games, and—most importantly—vending machines.
+Smart people figured out that a system could have different states and transition between them based on inputs. And here we are, still using that idea to control robots, games, and—most importantly—vending machines.
 
 ***
 
