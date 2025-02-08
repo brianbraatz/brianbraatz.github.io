@@ -1,21 +1,23 @@
 ---
-title: SED in a Nutshell
+title: SED in a Nutshell!!!!!!!!!
 description: SED in a Nutshell
 slug: sed-in-a-nutshell
 date: 2023-06-15
 image: post/Articles/IMAGES/27.jpg
-categories: []
+categories: 
 tags:
   - Sed
   - Linux
   - Unix
-  - Text Processing
-  - Command Line
+  - Text
+  - Processing
+  - Command
+  - Line
   - Automation
   - Regex
 draft: false
 weight: 273
-lastmod: 2025-02-08T18:38:19.288Z
+lastmod: 2025-02-08T22:52:22.873Z
 ---
 # SED in a Nutshell
 

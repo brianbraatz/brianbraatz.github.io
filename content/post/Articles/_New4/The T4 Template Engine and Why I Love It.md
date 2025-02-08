@@ -24,7 +24,7 @@ tags:
   - CodeGeneration
 draft: false
 weight: 371
-lastmod: 2025-02-08T19:31:52.197Z
+lastmod: 2025-02-08T19:35:00.363Z
 ---
 # T4 Template Engine and Why I Love It
 

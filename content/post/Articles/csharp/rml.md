@@ -1,10 +1,10 @@
 ---
-title: Threading Techniques with WPF and WinForms
-description: Thread UI tricks
+title: C# Threading Techniques with WPF and WinForms
+description: Thread UI tricks with .Net and C#
 slug: wpf-winforms-threads
 date: 2024-01-10
 image: post/Articles/IMAGES/20.jpg
-categories: []
+categories: 
 tags:
   - CSharp
   - Wpf
@@ -19,7 +19,7 @@ tags:
   - Performance
 draft: false
 weight: 30
-lastmod: 2025-02-02T14:17:10.752Z
+lastmod: 2025-02-08T19:35:15.524Z
 ---
 # Updating User Interfaces in WPF and WinForms with Threading Techniques
 
