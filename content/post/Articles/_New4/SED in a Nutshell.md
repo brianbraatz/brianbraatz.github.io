@@ -1,5 +1,5 @@
 ---
-title: SED in a Nutshell!!!!!!!!!
+title: SED in a Nutshell
 description: SED in a Nutshell
 slug: sed-in-a-nutshell
 date: 2023-06-15
@@ -17,7 +17,7 @@ tags:
   - Regex
 draft: false
 weight: 273
-lastmod: 2025-02-08T22:52:22.873Z
+lastmod: 2025-02-09T17:19:22.425Z
 ---
 # SED in a Nutshell
 

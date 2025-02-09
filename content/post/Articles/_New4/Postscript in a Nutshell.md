@@ -3,18 +3,19 @@ title: Postscript in a nutshell
 description: Intro to the PostScript Language
 slug: nutshell-ostscript-language
 date: 2022-12-03
-image: post/Articles/IMAGES/27.jpg
-categories: []
+image: post/Articles/IMAGES/postscriptlogo.png
+categories: 
 tags:
   - Postscript
-  - Laser Printers
+  - Laser
+  - Printers
   - PDF
   - Adobe
   - Programming
   - Printing
 draft: false
 weight: 342
-lastmod: 2025-02-08T19:30:17.638Z
+lastmod: 2025-02-09T17:54:19.754Z
 ---
 # Deep Dive into the PostScript Language
 

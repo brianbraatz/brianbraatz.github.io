@@ -3,7 +3,7 @@ title: The T4 Template Engine and Why I Love It
 description: Examples of Generating HTML, C#, Python, YAML and Postscript
 slug: t4-template-engine-and-why-i-love-it
 date: 2024-11-30
-image: post/Articles/IMAGES/12.jpg
+image: post/Articles/IMAGES/t4logo.png
 categories: 
 tags:
   - T4
@@ -24,7 +24,7 @@ tags:
   - CodeGeneration
 draft: false
 weight: 371
-lastmod: 2025-02-08T19:35:00.363Z
+lastmod: 2025-02-09T17:27:16.734Z
 ---
 # T4 Template Engine and Why I Love It
 
@@ -324,17 +324,18 @@ TextTransform.exe MyTemplate.tt -p TemplateInputTextProvidedByTheCaller="Hello W
 
 ***
 
-# T4 Template Engine and Why I Love It
+<!-- 
+# T4 Template Engine and Why I Love It  
 
-T4 Templates: The only thing that makes generating repetitive code **fun**!\
-If you don’t like writing **boilerplate code**, then T4 is about to be your new best friend.
+T4 Templates: The only thing that makes generating repetitive code **fun**!  
+If you don’t like writing **boilerplate code**, then T4 is about to be your new best friend.  
 
 This article shows **how to use T4 to generate**:
-
-* **HTML, PostScript, YAML, JSON, Python, and Golang files**
-* **How to pass parameters into templates**
-* **How to loop through arrays dynamically**
-* **How to run T4 on Linux**
+- **HTML, PostScript, YAML, JSON, Python, and Golang files**  
+- **How to pass parameters into templates**  
+- **How to loop through arrays dynamically**  
+- **How to run T4 on Linux**  
+-->
 
 ***
 

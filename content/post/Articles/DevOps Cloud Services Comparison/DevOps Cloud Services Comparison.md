@@ -1,7 +1,7 @@
 ---
 title: DevOps Cloud Services Comparison
-description: DevOps from Azure,Amazon Web Services (AWS) -Google Cloud Platform (GCP)
-slug: React-file-cheatsheet
+description: Cheact chseet compare of DevOps from Azure,Amazon Web Services (AWS) -Google Cloud Platform (GCP)
+slug: Devops-file-cheatsheet
 date: 2014-05-06
 image: post/Articles/IMAGES/clouds.png
 categories: 
@@ -16,7 +16,7 @@ tags:
   - Docker
 weight: 6
 draft: false
-lastmod: 2025-02-07T16:44:59.800Z
+lastmod: 2025-02-09T16:33:34.914Z
 ---
 <!-- 
 see also [Amazon AWS, Microsoft Azure, Google Cloud Cheat Sheet](post/Cloud/aws-azure-gcp-cheatsheet/index.md)

@@ -3,7 +3,7 @@ title: Understanding PostScript, TeX, and LaTeX
 description: Understanding How they work and may fit togeher
 slug: postscript-vs-tex-and-latex
 date: 2024-12-18
-image: post/Articles/IMAGES/17.jpg
+image: post/Articles/IMAGES/postscriptlogo.png
 categories: []
 tags:
   - PostScript
@@ -16,7 +16,7 @@ tags:
   - Printing
 draft: false
 weight: 276
-lastmod: 2025-02-08T19:04:15.763Z
+lastmod: 2025-02-09T17:54:26.187Z
 ---
 # PostScript, TeX and LaTeX: Understanding Their Differences and Interactions
 

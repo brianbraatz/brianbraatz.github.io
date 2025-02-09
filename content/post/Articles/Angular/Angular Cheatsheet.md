@@ -12,9 +12,9 @@ tags:
   - WebDevelopment
   - React
   - Javascript
-weight: 10
+weight: 290
 draft: false
-lastmod: 2025-02-03T13:18:37.584Z
+lastmod: 2025-02-09T16:32:48.271Z
 ---
 ### Angular Cheatsheet
 

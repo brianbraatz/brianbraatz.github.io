@@ -1,9 +1,9 @@
 ---
 title: "Cloud Messaging Comparison: AWS vs Azure vs Google Cloud"
-description: informal comparison of messaging services in AWS, Azure, and Google Cloud
-slug: cloud-messaging-battle-aws-vs-azure-vs-google-cloud
+description: Cheatsheet comparison of messaging services in AWS, Azure, and Google Cloud
+slug: cloud-messaging-aws-vs-azure-vs-google-cloud
 date: 2023-07-15
-image: post/Articles/IMAGES/4.jpg
+image: post/Articles/IMAGES/azure-aws-gcp-png.png
 categories: 
 tags:
   - Cloud
@@ -18,7 +18,7 @@ tags:
   - GCP
 draft: false
 weight: 378
-lastmod: 2025-02-03T15:08:39.613Z
+lastmod: 2025-02-09T17:41:34.167Z
 ---
 # Cloud Messaging Comparison: AWS vs Azure vs Google Cloud
 

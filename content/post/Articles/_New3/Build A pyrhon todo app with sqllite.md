@@ -3,8 +3,8 @@ title: Build a Python CLI Todo App with Click and SQLite
 description: Track your todos on the console..
 slug: build-cli-app-click-sqlite
 date: 2022-08-30
-image: post/Articles/IMAGES/27.jpg
-categories: []
+image: post/Articles/IMAGES/pythonclicklogo.png
+categories: 
 tags:
   - Python
   - CLI
@@ -14,7 +14,7 @@ tags:
   - Automation
 draft: true
 weight: 333
-lastmod: 2025-02-07T17:19:14.858Z
+lastmod: 2025-02-09T17:42:57.935Z
 ---
 # How to Build a Full CLI App with Click and SQLite
 

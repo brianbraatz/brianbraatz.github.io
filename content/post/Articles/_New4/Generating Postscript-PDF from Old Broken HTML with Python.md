@@ -3,7 +3,7 @@ title: Generating Postscript-PDF from Old Broken HTML with Python
 description: Python-Parsing Old and New HTML and Converting Into PDF Files
 slug: parsing-old-and-new-html-and-generating-postscript-to-pdf
 date: 2024-12-15
-image: post/Articles/IMAGES/14.jpg
+image: post/Articles/IMAGES/postscriptlogo.png
 categories: 
 tags:
   - Html
@@ -18,7 +18,7 @@ tags:
   - Python
 draft: false
 weight: 276
-lastmod: 2025-02-08T19:43:58.179Z
+lastmod: 2025-02-09T17:54:10.779Z
 ---
 ## The Nightmare: A Horde of Ancient HTML Files
 

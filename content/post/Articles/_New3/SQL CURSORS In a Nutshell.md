@@ -3,19 +3,20 @@ title: SQL CURSORS In a Nutshell
 description: Code Examples in MSSQL, MySql and Postgres
 slug: sql-cursors-history-motivation-understanding
 date: 2022-07-03
-image: post/Articles/IMAGES/12.jpg
-categories: []
+image: post/Articles/IMAGES/sqlquerysyntax.png
+categories: 
 tags:
   - SQL
   - Cursors
   - Databases
-  - Stored Procedures
+  - Stored
+  - Procedures
   - MSSQL
   - MySQL
   - PostgreSQL
 draft: false
 weight: 354
-lastmod: 2025-02-07T17:36:59.175Z
+lastmod: 2025-02-09T17:25:18.811Z
 ---
 # SQL CURSORS: The History and Motivation, Understanding How They Work
 

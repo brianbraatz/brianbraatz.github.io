@@ -1,6 +1,6 @@
 ---
 title: "AI Comparison: Amazon SageMaker vs Azure ML vs Google Vertex AI"
-description: informal comparison of AI services from AWS, Azure and GCP
+description: Cheatsheet comparison of AI services from AWS, Azure and GCP
 slug: ai-smackdown-amazon-sagemaker-vs-azure-ml-vs-google-vertex-ai
 date: 2023-07-15
 image: post/Articles/IMAGES/terminator.jpg
@@ -17,7 +17,7 @@ tags:
   - MachineLearning
 draft: false
 weight: 378
-lastmod: 2025-02-03T13:58:12.626Z
+lastmod: 2025-02-09T14:36:16.256Z
 ---
 # AI Comparison: Amazon SageMaker vs Azure ML vs Google Vertex AI
 

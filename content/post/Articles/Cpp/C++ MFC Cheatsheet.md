@@ -10,9 +10,9 @@ tags:
   - CPP
   - MFC
   - CPP-MFC
-weight: 30
+weight: 180
 draft: false
-lastmod: 2025-02-07T18:06:37.102Z
+lastmod: 2025-02-09T16:32:57.008Z
 ---
 ## MFC Cheatsheet
 

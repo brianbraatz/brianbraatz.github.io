@@ -13,13 +13,8 @@ tags:
   - MicroServices
 weight: 10
 draft: false
-lastmod: 2025-02-01T19:33:52.778Z
+lastmod: 2025-02-09T16:32:17.841Z
 ---
-<!--
-
-https://chatgpt.com/c/679d3189-01fc-8008-87ee-fce18cc2b62d
--->
-
 ## GO OUT AND LEARN THIIS LANGUAGE NOW!
 
 # Go in a Nutshell
@@ -210,7 +205,7 @@ Go is a powerful, efficient, and simple language, designed with modern software 
 <!-- 
 
 
-https://chatgpt.com/c/679d3189-01fc-8008-87ee-fce18cc2b62d
+
 
 # Go in a Nutshell
 

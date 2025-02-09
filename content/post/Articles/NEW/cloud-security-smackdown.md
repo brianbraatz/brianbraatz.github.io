@@ -1,6 +1,6 @@
 ---
 title: "Cloud Security Comparison: AWS vs Azure vs Google Cloud"
-description: Informal comparison of security services in AWS, Azure, and Google Cloud, including IAM, compliance, and encryption.
+description: Cheatsheet comparison of security services in AWS, Azure, and Google Cloud, including IAM, compliance, and encryption.
 slug: cloud-security-smackdown-aws-vs-azure-vs-google-cloud
 date: 2023-07-15
 image: post/Articles/IMAGES/Cybersecuritywide.png
@@ -18,7 +18,7 @@ tags:
   - GCP
 draft: false
 weight: 378
-lastmod: 2025-02-03T15:08:33.834Z
+lastmod: 2025-02-09T14:35:17.065Z
 ---
 # Cloud Security Smackdown: AWS vs Azure vs Google Cloud
 

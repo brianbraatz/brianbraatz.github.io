@@ -1,6 +1,6 @@
 ---
 title: "Cloud Authentication Comparison: AWS vs Azure vs Google Cloud"
-description: informal comparison of authentication methods in AWS, Azure, and Google Cloud, including code samples in Python and C#.
+description: Cheatsheet comparison of authentication methods in AWS, Azure, and Google Cloud, including code samples in Python and C#.
 slug: cloud-authentication-smackdown-aws-vs-azure-vs-google-cloud
 date: 2023-07-15
 image: post/Articles/IMAGES/boxoflocks.jpg
@@ -20,7 +20,7 @@ tags:
   - GCP
 draft: false
 weight: 378
-lastmod: 2025-02-03T15:18:01.747Z
+lastmod: 2025-02-09T14:35:04.057Z
 ---
 # Cloud Authentication Comparison: AWS vs Azure vs Google Cloud
 

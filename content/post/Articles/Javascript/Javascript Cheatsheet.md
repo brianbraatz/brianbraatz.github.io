@@ -10,9 +10,9 @@ tags:
   - React
   - Javascript
   - WebDevelopment
-weight: 10
+weight: 80
 draft: false
-lastmod: 2025-02-01T19:30:15.833Z
+lastmod: 2025-02-09T16:33:58.595Z
 ---
 ## Javascript Cheatsheet
 

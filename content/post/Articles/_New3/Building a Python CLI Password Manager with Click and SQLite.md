@@ -3,8 +3,8 @@ title: Building a Python CLI Password Manager with Click and SQLite
 description: "Because command line apps that use sql are fun :) "
 slug: cli-password-manager-click-sqlite
 date: 2023-07-22
-image: post/Articles/IMAGES/18.jpg
-categories: []
+image: post/Articles/IMAGES/pythonclicklogo.png
+categories: 
 tags:
   - Python
   - CLI
@@ -14,7 +14,7 @@ tags:
   - Automation
 draft: false
 weight: 346
-lastmod: 2025-02-07T17:08:48.380Z
+lastmod: 2025-02-09T17:22:55.430Z
 ---
 # Building a CLI Password Manager with Click and SQLite
 

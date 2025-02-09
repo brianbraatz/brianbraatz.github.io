@@ -3,7 +3,7 @@ title: Silverlight Conversion to Angular with the T4 Template Engine
 description: Silverlight Conversion Can also work wth WPF-Maui-XAML
 slug: silverlight-conversion-angular-t4
 date: 2021-12-03
-image: post/Articles/IMAGES/27.jpg
+image: post/Articles/IMAGES/t4logo.png
 categories: 
 tags:
   - Maui
@@ -20,7 +20,7 @@ tags:
   - CSharp
 draft: false
 weight: 312
-lastmod: 2025-02-08T22:51:12.240Z
+lastmod: 2025-02-09T17:54:44.315Z
 ---
 # Maui-WPF-XAML-Silverlight Conversion to Angular with the T4 Template Engine
 
@@ -55,7 +55,7 @@ The Basic Plan was This
 
 This is not a 100% solutuion, but it does end up with an **Angular** project that has ALOT of the boring work done..
 
-With this project - you wan run the whole thin and attack one screen at a time, manually porting over the code..
+With this project - you can mostly live in the converted angular project, and attack one screen at a time, manually porting over the code..
 
 The goal is to give the programmer a decent starting point and eemoved alot of inefficient time copying and pasting etc...
 

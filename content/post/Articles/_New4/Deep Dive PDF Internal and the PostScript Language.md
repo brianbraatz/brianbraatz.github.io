@@ -3,19 +3,20 @@ title: Deep Dive PDF Internals and the PostScript Language
 description: Exploring PostScript....
 slug: deep-dive-into-pdf-internals-and-postscript-language
 date: 2025-12-07
-image: post/Articles/IMAGES/32.jpg
-categories: []
+image: post/Articles/IMAGES/postscriptlogo.png
+categories: 
 tags:
   - PDF
   - PostScript
   - Adobe
   - Printing
-  - Document Formats
+  - Document
+  - Formats
   - History
   - Programming
 draft: false
 weight: 314
-lastmod: 2025-02-08T18:58:49.854Z
+lastmod: 2025-02-09T17:54:01.752Z
 ---
 # Deep Dive into PDF Internals and the PostScript Language
 

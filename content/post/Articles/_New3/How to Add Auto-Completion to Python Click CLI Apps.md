@@ -3,8 +3,8 @@ title: How to Add Auto-Completion to Python Click CLI Apps
 description: Where would we be without autocompletion?
 slug: auto-completion-click-cli
 date: 2021-05-10
-image: post/Articles/IMAGES/4.jpg
-categories: []
+image: post/Articles/IMAGES/pythonclicklogo.png
+categories: 
 tags:
   - Python
   - CLI
@@ -14,7 +14,7 @@ tags:
   - Development
 draft: false
 weight: 480
-lastmod: 2025-02-07T17:12:47.002Z
+lastmod: 2025-02-09T17:43:21.206Z
 ---
 # How to Add Auto-Completion to Click CLI Apps
 
