@@ -4,7 +4,13 @@ description: in AWS, Azure, and Google Cloud
 slug: docker-scale-microservices
 date: 2020-12-05
 image: post/Articles/IMAGES/docker1.jpg
-categories: 
+categories:
+  - Docker
+  - Microservices
+  - Cloud
+  - Microsoft Azure Cloud
+  - Amazon Cloud-AWS
+  - Google Cloud-GCP
 tags:
   - Docker
   - Microservices
@@ -23,7 +29,7 @@ tags:
   - Native
 draft: false
 weight: 176
-lastmod: 2025-02-10T15:23:06.584Z
+lastmod: 2025-02-10T18:00:57.623Z
 ---
 <!--
 # How to Horizontally Scale Docker Microservices in AWS, Azure, and Google Cloud: Techniques and Comparisons

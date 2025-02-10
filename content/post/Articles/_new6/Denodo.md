@@ -4,7 +4,11 @@ description: Understanding Denodo + Data Virtualization and Its Alternatives
 slug: denodo-in-depth:-understanding-data-virtualization-and-its-alternatives
 date: 2020-01-21
 image: post/Articles/IMAGES/denodologo.png
-categories: 
+categories:
+  - Denodo
+  - Cloud
+  - Data Virtualization
+  - SQL
 tags:
   - Denodo
   - Data
@@ -22,7 +26,7 @@ tags:
   - Analytics
 draft: false
 weight: 370
-lastmod: 2025-02-10T15:38:23.396Z
+lastmod: 2025-02-10T18:10:04.208Z
 ---
 # Denodo In-Depth: Understanding Data Virtualization and Its Alternatives
 

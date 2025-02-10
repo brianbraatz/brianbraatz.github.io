@@ -4,7 +4,11 @@ description: Hardcore Parallel Programming ...
 slug: openmp-in-detail:-history-motivation-relationship-to-modern-languages-and-10-code-examples
 date: 2021-04-16
 image: post/Articles/IMAGES/openmplogo.png
-categories: 
+categories:
+  - OpenMP
+  - Languages
+  - Concurrency
+  - Cloud
 tags:
   - Openmp
   - Parallel
@@ -22,7 +26,7 @@ tags:
   - Comparison
 draft: false
 weight: 320
-lastmod: 2025-02-10T15:30:49.769Z
+lastmod: 2025-02-10T18:08:29.783Z
 ---
 <!--
 # OpenMP in Detail: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

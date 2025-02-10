@@ -4,7 +4,10 @@ description: How to use VNC with command line cheatsheet
 slug: how-the-vnc-protocol-works:-history-relationship-to-alternatives-and-10-code-examples
 date: 2024-05-13
 image: post/Articles/IMAGES/vnc.png
-categories: 
+categories:
+  - VNC
+  - RDP
+  - Networking
 tags:
   - Vnc
   - Remote
@@ -21,7 +24,7 @@ tags:
   - Virtualization
 draft: false
 weight: 376
-lastmod: 2025-02-10T14:59:10.874Z
+lastmod: 2025-02-10T18:10:24.223Z
 ---
 <!--
 # How the VNC Protocol Works: History, Relationship to Alternatives, and 10 Code Examples

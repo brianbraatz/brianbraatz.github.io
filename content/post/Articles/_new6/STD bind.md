@@ -4,25 +4,25 @@ description: Relationship to Boost Bind, and Code Examples
 slug: cpp-bind
 date: 2017-03-18
 image: post/Articles/IMAGES/cppblue.png
-categories: 
+categories:
+  - CPP
+  - Template Programming
+  - CPP-STL
+  - CPP 11
 tags:
-  - C++
   - Bind
   - Boost
   - Bind
   - Functional
   - Programming
   - Modern
-  - C++
-  - C++11
-  - C++14
   - Lambda
   - Functions
   - Syntax
   - Comparison
 draft: false
 weight: 285
-lastmod: 2025-02-10T15:29:35.534Z
+lastmod: 2025-02-10T18:06:53.188Z
 ---
 <!--
 # C++ Bind in Detail: History, Relationship to Boost Bind, Motivation, and 10 Code Examples

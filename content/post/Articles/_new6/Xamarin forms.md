@@ -4,7 +4,18 @@ description: Which One Should You Choose?
 slug: xamarinforms-vs-xamarinnative:-which-one-should-you-choose
 date: 2017-01-19
 image: post/Articles/IMAGES/xmarinlogo.png
-categories: 
+categories:
+  - XAML
+  - Xamarin
+  - WPF
+  - Xamarin Forms
+  - Xamarin Native
+  - Cross Platform
+  - Android
+  - IOS
+  - iPhone
+  - Windows
+  - Mac OS
 tags:
   - Xamarin
   - Mobile
@@ -20,7 +31,7 @@ tags:
   - Structure
 draft: false
 weight: 233
-lastmod: 2025-02-10T16:35:46.473Z
+lastmod: 2025-02-10T18:03:06.423Z
 ---
 <!--
 

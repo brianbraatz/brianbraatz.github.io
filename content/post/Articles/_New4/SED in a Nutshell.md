@@ -4,7 +4,12 @@ description: SED in a Nutshell
 slug: sed-in-a-nutshell
 date: 2023-06-15
 image: post/Articles/IMAGES/27.jpg
-categories: 
+categories:
+  - SED
+  - Unix
+  - Linux
+  - Mac OS
+  - Scripting
 tags:
   - Sed
   - Linux
@@ -17,7 +22,7 @@ tags:
   - Regex
 draft: false
 weight: 273
-lastmod: 2025-02-09T17:19:22.425Z
+lastmod: 2025-02-10T18:05:04.483Z
 ---
 # SED in a Nutshell
 

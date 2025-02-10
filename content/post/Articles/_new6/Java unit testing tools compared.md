@@ -4,7 +4,9 @@ description: Comparison of JUnit, TestNG, Mockito, PowerMock, JMockit, Arquillia
 slug: junit-testng-mockito-powermock-jmockit-arquillian-and-dbunit
 date: 2020-03-31
 image: https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg
-categories: 
+categories:
+  - Java
+  - Unit Testing
 tags:
   - Unit
   - Testing
@@ -23,7 +25,7 @@ tags:
   - Testing
 draft: false
 weight: 466
-lastmod: 2025-02-10T14:24:23.847Z
+lastmod: 2025-02-10T18:14:21.026Z
 ---
 <!-- 
 # History and In-Depth Comparison with Code Examples of JUnit, TestNG, Mockito, PowerMock, JMockit, Arquillian, and DbUnit for More Effective Unit Testing in Java

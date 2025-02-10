@@ -4,7 +4,11 @@ description: Comparison of Business Intelligence Tools
 slug: power-bi-vs-looker:-a-comprehensive-comparison-of-business-intelligence-tools
 date: 2020-06-22
 image: post/Articles/IMAGES/powerbi.png
-categories: 
+categories:
+  - Power BI
+  - Business Intelligence Tools
+  - SQL
+  - Looker
 tags:
   - Power
   - Bi
@@ -22,7 +26,7 @@ tags:
   - Google
 draft: false
 weight: 395
-lastmod: 2025-02-10T14:46:17.375Z
+lastmod: 2025-02-10T18:11:49.282Z
 ---
 <!-- 
 # Power BI vs Looker: A Comprehensive Comparison of Business Intelligence Tools

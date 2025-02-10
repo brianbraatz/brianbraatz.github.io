@@ -4,7 +4,13 @@ description: OLTP (Online Transaction Processing) and OLAP (Online Analytical Pr
 slug: understanding-oltp-and-olap
 date: 2024-11-14
 image: post/Articles/IMAGES/olapoltp.png
-categories: 
+categories:
+  - OLTP
+  - OLAP
+  - SQL
+  - MySql
+  - Microsoft Sql Server
+  - Postgres Sql
 tags:
   - Oltp
   - Olap
@@ -22,7 +28,7 @@ tags:
   - Databases
 draft: false
 weight: 274
-lastmod: 2025-02-10T14:39:38.265Z
+lastmod: 2025-02-10T18:05:31.209Z
 ---
 <!--
 # Understanding OLTP and OLAP

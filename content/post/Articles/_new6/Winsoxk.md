@@ -4,7 +4,12 @@ description: History of this interesting API...
 slug: winsock api
 date: 2009-05-15
 image: post/Articles/IMAGES/winsock.png
-categories: 
+categories:
+  - Networking
+  - Windows
+  - Windows API
+  - Protocols
+  - History
 tags:
   - Winsock
   - Windows
@@ -21,7 +26,7 @@ tags:
   - Client-Server
 draft: false
 weight: 213
-lastmod: 2025-02-10T15:25:43.707Z
+lastmod: 2025-02-10T18:02:12.178Z
 ---
 <!--
 

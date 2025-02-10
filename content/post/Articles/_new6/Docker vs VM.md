@@ -4,7 +4,14 @@ description: Explaining the Difference Between a Docker Container and a Virtual 
 slug: what's-the-difference-between-a-docker-container-and-a-virtual-machine
 date: 2021-11-16
 image: post/Articles/IMAGES/docker1.jpg
-categories: 
+categories:
+  - Docker
+  - Containers
+  - Hyper-V
+  - Hyper Visor
+  - Windows
+  - Virtual Machines
+  - Cloud
 tags:
   - Docker
   - Virtual
@@ -20,7 +27,7 @@ tags:
   - Linux
 draft: false
 weight: 297
-lastmod: 2025-02-10T13:57:12.621Z
+lastmod: 2025-02-10T18:07:46.262Z
 ---
   <!--
 

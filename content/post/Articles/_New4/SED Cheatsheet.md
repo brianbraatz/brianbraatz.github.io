@@ -4,17 +4,25 @@ description: A quick reference table for SED commands
 slug: sed-reference-table
 date: 2023-06-15
 image: post/Articles/IMAGES/12.jpg
-categories: []
+categories:
+  - SED
+  - AWK
+  - Unix
+  - Linux
+  - Mac OS
+  - Scripting
 tags:
   - Sed
   - Linux
   - Unix
-  - Command Line
-  - Text Processing
+  - Command
+  - Line
+  - Text
+  - Processing
   - Reference
 draft: false
 weight: 198
-lastmod: 2025-02-08T18:20:26.894Z
+lastmod: 2025-02-10T18:01:47.995Z
 ---
 # SED Reference Table
 

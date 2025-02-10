@@ -4,7 +4,11 @@ description: The Visual Basic 6 Programming Language Explained
 slug: the-visual-basic-6-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
 date: 2022-11-15
 image: post/Articles/IMAGES/vb6.png
-categories: 
+categories:
+  - Visual Basic 6
+  - Languages
+  - History
+  - Windows
 tags:
   - Visual
   - Basic
@@ -25,7 +29,7 @@ tags:
   - Comparison
 draft: false
 weight: 370
-lastmod: 2025-02-10T15:37:52.618Z
+lastmod: 2025-02-10T18:09:31.384Z
 ---
 <!--
 # The Visual Basic 6 Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

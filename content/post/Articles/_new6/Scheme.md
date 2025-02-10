@@ -4,7 +4,10 @@ description: The Scheme Programming Language Explored
 slug: the-scheme-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
 date: 2020-11-15
 image: post/Articles/IMAGES/schemelogo.png
-categories: 
+categories:
+  - Languages
+  - Scheme
+  - History
 tags:
   - Scheme
   - Lisp
@@ -22,7 +25,7 @@ tags:
   - Comparison
 draft: false
 weight: 129
-lastmod: 2025-02-10T15:16:37.057Z
+lastmod: 2025-02-10T17:57:35.080Z
 ---
 <!-- 
 # The Scheme Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

@@ -4,7 +4,11 @@ description: "The Haskell Programming Language: History, Motivation, Relationshi
 slug: the-haskell-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
 date: 2021-09-20
 image: post/Articles/IMAGES/Haskell.png
-categories: 
+categories:
+  - Haskell
+  - Languages
+  - History
+  - Functional Programming
 tags:
   - Haskell
   - Functional
@@ -24,7 +28,7 @@ tags:
   - Comparison
 draft: false
 weight: 335
-lastmod: 2025-02-10T15:36:16.109Z
+lastmod: 2025-02-10T18:08:54.677Z
 ---
 <!--
 

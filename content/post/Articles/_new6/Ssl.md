@@ -4,7 +4,9 @@ description: SSL Explained
 slug: ssl-in-detail:-relationship-to-certificates-history-alternatives-and-10-code-examples
 date: 2021-05-31
 image: post/Articles/IMAGES/ssl.png
-categories: 
+categories:
+  - Web Development
+  - Security
 tags:
   - Ssl
   - Tls
@@ -19,7 +21,7 @@ tags:
   - Certificates
 draft: false
 weight: 126
-lastmod: 2025-02-10T15:15:40.351Z
+lastmod: 2025-02-10T17:57:08.007Z
 ---
 <!--
 

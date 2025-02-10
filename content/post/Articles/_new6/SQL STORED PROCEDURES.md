@@ -4,7 +4,14 @@ description: Explains this Pattern and How to Generate CRUD for MySQL, SQL Serve
 slug: sql-crud-design-pattern-with-stored-procedures:-history-usage-pros-and-cons-with-alternatives-and-how-to-generate-crud-stored-procedures-with-mysql-sql-server-and-postgresql-using-python
 date: 2020-10-03
 image: post/Articles/IMAGES/sql.png
-categories: 
+categories:
+  - SQL
+  - Python
+  - Scripting
+  - Unit Testing
+  - MySql
+  - Microsoft Sql Server
+  - Postgres Sql
 tags:
   - Sql
   - Stored
@@ -26,7 +33,7 @@ tags:
   - Schema
 draft: false
 weight: 106
-lastmod: 2025-02-10T13:39:34.912Z
+lastmod: 2025-02-10T17:55:50.717Z
 ---
 <!--
 

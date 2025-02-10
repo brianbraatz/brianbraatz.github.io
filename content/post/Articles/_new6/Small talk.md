@@ -4,7 +4,10 @@ description: The Smalltalk Programming Language Explored
 slug: the-smalltalk-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
 date: 2024-06-17
 image: post/Articles/IMAGES/smalltalklogo.png
-categories: 
+categories:
+  - Languages
+  - Smalltalk
+  - History
 tags:
   - Smalltalk
   - Programming
@@ -24,7 +27,7 @@ tags:
   - Comparison
 draft: false
 weight: 248
-lastmod: 2025-02-10T15:26:47.423Z
+lastmod: 2025-02-10T18:03:57.558Z
 ---
 <!--
 # The Smalltalk Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

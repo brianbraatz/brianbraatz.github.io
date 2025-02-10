@@ -4,7 +4,10 @@ description: Examining one of the oldest programming languages still in use toda
 slug: the-lisp-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
 date: 2022-12-21
 image: post/Articles/IMAGES/lisplogo.png
-categories: 
+categories:
+  - LISP
+  - Languages
+  - History
 tags:
   - Lisp
   - Programming
@@ -23,7 +26,7 @@ tags:
   - Comparison
 draft: false
 weight: 308
-lastmod: 2025-02-10T15:30:11.355Z
+lastmod: 2025-02-10T18:08:08.239Z
 ---
 <!--
 # The Lisp Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

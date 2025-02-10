@@ -4,7 +4,11 @@ description: How HTTPS works
 slug: how-the-https-network-protocol-works:-history-relationship-to-alternatives-and-10-code-examples
 date: 2022-09-02
 image: post/Articles/IMAGES/https.png
-categories: 
+categories:
+  - Web Development
+  - Networking
+  - Security
+  - Protocols
 tags:
   - Https
   - Tls
@@ -20,7 +24,7 @@ tags:
   - Communication
 draft: false
 weight: 165
-lastmod: 2025-02-10T15:21:27.278Z
+lastmod: 2025-02-10T18:00:02.295Z
 ---
 <!--
 

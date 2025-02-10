@@ -4,7 +4,10 @@ description: Understanding the Levels of Normalization in SQL
 slug: understanding-the-levels-of-normalization-in-sql
 date: 2024-02-03
 image: post/Articles/IMAGES/sql.png
-categories: 
+categories:
+  - SQL
+  - Design Patterns
+  - Software Architecture
 tags:
   - Sql
   - Database
@@ -29,7 +32,7 @@ tags:
   - Optimization
 draft: false
 weight: 250
-lastmod: 2025-02-10T15:27:05.805Z
+lastmod: 2025-02-10T18:04:18.524Z
 ---
 <!--
 

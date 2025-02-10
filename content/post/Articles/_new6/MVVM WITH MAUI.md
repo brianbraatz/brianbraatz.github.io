@@ -4,7 +4,16 @@ description: Alternatives Explored and Compared with Code Examples
 slug: should-you-use-mvvm-with-maui-alternatives-explored-and-compared-with-code-examples
 date: 2022-06-15
 image: post/Articles/IMAGES/mvvm.png
-categories: 
+categories:
+  - CSharp
+  - WPF
+  - Maui
+  - Design Patterns
+  - Model-View-View Model Pattern-MVVM
+  - Model View Controller-MVC
+  - Model View Presenter-MVP
+  - DotNet
+  - GUI
 tags:
   - Mvvm
   - Maui
@@ -24,7 +33,7 @@ tags:
   - Patterns
 draft: false
 weight: 460
-lastmod: 2025-02-10T14:36:33.021Z
+lastmod: 2025-02-10T18:13:56.623Z
 ---
 <!--
 # Should You Use MVVM with MAUI? Alternatives Explored and Compared with Code Examples

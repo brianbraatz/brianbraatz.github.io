@@ -4,7 +4,13 @@ description: Testing and How to Structure Your Project
 slug: best-unit-testing-strategies-for-maui:-alternatives-and-how-to-structure-your-project
 date: 2022-04-21
 image: post/Articles/IMAGES/mauilogo1.png
-categories: 
+categories:
+  - WPF
+  - XAML
+  - Maui
+  - Unit Testing
+  - CSharp
+  - DotNet
 tags:
   - Unit
   - Testing
@@ -24,7 +30,7 @@ tags:
   - Testing
 draft: false
 weight: 246
-lastmod: 2025-02-10T15:26:19.418Z
+lastmod: 2025-02-10T18:03:42.647Z
 ---
 <!--
 # Best Unit Testing Strategies for MAUI: Alternatives and How to Structure Your Project

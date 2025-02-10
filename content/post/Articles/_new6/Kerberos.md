@@ -4,7 +4,11 @@ description: Understanding this secure, ticket-based authentication system
 slug: kerberos-in-detail:-relationship-to-active-directory-history-alternatives-and-10-code-examples
 date: 2022-12-10
 image: post/Articles/IMAGES/kerberos.png
-categories: 
+categories:
+  - Web Development
+  - Networking
+  - Security
+  - Kerberos
 tags:
   - Kerberos
   - Active
@@ -20,7 +24,7 @@ tags:
   - Ldap
 draft: false
 weight: 126
-lastmod: 2025-02-10T15:15:11.208Z
+lastmod: 2025-02-10T17:56:31.150Z
 ---
 <!-- 
 # Kerberos in Detail: Relationship to Active Directory, History, Alternatives, and 10 Code Examples

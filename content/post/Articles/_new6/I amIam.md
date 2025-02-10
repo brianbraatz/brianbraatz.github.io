@@ -4,7 +4,10 @@ description: "How the IAM Protocol Works: History, Relationship to Alternatives,
 slug: how-the-iam-protocol-works:-history-relationship-to-alternatives-and-10-code-examples
 date: 2023-07-14
 image: post/Articles/IMAGES/iamlogo.png
-categories: 
+categories:
+  - Networking
+  - Identity and access management-IAM
+  - Security
 tags:
   - Iam
   - Identity
@@ -22,7 +25,7 @@ tags:
   - Sso
 draft: false
 weight: 284
-lastmod: 2025-02-10T15:28:44.545Z
+lastmod: 2025-02-10T18:05:55.847Z
 ---
 <!--
 # How the IAM Protocol Works: History, Relationship to Alternatives, and 10 Code Examples

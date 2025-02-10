@@ -4,7 +4,14 @@ description: Intro to X Windows - with command line Cheat sheet
 slug: how-the-x-windows-protocol-works:-history-relationship-to-alternatives-and-10-code-examples
 date: 2021-10-28
 image: post/Articles/IMAGES/xwindowslogo.png
-categories: 
+categories:
+  - XWIndows
+  - RDP
+  - SSH
+  - Linux
+  - Unix
+  - Protocols
+  - Cloud
 tags:
   - X11
   - X
@@ -20,7 +27,7 @@ tags:
   - Networking
 draft: false
 weight: 422
-lastmod: 2025-02-10T15:42:07.405Z
+lastmod: 2025-02-10T18:12:34.050Z
 ---
 <!--
 # How the X Windows Protocol Works: History, Relationship to Alternatives, and 10 Code Examples

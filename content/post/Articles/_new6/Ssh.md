@@ -4,7 +4,15 @@ description: SSH Explained
 slug: how-the-ssh-protocol-works:-history-relationship-to-alternatives-and-10-code-examples
 date: 2021-06-11
 image: post/Articles/IMAGES/ssh.png
-categories: 
+categories:
+  - SSH
+  - Remote Shell
+  - Linux
+  - Unix
+  - Mac OS
+  - Scripting
+  - Cloud
+  - Docker
 tags:
   - Ssh
   - Secure
@@ -21,7 +29,7 @@ tags:
   - Scripting
 draft: false
 weight: 391
-lastmod: 2025-02-10T15:39:27.583Z
+lastmod: 2025-02-10T18:11:03.405Z
 ---
 <!--
 # How the SSH Protocol Works: History, Relationship to Alternatives, and 10 Code Examples
