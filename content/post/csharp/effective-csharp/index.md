@@ -4,7 +4,10 @@ description: Slides for my talk on Effective C#
 slug: effective-csharp-talk
 date: 2004-05-06
 image: post/Articles/IMAGES/csharpblue.png
-categories: 
+categories:
+  - CSharp
+  - DotNet
+  - Performance Optimization
 tags:
   - CSharp
   - DotNet
@@ -13,7 +16,7 @@ tags:
   - WPF
 weight: 2
 published: 2001-01-01
-lastmod: 2025-01-31T22:28:18.876Z
+lastmod: 2025-02-09T23:22:18.782Z
 ---
 <!-- ecsharpcover.png --> 
 

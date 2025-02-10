@@ -4,16 +4,20 @@ description: TCP/IP Subnet Masking Explained
 slug: tcp-ip-subnet-masking-explained
 date: 2022-08-05
 image: post/Articles/IMAGES/16.jpg
-categories: []
+categories:
+  - Internet standards
+  - Networking
+  - Protocols
 tags:
   - TCP/IP
   - Subnetting
   - Networking
-  - IP Addressing
+  - IP
+  - Addressing
   - CIDR
 draft: false
 weight: 155
-lastmod: 2025-02-02T18:10:42.195Z
+lastmod: 2025-02-09T23:10:15.932Z
 ---
 # TCP/IP Subnet Masking Explained
 

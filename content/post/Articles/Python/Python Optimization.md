@@ -4,7 +4,9 @@ description: Common Python Performance Problems and How to Solve Them
 slug: common-performance-problems-in-python-and-how-to-solve-them
 date: 2023-11-30
 image: post/Articles/IMAGES/32.jpg
-categories: []
+categories:
+  - Python
+  - Performance Optimization
 tags:
   - Performance
   - Optimization
@@ -13,7 +15,7 @@ tags:
   - Programming
 draft: false
 weight: 30
-lastmod: 2025-02-02T01:28:47.698Z
+lastmod: 2025-02-09T23:13:10.257Z
 ---
 # Common Performance Problems in Python and How to Solve Them
 

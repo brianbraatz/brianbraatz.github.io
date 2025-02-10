@@ -4,7 +4,10 @@ description: Intro into how JSON Web Tokens JWT works
 slug: jwt-in-a-nutshell
 date: 2024-12-15
 image: post/Articles/IMAGES/jwtlogo.jpg
-categories: []
+categories:
+  - Cloud
+  - Security
+  - JWT
 tags:
   - JWT
   - Authentication
@@ -18,7 +21,7 @@ tags:
   - Cloud
 draft: false
 weight: 378
-lastmod: 2025-02-06T21:22:49.270Z
+lastmod: 2025-02-09T22:28:02.070Z
 ---
 # JWT in a Nutshell
 

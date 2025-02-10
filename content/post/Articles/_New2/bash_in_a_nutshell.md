@@ -4,7 +4,11 @@ description: Intro to the Bash Shell
 slug: bash-in-a-nutshell
 date: 2023-07-15
 image: post/Articles/IMAGES/bashshell.png
-categories: 
+categories:
+  - Bash
+  - Scripting
+  - Linux
+  - Unix
 tags:
   - Bash
   - Shell
@@ -14,7 +18,7 @@ tags:
   - Unix
 draft: false
 weight: 30
-lastmod: 2025-02-05T17:01:15.011Z
+lastmod: 2025-02-09T20:15:26.906Z
 ---
 # BASH in a Nutshell
 

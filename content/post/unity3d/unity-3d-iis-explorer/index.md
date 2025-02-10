@@ -4,14 +4,25 @@ description: ISS Flying Explorer- Unity 3D - C#
 slug: unity3d-iss-explorer
 date: 2012-03-06 00:00:00+0000
 image: unityiiscover.png
-categories: []
+categories:
+  - Unity 3D Engine
+  - CSharp
+  - Cross Platform
+  - Web Development
+  - Mobile
+  - IOS
+  - iPhone
+  - Android
+  - Cloud
+  - Cloud-Real Time Multi User
+  - Snap Dragon Embedded Processor
 tags:
   - DotNet
   - CSharp
   - Cross-Platform
   - Unity3D
 weight: 5
-lastmod: 2025-01-29T20:09:16.233Z
+lastmod: 2025-02-09T23:46:20.669Z
 ---
 [International Space Station-Wikipedia](https://en.wikipedia.org/wiki/International_Space_Station)
 

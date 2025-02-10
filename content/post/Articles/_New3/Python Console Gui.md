@@ -4,7 +4,15 @@ description: Review of command line menu systems for Python
 slug: best-python-cli-menu-libraries
 date: 2023-06-18
 image: post/Articles/IMAGES/37.jpg
-categories: 
+categories:
+  - Python
+  - Python-Curses
+  - GUI
+  - Python-Prompt Toolkit
+  - Python-PyInquirer
+  - Python-Questionary
+  - Python-Rich
+  - Python-Click
 tags:
   - Python
   - CLI
@@ -14,7 +22,7 @@ tags:
   - Automation
 draft: false
 weight: 312
-lastmod: 2025-02-07T17:06:13.930Z
+lastmod: 2025-02-09T20:31:53.294Z
 ---
 If you're tired of writing boring `input()` prompts and want to build **interactive command-line menus** that don’t feel like they're from 1995, you’re in the right place.
 

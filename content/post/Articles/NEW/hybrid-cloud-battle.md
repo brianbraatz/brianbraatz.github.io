@@ -4,21 +4,35 @@ description: informal comparison of  AWS Outposts, Azure Arc, Azure Stack, and G
 slug: hybrid-cloud-battle
 date: 2021-01-22
 image: post/Articles/IMAGES/5.jpg
-categories: []
+categories:
+  - Cloud
+  - Amazon Cloud-AWS
+  - Microsoft Azure Cloud
+  - Google Cloud-GCP
+  - AWS Outposts
+  - AWS Local Zones
+  - Azure Arc
+  - Azure Stack
+  - Google Anthos
+  - Kubernetes
 tags:
-  - Hybrid Cloud
+  - Hybrid
+  - Cloud
   - AWS
   - Azure
-  - Google Cloud
+  - Google
+  - Cloud
   - Outposts
-  - Azure Arc
+  - Azure
+  - Arc
   - Anthos
   - Docker
   - Kubernetes
   - Cloud
+  - Cloud-Hybrid
 draft: false
 weight: 388
-lastmod: 2025-02-03T01:39:21.243Z
+lastmod: 2025-02-09T22:23:15.670Z
 ---
 # Hybrid Cloud Battle: AWS Outposts vs Azure Arc vs Azure Stack vs Google Anthos
 

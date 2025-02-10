@@ -4,7 +4,11 @@ description: Layouts, Menus, Dialogs and Resources
 slug: qt-ui-tour
 date: 2021-06-18
 image: post/Articles/IMAGES/Qt-framework-logo-wide.png
-categories: 
+categories:
+  - Qt GUI Framework
+  - Python
+  - Python-PyQt
+  - CPP
 tags:
   - Qt
   - Gui
@@ -20,7 +24,7 @@ tags:
   - CPP
 draft: false
 weight: 18
-lastmod: 2025-02-05T14:31:23.418Z
+lastmod: 2025-02-09T23:06:09.066Z
 ---
 ## Qt
 

@@ -4,20 +4,26 @@ description: Code Examples in MSSQL, MySql and Postgres
 slug: sql-subselects-group-by-explained
 date: 2024-12-08
 image: post/Articles/IMAGES/22.jpg
-categories: []
+categories:
+  - SQL
+  - Microsoft Sql Server
+  - MySql
+  - Postgres Sql
 tags:
   - SQL
   - Subselects
-  - Group By
+  - Group
+  - By
   - Databases
   - MSSQL
   - MySQL
   - PostgreSQL
   - Aggregation
-  - Query Optimization
+  - Query
+  - Optimization
 draft: false
 weight: 201
-lastmod: 2025-02-07T17:40:40.868Z
+lastmod: 2025-02-09T20:53:43.714Z
 ---
 # SQL Subselects and GROUP BY Explained: The History, Motivation, and How They Work
 

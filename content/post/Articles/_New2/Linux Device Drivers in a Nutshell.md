@@ -4,7 +4,11 @@ description: Intro to Device Drivers in Linux
 slug: device-drivers-in-linux
 date: 2020-10-26
 image: post/Articles/IMAGES/linux.png
-categories: 
+categories:
+  - Linux
+  - Device Drivers
+  - C
+  - CPP
 tags:
   - Linux
   - DeviceDrivers
@@ -15,7 +19,7 @@ tags:
   - Unix
 draft: false
 weight: 30
-lastmod: 2025-02-05T17:02:55.754Z
+lastmod: 2025-02-09T20:18:03.397Z
 ---
 # History of Device Drivers in Linux
 

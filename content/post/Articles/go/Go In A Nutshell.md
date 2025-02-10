@@ -4,7 +4,10 @@ description: Quick dip into the Go Programming language
 slug: go-nutshell
 date: 2023-02-06
 image: post/Articles/IMAGES/Go-Logo_Blue.png
-categories: 
+categories:
+  - GoLang
+  - Concurrency
+  - Docker
 tags:
   - Docker
   - DockerFile
@@ -13,7 +16,7 @@ tags:
   - MicroServices
 weight: 10
 draft: false
-lastmod: 2025-02-09T16:32:17.841Z
+lastmod: 2025-02-09T21:47:33.340Z
 ---
 ## GO OUT AND LEARN THIIS LANGUAGE NOW!
 

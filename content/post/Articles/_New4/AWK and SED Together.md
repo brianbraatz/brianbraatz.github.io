@@ -4,20 +4,28 @@ description: AWK and SED, Compared and how best to Combined
 slug: awk-vs-sed
 date: 2021-12-30
 image: post/Articles/IMAGES/25.jpg
-categories: []
+categories:
+  - Scripting
+  - AWK
+  - SED
+  - Unix
+  - Linux
+  - Mac OS
 tags:
   - Awk
   - Sed
   - Linux
   - Unix
-  - Text Processing
-  - Command Line
+  - Text
+  - Processing
+  - Command
+  - Line
   - Automation
   - Comparison
   - Scripting
 draft: false
 weight: 269
-lastmod: 2025-02-08T18:20:06.991Z
+lastmod: 2025-02-09T20:54:28.695Z
 ---
 ## Introduction
 

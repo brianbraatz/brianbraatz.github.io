@@ -4,19 +4,21 @@ description: COBOL In a Nutshell
 slug: cobol-in-a-nutshell
 date: 2020-10-10
 image: post/Articles/IMAGES/cobol.png
-categories: []
+categories:
+  - Cobol
 tags:
   - Cobol
   - Programming
   - LegacyCode
   - Y2K
-  - Date Handling
+  - Date
+  - Handling
   - Mainframe
   - Comparison
   - Examples
 draft: false
 weight: 422
-lastmod: 2025-02-03T13:59:29.812Z
+lastmod: 2025-02-09T22:04:08.858Z
 ---
 # COBOL In a Nutshell
 

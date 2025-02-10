@@ -4,7 +4,10 @@ description: High level explain of Ethernet at the Hardware layer
 slug: ethernet-unplugged-journey-through-wires
 date: 2023-07-15
 image: post/Articles/IMAGES/ethernet.jpg
-categories: 
+categories:
+  - History
+  - Algorithms
+  - Networking
 tags:
   - Ethernet
   - Networking
@@ -15,9 +18,10 @@ tags:
   - HardwareProtocols
   - Devices
   - EmbeddedSystems
+  - Cloud
 draft: false
 weight: 342
-lastmod: 2025-02-03T13:24:24.316Z
+lastmod: 2025-02-09T22:13:10.920Z
 ---
 # Ethernet Unplugged: A Journey Through the Wires
 

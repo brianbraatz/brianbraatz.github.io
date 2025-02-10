@@ -4,18 +4,26 @@ description: Comparing File and Blob Storage in AWS, GCP, and Azure
 slug: comparing-file-and-blob-storage-in-aws-gcp-azure
 date: 2022-07-31
 image: post/Articles/IMAGES/theblogposter.jpg
-categories: []
+categories:
+  - Cloud
+  - Amazon Cloud-AWS
+  - Google Cloud-GCP
+  - Microsoft Azure Cloud
+  - Cloud Storage
 tags:
   - AWS
   - GCP
   - Azure
-  - Cloud Storage
-  - Blob Storage
-  - File Storage
+  - Cloud
+  - Storage
+  - Blob
+  - Storage
+  - File
+  - Storage
   - Cloud
 draft: false
 weight: 294
-lastmod: 2025-02-03T14:30:16.388Z
+lastmod: 2025-02-09T22:05:01.156Z
 ---
 ![](/post/Articles/IMAGES/theblogposter.jpg)
 

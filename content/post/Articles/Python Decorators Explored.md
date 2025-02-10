@@ -4,7 +4,10 @@ description: Overview of Python Decorators
 slug: python-decorators-exploring
 date: 2024-01-07
 image: post/Articles/IMAGES/CakeDecoratedWide.jpg
-categories: 
+categories:
+  - Python
+  - Python-Decorators
+  - Aspect Orientated Programming-AOP
 tags:
   - Python
   - Decorators
@@ -19,7 +22,7 @@ tags:
   - Caching
 draft: false
 weight: 284
-lastmod: 2025-02-03T17:05:39.298Z
+lastmod: 2025-02-09T23:19:10.411Z
 ---
 # Python Decorators Explored
 

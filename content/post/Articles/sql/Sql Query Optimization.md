@@ -3,7 +3,10 @@ title: Understanding SQL Query Plans for Performance Optimization
 slug: sql-query-plans-performance-optimization
 date: 2013-12-15
 image: post/Articles/IMAGES/hugesql.png
-categories: 
+categories:
+  - SQL
+  - Performance Optimization
+  - SQL-Query Plans
 tags:
   - SQL
   - Query
@@ -15,7 +18,7 @@ tags:
 draft: false
 weight: 30
 description: Query Plans for fun and profit...
-lastmod: 2025-02-04T00:40:48.208Z
+lastmod: 2025-02-09T23:17:46.514Z
 ---
 # Understanding SQL Query Plans for Performance Optimization
 

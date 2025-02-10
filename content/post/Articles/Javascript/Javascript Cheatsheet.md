@@ -4,7 +4,10 @@ description: Javascript Cheatsheet
 slug: javascript-cheatsheet
 date: 2014-05-06
 image: post/Articles/IMAGES/18.jpg
-categories: 
+categories:
+  - Javascript
+  - Web Development
+  - Cheatsheet
 tags:
   - Cheatsheet
   - React
@@ -12,7 +15,7 @@ tags:
   - WebDevelopment
 weight: 80
 draft: false
-lastmod: 2025-02-09T16:33:58.595Z
+lastmod: 2025-02-09T21:50:17.022Z
 ---
 ## Javascript Cheatsheet
 

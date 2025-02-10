@@ -4,17 +4,24 @@ description: "Python Monkey Patching: Hacking Your Code Like a Pro"
 slug: python-monkey-patching-hacking-your-code-like-a-pro
 date: 2021-02-09
 image: post/Articles/IMAGES/mokeytooltrimmed.png
-categories: 
+categories:
+  - Python
+  - Python-Monkey Patching
+  - Aspect Orientated Programming-AOP
+  - Algorithms
 tags:
   - Python
-  - Monkey Patching
+  - Monkey
+  - Patching
   - Hacking
-  - Dynamic Modification
-  - Code Injection
+  - Dynamic
+  - Modification
+  - Code
+  - Injection
   - Metaprogramming
 draft: false
 weight: 104
-lastmod: 2025-02-03T17:17:26.096Z
+lastmod: 2025-02-09T23:05:17.001Z
 ---
 # Python Monkey Patching: Hacking Your Code Like a Pro
 

@@ -4,7 +4,12 @@ description: Firewalls and Proxy Servers Demystified
 slug: firewalls-and-proxy-servers-demystified
 date: 2021-04-21
 image: post/Articles/IMAGES/brickwall3.jpg
-categories: 
+categories:
+  - Firewalls
+  - Proxy Servers
+  - Networking
+  - Linux
+  - Unix
 tags:
   - Firewalls
   - Proxy
@@ -22,7 +27,7 @@ tags:
   - Cloud
 draft: false
 weight: 169
-lastmod: 2025-02-03T13:33:43.510Z
+lastmod: 2025-02-09T22:16:01.539Z
 ---
 # Firewalls and Proxy Servers Demystified
 

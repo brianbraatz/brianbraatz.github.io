@@ -4,7 +4,10 @@ description: GraphQL In a Nutshell
 slug: graphql-in-a-nutshell
 date: 2024-10-05
 image: post/Articles/IMAGES/graphql.png
-categories: []
+categories:
+  - SQL
+  - NOSQL
+  - GraphQL
 tags:
   - Graphql
   - Api
@@ -24,7 +27,7 @@ tags:
   - Resolvers
 draft: false
 weight: 421
-lastmod: 2025-02-03T12:47:51.985Z
+lastmod: 2025-02-09T22:17:49.983Z
 ---
 # GraphQL In a Nutshell
 

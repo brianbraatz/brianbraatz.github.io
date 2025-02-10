@@ -4,16 +4,20 @@ description: Overview of how IP, TCP and UDP work
 slug: tcp-ip-udp-explained
 date: 2023-03-08
 image: post/Articles/IMAGES/spraywaterwide.jpg
-categories: []
+categories:
+  - Internet standards
+  - Protocols
+  - Networking
 tags:
   - TCP
   - UDP
   - Networking
   - Sockets
-  - IP Protocols
+  - IP
+  - Protocols
 draft: false
 weight: 243
-lastmod: 2025-02-04T00:35:47.720Z
+lastmod: 2025-02-09T23:10:33.580Z
 ---
 # TCP/IP-UDP Explained
 

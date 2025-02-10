@@ -4,14 +4,16 @@ description: Quick intro into the weird world of Ajax and JQuery
 slug: jquery-nutshell
 date: 2019-05-06
 image: post/Articles/IMAGES/cattinfoil-small.png
-categories: 
+categories:
+  - JQuery
+  - Web Development
 tags:
   - WebDevelopment
   - JQuery
   - Javascript
 weight: 4
 draft: false
-lastmod: 2025-02-04T00:01:15.295Z
+lastmod: 2025-02-09T21:50:12.385Z
 ---
 # jQuery in a Nutshell
 

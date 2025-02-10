@@ -4,16 +4,20 @@ description: The wheres and whys of it..
 slug: octal-hex-binary-base10?-numbering-systems-explained
 date: 2024-02-11
 image: post/Articles/IMAGES/30.jpg
-categories: []
+categories:
+  - Algorithms
+  - History
 tags:
   - Binary
   - Hexadecimal
   - Octal
-  - Number Systems
-  - Computing History
+  - Number
+  - Systems
+  - Computing
+  - History
 draft: false
 weight: 477
-lastmod: 2025-02-02T18:20:53.700Z
+lastmod: 2025-02-09T23:01:40.012Z
 ---
 # Octal-Hex-Binary-Base10? Numbering Systems Explained
 

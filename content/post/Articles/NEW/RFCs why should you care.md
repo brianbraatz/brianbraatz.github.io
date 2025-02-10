@@ -4,16 +4,21 @@ description: Caring is sharing...
 slug: what-are-rfcs-and-why-should-i-care
 date: 2021-11-30
 image: post/Articles/IMAGES/rfccoffee_wide.png
-categories: []
+categories:
+  - Internet standards
+  - Request for Comments-RFC
+  - Web Development
+  - Cloud
 tags:
   - RFCs
-  - Internet History
+  - Internet
+  - History
   - Networking
   - IETF
   - Protocols
 draft: false
 weight: 342
-lastmod: 2025-02-03T12:40:05.232Z
+lastmod: 2025-02-09T23:09:13.942Z
 ---
 # What Are RFCs and Why Should I Care?
 

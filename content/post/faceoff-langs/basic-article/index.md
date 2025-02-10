@@ -4,7 +4,34 @@ description: Bubble sort comparison -Python, C#, Javascript, Perl.. and more
 slug: bubblesort-battle
 date: 2024-09-22
 image: bubblewarcover.png
-categories: 
+categories:
+  - Algorithms
+  - Design Patterns
+  - Python
+  - Technology
+  - CSharp
+  - DotNet
+  - Languages
+  - Embedded
+  - Swift
+  - Rust
+  - GoLang
+  - Foxpro
+  - Perl
+  - Assembly Language
+  - Forth
+  - Eiffel
+  - Unix
+  - Linux
+  - Bash
+  - Powershell
+  - Scripting
+  - TCL
+  - CPP
+  - Processing Language
+  - Cobol
+  - 8051 Embedded Processor
+  - Pascal
 tags:
   - CSharp
   - CPP
@@ -39,9 +66,10 @@ tags:
   - Erlang
   - DesignByContract
   - WebDevelopment
+  - 8051CPU
 weight: 1
 draft: false
-lastmod: 2025-02-06T22:02:30.677Z
+lastmod: 2025-02-09T23:38:35.905Z
 ---
 ## BUBBBLE BATTLE!
 

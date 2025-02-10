@@ -4,7 +4,9 @@ description: Python Standard Library Cheatsheet
 slug: python-stdlib-cheatsheet
 date: 2014-05-06
 image: post/Articles/IMAGES/pythonstandardlibrary.png
-categories: 
+categories:
+  - Python
+  - Python-Standard Library
 tags:
   - Cheatsheet
   - Python-StandardLibrary
@@ -12,7 +14,7 @@ tags:
   - WebDevelopment
 weight: 30
 draft: false
-lastmod: 2025-02-07T18:32:41.185Z
+lastmod: 2025-02-09T23:13:20.818Z
 ---
 ![](/post/Articles/IMAGES/pythonstandardlibrary.png)
 

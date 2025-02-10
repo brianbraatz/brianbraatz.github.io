@@ -4,7 +4,9 @@ description: This one goes to ELEVEN!!!!!
 slug: from-c++-1.0-to-c++-11
 date: 2023-05-24
 image: post/Articles/IMAGES/goesto11-b.png
-categories: 
+categories:
+  - CPP
+  - History
 tags:
   - C++
   - History
@@ -14,7 +16,7 @@ tags:
   - Code
 draft: false
 weight: 375
-lastmod: 2025-02-05T15:10:32.043Z
+lastmod: 2025-02-09T22:05:23.423Z
 ---
 ![](/post/Articles/NEW/1696459985733.webp)
 

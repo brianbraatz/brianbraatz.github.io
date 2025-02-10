@@ -1,16 +1,18 @@
 ---
-title: Sql Joins
+title: Sql Joins Explained with Diagrams
 description: Illustrated SQL Joins
 slug: sql-joins-illustrated
 date: 2012-03-06 00:00:00+0000
 image: cover-sql-joins.png
-categories: []
+categories:
+  - SQL
+  - Performance Optimization
 tags:
   - SQL
   - Mentoring
 weight: 5
 imag: cover.jpg
-lastmod: 2025-01-29T11:02:54.952Z
+lastmod: 2025-02-09T23:24:30.320Z
 ---
 Details
 

@@ -4,16 +4,24 @@ description: Decoding the Symphony of Screeches and Squawks
 slug: modems-decoding-symphony-screeches-squawks
 date: 2022-12-15
 image: post/Articles/IMAGES/hayes.webp
-categories: []
+categories:
+  - History
+  - Modems
+  - Networking
+  - Protocols
 tags:
   - Modem
-  - Data Transmission
-  - Acoustic Coupler
-  - Baud Rate
-  - Dial-Up Internet
+  - Data
+  - Transmission
+  - Acoustic
+  - Coupler
+  - Baud
+  - Rate
+  - Dial-Up
+  - Internet
 draft: false
 weight: 287
-lastmod: 2025-02-03T12:40:05.319Z
+lastmod: 2025-02-09T22:36:24.881Z
 ---
 # Modems: The Unsung Heroes of the Internet Age
 

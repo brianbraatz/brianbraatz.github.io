@@ -4,10 +4,18 @@ description: For efficient updates
 slug: mastering-http-patch-method-fun-informal-guide
 date: 2023-08-15
 image: post/Articles/IMAGES/patchsmall.png
-categories: []
+categories:
+  - Cloud
+  - HTTP
+  - HTTP-Patch
+  - GoLang
+  - Python
+  - CSharp
+  - DotNet
 tags:
   - HTTP
-  - HTTPPATCH Method
+  - HTTPPATCH
+  - Method
   - CSharp
   - Python
   - Go
@@ -15,7 +23,7 @@ tags:
   - WebDevelopment
 draft: false
 weight: 342
-lastmod: 2025-02-06T19:15:31.061Z
+lastmod: 2025-02-09T22:24:03.807Z
 ---
 <!-- 
 ## Introduction

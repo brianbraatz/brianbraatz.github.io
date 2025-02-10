@@ -4,21 +4,24 @@ description: OAuth in a Nutshell
 slug: oauth-in-a-nutshell
 date: 2024-11-30
 image: post/Articles/IMAGES/oauth.png
-categories: []
+categories:
+  - Web Development
+  - Security
+  - oAuth
 tags:
   - OAuth
-  - Authentication
   - Authorization
   - JWT
   - Security
   - API
-  - Access Tokens
+  - Access
+  - Tokens
   - WebDevelopment
   - Javascript
   - Cloud
 draft: false
 weight: 456
-lastmod: 2025-02-06T22:01:34.050Z
+lastmod: 2025-02-09T22:55:13.090Z
 ---
 # OAuth in a Nutshell
 

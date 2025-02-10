@@ -4,7 +4,21 @@ description: Comparison of Agile vs some of the other more buzz worthy methods
 slug: sw-methods-chart
 date: 2024-05-06
 image: swmethods.png
-categories: 
+categories:
+  - Project Management
+  - Project Methodologies
+  - Agile
+  - Scrum
+  - Kanban
+  - Extreme Programming-XP
+  - Lean Method
+  - Crystal Method
+  - Dynamic Systems Development Method-DSDM
+  - Feature-Driven Development-FDD
+  - Agile Unified Process-AUP
+  - Scaled Agile Framework-SAFe
+  - Hybrid Agile
+  - Cheatsheet
 tags:
   - Agile
   - XP-ExtremeProgramming
@@ -14,8 +28,9 @@ tags:
   - DSDMMethodolgy
   - FDD-FeatureDrivenDevelopment
   - SAFeAgile
+  - Cheatsheet
 weight: 5
-lastmod: 2025-01-31T00:14:20.751Z
+lastmod: 2025-02-09T23:30:16.805Z
 ---
 | **Type**                                      | **Description**                                                                 | **Best For**                                                      | **Homepage**                                                                 |
 | --------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |

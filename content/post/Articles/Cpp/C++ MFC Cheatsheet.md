@@ -4,7 +4,12 @@ description:
 slug: cpp-mfc-cheatsheet
 date: 2014-05-06
 image: post/Articles/IMAGES/mfxlogo.png
-categories: 
+categories:
+  - Windows
+  - MFC
+  - C
+  - CPP
+  - Cheatsheet
 tags:
   - Cheatsheet
   - CPP
@@ -12,7 +17,7 @@ tags:
   - CPP-MFC
 weight: 180
 draft: false
-lastmod: 2025-02-09T16:32:57.008Z
+lastmod: 2025-02-09T21:40:46.648Z
 ---
 ## MFC Cheatsheet
 

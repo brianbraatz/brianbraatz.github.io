@@ -4,19 +4,34 @@ description: Informal comparison of messaging and streaming technologies, includ
 slug: messaging-madness
 date: 2023-09-27
 image: post/Articles/IMAGES/letters.jpg
-categories: []
+categories:
+  - Cloud
+  - Messaging
+  - Apache ActiveMQ
+  - Amazon Kinesis
+  - Google Cloud Pub-Sub
+  - Apache Pulsar
+  - IBM MQ
+  - Redpanda
+  - Microservices
+  - Cheatsheet
 tags:
   - Messaging
   - Streaming
-  - Kafka Alternative
-  - Cloud Pub/Sub
-  - IBM MQ
+  - Kafka
+  - Alternative
+  - Cloud
+  - Pub/Sub
+  - IBM
+  - MQ
   - Pulsar
   - Kinesis
   - ActiveMQ
+  - NATS
+  - Microservices
 draft: false
 weight: 203
-lastmod: 2025-02-03T13:11:03.814Z
+lastmod: 2025-02-09T23:29:19.078Z
 ---
 # Messaging Madness: ActiveMQ vs Kinesis vs Pub/Sub vs Pulsar vs IBM MQ vs Redpanda vs NATS
 

@@ -4,18 +4,23 @@ description: Angular In a Nutshell
 slug: angular-in-a-nutshell
 date: 2021-10-05
 image: post/Articles/IMAGES/angular1.png
-categories: []
+categories:
+  - Angular
+  - Typescript
+  - Javascript
+  - Web Development
 tags:
   - Angular
   - AngularJS
   - React
   - Frontend
-  - Web Development
+  - Web
+  - Development
   - JavaScript
   - TypeScript
 draft: false
 weight: 134
-lastmod: 2025-02-07T17:51:02.721Z
+lastmod: 2025-02-09T21:51:29.301Z
 ---
 # Angular In a Nutshell
 

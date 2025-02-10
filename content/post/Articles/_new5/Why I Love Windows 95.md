@@ -5,9 +5,10 @@ slug: why-i-love-windows-95-developer-perspective
 date: 2025-02-09
 image: post/Articles/IMAGES/Windows95Package.png
 categories:
-  - Technology
-  - Software Development
   - History
+  - Windows
+  - Windows API
+  - GUI
 tags:
   - Windows
   - "95"
@@ -20,7 +21,7 @@ tags:
   - History
 draft: false
 weight: 30
-lastmod: 2025-02-09T16:50:19.007Z
+lastmod: 2025-02-09T21:35:47.102Z
 ---
 <!-- 
 {{< youtube "https://www.youtube.com/watch?v=wRdl1BjTG7c" >}}

@@ -4,7 +4,10 @@ description: Code Samples in Python, C#, and Go Language
 slug: protobuf-efficient-data-serialization
 date: 2023-05-15
 image: post/Articles/IMAGES/protobuf.png
-categories: 
+categories:
+  - Cloud
+  - Google Cloud-GCP
+  - Protobuf
 tags:
   - Protobuf
   - Data
@@ -22,7 +25,7 @@ tags:
   - GoLang
 draft: false
 weight: 278
-lastmod: 2025-02-07T18:11:54.594Z
+lastmod: 2025-02-09T23:02:05.804Z
 ---
 # Protobuf: The Not-So-Secret Sauce Behind Efficient Data Serialization
 

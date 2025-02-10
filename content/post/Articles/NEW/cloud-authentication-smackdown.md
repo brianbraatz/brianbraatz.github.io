@@ -4,7 +4,15 @@ description: Cheatsheet comparison of authentication methods in AWS, Azure, and 
 slug: cloud-authentication-smackdown-aws-vs-azure-vs-google-cloud
 date: 2023-07-15
 image: post/Articles/IMAGES/boxoflocks.jpg
-categories: 
+categories:
+  - Cloud
+  - Microsoft Azure Cloud
+  - Amazon Cloud-AWS
+  - Google Cloud-GCP
+  - oAuth
+  - Web Development
+  - Security
+  - Identity and access management-IAM
 tags:
   - Cloud
   - Security
@@ -20,7 +28,7 @@ tags:
   - GCP
 draft: false
 weight: 378
-lastmod: 2025-02-09T14:35:04.057Z
+lastmod: 2025-02-09T21:54:11.624Z
 ---
 # Cloud Authentication Comparison: AWS vs Azure vs Google Cloud
 

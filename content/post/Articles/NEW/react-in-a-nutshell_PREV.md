@@ -1,24 +1,34 @@
 ---
 title: React In a Nutshell
-description: React In a Nutshell
+description: Quick Dip into the Key points of React
 slug: react-in-a-nutshell
 date: 2024-12-05
 image: post/Articles/IMAGES/reactblue.png
-categories: []
+categories:
+  - React
+  - Web Development
+  - Javascript
+  - Next.js
+  - Remix
+  - Document Object Model-DOM
 tags:
   - React
   - JavaScript
   - Frontend
-  - Web Development
-  - Angular vs React
-  - Next.js
+  - Web
+  - Development
+  - Angular
+  - vs
+  - React
   - Remix
-  - Virtual DOM
-  - React Hooks
+  - Virtual
+  - DOM
+  - React
+  - Hooks
   - JSX
 draft: false
 weight: 231
-lastmod: 2025-02-03T12:52:00.511Z
+lastmod: 2025-02-09T23:08:19.818Z
 ---
 # React In a Nutshell
 

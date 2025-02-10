@@ -4,7 +4,13 @@ description: "The MVVM Pattern: History, Motivation, and Practical Examples"
 slug: the-mvvm-pattern-history-motivation-and-practical-examples
 date: 2017-02-08
 image: post/Articles/IMAGES/mvvm.png
-categories: 
+categories:
+  - WPF
+  - Maui
+  - XAML
+  - Xamarin
+  - Design Patterns
+  - Model-View-View Model Pattern-MVVM
 tags:
   - Mvvm
   - Wpf
@@ -23,7 +29,7 @@ tags:
   - Xamarin
 draft: false
 weight: 425
-lastmod: 2025-02-06T22:01:41.102Z
+lastmod: 2025-02-09T22:40:18.626Z
 ---
 # The MVVM Pattern: History, Motivation, and Practical Examples
 

@@ -4,7 +4,10 @@ description: Overview of how we went from Fax to 7zip
 slug: the-compression-wars-fax-machines-zip-7zip
 date: 2020-06-20
 image: post/Articles/IMAGES/Hookes-law-springs.png
-categories: 
+categories:
+  - History
+  - Algorithms
+  - Compression
 tags:
   - Compression
   - Fax
@@ -18,7 +21,7 @@ tags:
   - Encoding
 draft: false
 weight: 345
-lastmod: 2025-02-07T18:59:40.133Z
+lastmod: 2025-02-09T22:05:15.202Z
 ---
 ![](/post/Articles/IMAGES/Hookes-law-springs.png)
 

@@ -4,7 +4,11 @@ description: (Because VPNs Are Overrated)
 slug: personal-proxy-server-google-app-engine
 date: 2010-12-01
 image: post/Articles/IMAGES/googleappengine.jpg
-categories: 
+categories:
+  - Google Cloud-GCP
+  - Python
+  - Google App Engine
+  - Python-Flask
 tags:
   - Geoblocking
   - Proxy
@@ -16,7 +20,7 @@ tags:
   - GoogleCloud
 draft: false
 weight: 30
-lastmod: 2025-02-07T18:08:52.671Z
+lastmod: 2025-02-09T22:19:57.047Z
 ---
 # How to Build Your Own Personal Proxy Server Using Google App Engine (Because VPNs Are Overrated)
 

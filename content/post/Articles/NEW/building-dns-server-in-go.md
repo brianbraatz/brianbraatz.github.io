@@ -4,7 +4,9 @@ description: Implementing a DNS Server in the Go Programming Language
 slug: DNS-go-programming-language
 date: 2023-08-23
 image: post/Articles/IMAGES/dns.png
-categories: 
+categories:
+  - DNS
+  - GoLang
 tags:
   - Go
   - Firewall
@@ -14,7 +16,7 @@ tags:
   - WebDevelopment
 draft: false
 weight: 477
-lastmod: 2025-02-03T17:40:50.907Z
+lastmod: 2025-02-09T21:52:37.406Z
 ---
 # Implementing a DNS Server in the Go Programming Language
 

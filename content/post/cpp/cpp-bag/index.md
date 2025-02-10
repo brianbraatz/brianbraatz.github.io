@@ -4,7 +4,10 @@ description: Bag Collection Library in C++ as a Compile-Time Template Meta Progr
 slug: cpp-bag
 date: 2022-02-12
 image: bagcover.png
-categories: 
+categories:
+  - CPP
+  - Algorithms
+  - CPP-Meta Programming
 tags:
   - CPP
   - Mentoring
@@ -17,7 +20,7 @@ tags:
   - TemplateProgramming
 weight: 3
 draft: false
-lastmod: 2025-02-01T20:57:37.081Z
+lastmod: 2025-02-09T23:21:19.446Z
 ---
 [Template Metaprogramming-Wikipedia](https://en.wikipedia.org/wiki/Template_metaprogramming)
 

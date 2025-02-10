@@ -4,7 +4,10 @@ description: " How to Make Your UI Feel Smooth and Responsive"
 slug: mastering-threading-in-qt-how-to-make-your-ui-feel-smooth-and-responsive
 date: 2021-10-01
 image: post/Articles/IMAGES/Qt-framework-logo-wide.png
-categories: 
+categories:
+  - Qt GUI Framework
+  - Concurrency
+  - CPP
 tags:
   - Qt
   - Threading
@@ -19,7 +22,7 @@ tags:
   - CPP
 draft: false
 weight: 42
-lastmod: 2025-02-05T14:32:58.450Z
+lastmod: 2025-02-09T23:06:17.777Z
 ---
 # Mastering Threading in Qt: How to Make Your UI Feel Smooth and Responsive
 

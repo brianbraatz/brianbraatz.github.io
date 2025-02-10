@@ -4,7 +4,23 @@ description: Cheatsheet comparison of security services in AWS, Azure, and Googl
 slug: cloud-security-smackdown-aws-vs-azure-vs-google-cloud
 date: 2023-07-15
 image: post/Articles/IMAGES/Cybersecuritywide.png
-categories: 
+categories:
+  - Cloud
+  - Amazon Cloud-AWS
+  - Microsoft Azure Cloud
+  - Google Cloud-GCP
+  - Messaging
+  - Amazon Simple Queue Service-SQS
+  - Azure Service Bus
+  - Google Cloud Pub-Sub
+  - CSharp
+  - DotNet
+  - Python
+  - oAuth
+  - Web Development
+  - Security
+  - Identity and access management-IAM
+  - Azure Active Directory
 tags:
   - Cloud
   - Security
@@ -18,7 +34,7 @@ tags:
   - GCP
 draft: false
 weight: 378
-lastmod: 2025-02-09T14:35:17.065Z
+lastmod: 2025-02-09T22:03:45.691Z
 ---
 # Cloud Security Smackdown: AWS vs Azure vs Google Cloud
 

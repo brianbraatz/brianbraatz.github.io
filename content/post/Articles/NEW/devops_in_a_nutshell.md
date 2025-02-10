@@ -4,7 +4,12 @@ description: DevOps In a Nutshell
 slug: devops-in-a-nutshell
 date: 2017-12-04
 image: post/Articles/IMAGES/devops.png
-categories: 
+categories:
+  - DevOps
+  - Cloud
+  - Amazon Cloud-AWS
+  - Microsoft Azure Cloud
+  - Google Cloud-GCP
 tags:
   - Devops
   - Amazon
@@ -20,7 +25,7 @@ tags:
   - WebDevelopment
 draft: false
 weight: 379
-lastmod: 2025-02-03T15:06:53.158Z
+lastmod: 2025-02-09T22:06:53.651Z
 ---
 # DevOps In a Nutshell
 

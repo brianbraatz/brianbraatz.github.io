@@ -4,17 +4,23 @@ description: a dive into this unusual protocol...
 slug: the-curious-smtp-protocol
 date: 2023-07-15
 image: post/Articles/IMAGES/lotsofletters.jpg
-categories: []
+categories:
+  - Internet standards
+  - Protocols
+  - Networking
 tags:
   - SMTP
   - Email
-  - Internet History
-  - Email Security
+  - Internet
+  - History
+  - Email
+  - Security
   - IMAP
-  - Email Protocols
+  - Email
+  - Protocols
 draft: false
 weight: 287
-lastmod: 2025-02-03T14:28:09.573Z
+lastmod: 2025-02-09T23:10:53.968Z
 ---
 # The Curious SMTP Protocol
 

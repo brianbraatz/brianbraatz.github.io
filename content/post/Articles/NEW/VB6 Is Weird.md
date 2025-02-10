@@ -4,7 +4,9 @@ description: Actually.. beyond weird.....
 slug: 10-reasons-why-visual-basic-6-is-really-weird
 date: 2020-05-19
 image: post/Articles/IMAGES/vb6psychwide.png
-categories: 
+categories:
+  - Visual Basic
+  - Visual Basic 6
 tags:
   - Visual
   - Basic
@@ -19,7 +21,7 @@ tags:
   - History
 draft: false
 weight: 324
-lastmod: 2025-02-03T23:33:51.480Z
+lastmod: 2025-02-09T23:11:32.567Z
 ---
 # 10 Reasons Why Visual Basic 6 is Really Weird
 

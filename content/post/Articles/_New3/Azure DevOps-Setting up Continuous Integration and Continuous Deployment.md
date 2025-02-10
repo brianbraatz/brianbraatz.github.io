@@ -4,7 +4,13 @@ description: Tutorial-Cheatsheet for Setup steps for Azure CICD
 slug: setting-up-ci-cd-in-azure-devops
 date: 2023-09-12
 image: post/Articles/IMAGES/azure.png
-categories: 
+categories:
+  - Cloud
+  - Azure Cloud
+  - DevOps
+  - CI\CD
+  - CSharp
+  - DotNet
 tags:
   - Azure
   - Devops
@@ -24,14 +30,14 @@ tags:
   - DotNet
 draft: false
 weight: 346
-lastmod: 2025-02-07T18:16:31.471Z
+lastmod: 2025-02-09T20:19:55.834Z
 ---
 # Setting up CI/CD in Azure DevOps
 
 > "Why did the developer break up with Git?\
 > Because it had too many *commit*ment issues!"
 
-Alright, nerds, today we’re setting up CI/CD in **Azure DevOps**—because manually deploying code is so 2010, and we have better things to do (like debugging why our code doesn’t work in production).
+Alright today we’re setting up CI/CD in **Azure DevOps**—because manually deploying code is so 2010, and we have better things to do (like debugging why our code doesn’t work in production).
 
 This is basically the **Azure DevOps** version of [this Jenkins CI/CD guide](https://brianbraatz.github.io/p/jenkins-cicd/), but we’re replacing Jenkins with **Azure Pipelines** because... well, we like suffering slightly less.
 

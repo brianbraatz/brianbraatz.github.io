@@ -4,7 +4,9 @@ description: C++ Performance will be NEGATIVELY affected if Swap() is not done r
 slug: cpp-swap-function
 date: 2024-12-15
 image: post/Articles/IMAGES/ancientalientsguy.jpg
-categories: 
+categories:
+  - CPP
+  - CPP-STL
 tags:
   - CPP
   - CPP-STL
@@ -12,7 +14,7 @@ tags:
   - Performance
 draft: false
 weight: 30
-lastmod: 2025-02-01T21:33:28.950Z
+lastmod: 2025-02-09T23:36:20.072Z
 ---
 # The Wondrous World of C++'s swap() Function
 

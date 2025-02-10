@@ -4,16 +4,22 @@ description: Looking at the new HTML 5 Additions
 slug: html-5-in-a-nutshell
 date: 2021-05-26
 image: post/Articles/IMAGES/html5logo-wide.png
-categories: []
+categories:
+  - HTML
+  - HTML 5
+  - Web Development
 tags:
   - Html5
-  - Web Development
+  - Web
+  - Development
   - Frontend
-  - Html Elements
-  - Html Syntax
+  - Html
+  - Elements
+  - Html
+  - Syntax
 draft: false
 weight: 476
-lastmod: 2025-02-05T15:00:28.498Z
+lastmod: 2025-02-09T22:20:19.978Z
 ---
 ## A Brief History of HTML5
 

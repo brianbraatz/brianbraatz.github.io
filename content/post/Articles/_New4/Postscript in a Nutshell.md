@@ -4,7 +4,10 @@ description: Intro to the PostScript Language
 slug: nutshell-ostscript-language
 date: 2022-12-03
 image: post/Articles/IMAGES/postscriptlogo.png
-categories: 
+categories:
+  - Postscript
+  - PDF
+  - Document Imaging
 tags:
   - Postscript
   - Laser
@@ -15,7 +18,7 @@ tags:
   - Printing
 draft: false
 weight: 342
-lastmod: 2025-02-09T17:54:19.754Z
+lastmod: 2025-02-09T21:03:25.886Z
 ---
 # Deep Dive into the PostScript Language
 
@@ -71,10 +74,10 @@ Run a PostScript file with:
 gs myfile.ps
 ```
 
-### 2. Debugging with `==` and `print`
+### 2. Debugging with == and print
 
-* `==` prints the top of the stack.
-* `print` prints a string.
+* "==" prints the top of the stack.
+* "print" prints a string.
 
 Example:
 
@@ -348,13 +351,13 @@ If you’ve ever dealt with printers, you might have heard about **PCL (Printer 
 
 Even though PCL is often used in office printers due to speed and simplicity, PostScript **remains the king** for **graphic designers, publishers, and high-quality printing**. If you're printing a complex PDF or a detailed image, PostScript will ensure it looks the same on any printer.
 
-### Want to Learn More?
+### Links
 
 * [Wikipedia: PCL](https://en.wikipedia.org/wiki/Printer_Command_Language)
 * [Wikipedia: PostScript](https://en.wikipedia.org/wiki/PostScript)
 * [HP PCL and PostScript Differences](https://support.hp.com/us-en/document/c05051541)
 
-So, which one should you use? **If you just need fast text printing, PCL is great. If you want perfect graphics and consistency, PostScript wins every time.**
+**If you just need fast text printing, PCL is great. If you want perfect graphics and consistency, PostScript wins every time.**
 
 ***
 

@@ -4,7 +4,12 @@ description: SQLite is powerful and flexiable when used in the right situations
 slug: sqlite-love
 date: 2014-05-06
 image: post/Articles/IMAGES/sqlitelovesmall.png
-categories: 
+categories:
+  - SQL
+  - SQLite
+  - Microsoft Sql Server
+  - MySql
+  - Postgres Sql
 tags:
   - SQL
   - SqlLite
@@ -13,7 +18,7 @@ tags:
   - MSSQL
 weight: 30
 draft: false
-lastmod: 2025-02-01T13:27:16.839Z
+lastmod: 2025-02-09T23:18:55.168Z
 ---
 # Why I Love the SQLite Database Engine
 

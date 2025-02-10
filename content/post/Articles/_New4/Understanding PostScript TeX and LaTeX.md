@@ -4,19 +4,26 @@ description: Understanding How they work and may fit togeher
 slug: postscript-vs-tex-and-latex
 date: 2024-12-18
 image: post/Articles/IMAGES/postscriptlogo.png
-categories: []
+categories:
+  - Postscript
+  - PDF
+  - Printer Control Language-PCL
+  - Document Imaging
+  - Tex Language
+  - Latex Language
 tags:
   - PostScript
   - TeX
   - LaTeX
-  - Document Formatting
+  - Document
+  - Formatting
   - Typesetting
   - Adobe
   - Publishing
   - Printing
 draft: false
 weight: 276
-lastmod: 2025-02-09T17:54:26.187Z
+lastmod: 2025-02-09T21:33:01.256Z
 ---
 # PostScript, TeX and LaTeX: Understanding Their Differences and Interactions
 

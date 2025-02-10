@@ -1,10 +1,13 @@
 ---
 title: Android Cheatsheet
-description: Buzzword Decoder + important bits of the Android ASK
+description: Buzzword Decoder + important bits of the Android SDK
 slug: Android-SDK-cheatsheet
 date: 2014-05-06
 image: post/Articles/IMAGES/androidwide.jpg
-categories: 
+categories:
+  - Android
+  - Java
+  - Mobile
 tags:
   - Cheatsheet
   - Angular
@@ -15,7 +18,7 @@ tags:
   - Javascript
 weight: 200
 draft: false
-lastmod: 2025-02-09T16:32:43.316Z
+lastmod: 2025-02-09T21:39:05.842Z
 ---
 | **Category**             | **Description**                                                        | **Important Classes/Components**                                       |
 | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |

@@ -3,15 +3,17 @@ title: Regex Cheatsheet
 slug: regex-cheatsheet
 date: 2013-12-16
 image: post/Articles/IMAGES/regex.png
-categories: 
+categories:
+  - RegEx
+  - Perl
 tags:
   - Perl
   - Regex
   - Scripting
 draft: false
-weight: 28
+weight: 26
 description: Regex Cheat Sheet
-lastmod: 2025-02-03T13:43:05.025Z
+lastmod: 2025-02-09T23:12:49.576Z
 ---
 ![Perl Logo](https://cdn.perl.org/perlweb/images/icons/header_camel.png)
 

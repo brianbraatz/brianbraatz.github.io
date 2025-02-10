@@ -4,7 +4,18 @@ description: Cheatsheet comparison of messaging services in AWS, Azure, and Goog
 slug: cloud-messaging-aws-vs-azure-vs-google-cloud
 date: 2023-07-15
 image: post/Articles/IMAGES/azure-aws-gcp-png.png
-categories: 
+categories:
+  - Cloud
+  - Amazon Cloud-AWS
+  - Microsoft Azure Cloud
+  - Google Cloud-GCP
+  - Messaging
+  - Amazon Simple Queue Service-SQS
+  - Azure Service Bus
+  - Google Cloud Pub-Sub
+  - CSharp
+  - DotNet
+  - Python
 tags:
   - Cloud
   - Messaging
@@ -18,7 +29,7 @@ tags:
   - GCP
 draft: false
 weight: 378
-lastmod: 2025-02-09T17:41:34.167Z
+lastmod: 2025-02-09T21:57:22.718Z
 ---
 # Cloud Messaging Comparison: AWS vs Azure vs Google Cloud
 

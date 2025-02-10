@@ -4,20 +4,27 @@ description: AWK in a Nutshell
 slug: awk-in-a-nutshell
 date: 2022-11-07
 image: post/Articles/IMAGES/28.jpg
-categories: []
+categories:
+  - AWK
+  - Scripting
+  - Unix
+  - Linux
+  - Mac OS
 tags:
   - Awk
   - Linux
   - Unix
-  - Text Processing
-  - Command Line
+  - Text
+  - Processing
+  - Command
+  - Line
   - Automation
   - Sed
   - Regex
   - Scripting
 draft: false
 weight: 414
-lastmod: 2025-02-08T18:20:22.929Z
+lastmod: 2025-02-09T20:54:47.050Z
 ---
 # AWK in a Nutshell
 

@@ -4,7 +4,17 @@ description: C# Blazor Reverse Proxy Config-Apache,NGINX, Azure
 slug: c-blazor-reverse-proxy-config-apachenginx-azure
 date: 2020-07-19
 image: post/Articles/IMAGES/blazor.png
-categories: 
+categories:
+  - CSharp
+  - DotNet
+  - Blazor
+  - Web Development
+  - Proxy Servers
+  - Firewalls
+  - NGINX
+  - Apache
+  - Microsoft Azure Cloud
+  - Cloud
 tags:
   - Blazor
   - Reverse
@@ -16,7 +26,7 @@ tags:
   - Kubernetes
 draft: false
 weight: 356
-lastmod: 2025-02-07T18:20:29.644Z
+lastmod: 2025-02-09T21:52:29.267Z
 ---
 # C# Blazor Reverse Proxy Config - Apache, NGINX, Azure
 

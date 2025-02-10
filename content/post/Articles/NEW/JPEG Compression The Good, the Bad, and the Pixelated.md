@@ -4,17 +4,22 @@ description: JPEG Compression Explained and Compared
 slug: jpeg-compression-good-bad-pixelated
 date: 2022-12-15
 image: post/Articles/IMAGES/27.jpg
-categories: []
+categories:
+  - Algorithms
+  - Image Compression
+  - JPEG
 tags:
   - JPEG
-  - Image Compression
+  - Image
+  - Compression
   - GIF
   - PNG
   - TIFF
-  - Image Formats
+  - Image
+  - Formats
 draft: false
 weight: 342
-lastmod: 2025-02-06T18:03:06.409Z
+lastmod: 2025-02-09T22:27:52.508Z
 ---
 # JPEG Compression: The Good, the Bad, and the Pixelated
 

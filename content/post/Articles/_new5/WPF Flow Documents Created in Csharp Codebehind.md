@@ -4,7 +4,11 @@ description: How to make Flow Documents programmatically in C# code
 slug: wpf-flow-documents-in-code
 date: 2023-11-15
 image: post/Articles/IMAGES/FlowDocument-floater.png
-categories: 
+categories:
+  - WPF Flow Documents
+  - PDF
+  - Postscript
+  - Document Imaging
 tags:
   - WPF
   - XAML
@@ -13,9 +17,10 @@ tags:
   - FlowDocuments
   - PDF
   - PostScript
+  - DotNet
 draft: false
 weight: 30
-lastmod: 2025-02-09T18:08:01.579Z
+lastmod: 2025-02-09T21:38:30.617Z
 ---
 ![](/post/Articles/IMAGES/FlowDocument-floater.png)\
 From\

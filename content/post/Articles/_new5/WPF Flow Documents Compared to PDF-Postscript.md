@@ -4,7 +4,15 @@ description: Digging into the Flow Document Tech and how it comares to Postsript
 slug: wpf-flow-documents-compared-to-pdf
 date: 2023-11-15
 image: post/Articles/IMAGES/FlowDocumentCover.png
-categories: 
+categories:
+  - WPF Flow Documents
+  - Postscript
+  - PDF
+  - WPF
+  - XAML
+  - Windows
+  - Document Imaging
+  - DotNet
 tags:
   - WPF
   - XAML
@@ -15,7 +23,7 @@ tags:
   - PostScript
 draft: false
 weight: 200
-lastmod: 2025-02-09T17:50:37.181Z
+lastmod: 2025-02-09T21:38:23.183Z
 ---
 ![](/post/Articles/IMAGES/flowdocumentexample.png)\
 From\

@@ -4,7 +4,13 @@ description: LINQ in a Nutshell
 slug: linq-in-a-nutshell
 date: 2024-12-15
 image: post/Articles/IMAGES/linq.webp
-categories: []
+categories:
+  - Windows
+  - CSharp
+  - DotNet
+  - LINQ
+  - Entity Framework
+  - SQL
 tags:
   - LINQ
   - CSharp
@@ -15,7 +21,7 @@ tags:
   - MultiThreading
 draft: false
 weight: 30
-lastmod: 2025-02-02T15:47:27.054Z
+lastmod: 2025-02-09T21:41:42.500Z
 ---
 ![LINQ Logo](https://seeklogo.com/images/L/linq-logo-8B9C0C6C6A-seeklogo.com.png)
 

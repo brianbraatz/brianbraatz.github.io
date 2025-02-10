@@ -4,20 +4,27 @@ description: Code Examples in MSSQL, MySql and Postgres
 slug: sql-transactions-history-motivation-understanding
 date: 2024-11-28
 image: post/Articles/IMAGES/40.jpg
-categories: []
+categories:
+  - SQL
+  - Microsoft Sql Server
+  - MySql
+  - Postgres Sql
 tags:
   - SQL
   - Transactions
   - Databases
-  - Stored Procedures
+  - Stored
+  - Procedures
   - MSSQL
   - MySQL
   - PostgreSQL
-  - Journal Log
-  - Distributed Transactions
+  - Journal
+  - Log
+  - Distributed
+  - Transactions
 draft: false
 weight: 381
-lastmod: 2025-02-07T17:37:52.936Z
+lastmod: 2025-02-09T20:54:04.836Z
 ---
 # SQL Transactions: The History, How They Work, and Why You Should Care
 

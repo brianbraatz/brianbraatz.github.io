@@ -4,7 +4,9 @@ description: Cheatsheet of Dockerfile commands
 slug: docker-file-cheatsheet
 date: 2023-02-06
 image: post/Articles/IMAGES/docker1.jpg
-categories: 
+categories:
+  - Docker
+  - Cloud
 tags:
   - Cheatsheet
   - Docker
@@ -12,7 +14,7 @@ tags:
   - WebDevelopment
 weight: 10
 draft: false
-lastmod: 2025-02-09T16:33:53.056Z
+lastmod: 2025-02-09T21:46:51.790Z
 ---
 ### Dockerfile Cheatsheet
 

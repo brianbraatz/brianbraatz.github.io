@@ -4,7 +4,15 @@ description: Code Examples in Python and C#
 slug: exploring-lambda-and-cloud-functions-in-gcp-aws-azure-cloud
 date: 2023-07-15
 image: post/Articles/IMAGES/lambcloudwide.jpg
-categories: 
+categories:
+  - Cloud
+  - Amazon Cloud-AWS
+  - Amazon Lambda
+  - Google Cloud Functions
+  - Azure Functions
+  - CSharp
+  - DotNet
+  - Python
 tags:
   - AWS
   - GCP
@@ -20,7 +28,7 @@ tags:
   - GoogleAppEngine
 draft: false
 weight: 256
-lastmod: 2025-02-03T15:34:36.305Z
+lastmod: 2025-02-09T22:14:57.065Z
 ---
 # Exploring Lambda and Cloud Functions in GCP, AWS, & Azure Cloud
 

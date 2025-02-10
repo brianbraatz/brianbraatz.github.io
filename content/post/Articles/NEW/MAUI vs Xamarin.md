@@ -4,7 +4,12 @@ description: Brekdown of differences between MAUI vs Xamarin
 slug: maui-vs-xamarin-the-ultimate-showdown
 date: 2022-11-28
 image: post/Articles/IMAGES/mauilogo2.png
-categories: []
+categories:
+  - Maui
+  - XAML
+  - Xamarin
+  - DotNet
+  - CSharp
 tags:
   - Maui
   - Xamarin
@@ -14,7 +19,7 @@ tags:
   - CSharp
 draft: false
 weight: 284
-lastmod: 2025-02-06T21:56:13.324Z
+lastmod: 2025-02-09T22:32:29.077Z
 ---
 <!-- >
 

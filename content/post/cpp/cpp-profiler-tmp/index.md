@@ -4,7 +4,10 @@ description: Peformance Profiler Libray- Implemented as a Template Metaprogram
 slug: cpp-profiler-tmp
 date: 2004-05-06
 image: cppprofilercover3.png
-categories: 
+categories:
+  - CPP
+  - Algorithms
+  - CPP-Meta Programming
 tags:
   - DesignPatterns
   - AspectOrientatedProgramming
@@ -15,7 +18,7 @@ tags:
 weight: 3
 published: 2001-01-01
 draft: false
-lastmod: 2025-01-29T20:10:31.781Z
+lastmod: 2025-02-09T23:21:44.909Z
 ---
 [Template Metaprogramming-Wikipedia](https://en.wikipedia.org/wiki/Template_metaprogramming)
 

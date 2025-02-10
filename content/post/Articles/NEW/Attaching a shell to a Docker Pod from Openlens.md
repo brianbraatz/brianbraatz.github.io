@@ -4,7 +4,11 @@ description: Instructions on how to bring it back
 slug: how-to-attach-a-shell-to-a-pod-in-openlens
 date: 2022-06-13
 image: post/Articles/IMAGES/openlenssmall.png
-categories: 
+categories:
+  - Docker
+  - DevOps
+  - OpenLens
+  - Kubernetes
 tags:
   - Docker
   - Kubernetes
@@ -14,7 +18,7 @@ tags:
   - Kubectl
 draft: false
 weight: 30
-lastmod: 2025-02-03T13:13:57.321Z
+lastmod: 2025-02-09T21:51:48.552Z
 ---
 # How to Attach a Shell to a Pod in OpenLens
 

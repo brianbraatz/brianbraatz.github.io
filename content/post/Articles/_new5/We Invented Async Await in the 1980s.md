@@ -4,7 +4,18 @@ description: How we did Async-Await type algorithms in the old days compared to 
 slug: we-invented-async-1980s
 date: 2018-12-15
 image: post/Articles/IMAGES/oldmanyellsatcloudwide.png
-categories: 
+categories:
+  - Algorithms
+  - Windows
+  - Windows API
+  - C
+  - CPP
+  - Qt GUI Framework
+  - MFC
+  - OWL
+  - DotNet
+  - History
+  - Concurrency
 tags:
   - Windows
   - MFC
@@ -25,7 +36,7 @@ tags:
   - Maui
 draft: false
 weight: 290
-lastmod: 2025-02-09T17:15:31.036Z
+lastmod: 2025-02-09T21:42:57.642Z
 ---
 ## AND WE WOULD HAVE GOTTEN AWAY WITH TOO!! IF IT HADNT BEEN FOR YOU KIDS!!!!!
 

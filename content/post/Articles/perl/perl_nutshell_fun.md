@@ -10,10 +10,12 @@ tags:
   - Regex
 date: 2008-04-20
 image: post/Articles/IMAGES/cameleatingnutsmall_800_clipped.png
-categories: 
+categories:
+  - Perl
+  - RegEx
 weight: 30
 draft: false
-lastmod: 2025-02-01T18:44:41.244Z
+lastmod: 2025-02-09T23:12:24.918Z
 ---
 # 🐪 The Perl Programming Language in a Nutshell (With Extra Nuts)
 

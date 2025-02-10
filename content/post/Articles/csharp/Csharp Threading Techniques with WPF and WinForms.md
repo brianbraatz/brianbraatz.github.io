@@ -4,7 +4,15 @@ description: Thread UI tricks with .Net and C#
 slug: wpf-winforms-threads
 date: 2024-01-10
 image: post/Articles/IMAGES/20.jpg
-categories: 
+categories:
+  - Windows
+  - CSharp
+  - DotNet
+  - Concurrency
+  - Winforms
+  - WPF
+  - Maui
+  - Xamarin
 tags:
   - CSharp
   - Wpf
@@ -19,7 +27,7 @@ tags:
   - Performance
 draft: false
 weight: 30
-lastmod: 2025-02-08T19:35:15.524Z
+lastmod: 2025-02-09T21:43:52.392Z
 ---
 # Updating User Interfaces in WPF and WinForms with Threading Techniques
 

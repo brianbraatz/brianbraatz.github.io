@@ -4,7 +4,10 @@ description: Python-Parsing Old and New HTML and Converting Into PDF Files
 slug: parsing-old-and-new-html-and-generating-postscript-to-pdf
 date: 2024-12-15
 image: post/Articles/IMAGES/postscriptlogo.png
-categories: 
+categories:
+  - Postscript
+  - PDF
+  - Document Imaging
 tags:
   - Html
   - Postscript
@@ -18,7 +21,7 @@ tags:
   - Python
 draft: false
 weight: 276
-lastmod: 2025-02-09T17:54:10.779Z
+lastmod: 2025-02-09T20:55:33.450Z
 ---
 ## The Nightmare: A Horde of Ancient HTML Files
 

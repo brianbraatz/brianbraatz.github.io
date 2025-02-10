@@ -4,7 +4,11 @@ description: Exploring Rich package with Python
 slug: beautiful-cli-dashboard-rich
 date: 2021-12-05
 image: post/Articles/IMAGES/33.jpg
-categories: []
+categories:
+  - Python
+  - Scripting
+  - Python-Rich
+  - GUI
 tags:
   - Python
   - CLI
@@ -14,7 +18,7 @@ tags:
   - Automation
 draft: false
 weight: 412
-lastmod: 2025-02-07T16:59:37.203Z
+lastmod: 2025-02-09T20:29:22.074Z
 ---
 # Making a Beautiful CLI Dashboard with Rich
 

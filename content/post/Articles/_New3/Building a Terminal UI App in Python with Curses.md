@@ -4,7 +4,10 @@ description: Party Like its the late 1980s...
 slug: building-terminal-ui-python-curses
 date: 2022-08-30
 image: post/Articles/IMAGES/Curses.jpg
-categories: 
+categories:
+  - Python
+  - Python-Curses
+  - GUI
 tags:
   - Python
   - CLI
@@ -14,7 +17,7 @@ tags:
   - Development
 draft: false
 weight: 333
-lastmod: 2025-02-07T17:56:45.997Z
+lastmod: 2025-02-09T20:26:28.526Z
 ---
 Image from this great book:
 

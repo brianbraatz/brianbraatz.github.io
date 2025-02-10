@@ -4,7 +4,10 @@ description: Dive into building a very fast Website in Go with a static backend
 slug: website-go-hugo-framework
 date: 2022-12-15
 image: post/Articles/IMAGES/hugowide.png
-categories: 
+categories:
+  - GoLang
+  - Web Development
+  - Hugo Framework
 tags:
   - Hugo
   - Content
@@ -13,7 +16,7 @@ tags:
   - Javascript
 draft: false
 weight: 30
-lastmod: 2025-02-03T13:53:59.402Z
+lastmod: 2025-02-09T21:48:02.593Z
 ---
 [Hugo](https://gohugo.io/)
 

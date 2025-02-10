@@ -1,10 +1,15 @@
 ---
-title: Evolution of Cross-Process Communication in Windows
-description: How the API evolved From Windows 1.0 to 11
+title: Evolution of IPC Apis in Windows
+description: How the Ability to do Inter Process Communication (IPC) evolved From Windows 1.0 to 11
 slug: competing-methods-of-cross-process-communication-in-windows-api
 date: 2024-12-15
 image: post/Articles/IMAGES/microsoft-windows-title-screens-wide.png
-categories: 
+categories:
+  - Windows
+  - Windows API
+  - Inter-Process Communications
+  - C
+  - CPP
 tags:
   - Windows
   - Win16
@@ -27,7 +32,7 @@ tags:
   - Multithreading
 draft: false
 weight: 120
-lastmod: 2025-02-05T14:51:38.463Z
+lastmod: 2025-02-09T22:12:32.934Z
 ---
 **Design Evolution of the Microsoft Windows Welcome Screen**\
 <https://www.versionmuseum.com/history-of/all-microsoft-windows-splash-title-screens>

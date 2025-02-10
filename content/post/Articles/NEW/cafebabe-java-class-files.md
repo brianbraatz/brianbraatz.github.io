@@ -4,16 +4,19 @@ description: CAFEBABE - The Hidden Message in Java Class Files
 slug: cafebabe-the-hidden-message-in-java-class-files
 date: 2023-07-15
 image: post/Articles/IMAGES/coffee_small.JPG
-categories: []
+categories:
+  - Java
 tags:
   - Java
   - CAFEBABE
   - Bytecode
   - JVM
-  - Java Class Files
+  - Java
+  - Class
+  - Files
 draft: false
 weight: 378
-lastmod: 2025-02-03T13:02:24.587Z
+lastmod: 2025-02-09T21:52:47.425Z
 ---
 # CAFEBABE - The Hidden Message in Java Class Files
 

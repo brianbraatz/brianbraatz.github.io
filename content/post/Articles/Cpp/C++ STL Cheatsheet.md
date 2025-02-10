@@ -4,14 +4,18 @@ description:
 slug: cpp-stl-cheatsheet
 date: 2014-05-06
 image: post/Articles/IMAGES/STL.jpg
-categories: 
+categories:
+  - Windows
+  - CPP
+  - Cheatsheet
+  - CPP-STL
 tags:
   - Cheatsheet
   - CPP
   - CPP-STL
 weight: 30
 draft: false
-lastmod: 2025-02-07T18:28:59.268Z
+lastmod: 2025-02-09T23:36:37.275Z
 ---
 ## C++ Standard Template Library (STL) Cheatsheet
 

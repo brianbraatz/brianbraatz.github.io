@@ -4,7 +4,9 @@ description: Docker Firewall Demystified-Ingress Egress
 slug: docker-firewall-demystified-ingress-egress
 date: 2026-12-21
 image: post/Articles/IMAGES/brickwall2.jpg
-categories: 
+categories:
+  - Docker
+  - Firewalls
 tags:
   - Docker
   - Firewall
@@ -19,9 +21,10 @@ tags:
   - Virtual
   - Networking
   - Kubernetes
+  - Cloud
 draft: false
 weight: 209
-lastmod: 2025-02-03T13:23:47.566Z
+lastmod: 2025-02-09T22:13:18.923Z
 ---
 # Docker Firewall Demystified: Ingress & Egress
 

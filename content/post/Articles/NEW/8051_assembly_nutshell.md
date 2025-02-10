@@ -4,7 +4,10 @@ description: 8051 Assembly Language in a nutshell
 slug: 8051-assembly-language-in-a-nutshell
 date: 2023-11-06
 image: post/Articles/IMAGES/8051wide.jpg
-categories: 
+categories:
+  - Assembly Language
+  - Embedded
+  - 8051 Embedded Processor
 tags:
   - Assembly
   - Microcontroller
@@ -17,7 +20,7 @@ tags:
   - 8051CPU
 draft: false
 weight: 438
-lastmod: 2025-02-03T14:04:17.982Z
+lastmod: 2025-02-09T23:37:46.605Z
 ---
 # 8051 Assembly Language in a Nutshell
 

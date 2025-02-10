@@ -4,7 +4,18 @@ description: Prototype C# Unity 3D Games and other musings...
 slug: unity-proto-games
 date: 2004-05-06
 image: mangriawars.png
-categories: 
+categories:
+  - Unity 3D Engine
+  - CSharp
+  - Cross Platform
+  - Web Development
+  - Mobile
+  - IOS
+  - iPhone
+  - Android
+  - Cloud
+  - Cloud-Real Time Multi User
+  - Web Assembly
 tags:
   - Cloud
   - Azure
@@ -15,7 +26,7 @@ tags:
 weight: 3
 published: 2001-01-01
 draft: false
-lastmod: 2025-02-06T22:42:04.441Z
+lastmod: 2025-02-09T23:43:47.334Z
 ---
 # Unity Game Prototypes
 

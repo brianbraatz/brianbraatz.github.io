@@ -4,7 +4,9 @@ description: Like really weird..
 slug: 10-reasons-javascript-is-insane
 date: 2009-09-15
 image: post/Articles/IMAGES/watermelonguy-trimmed.jpg
-categories: 
+categories:
+  - Javascript
+  - Web Development
 tags:
   - JavaScript
   - Hoisting
@@ -13,7 +15,7 @@ tags:
   - WebDevelopment
 draft: false
 weight: 387
-lastmod: 2025-02-03T22:56:05.795Z
+lastmod: 2025-02-09T22:27:22.038Z
 ---
 # 10 Reasons JavaScript is Weird
 

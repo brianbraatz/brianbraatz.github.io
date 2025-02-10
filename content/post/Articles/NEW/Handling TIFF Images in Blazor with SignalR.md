@@ -4,7 +4,14 @@ description: Dealing with Medial, Document and Microscope images in Blazor Web
 slug: images-blazor-signalr-tiff
 date: 2024-10-05
 image: post/Articles/IMAGES/SEMMisc_pollen.jpg
-categories: 
+categories:
+  - CSharp
+  - Document Imaging
+  - SignalR
+  - DotNet
+  - TIFF Images
+  - Medical Images
+  - Microscope Images
 tags:
   - Tiff
   - Jpg
@@ -16,7 +23,7 @@ tags:
   - WebDevelopment
 draft: false
 weight: 312
-lastmod: 2025-02-06T19:13:37.894Z
+lastmod: 2025-02-09T22:18:55.746Z
 ---
 ![](/post/Articles/IMAGES/SEMMisc_pollen.jpg)
 

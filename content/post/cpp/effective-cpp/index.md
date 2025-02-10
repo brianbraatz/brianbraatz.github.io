@@ -4,14 +4,17 @@ description: Slides for my talk on Effective C++
 slug: effective-cpp
 date: 2006-07-02
 image: ecppcover.png
-categories: 
+categories:
+  - CPP
+  - Performance Optimization
+  - CPP-Meta Programming
 tags:
   - CPP
   - Mentoring
   - Cross-Platform
   - DesignPatterns
 weight: 8
-lastmod: 2025-01-31T00:08:28.472Z
+lastmod: 2025-02-09T23:22:09.014Z
 ---
 <!--- 
 image embed

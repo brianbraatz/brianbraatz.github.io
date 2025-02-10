@@ -4,7 +4,10 @@ description: Gang of Foure Code Examples in Java
 slug: the-gang-of-four-patterns-explained
 date: 2023-12-15
 image: post/Articles/IMAGES/gofwide.png
-categories: 
+categories:
+  - Design Patterns
+  - Algorithms
+  - Java
 tags:
   - Design
   - Patterns
@@ -18,7 +21,7 @@ tags:
   - Programming
 draft: false
 weight: 243
-lastmod: 2025-02-09T18:49:55.324Z
+lastmod: 2025-02-09T22:16:14.422Z
 ---
 # The Gang of Four Patterns Explained
 

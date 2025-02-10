@@ -4,7 +4,12 @@ description: REST, MQTT, Websockets and SIgnalR compared
 slug: rest-and-mqtt-the-dynamic-duo-of-microservice-apis
 date: 2023-06-12
 image: post/Articles/IMAGES/batmandrobinwide.jpg
-categories: 
+categories:
+  - Web Development
+  - MQTT Pattern
+  - Messaging
+  - Cloud
+  - Microservices
 tags:
   - Rest
   - Mqtt
@@ -14,7 +19,7 @@ tags:
   - SignalR
 draft: false
 weight: 222
-lastmod: 2025-02-03T15:28:30.191Z
+lastmod: 2025-02-09T23:08:40.772Z
 ---
 # REST and MQTT: The Dynamic Duo of Microservice APIs
 

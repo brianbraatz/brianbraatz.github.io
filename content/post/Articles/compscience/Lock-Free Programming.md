@@ -3,7 +3,14 @@ title: Understanding Lock-Free Programming
 slug: cs-lockfreeprog
 date: 2015-12-15
 image: post/Articles/IMAGES/lockfreesmall.png
-categories: 
+categories:
+  - C
+  - CPP
+  - Windows
+  - Linux
+  - Unix
+  - Mac OS
+  - Concurrency
 tags:
   - Concurrency
   - Lock-Free
@@ -14,7 +21,7 @@ tags:
 draft: false
 weight: 30
 description: Dive into a Multi-Threading world with NO LOCKS!
-lastmod: 2025-02-03T13:18:58.070Z
+lastmod: 2025-02-09T21:42:16.925Z
 ---
 # Understanding Lock-Free Programming
 

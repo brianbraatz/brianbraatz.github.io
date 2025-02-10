@@ -4,9 +4,13 @@ description: A dive into this high performance techniuqe in C#
 slug: lock-free-programming-csharp
 date: 2024-12-15
 image: post/Articles/IMAGES/23.jpg
-categories: []
+categories:
+  - CSharp
+  - DotNet
+  - Concurrency
 tags:
-  - Lock-Free Programming
+  - Lock-Free
+  - Programming
   - C#
   - Concurrency
   - Multithreading
@@ -14,7 +18,7 @@ tags:
   - SAFe
 draft: false
 weight: 30
-lastmod: 2025-02-02T02:01:38.703Z
+lastmod: 2025-02-09T21:42:09.451Z
 ---
 ## What Is Lock-Free Programming?
 

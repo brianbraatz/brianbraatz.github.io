@@ -4,7 +4,16 @@ description: Demo of my IPhone App which adjusts video bitrate to match availabl
 slug: iphone-abv-video-demo
 date: 2012-03-06 00:00:00+0000
 image: megasharescover.png
-categories: 
+categories:
+  - Cloud
+  - VIdeo Streaming
+  - Algorithms
+  - Adaptive Bitrate Video Streaming
+  - Mobile
+  - IOS
+  - iPhone
+  - Objective C
+  - Mac OS
 tags:
   - DotNet
   - CSharp
@@ -16,7 +25,7 @@ tags:
   - WebDevelopment
   - iPhone
 weight: 9
-lastmod: 2025-01-31T17:39:07.585Z
+lastmod: 2025-02-09T23:23:52.846Z
 ---
 # Adaptive Video Bitrate Streaming
 

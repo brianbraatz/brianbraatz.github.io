@@ -4,7 +4,11 @@ description: Code Examples in MSSQL, MySql and Postgres
 slug: sql-cursors-history-motivation-understanding
 date: 2022-07-03
 image: post/Articles/IMAGES/sqlquerysyntax.png
-categories: 
+categories:
+  - SQL
+  - Microsoft Sql Server
+  - MySql
+  - Postgres Sql
 tags:
   - SQL
   - Cursors
@@ -16,7 +20,7 @@ tags:
   - PostgreSQL
 draft: false
 weight: 354
-lastmod: 2025-02-09T17:25:18.811Z
+lastmod: 2025-02-09T20:53:27.689Z
 ---
 # SQL CURSORS: The History and Motivation, Understanding How They Work
 

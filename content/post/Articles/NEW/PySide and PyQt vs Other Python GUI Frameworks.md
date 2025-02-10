@@ -4,7 +4,12 @@ description: Read if you are trying to decide PySide, PyQt between kinter, Kivy,
 slug: pyside-pyqt-vs-other-python-gui-frameworks
 date: 2022-12-07
 image: post/Articles/IMAGES/pysidevspyqt.jpg
-categories: 
+categories:
+  - Python
+  - Python-PyQt
+  - Python-PySide
+  - GUI
+  - Qt GUI Framework
 tags:
   - Pyside
   - Pyqt
@@ -18,7 +23,7 @@ tags:
   - Qt
 draft: false
 weight: 30
-lastmod: 2025-02-05T19:28:33.615Z
+lastmod: 2025-02-09T23:05:37.447Z
 ---
 # PySide and PyQt vs Other Python GUI Frameworks
 

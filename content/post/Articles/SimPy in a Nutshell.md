@@ -4,16 +4,20 @@ description: One Python Generator at a Time
 slug: simpy-nutshell
 date: 2025-01-03
 image: post/Articles/IMAGES/simpylogo.png
-categories: []
+categories:
+  - Python
+  - Python-SimPy
 tags:
   - SimPy
   - Python
   - Simulation
-  - Discrete Event Simulation
+  - Discrete
+  - Event
+  - Simulation
   - Modeling
 draft: false
 weight: 342
-lastmod: 2025-02-06T22:36:16.489Z
+lastmod: 2025-02-09T23:19:41.806Z
 ---
 Ever wondered how to simulate real-world processes without leaving the comfort of your Python environment?
 

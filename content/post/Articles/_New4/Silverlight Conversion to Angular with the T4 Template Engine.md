@@ -4,7 +4,15 @@ description: Silverlight Conversion Can also work wth WPF-Maui-XAML
 slug: silverlight-conversion-angular-t4
 date: 2021-12-03
 image: post/Articles/IMAGES/t4logo.png
-categories: 
+categories:
+  - Silverlight
+  - Angular
+  - Maui
+  - T4
+  - XAML
+  - WPF
+  - CSharp
+  - DotNet
 tags:
   - Maui
   - WPF
@@ -20,7 +28,7 @@ tags:
   - CSharp
 draft: false
 weight: 312
-lastmod: 2025-02-09T17:54:44.315Z
+lastmod: 2025-02-09T21:29:43.681Z
 ---
 # Maui-WPF-XAML-Silverlight Conversion to Angular with the T4 Template Engine
 

@@ -4,11 +4,16 @@ description: Dive into HP's PCL Language
 slug: deep-dive-into-hps-pcl-language
 date: 2024-12-15
 image: post/Articles/IMAGES/12.jpg
-categories: []
+categories:
+  - Postscript
+  - PDF
+  - Printer Control Language-PCL
+  - Document Imaging
 tags:
   - PCL
   - HP
-  - Laser Printers
+  - Laser
+  - Printers
   - Printing
   - Postscript
   - Adobe
@@ -17,7 +22,7 @@ tags:
   - PDF
 draft: false
 weight: 278
-lastmod: 2025-02-08T19:12:14.637Z
+lastmod: 2025-02-09T21:32:22.440Z
 ---
 # Deep Dive into HP's PCL Language
 

@@ -4,17 +4,23 @@ description: Includes Side by Side code
 slug: maui-vs-wpf-desktop
 date: 2022-02-20
 image: post/Articles/IMAGES/mauilogo1.png
-categories: []
+categories:
+  - CSharp
+  - DotNet
+  - Maui
+  - WPF
+  - XAML
 tags:
   - Maui
   - WPF
   - Dotnet
-  - Desktop Development
+  - Desktop
+  - Development
   - Cross-platform
   - CSharp
 draft: false
 weight: 171
-lastmod: 2025-02-06T21:55:51.388Z
+lastmod: 2025-02-09T22:32:08.178Z
 ---
 # MAUI vs WPF
 

@@ -4,7 +4,16 @@ description: Infrastructure as Code (IaC) Demystified
 slug: infrastructure-as-code-iac-demystified
 date: 2023-11-18
 image: post/Articles/IMAGES/50.jpg
-categories: 
+categories:
+  - DevOps
+  - Infrastructure as Code-IAC
+  - Terraform
+  - AWS CloudFormation
+  - Google Cloud Deployment Manager
+  - Azure Bicep
+  - Ansible
+  - Pulumi
+  - Virtual Machines
 tags:
   - Infrastructure
   - As
@@ -16,7 +25,7 @@ tags:
   - DevOps
 draft: false
 weight: 500
-lastmod: 2025-02-03T15:12:18.875Z
+lastmod: 2025-02-09T22:26:54.474Z
 ---
 # Infrastructure as Code (IaC) Demystified
 

@@ -4,7 +4,18 @@ description: The HIIDE Device- Previous project of mine
 slug: hiide
 date: 2024-05-06
 image: hiide.png
-categories: 
+categories:
+  - Embedded
+  - Mobile
+  - Windows
+  - Linux
+  - Python
+  - CPP
+  - WPF
+  - DotNet
+  - Assembly Language
+  - Embedded Image Procesing
+  - Biometrics Algorithms
 tags:
   - CSharp
   - CPP
@@ -22,7 +33,7 @@ tags:
 weight: 3
 published: 2001-01-01
 draft: false
-lastmod: 2025-01-31T17:38:30.359Z
+lastmod: 2025-02-09T23:44:24.850Z
 ---
 We used to like to say "You can RUN , but you cannot HIIDE!".\
 Which is proof that software engineers are FUNNY.. hahaha

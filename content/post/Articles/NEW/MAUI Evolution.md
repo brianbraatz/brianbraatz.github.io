@@ -4,18 +4,32 @@ description: How we went from Mono to Xamarin to MAUI
 slug: from-mono-to-xamarin-to-maui
 date: 2024-12-05
 image: post/Articles/IMAGES/mauibeach.jpg
-categories: []
+categories:
+  - Maui
+  - Mono
+  - Xamarin
+  - WPF
+  - CSharp
+  - GUI
+  - DotNet
+  - Mobile
+  - Cross Platform
+  - Mac OS
+  - IOS
+  - Android
 tags:
   - Maui
   - WPF
   - Dotnet
-  - Desktop Development
+  - Desktop
+  - Development
   - Cross-platform
   - CSharp
   - Mobile
+  - XAML
 draft: false
 weight: 287
-lastmod: 2025-02-07T17:46:53.461Z
+lastmod: 2025-02-09T22:31:35.793Z
 ---
 <!-- 
 title: Evolution of MAUI From Mono to Xamarin to MAUI

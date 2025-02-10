@@ -4,16 +4,22 @@ description: UML In a Nutshell
 slug: uml-in-a-nutshell
 date: 2023-03-21
 image: post/Articles/IMAGES/uml.png
-categories: []
+categories:
+  - UML
+  - Software Architecture
 tags:
   - UML
-  - Unified Modeling Language
-  - Software Design
+  - Unified
+  - Modeling
+  - Language
+  - Software
+  - Design
   - Diagrams
-  - Software Engineering
+  - Software
+  - Engineering
 draft: false
 weight: 427
-lastmod: 2025-02-03T12:42:28.724Z
+lastmod: 2025-02-09T23:11:12.070Z
 ---
 # UML In a Nutshell
 

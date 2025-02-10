@@ -4,18 +4,23 @@ description: And NO form designers
 slug: scripting-guis-without-form-designers-in-c#
 date: 2021-07-24
 image: post/Articles/IMAGES/14.jpg
-categories: []
+categories:
+  - Scripting
+  - WPF
+  - Maui
+  - CSharp
+  - DotNet
 tags:
-  - C#
   - WPF
   - Xaml
   - WinForms
   - GUI
   - Scripting
   - Code
+  - CPP
 draft: false
 weight: 450
-lastmod: 2025-02-02T17:32:34.014Z
+lastmod: 2025-02-09T23:09:57.257Z
 ---
 # Scripting GUIs Without Form Designers in C\#
 

@@ -4,7 +4,16 @@ description: Python Version of the Blazor Article
 slug: tiff-images-python-and-ajax
 date: 2024-10-05
 image: post/Articles/IMAGES/pollen.jpg
-categories: 
+categories:
+  - CSharp
+  - Document Imaging
+  - SignalR
+  - DotNet
+  - TIFF Images
+  - Medical Images
+  - Microscope Images
+  - Python
+  - Python-Flask
 tags:
   - Tiff
   - Jpg
@@ -15,7 +24,7 @@ tags:
   - MedicalImaging
 draft: false
 weight: 30
-lastmod: 2025-02-06T19:21:29.446Z
+lastmod: 2025-02-09T22:19:31.793Z
 ---
 See C# version here for explanation\
 [Handling TIFF Images in Blazor with SignalR](/post/Articles/NEW/Handling%20TIFF%20Images%20in%20Blazor%20with%20SignalR.md)

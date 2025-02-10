@@ -4,7 +4,12 @@ description:
 slug: Angular-file-cheatsheet
 date: 2014-05-06
 image: post/Articles/IMAGES/angular_wordmark_gradient.png
-categories: 
+categories:
+  - HTML
+  - Angular
+  - Typescript
+  - Javascript
+  - Web Development
 tags:
   - Cheatsheet
   - Angular
@@ -14,7 +19,7 @@ tags:
   - Javascript
 weight: 290
 draft: false
-lastmod: 2025-02-09T16:32:48.271Z
+lastmod: 2025-02-09T21:39:39.129Z
 ---
 ### Angular Cheatsheet
 

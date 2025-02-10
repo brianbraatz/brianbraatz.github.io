@@ -4,7 +4,11 @@ description: Includes C# sample with unit tests and docker deployment and setup
 slug: jenkins-cicd
 date: 2023-01-05
 image: post/Articles/IMAGES/jenkinsloho.png
-categories: []
+categories:
+  - Jenkins
+  - CI\CD
+  - Cloud
+  - DevOps
 tags:
   - Jenkins
   - ContinuousIntegration
@@ -12,7 +16,8 @@ tags:
   - CICD
   - Automation
   - Docker
-  - Unit testing
+  - Unit
+  - testing
   - Microservices
   - Git
   - Docker
@@ -21,7 +26,7 @@ tags:
   - DevOps
 draft: false
 weight: 181
-lastmod: 2025-02-07T17:46:47.088Z
+lastmod: 2025-02-09T22:27:35.283Z
 ---
 ## A Brief History of Jenkins
 

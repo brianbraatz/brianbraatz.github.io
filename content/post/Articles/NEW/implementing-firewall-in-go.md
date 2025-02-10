@@ -4,7 +4,10 @@ description: Implementing a Firewall in the Go Programming Language
 slug: implementing-a-firewall-in-the-go-programming-language
 date: 2023-08-23
 image: post/Articles/IMAGES/brickwall.jpg
-categories: 
+categories:
+  - Firewalls
+  - GoLang
+  - Networking
 tags:
   - Go
   - Firewall
@@ -13,7 +16,7 @@ tags:
   - DNS
 draft: false
 weight: 477
-lastmod: 2025-02-03T14:05:06.870Z
+lastmod: 2025-02-09T22:24:15.362Z
 ---
 ## A Brief History of Go (Because Why Not?)
 

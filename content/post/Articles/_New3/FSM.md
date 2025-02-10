@@ -4,19 +4,28 @@ description: Code Examples in Go, Python, C#, and C++
 slug: finite-state-machines-go-python-c-and-cplusplus
 date: 2022-10-30
 image: post/Articles/IMAGES/fsm.png
-categories: []
-tags:
+categories:
+  - Python
+  - GoLang
+  - CSharp
+  - CPP
+  - Design Patterns
   - Finite State Machine
+tags:
+  - Finite
+  - State
+  - Machine
   - Go
   - Python
   - C#
   - CPP
-  - State Transitions
+  - State
+  - Transitions
   - CodeExamples
   - DesignPatterns
 draft: false
 weight: 152
-lastmod: 2025-02-08T18:39:08.641Z
+lastmod: 2025-02-09T20:27:29.948Z
 ---
 # Finite State Machines, History, Understanding How They Work, and Code Examples in Go, Python, C#, and C++
 

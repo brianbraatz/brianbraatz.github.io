@@ -4,7 +4,10 @@ description: Quick dip into wrting Microservices in the Go Programming language
 slug: go-microservcies-nutshell
 date: 2023-02-06
 image: post/Articles/IMAGES/dockergo.png
-categories: 
+categories:
+  - GoLang
+  - Microservices
+  - Docker
 tags:
   - Docker
   - DockerFile
@@ -13,7 +16,7 @@ tags:
   - MicroServices
 weight: 10
 draft: false
-lastmod: 2025-02-09T16:32:17.839Z
+lastmod: 2025-02-09T21:47:44.483Z
 ---
 # Microservices with Go
 

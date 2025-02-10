@@ -4,7 +4,12 @@ description: History of the APIS behind device drivers in windws
 slug: history-of-windows-device-drivers
 date: 2023-09-21
 image: post/Articles/IMAGES/bsod-wide.png
-categories: 
+categories:
+  - Windows
+  - Device Drivers
+  - C
+  - CPP
+  - Assembly Language
 tags:
   - Windows
   - Kernel
@@ -17,7 +22,7 @@ tags:
   - UserModeDriverFramework
 draft: false
 weight: 30
-lastmod: 2025-02-05T17:44:07.692Z
+lastmod: 2025-02-09T20:17:39.776Z
 ---
 ![](/post/Articles/_New2/Pasted%20image%2020250205091148.png)\
 **Blue screen of death**\

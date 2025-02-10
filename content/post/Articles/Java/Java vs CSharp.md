@@ -4,7 +4,9 @@ description: High Level bullet point comparison of the two languages
 slug: java-vs-csharp
 date: 2010-03-06
 image: post/Articles/IMAGES/33.jpg
-categories: 
+categories:
+  - Java
+  - CSharp
 tags:
   - Cheatsheet
   - Mentoring
@@ -16,7 +18,7 @@ tags:
   - Maui
 weight: 30
 draft: false
-lastmod: 2025-02-01T14:54:30.974Z
+lastmod: 2025-02-09T21:49:29.765Z
 ---
 (this is an old presentation converted to this article )
 

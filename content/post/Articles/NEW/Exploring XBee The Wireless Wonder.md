@@ -4,18 +4,23 @@ description: "Exploring XBee: The Wireless Wonder"
 slug: exploring-xbee-the-wireless-wonder
 date: 2010-12-05
 image: post/Articles/IMAGES/xbee.webp
-categories: []
+categories:
+  - Networking
+  - XBee
 tags:
   - XBee
-  - Wireless Communication
+  - Wireless
+  - Communication
   - Protocols
   - Zigbee
   - IoT
-  - Noise Interference
-  - Error Handling
+  - Noise
+  - Interference
+  - Error
+  - Handling
 draft: false
 weight: 287
-lastmod: 2025-02-03T13:29:15.423Z
+lastmod: 2025-02-09T22:12:50.829Z
 ---
 # Exploring XBee: The Wireless Wonder
 

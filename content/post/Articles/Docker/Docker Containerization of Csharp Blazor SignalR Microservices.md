@@ -4,7 +4,13 @@ description: Docker Containerization of C# Blazor SignalR Microservice
 slug: docker-containerization-signalr-microservice
 date: 2022-04-02
 image: post/Articles/IMAGES/lockerlogo.png
-categories: 
+categories:
+  - CSharp
+  - DotNet
+  - Docker
+  - Cloud
+  - Microservices
+  - SignalR
 tags:
   - Docker
   - Blazor
@@ -20,7 +26,7 @@ tags:
   - DotNet
 draft: false
 weight: 30
-lastmod: 2025-02-07T18:22:36.306Z
+lastmod: 2025-02-09T21:46:13.080Z
 ---
 # Docker Containerization of C# Blazor SignalR Microservice
 

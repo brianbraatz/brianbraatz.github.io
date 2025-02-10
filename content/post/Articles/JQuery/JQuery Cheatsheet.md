@@ -4,7 +4,10 @@ description: JQuery Cheatsheet
 slug: jquery-cheatsheet
 date: 2014-05-06
 image: post/Articles/IMAGES/8.jpg
-categories: 
+categories:
+  - JQuery
+  - Web Development
+  - Cheatsheet
 tags:
   - Cheatsheet
   - React
@@ -15,7 +18,7 @@ tags:
   - Ajax
 weight: 10
 draft: false
-lastmod: 2025-02-01T19:13:32.359Z
+lastmod: 2025-02-09T21:50:21.585Z
 ---
 ## jQuery Cheatsheet
 

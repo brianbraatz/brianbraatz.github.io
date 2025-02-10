@@ -4,18 +4,23 @@ description: Exploring BSD in relation to Linux and Mac Os
 slug: bsd-unix-history-linux-comparison-mac-os
 date: 2021-12-17
 image: post/Articles/IMAGES/bsd.webp
-categories: []
+categories:
+  - Unix
+  - Linux
+  - BSD Unix
+  - Mac OS
 tags:
   - Bsd
   - Linux
   - Unix
   - Macos
-  - Operating Systems
+  - Operating
+  - Systems
   - Comparison
   - History
 draft: false
 weight: 389
-lastmod: 2025-02-07T19:07:07.834Z
+lastmod: 2025-02-09T20:21:18.120Z
 ---
 # BSD Unix: History, Linux Comparison, and Mac OS Connection
 

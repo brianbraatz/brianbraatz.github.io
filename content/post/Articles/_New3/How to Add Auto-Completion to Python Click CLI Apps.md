@@ -4,7 +4,10 @@ description: Where would we be without autocompletion?
 slug: auto-completion-click-cli
 date: 2021-05-10
 image: post/Articles/IMAGES/pythonclicklogo.png
-categories: 
+categories:
+  - Python
+  - Python-Click
+  - GUI
 tags:
   - Python
   - CLI
@@ -14,7 +17,7 @@ tags:
   - Development
 draft: false
 weight: 480
-lastmod: 2025-02-09T17:43:21.206Z
+lastmod: 2025-02-09T20:27:53.416Z
 ---
 # How to Add Auto-Completion to Click CLI Apps
 

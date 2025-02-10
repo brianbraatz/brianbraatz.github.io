@@ -4,17 +4,22 @@ description: How to use saml2aws to make cloud dev smoother
 slug: mastering-saml2aws-the-best-way-to-authenticate-to-aws
 date: 2024-06-19
 image: post/Articles/IMAGES/31.jpg
-categories: []
+categories:
+  - Cloud
+  - Amazon Cloud-AWS
+  - Security
+  - SAML
 tags:
   - AWS
   - Authentication
   - SAML
-  - Cloud Security
+  - Cloud
+  - Security
   - DevOps
   - CLoud
 draft: false
 weight: 101
-lastmod: 2025-02-07T17:48:36.424Z
+lastmod: 2025-02-09T22:30:25.803Z
 ---
 # Mastering SAML2AWS: The Best Way to Authenticate to AWS
 

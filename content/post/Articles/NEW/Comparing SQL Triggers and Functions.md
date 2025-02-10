@@ -4,7 +4,11 @@ description: Side by Side compare Triggers in multiple engines
 slug: comparing-sql-triggers
 date: 2021-04-10
 image: post/Articles/IMAGES/roy-trig-wide.png
-categories: []
+categories:
+  - SQL
+  - Microsoft Sql Server
+  - MySql
+  - Postgres Sql
 tags:
   - SQL
   - Triggers
@@ -16,7 +20,7 @@ tags:
   - Comparison
 draft: false
 weight: 108
-lastmod: 2025-02-04T00:01:33.187Z
+lastmod: 2025-02-09T22:04:31.609Z
 ---
 <https://en.wikipedia.org/wiki/Trigger_(horse)>
 

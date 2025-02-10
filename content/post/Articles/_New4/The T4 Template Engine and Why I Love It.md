@@ -4,7 +4,16 @@ description: Examples of Generating HTML, C#, Python, YAML and Postscript
 slug: t4-template-engine-and-why-i-love-it
 date: 2024-11-30
 image: post/Articles/IMAGES/t4logo.png
-categories: 
+categories:
+  - T4
+  - HTML
+  - CSharp
+  - DotNet
+  - Python
+  - YAML
+  - Postscript
+  - PDF
+  - Document Imaging
 tags:
   - T4
   - Template
@@ -24,7 +33,7 @@ tags:
   - CodeGeneration
 draft: false
 weight: 371
-lastmod: 2025-02-09T17:27:16.734Z
+lastmod: 2025-02-09T21:32:17.365Z
 ---
 # T4 Template Engine and Why I Love It
 

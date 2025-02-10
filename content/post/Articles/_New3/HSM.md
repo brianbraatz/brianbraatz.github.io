@@ -4,21 +4,33 @@ description: Code Examples in Go, Python, C#, and C++
 slug: hsm-explained
 date: 2019-05-20
 image: post/Articles/IMAGES/hsm.png
-categories: []
-tags:
+categories:
+  - Design Patterns
   - Hierarchical State Machine
-  - Finite State Machine
+  - GoLang
+  - CSharp
+  - CPP
+  - Python
+tags:
+  - Hierarchical
+  - State
+  - Machine
+  - Finite
+  - State
+  - Machine
   - History
   - Go
   - Python
   - C#
   - C++
   - Programming
-  - State Transitions
-  - Code Examples
+  - State
+  - Transitions
+  - Code
+  - Examples
 draft: false
 weight: 480
-lastmod: 2025-02-07T17:53:22.743Z
+lastmod: 2025-02-09T20:28:25.686Z
 ---
 # Hierarchical State Machines, History, Understanding How They Work, Comparison to Finite State Machines with Code Examples in Go, Python, C#, and C++
 

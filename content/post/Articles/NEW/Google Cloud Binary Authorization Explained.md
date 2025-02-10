@@ -1,14 +1,21 @@
 ---
 title: "Google's Binary Authorization: Keeping Your Containers in Check"
-description: "Google's Binary Authorization: Keeping Your Containers in Check"
+description: Make sure noone has messed with your containers!
 slug: googles-binary-authorization-containers-in-check
 date: 2022-11-30
 image: post/Articles/IMAGES/googlebinaryauth.jpg
-categories: []
+categories:
+  - Google Cloud-GCP
+  - Cloud
+  - Docker
+  - Security
 tags:
-  - Google Cloud
-  - Binary Authorization
-  - Container Security
+  - Google
+  - Cloud
+  - Binary
+  - Authorization
+  - Container
+  - Security
   - Kubernetes
   - DevOps
   - Docker
@@ -16,7 +23,7 @@ tags:
   - Kubernetes
 draft: false
 weight: 342
-lastmod: 2025-02-03T13:36:41.282Z
+lastmod: 2025-02-09T22:17:34.564Z
 ---
 # Google's Binary Authorization: Keeping Your Containers in Check
 

@@ -1,22 +1,36 @@
 ---
 title: "Event-Driven Comparison: Azure Event Hub vs Azure Service Bus vs AWS SNS vs Google Pub/Sub"
-description: Event-driven- AWS, Azure, and Google Cloud,code samples- Python and C#.
+description: Comparing Cloud Eventing in Python and C#.
 slug: event-driven-comparison-azure-aws-google
 date: 2023-07-15
 image: post/Articles/IMAGES/eventlotsofpeople.png
-categories: []
+categories:
+  - Cloud
+  - Microsoft Azure Cloud
+  - Amazon Cloud-AWS
+  - Google Cloud-GCP
+  - Azure Event Hub
+  - Azure Service Bus
+  - Amazon Simple Notification Service-SNS
+  - Google Cloud Pub-Sub
+  - Microservices
+  - Python
+  - CSharp
+  - DotNet
 tags:
   - Event-Driven
   - AWS
   - Azure
-  - Google Cloud
+  - Google
+  - Cloud
   - Messaging
   - Pub/Sub
   - SNS
-  - Service Bus
+  - Service
+  - Bus
 draft: false
 weight: 378
-lastmod: 2025-02-09T14:36:00.072Z
+lastmod: 2025-02-09T22:10:08.751Z
 ---
 # Event-Driven Madness: Azure Event Hub vs Azure Service Bus vs AWS SNS vs Google Pub/Sub
 

@@ -4,16 +4,22 @@ description: PASCAL In a Nutshell
 slug: pascal-in-a-nutshell
 date: 2021-03-31
 image: post/Articles/IMAGES/Pascal.jpg
-categories: []
+categories:
+  - Pascal
+  - History
 tags:
   - Pascal
-  - Borland Delphi
-  - Programming Languages
-  - Software Development
-  - Apple II
+  - Borland
+  - Delphi
+  - Programming
+  - Languages
+  - Software
+  - Development
+  - Apple
+  - II
 draft: false
 weight: 430
-lastmod: 2025-02-03T15:08:27.383Z
+lastmod: 2025-02-09T23:01:49.088Z
 ---
 # PASCAL In a Nutshell
 

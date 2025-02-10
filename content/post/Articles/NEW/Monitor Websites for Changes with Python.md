@@ -4,7 +4,10 @@ description: Webscraping with intelligent change dectection
 slug: monitor-websites-with-python
 date: 2024-02-03
 image: post/Articles/IMAGES/windsheildscraping.jpg
-categories: 
+categories:
+  - Python
+  - Python-Playwright
+  - Web Development
 tags:
   - WebScraping
   - Automation
@@ -18,7 +21,7 @@ tags:
   - Chrome
 draft: false
 weight: 324
-lastmod: 2025-02-07T17:45:59.750Z
+lastmod: 2025-02-09T22:39:06.107Z
 ---
 # How to Monitor Websites for Changes Like a Cyber Detective
 

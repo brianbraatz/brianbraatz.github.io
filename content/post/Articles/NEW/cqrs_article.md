@@ -4,7 +4,13 @@ description: CQRS (Command Query Responsibility Segregation)
 slug: cqrs-command-query-responsibility-segregation
 date: 2024-12-15
 image: post/Articles/IMAGES/23.jpg
-categories: 
+categories:
+  - Cloud
+  - Docker
+  - Microservices
+  - Design Patterns
+  - CQRS Pattern
+  - MVC Pattern
 tags:
   - CQRS
   - Commands
@@ -17,7 +23,7 @@ tags:
   - Java
 draft: false
 weight: 347
-lastmod: 2025-02-03T13:23:18.895Z
+lastmod: 2025-02-09T22:06:08.226Z
 ---
 # CQRS: Making Software Less Confusing (or More, Depending on Your Perspective)
 
