@@ -22,8 +22,8 @@ tags:
   - Publishing
   - Printing
 draft: false
-weight: 276
-lastmod: 2025-02-09T21:33:01.256Z
+weight: 76
+lastmod: 2025-02-10T00:22:40.141Z
 ---
 # PostScript, TeX and LaTeX: Understanding Their Differences and Interactions
 

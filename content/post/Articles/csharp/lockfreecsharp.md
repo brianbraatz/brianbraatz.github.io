@@ -18,7 +18,7 @@ tags:
   - SAFe
 draft: false
 weight: 30
-lastmod: 2025-02-09T21:42:09.451Z
+lastmod: 2025-02-10T00:32:57.513Z
 ---
 ## What Is Lock-Free Programming?
 
@@ -44,44 +44,126 @@ This approach is crucial for high-performance applications where waiting is a no
 
 ## How to Do It in C# ?
 
-### 1. Use Concurrent Collections
+## 1. Use Concurrent Collections
 
-The .NET Framework offers a suite of thread-safe collections designed for multi-threaded operations. Here are some of the cool kids on the block:
+### Example: Using `ConcurrentDictionary`
 
-:::contextList\
-![ConcurrentQueue in C#](https://tse1.mm.bing.net/th?id=OIP.jbAgT7UP1lX2po89SSKc4AHaD7\&pid=Api)
+Instead of using a regular `Dictionary` with locking, use `ConcurrentDictionary`:
 
-**ConcurrentQueue<T>**\
-A FIFO (First-In-First-Out) data structure that's perfect for scenarios where order matters.\
-:::
+```csharp
+using System;
+using System.Collections.Concurrent;
 
-:::contextList\
-![ConcurrentStack Collection Class in C# - Dot Net Tutorials](https://tse4.mm.bing.net/th?id=OIP.-P-gg6rrRkg-n91hHV8hHAHaIY\&pid=Api)
+class Program
+{
+    static void Main()
+    {
+        var concurrentDict = new ConcurrentDictionary<int, string>();
 
-**ConcurrentStack<T>**\
-A LIFO (Last-In-First-Out) data structure, ideal for scenarios where the most recent item is needed first.\
-:::
+        // Adding key-value pairs safely
+        concurrentDict.TryAdd(1, "Value1");
+        concurrentDict.TryAdd(2, "Value2");
 
-:::contextList\
-![浅析C#中 ConcurrentDictionary的实现 - 刘奇云 - 博客园](https://tse2.mm.bing.net/th?id=OIP.blPVH3m2slO70ZPuxAC43wHaEm\&pid=Api)
+        // Updating a value atomically
+        concurrentDict.AddOrUpdate(1, oldValue => "UpdatedValue", (key, oldValue) => "UpdatedValue");
 
-**ConcurrentDictionary\<TKey, TValue>**\
-A thread-safe dictionary that allows multiple threads to add and remove items without stepping on each other's toes.\
-:::
+        // Retrieving a value safely
+        if (concurrentDict.TryGetValue(1, out string value))
+        {
+            Console.WriteLine($"Key 1 has value: {value}");
+        }
+    }
+}
+```
 
-:::contextList\
-![ConcurrentBag Collection Class in C# - Dot Net Tutorials](https://tse1.mm.bing.net/th?id=OIP.23ku2r-DJOmwgJRpPOphPQAAAA\&pid=Api)
+### Example: Using `ConcurrentQueue`
 
-**ConcurrentBag<T>**\
-A thread-safe, unordered collection of objects, optimized for scenarios where the order of items doesn't matter.\
-:::
+`ConcurrentQueue<T>` is a thread-safe queue that allows multiple threads to enqueue and dequeue items safely.
 
-:::contextList\
-![BlockingCollection in C# with Examples - Dot Net Tutorials](https://tse2.mm.bing.net/th?id=OIP.aEa--r0iKyG7aZlMN3J0CAAAAA\&pid=Api)
+```csharp
+using System;
+using System.Collections.Concurrent;
+using System.Threading.Tasks;
 
-**BlockingCollection<T>**\
-A thread-safe collection that provides bounding and blocking capabilities, useful for producer-consumer scenarios.\
-:::
+class Program
+{
+    static void Main()
+    {
+        var queue = new ConcurrentQueue<int>();
+
+        // Simulate multiple threads enqueuing items
+        Parallel.For(0, 10, i => queue.Enqueue(i));
+
+        // Dequeue items safely
+        while (queue.TryDequeue(out int item))
+        {
+            Console.WriteLine($"Dequeued: {item}");
+        }
+    }
+}
+```
+
+### Example: Using `ConcurrentBag`
+
+A `ConcurrentBag<T>` is useful for scenarios where multiple threads are producing and consuming items in a non-deterministic order.
+
+```csharp
+using System;
+using System.Collections.Concurrent;
+using System.Threading.Tasks;
+
+class Program
+{
+    static void Main()
+    {
+        var bag = new ConcurrentBag<int>();
+
+        // Add items concurrently
+        Parallel.For(0, 10, i => bag.Add(i));
+
+        // Retrieve items (order is undefined)
+        while (!bag.IsEmpty)
+        {
+            if (bag.TryTake(out int item))
+            {
+                Console.WriteLine($"Took: {item}");
+            }
+        }
+    }
+}
+```
+
+### Example: Using `ConcurrentStack`
+
+If you need a thread-safe stack, `ConcurrentStack<T>` is your go-to choice.
+
+```csharp
+using System;
+using System.Collections.Concurrent;
+using System.Threading.Tasks;
+
+class Program
+{
+    static void Main()
+    {
+        var stack = new ConcurrentStack<int>();
+
+        // Push items concurrently
+        Parallel.For(0, 10, i => stack.Push(i));
+
+        // Pop items safely
+        while (!stack.IsEmpty)
+        {
+            if (stack.TryPop(out int item))
+            {
+                Console.WriteLine($"Popped: {item}");
+            }
+        }
+    }
+}
+```
+
+These `Concurrent` collections allow you to avoid explicit locking while maintaining thread safety, making your C# applications more performant and scalable.
 
 These collections handle the nitty-gritty of synchronization for you, so you can focus on the fun stuff. ([learn.microsoft.com](https://learn.microsoft.com/en-us/dotnet/standard/collections/thread-safe/when-to-use-a-thread-safe-collection))
 

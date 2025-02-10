@@ -1,6 +1,6 @@
 ---
 title: AWK and SED Together
-description: AWK and SED, Compared and how best to Combined
+description: AWK and SED, Compared and how best to Combine
 slug: awk-vs-sed
 date: 2021-12-30
 image: post/Articles/IMAGES/25.jpg
@@ -25,7 +25,7 @@ tags:
   - Scripting
 draft: false
 weight: 269
-lastmod: 2025-02-09T20:54:28.695Z
+lastmod: 2025-02-10T00:21:49.765Z
 ---
 ## Introduction
 

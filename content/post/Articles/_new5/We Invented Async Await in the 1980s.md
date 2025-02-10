@@ -36,7 +36,7 @@ tags:
   - Maui
 draft: false
 weight: 290
-lastmod: 2025-02-09T21:42:57.642Z
+lastmod: 2025-02-10T01:11:01.761Z
 ---
 ## AND WE WOULD HAVE GOTTEN AWAY WITH TOO!! IF IT HADNT BEEN FOR YOU KIDS!!!!!
 
@@ -105,9 +105,9 @@ Sound familiar?
 
 It's pretty close to the async-await pattern in modern C#.
 
-### The `SortingJob` Class: A Blast from the Past
+### The `SortingJob` Class
 
-#### C++ Implementation with MFC
+#### C++ Implementation
 
 ```cpp
 #include <afxwin.h>
@@ -469,10 +469,14 @@ This WPF version mirrors the C++ example by disabling the button, running the so
 
 ## For Fun: MFC and Qt versions of the C Example
 
-### MFC Version of the C++ Example
+## C++ Implementation with MFC (GUI Code)
+
+Here’s a simple **MFC-based GUI application** that demonstrates async-like behavior using **Windows messages** instead of modern `async/await`.
+
+### Step 1: Add SortingJob.h
 
 ```cpp
-#include <afxwin.h>
+#pragma once
 #include <vector>
 #include <string>
 #include <fstream>
@@ -487,9 +491,7 @@ enum SortState {
 class SortingJob {
 public:
     SortingJob() : state(Constructed), i(0), j(0) {}
-    ~SortingJob() {
-        data.clear();
-    }
+    ~SortingJob() { data.clear(); }
 
     void DoSomeProcessing() {
         switch (state) {
@@ -510,12 +512,7 @@ public:
         }
     }
 
-    bool IsDone() const {
-        return state == Done;
-    }
-
-    std::vector<std::string> data;
-    SortState state;
+    bool IsDone() const { return state == Done; }
 
 private:
     void LoadData() {
@@ -537,7 +534,7 @@ private:
                         std::swap(data[j], data[j + 1]);
                         swapped = true;
                     }
-                    if (++iterations >= 10) {
+                    if (++iterations >= 10) { // Process in small chunks
                         return;
                     }
                 }
@@ -549,8 +546,130 @@ private:
     }
 
     size_t i, j;
+    std::vector<std::string> data;
+    SortState state;
 };
 ```
+
+***
+
+### Step 2: Modify MFC Dialog Code to Use SortingJob
+
+#### **`AsyncDemoDlg.h`**
+
+```cpp
+#pragma once
+#include "afxwin.h"
+#include "SortingJob.h"
+
+class CAsyncDemoDlg : public CDialogEx
+{
+public:
+    CAsyncDemoDlg(CWnd* pParent = nullptr);
+
+#ifdef AFX_DESIGN_TIME
+    enum { IDD = IDD_ASYNCDEMO_DIALOG };
+#endif
+
+protected:
+    virtual void DoDataExchange(CDataExchange* pDX);
+    virtual BOOL OnInitDialog();
+    afx_msg void OnBnClickedStartButton();
+    afx_msg void OnTimer(UINT_PTR nIDEvent);
+    DECLARE_MESSAGE_MAP()
+
+private:
+    CButton m_startButton;
+    CStatic m_statusText;
+    SortingJob* sortingJob;
+};
+```
+
+***
+
+#### **`AsyncDemoDlg.cpp`**
+
+```cpp
+#include "pch.h"
+#include "AsyncDemo.h"
+#include "AsyncDemoDlg.h"
+#include "afxdialogex.h"
+
+#ifdef _DEBUG
+#define new DEBUG_NEW
+#endif
+
+CAsyncDemoDlg::CAsyncDemoDlg(CWnd* pParent)
+    : CDialogEx(IDD_ASYNCDEMO_DIALOG, pParent), sortingJob(nullptr)
+{
+}
+
+void CAsyncDemoDlg::DoDataExchange(CDataExchange* pDX)
+{
+    CDialogEx::DoDataExchange(pDX);
+    DDX_Control(pDX, IDC_BUTTON_START, m_startButton);
+    DDX_Control(pDX, IDC_STATIC_TEXT, m_statusText);
+}
+
+BEGIN_MESSAGE_MAP(CAsyncDemoDlg, CDialogEx)
+    ON_BN_CLICKED(IDC_BUTTON_START, &CAsyncDemoDlg::OnBnClickedStartButton)
+    ON_WM_TIMER()
+END_MESSAGE_MAP()
+
+BOOL CAsyncDemoDlg::OnInitDialog()
+{
+    CDialogEx::OnInitDialog();
+    SetDlgItemText(IDC_STATIC_TEXT, _T("Press Start to sort."));
+    return TRUE;
+}
+
+void CAsyncDemoDlg::OnBnClickedStartButton()
+{
+    m_startButton.EnableWindow(FALSE); // Disable button
+
+    if (sortingJob) delete sortingJob;
+    sortingJob = new SortingJob();
+
+    SetDlgItemText(IDC_STATIC_TEXT, _T("Sorting started..."));
+    
+    // Start a timer to process sorting in chunks
+    SetTimer(1, 100, NULL);
+}
+
+void CAsyncDemoDlg::OnTimer(UINT_PTR nIDEvent)
+{
+    if (nIDEvent == 1 && sortingJob)
+    {
+        sortingJob->DoSomeProcessing();
+
+        if (sortingJob->IsDone())
+        {
+            KillTimer(1);
+            MessageBox(_T("Sorting completed!"), _T("Info"), MB_OK);
+            SetDlgItemText(IDC_STATIC_TEXT, _T("Sorting done!"));
+            m_startButton.EnableWindow(TRUE); // Re-enable button
+            delete sortingJob;
+            sortingJob = nullptr;
+        }
+    }
+
+    CDialogEx::OnTimer(nIDEvent);
+}
+```
+
+***
+
+### **How It Works**
+
+1. **Button Click (`OnBnClickedStartButton`)**
+   * Creates a new **`SortingJob`** instance.
+   * Starts a **100ms timer** to process the sorting **in chunks**.
+
+2. **Timer Event (`OnTimer`)**
+   * Calls **`DoSomeProcessing()`** on **SortingJob** every 100ms.
+   * Once sorting is complete, stops the timer and displays a **message box**.
+
+***
 
 ### Qt Version of the C++ Example
 
