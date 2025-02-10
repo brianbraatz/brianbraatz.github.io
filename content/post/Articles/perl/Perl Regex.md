@@ -6,6 +6,7 @@ image: post/Articles/IMAGES/header_camel.png
 categories:
   - Perl
   - RegEx
+  - Languages
 tags:
   - Perl
   - Regex
@@ -13,7 +14,7 @@ tags:
 draft: false
 weight: 28
 description: Perl And Regex Explained
-lastmod: 2025-02-09T23:12:08.303Z
+lastmod: 2025-02-10T17:14:52.064Z
 ---
 ![Perl Logo](https://cdn.perl.org/perlweb/images/icons/header_camel.png)
 

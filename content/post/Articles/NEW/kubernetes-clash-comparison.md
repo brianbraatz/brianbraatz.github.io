@@ -3,7 +3,7 @@ title: "Kubernetes Comparison: Amazon EKS vs Azure AKS vs Google GKE"
 description: "Informal comparison of Kubernetes services: Amazon EKS vs Azure Kubernetes Service (AKS) vs Google Kubernetes Engine (GKE)."
 slug: kubernetes-clash-eks-vs-aks-vs-gke
 date: 2020-09-21
-image: post/Articles/IMAGES/28.jpg
+image: post/Articles/IMAGES/kubernetes.png
 categories:
   - Kubernetes
   - Cloud
@@ -26,7 +26,7 @@ tags:
   - Containers
 draft: false
 weight: 276
-lastmod: 2025-02-09T22:30:09.133Z
+lastmod: 2025-02-10T16:42:48.438Z
 ---
 # Kubernetes Comparison: Amazon EKS vs Azure AKS vs Google GKE
 

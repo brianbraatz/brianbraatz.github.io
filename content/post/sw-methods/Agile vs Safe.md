@@ -4,16 +4,22 @@ description: Comparison of SAFe Agile vs Regular Agile
 slug: how-safe-agile-differs-from-regular-agile
 date: 2024-12-15
 image: post/Articles/IMAGES/22.jpg
-categories: []
+categories:
+  - Agile
+  - Software Architecture
+  - Software Project Methods
 tags:
   - Agile
   - SAFe
-  - Project Management
-  - Software Development
-  - Scaling Agile
+  - Project
+  - Management
+  - Software
+  - Development
+  - Scaling
+  - Agile
 draft: false
 weight: 30
-lastmod: 2025-02-02T01:41:23.521Z
+lastmod: 2025-02-10T16:50:03.881Z
 ---
 Hey there, fellow Agile nerd!
 

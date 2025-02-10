@@ -8,6 +8,7 @@ categories:
   - Postscript
   - PDF
   - Document Imaging
+  - Languages
 tags:
   - Postscript
   - Laser
@@ -18,7 +19,7 @@ tags:
   - Printing
 draft: false
 weight: 342
-lastmod: 2025-02-09T21:03:25.886Z
+lastmod: 2025-02-10T17:15:18.819Z
 ---
 # Deep Dive into the PostScript Language
 

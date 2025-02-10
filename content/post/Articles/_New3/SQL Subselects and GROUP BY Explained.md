@@ -3,7 +3,7 @@ title: SQL Subselects and GROUP BY Explained
 description: Code Examples in MSSQL, MySql and Postgres
 slug: sql-subselects-group-by-explained
 date: 2024-12-08
-image: post/Articles/IMAGES/22.jpg
+image: post/Articles/IMAGES/sql.png
 categories:
   - SQL
   - Microsoft Sql Server
@@ -23,7 +23,7 @@ tags:
   - Optimization
 draft: false
 weight: 201
-lastmod: 2025-02-09T20:53:43.714Z
+lastmod: 2025-02-10T15:24:13.115Z
 ---
 # SQL Subselects and GROUP BY Explained: The History, Motivation, and How They Work
 

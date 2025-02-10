@@ -13,9 +13,10 @@ image: post/Articles/IMAGES/cameleatingnutsmall_800_clipped.png
 categories:
   - Perl
   - RegEx
+  - Languages
 weight: 30
 draft: false
-lastmod: 2025-02-09T23:12:24.918Z
+lastmod: 2025-02-10T17:15:02.156Z
 ---
 # 🐪 The Perl Programming Language in a Nutshell (With Extra Nuts)
 

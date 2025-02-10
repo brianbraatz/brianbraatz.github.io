@@ -2,7 +2,7 @@
 title: "Why I Love Windows 95: A Software Developer's Perspective"
 description: A look at Windows 95 from a Software Developer who lived through it..
 slug: why-i-love-windows-95-developer-perspective
-date: 2025-02-09
+date: 2019-02-09
 image: post/Articles/IMAGES/Windows95Package.png
 categories:
   - History
@@ -21,7 +21,7 @@ tags:
   - History
 draft: false
 weight: 30
-lastmod: 2025-02-09T21:35:47.102Z
+lastmod: 2025-02-10T16:22:40.164Z
 ---
 <!-- 
 {{< youtube "https://www.youtube.com/watch?v=wRdl1BjTG7c" >}}

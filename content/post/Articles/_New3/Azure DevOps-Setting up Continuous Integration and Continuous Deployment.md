@@ -1,6 +1,6 @@
 ---
-title: Azure DevOps-Setting up Continuous Integration and Continuous Deployment
-description: Tutorial-Cheatsheet for Setup steps for Azure CICD
+title: Azure DevOps-Continuous Integration & Continuous Deployment
+description: Tutorial-Cheatsheet for Setup of Azure CI\CD
 slug: setting-up-ci-cd-in-azure-devops
 date: 2023-09-12
 image: post/Articles/IMAGES/azure.png
@@ -30,7 +30,7 @@ tags:
   - DotNet
 draft: false
 weight: 346
-lastmod: 2025-02-09T20:19:55.834Z
+lastmod: 2025-02-10T15:37:07.876Z
 ---
 # Setting up CI/CD in Azure DevOps
 
