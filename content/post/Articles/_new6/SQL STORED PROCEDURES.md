@@ -1,7 +1,7 @@
 ---
 title: "Enterprise Design Pattern: SQL CRUD Explained"
-description: Explains this Pattern and How to Generate CRUD for MySQL, SQL Server, and PostgreSQL Using Python
-slug: sql-crud-design-pattern-with-stored-procedures:-history-usage-pros-and-cons-with-alternatives-and-how-to-generate-crud-stored-procedures-with-mysql-sql-server-and-postgresql-using-python
+description: Explains this Pattern and How to Generate CRUD With Python
+slug: sql-crud--with-stored-procedures
 date: 2020-10-03
 image: post/Articles/IMAGES/sql.png
 categories:
@@ -12,6 +12,7 @@ categories:
   - MySql
   - Microsoft Sql Server
   - Postgres Sql
+  - Cloud
 tags:
   - Sql
   - Stored
@@ -33,7 +34,7 @@ tags:
   - Schema
 draft: false
 weight: 106
-lastmod: 2025-02-11T13:55:13.531Z
+lastmod: 2025-02-11T14:01:54.632Z
 ---
 <!--
 

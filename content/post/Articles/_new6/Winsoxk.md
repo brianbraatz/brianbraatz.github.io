@@ -26,7 +26,7 @@ tags:
   - Client-Server
 draft: false
 weight: 213
-lastmod: 2025-02-10T18:02:12.178Z
+lastmod: 2025-02-11T14:10:44.533Z
 ---
 <!--
 
@@ -102,7 +102,7 @@ Before Windows **became a network powerhouse**, Microsoft released **Windows for
 
 ***
 
-## 10 Winsock Code Examples
+## Winsock Code Examples
 
 ### **1. Initializing Winsock**
 

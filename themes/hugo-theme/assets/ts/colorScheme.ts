@@ -33,14 +33,14 @@ class StackColorScheme {
                 this.currentScheme = 'light';
             }
             else {
-                this.currentScheme = 'dark';
+                this.currentScheme = 'light'; // hacked
             }
 
             this.setBodyClass();
 
             if (this.currentScheme == this.systemPreferScheme) {
                 /// Set to auto
-                this.currentScheme = 'auto';
+                this.currentScheme = 'light'; // hacked
             }
 
             this.saveScheme();

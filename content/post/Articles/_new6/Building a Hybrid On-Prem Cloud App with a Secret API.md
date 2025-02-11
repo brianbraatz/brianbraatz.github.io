@@ -14,6 +14,9 @@ categories:
   - DotNet
   - Microservices
   - Docker
+  - Mobile
+  - IOS
+  - Android
 tags:
   - Hybrid
   - Cloud
@@ -31,11 +34,14 @@ tags:
   - Security
 draft: false
 weight: 439
-lastmod: 2025-02-11T12:11:20.661Z
+lastmod: 2025-02-11T15:29:03.995Z
 ---
 <!--
 # Experience Building a Hybrid On-Premise Cloud Application, and How to Do It with AWS, Azure, and Google Cloud  
 -->
+
+**Background and Related project: eFit Aware IOS and Android Mobile Apps**\
+[eFit Aware - Android iPhone Mobile with Azure Cloud Sync](/post/Articles/_EfitAware/eFit%20Aware%20-%20Android%20iPhone%20Mobile%20with%20Azure%20Cloud%20Sync.md)
 
 ## Introduction
 

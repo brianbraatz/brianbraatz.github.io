@@ -152,20 +152,20 @@
     }
 }
 
-[data-scheme="dark"] {
-    #dark-mode-toggle {
-        color: var(--accent-color);
-        font-weight: 700;
+// [data-scheme="dark"] {
+//     #dark-mode-toggle {
+//         color: var(--accent-color);
+//         font-weight: 700;
 
-        .icon-tabler-toggle-left {
-            display: none;
-        }
+//         .icon-tabler-toggle-left {
+//             display: none;
+//         }
 
-        .icon-tabler-toggle-right {
-            display: unset;
-        }
-    }
-}
+//         .icon-tabler-toggle-right {
+//             display: unset;
+//         }
+//     }
+// }
 
 #dark-mode-toggle {
     margin-top: auto;

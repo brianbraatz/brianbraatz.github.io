@@ -18,9 +18,9 @@ tags:
   - DesignPatterns
   - VisitorPattern
   - TemplateProgramming
-weight: 3
+weight: 36
 draft: false
-lastmod: 2025-02-09T23:21:19.446Z
+lastmod: 2025-02-11T16:09:49.271Z
 ---
 [Template Metaprogramming-Wikipedia](https://en.wikipedia.org/wiki/Template_metaprogramming)
 
