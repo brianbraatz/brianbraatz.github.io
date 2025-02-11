@@ -38,7 +38,10 @@ tags:
   - Java
 weight: 15
 draft: false
-lastmod: 2025-02-11T16:40:11.568Z
+lastmod: 2025-02-11T16:41:11.555Z
 ---
 Background here:\
 [eFit Aware - Android iPhone Mobile with Azure Cloud Sync](/post/Articles/_EfitAware/eFit%20Aware%20-%20Android%20iPhone%20Mobile%20with%20Azure%20Cloud%20Sync.md)
+
+More on Woz....\
+https://en.wikipedia.org/wiki/Steve\_Wozniak
