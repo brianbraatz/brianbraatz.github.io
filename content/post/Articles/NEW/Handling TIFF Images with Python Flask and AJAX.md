@@ -24,10 +24,12 @@ tags:
   - MedicalImaging
 draft: false
 weight: 30
-lastmod: 2025-02-09T22:19:31.793Z
+lastmod: 2025-02-11T21:13:26.103Z
 ---
 See C# version here for explanation\
 [Handling TIFF Images in Blazor with SignalR](/post/Articles/NEW/Handling%20TIFF%20Images%20in%20Blazor%20with%20SignalR.md)
+
+This project provides a simple Python Flask backend to upload and convert TIFF images to PNG, ensuring compatibility with web browsers. The frontend uses HTML, JavaScript, and AJAX to upload and display the converted image.
 
 ***
 

@@ -23,7 +23,7 @@ tags:
   - WebDevelopment
 draft: false
 weight: 312
-lastmod: 2025-02-09T22:18:55.746Z
+lastmod: 2025-02-11T21:10:40.284Z
 ---
 ![](/post/Articles/IMAGES/SEMMisc_pollen.jpg)
 
@@ -114,7 +114,230 @@ The point of the code is to demonstrate the TIFF conversion on the fly.
 
 So your mileage may vary...
 
+<!-- 
+# 🚀 Blazor + SignalR: Upload TIFF, Convert to PNG, and Display in Client
+
+This guide shows how to:
+1. **Upload a TIFF file from Blazor.**
+2. **Convert TIFF to PNG on the server.**
+3. **Send the PNG (Base64) to clients using SignalR.**
+4. **Display the PNG in the Blazor UI.**
+
+---
+
+-->
+
+What the Sample Does:
+
+1. **User can Upload a TIFF file from Blazor.**
+2. **Converts the TIFF to PNG on the server.**
+3. **Server Send the PNG (Base64) to clients using SignalR.**
+4. **Client Displays the PNG in the Blazor UI.**
+
+## 🖥️ Server-Side (ASP.NET Core + SignalR)
+
+### ✅ 1. SignalR Hub (Server)
+
+This hub handles sending Base64 PNG images to connected clients.
+
+```csharp
+using Microsoft.AspNetCore.SignalR;
+using System.Threading.Tasks;
+
+public class ImageHub : Hub
+{
+    public async Task SendPngImage(string base64Png)
+    {
+        await Clients.All.SendAsync("ReceiveImage", base64Png);
+    }
+}
+```
+
 ***
+
+### ✅ 2. Server-Side Controller to Handle File Upload
+
+This API controller:
+
+* Accepts TIFF file uploads.
+* Converts the TIFF image to PNG.
+* Encodes PNG as Base64.
+* Sends the PNG to clients via SignalR.
+
+```csharp
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.SignalR;
+using System.IO;
+using System.Threading.Tasks;
+using SixLabors.ImageSharp;
+using SixLabors.ImageSharp.Formats.Png;
+
+[Route("api/[controller]")]
+[ApiController]
+public class UploadController : ControllerBase
+{
+    private readonly IHubContext<ImageHub> _hubContext;
+
+    public UploadController(IHubContext<ImageHub> hubContext)
+    {
+        _hubContext = hubContext;
+    }
+
+    [HttpPost("upload")]
+    public async Task<IActionResult> UploadTiff(IFormFile file)
+    {
+        if (file == null || file.Length == 0)
+        {
+            return BadRequest("No file uploaded.");
+        }
+
+        using (MemoryStream inputStream = new MemoryStream())
+        {
+            await file.CopyToAsync(inputStream);
+            byte[] tiffBytes = inputStream.ToArray();
+            string base64Png = ConvertTiffToPngBase64(tiffBytes);
+
+            // Send PNG as Base64 via SignalR
+            await _hubContext.Clients.All.SendAsync("ReceiveImage", base64Png);
+
+            return Ok(new { message = "Image uploaded and converted successfully" });
+        }
+    }
+
+    private string ConvertTiffToPngBase64(byte[] tiffBytes)
+    {
+        using (MemoryStream inputStream = new MemoryStream(tiffBytes))
+        using (Image image = Image.Load(inputStream)) // Load TIFF
+        using (MemoryStream outputStream = new MemoryStream())
+        {
+            image.Save(outputStream, new PngEncoder()); // Convert to PNG
+            byte[] pngBytes = outputStream.ToArray();
+            return Convert.ToBase64String(pngBytes);
+        }
+    }
+}
+```
+
+***
+
+## 🌍 Client-Side (Blazor)
+
+### ✅ 3. Blazor Page (`ImageUploader.razor`)
+
+This component:
+
+* Lets users **upload a TIFF file**.
+* Sends the file to the **server for conversion**.
+* Listens for **SignalR messages** to receive **Base64 PNG**.
+* Displays the **converted PNG**.
+
+```razor
+@page "/upload"
+@inject NavigationManager Navigation
+@inject Microsoft.AspNetCore.SignalR.Client.HubConnection HubConnection
+@inject HttpClient Http
+
+<h3>Upload a TIFF Image</h3>
+
+<InputFile OnChange="UploadFile" />
+
+@if (string.IsNullOrEmpty(base64Image))
+{
+    <p>Waiting for image...</p>
+}
+else
+{
+    <h3>Converted PNG:</h3>
+    <img src="@base64Image" alt="Converted PNG" style="max-width: 100%; border: 1px solid #ccc;" />
+}
+
+@code {
+    private string base64Image;
+
+    protected override async Task OnInitializedAsync()
+    {
+        HubConnection = new Microsoft.AspNetCore.SignalR.Client.HubConnectionBuilder()
+            .WithUrl(Navigation.ToAbsoluteUri("/imagehub")) // Ensure it matches your server hub
+            .Build();
+
+        // Listen for the "ReceiveImage" event from SignalR
+        HubConnection.On<string>("ReceiveImage", (base64) =>
+        {
+            base64Image = $"data:image/png;base64,{base64}"; // Format Base64 for <img> tag
+            StateHasChanged(); // Refresh UI
+        });
+
+        await HubConnection.StartAsync();
+    }
+
+    private async Task UploadFile(InputFileChangeEventArgs e)
+    {
+        var file = e.File;
+        if (file == null) return;
+
+        var content = new MultipartFormDataContent();
+        var fileContent = new StreamContent(file.OpenReadStream(file.Size));
+        content.Add(fileContent, "file", file.Name);
+
+        var response = await Http.PostAsync("api/upload/upload", content);
+        if (response.IsSuccessStatusCode)
+        {
+            Console.WriteLine("Image uploaded successfully");
+        }
+    }
+}
+```
+
+***
+
+## ✅ 4. Register SignalR in `Program.cs`
+
+Make sure **SignalR and the upload controller** are registered in `Program.cs`:
+
+```csharp
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddRazorPages();
+builder.Services.AddServerSideBlazor();
+builder.Services.AddSignalR();
+builder.Services.AddControllers(); // Register API controllers
+builder.Services.AddHttpClient(); // Needed for HTTP file uploads
+
+var app = builder.Build();
+
+app.MapControllers(); // Map API routes
+app.MapHub<ImageHub>("/imagehub");
+app.MapBlazorHub();
+app.MapFallbackToPage("/_Host");
+
+app.Run();
+```
+
+***
+
+<!--
+## 🔥 How This Works
+### 🖼️ User Flow
+1. **User selects a TIFF file** from Blazor UI.
+2. **File is uploaded to ASP.NET Core API (`UploadController`).**
+3. **Server converts TIFF → PNG** and **encodes it as Base64**.
+4. **SignalR sends the Base64 PNG to all clients.**
+5. **Blazor client receives the PNG** and updates the UI dynamically.
+
+---
+
+## 🎯 Features
+✅ **Blazor UI lets users upload TIFF files**  
+✅ **Server converts TIFF → PNG in memory (no disk usage)**  
+✅ **SignalR sends the Base64 PNG to all connected clients**  
+✅ **Blazor dynamically updates the `<img>` tag to display PNG**  
+
+Would you like me to add **logging, error handling, or caching** for performance? 🚀🔥
+-->
+
+<!-- 
+---
 
 ## **Nuget Packages Needed**
 
@@ -123,7 +346,7 @@ dotnet add package System.Drawing.Common
 dotnet add package Microsoft.AspNetCore.SignalR
 ```
 
-***
+---
 
 ## **The SignalR Hub**
 
@@ -167,7 +390,7 @@ public class ImageHub : Hub
 }
 ```
 
-***
+---
 
 ## **Step 3: File Upload Service**
 
@@ -206,13 +429,10 @@ public class FileUploadService
     }
 }
 ```
-
-***
+---
 
 ## **Blazor Page For Upload and Display converted TIFF**
-
 ### **`Pages/Index.razor`**
-
 ```razor
 @page "/"
 @inject NavigationManager Navigation
@@ -276,20 +496,17 @@ public class FileUploadService
 ## How It Works
 
 ### User Uploads a TIFF File:
-
-* The file is saved in `/wwwroot/uploads/` using `FileUploadService`.
+- The file is saved in `/wwwroot/uploads/` using `FileUploadService`.
 
 ### User Clicks "Convert & Show Image":
-
-* The Blazor app calls SignalR to request the conversion.
+- The Blazor app calls SignalR to request the conversion.
 
 ### SignalR Hub Converts the TIFF to PNG:
-
-* The image is read, converted, and sent as a Base64 string.
+- The image is read, converted, and sent as a Base64 string.
 
 ### Client Receives and Displays the PNG:
-
-* The image is shown directly in the browser.
+- The image is shown directly in the browser.
+-->
 
 <!-- 
 ## Bonus: Add Client-Side Logging
@@ -306,8 +523,8 @@ You can add logging inside Blazor for debugging:
 Then call `DebugLog("Message Here")` inside any method.
 -->
 
-## Final Notes
+## Final Notes and Thoughts
 
 ✅ **Blazor Server** fully supports SignalR, making this approach efficient.\
 ✅ **Blazor WASM** can also work but requires a backend API for image conversion.\
-✅ **Static File Serving** allows direct access to uploaded images in `/wwwroot/uploads/`.
+✅ **Static File Serving** allows direct access to uploaded images in `/wwwroot/uploads/`, so you could just convert the file and serve it with static file sharing
