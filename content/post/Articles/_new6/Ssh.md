@@ -29,7 +29,7 @@ tags:
   - Scripting
 draft: false
 weight: 391
-lastmod: 2025-02-10T18:11:03.405Z
+lastmod: 2025-02-11T02:49:35.105Z
 ---
 <!--
 # How the SSH Protocol Works: History, Relationship to Alternatives, and 10 Code Examples
@@ -105,7 +105,7 @@ SSH follows a **client-server model**:
 
 ***
 
-## 10 SSH Code Examples
+## SSH Command Examples
 
 ### **1. Connect to a Remote Server**
 

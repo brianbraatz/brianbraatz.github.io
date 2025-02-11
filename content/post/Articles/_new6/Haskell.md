@@ -1,6 +1,6 @@
 ---
 title: Haskell in a Nutshell
-description: "The Haskell Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples"
+description: History, Motivation, and Code Examples
 slug: the-haskell-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
 date: 2021-09-20
 image: post/Articles/IMAGES/Haskell.png
@@ -28,7 +28,7 @@ tags:
   - Comparison
 draft: false
 weight: 335
-lastmod: 2025-02-10T18:08:54.677Z
+lastmod: 2025-02-11T13:47:46.458Z
 ---
 <!--
 
@@ -37,9 +37,13 @@ lastmod: 2025-02-10T18:08:54.677Z
 
 ## Introduction
 
-If you've ever been told to **think functionally**, there's a good chance you've come across **Haskell**.
+If you've ever been told you "**think TOO functionally**", your dorky enough to enjoy **Haskell**.
 
-**Haskell** is a **purely functional, statically typed language** that introduced concepts that **modern programming languages like Rust, Scala, and Kotlin have borrowed**. Haskell is known for its **mathematical purity, laziness (lazy evaluation, not developer laziness), and strong type system**.
+**Haskell** is a **purely functional, statically typed language** that introduced concepts that **modern programming languages like Rust, Scala, and Kotlin have borrowed**.
+
+(Borrowed? Stole? Were inspired by???? ..... :) )
+
+Haskell is known for its **mathematical purity, laziness (lazy evaluation, not developer laziness), and strong type system**.
 
 <!-- 
 This article will cover:  
@@ -55,6 +59,8 @@ This article will cover:
 ## The History of Haskell
 
 Haskell was born in **1990**, created by **a committee of academics and researchers** who wanted a **better, standardized functional programming language**.
+
+(Sometimes committee's DO do cool things.. )
 
 ### **Why Was Haskell Created?**
 
@@ -106,7 +112,7 @@ Haskell was born in **1990**, created by **a committee of academics and research
 
 ***
 
-## 10 Haskell Code Examples
+## Haskell Code Examples
 
 ### **1. Hello, World!**
 

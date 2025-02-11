@@ -23,15 +23,17 @@ tags:
   - Optimization
 draft: false
 weight: 201
-lastmod: 2025-02-10T15:24:13.115Z
+lastmod: 2025-02-11T02:32:44.729Z
 ---
+<!-- >
 # SQL Subselects and GROUP BY Explained: The History, Motivation, and How They Work
+-->
 
 ## Introduction
 
-SQL subselects (or **subqueries**) and **GROUP BY**—two of the most misunderstood yet **incredibly powerful** tools in SQL. One lets you **nest queries inside queries** like SQL-ception, and the other allows you to **aggregate data** like a boss.
+SQL subselects (or **subqueries**) and **GROUP BY**—two of the most misunderstood yet **incredibly powerful** tools in SQL.
 
-But where did they come from? Why do we need them? And how do you use them effectively without breaking your brain? Let’s break it all down.
+One lets you **nest queries inside queries** like SQL-ception, and the other allows you to **aggregate data** like a boss.
 
 ***
 

@@ -27,7 +27,7 @@ tags:
   - Architecture
 draft: false
 weight: 491
-lastmod: 2025-02-10T15:54:28.270Z
+lastmod: 2025-02-11T13:32:51.758Z
 ---
 <!--
 # Understanding Azure Logic Apps and How It Evolved from BizTalk Server with Example Uses Explained
@@ -35,7 +35,7 @@ lastmod: 2025-02-10T15:54:28.270Z
 
 ## Introduction
 
-In the world of **enterprise integration**, Microsoft has played a massive role, first with **BizTalk Server**, and now with **Azure Logic Apps**.
+First there was **BizTalk Server**, and now there is **Azure Logic Apps**.
 
 But how did we get from **BizTalk’s on-premise, heavyweight integration** to **Azure Logic Apps' cloud-native, serverless automation**?
 
@@ -52,7 +52,7 @@ This guide will break it all down:
 
 ## Before Azure Logic Apps: How Did BizTalk Work?
 
-Before the rise of **cloud-based integration**, enterprises relied on **BizTalk Server** to connect **disparate applications, databases, and services**.
+Before the rise of **cloud-based integration**, enterprises relied on **BizTalk Server** to connect **VERY disparate applications, databases, and services**.
 
 ### **How BizTalk Server Worked**
 
@@ -60,6 +60,35 @@ Before the rise of **cloud-based integration**, enterprises relied on **BizTalk 
 * **Connected various systems** → ERPs, CRMs, APIs, databases, message queues.
 * **Used Orchestrations** → Workflows to process and transform data.
 * **Relied on Adapters** → Connectors for FTP, SQL, SAP, MSMQ, IBM MQ, etc.
+
+### The Mapper UI was Cool
+
+If you ever used Biztalk Mapper, the UI was ahead of its time..
+
+Dragging and dropping to build workflows and orchestrations between - somtimes VERY- different sources and destinations of data.
+
+![](/post/Articles/_new6/Pasted%20image%2020250211052748.png)
+
+<https://learn.microsoft.com/en-us/biztalk/core/using-biztalk-mapper>
+
+**Here is an multi-part article with more on the Mapper:**
+
+![](/post/Articles/_new6/Pasted%20image%2020250211053108.png)\
+![](/post/Articles/_new6/Pasted%20image%2020250211053123.png)
+
+<https://premintegrationblog.wordpress.com/2015/06/09/mapping-in-biztalk-server/>
+
+<https://premintegrationblog.wordpress.com/2015/06/16/links-and-functoids-in-biztalk-server-maps/?preview=true&preview_id=255&preview_nonce=4394c15e3a&post_format=standard>
+
+<https://premintegrationblog.wordpress.com/2015/06/19/mapping-in-biztalk-part-3-pages-in-map/>
+
+<https://premintegrationblog.wordpress.com/2018/06/20/mapping-in-biztalk-server-part-4-basic-maps-functionalities/>
+
+**Biztalk Article on Architecture**
+
+![](/post/Articles/_new6/Pasted%20image%2020250211053231.png)
+
+<https://premintegrationblog.wordpress.com/2015/04/11/biztalk-server-architecture/>
 
 ### **Why BizTalk Was Useful**
 

@@ -18,9 +18,73 @@ tags:
 draft: false
 weight: 30
 description: Query Plans for fun and profit...
-lastmod: 2025-02-09T23:17:46.514Z
+lastmod: 2025-02-11T11:04:37.823Z
 ---
+<!--
 # Understanding SQL Query Plans for Performance Optimization
+-->
+
+```sql
+SELECT users.id,  
+       users.NAME,  
+       orders.total,  
+       products.product_name,  
+       suppliers.supplier_name,  
+       customer_support.agent_name  
+FROM   users  
+       JOIN (SELECT orders.id AS order_id,  
+                    orders.user_id,  
+                    orders.total,  
+                    order_products.product_id  
+             FROM   orders  
+                    JOIN (SELECT order_products.order_id,  
+                                 order_products.product_id  
+                          FROM   order_products) AS order_products  
+                      ON orders.id = order_products.order_id) AS orders  
+         ON users.id = orders.user_id  
+       JOIN (SELECT products.id AS product_id,  
+                    products.product_name,  
+                    product_suppliers.supplier_id  
+             FROM   products  
+                    JOIN (SELECT product_suppliers.product_id,  
+                                 product_suppliers.supplier_id  
+                          FROM   product_suppliers) AS product_suppliers  
+                      ON products.id = product_suppliers.product_id) AS products  
+         ON orders.product_id = products.product_id  
+       JOIN (SELECT suppliers.id AS supplier_id,  
+                    suppliers.supplier_name  
+             FROM   suppliers) AS suppliers  
+         ON products.supplier_id = suppliers.supplier_id  
+       LEFT JOIN (SELECT customer_support.id     AS agent_id,  
+                         customer_support.agent_name,  
+                         support_tickets.user_id AS ticket_user_id  
+                  FROM   customer_support  
+                         JOIN (SELECT support_tickets.id,  
+                                      support_tickets.user_id  
+                               FROM   support_tickets) AS support_tickets  
+                           ON customer_support.id = support_tickets.agent_id) AS  
+                 customer_support  
+              ON users.id = customer_support.ticket_user_id  
+  
+
+WHERE  users.id IN (SELECT DISTINCT( user_profiles.user_id )  
+                    FROM   user_profiles  
+                           JOIN (SELECT user_contacts.user_id AS contact_user_id  
+                                 FROM   user_contacts  
+                                 WHERE  user_contacts.contact_type = 'email') AS  
+                                user_contacts  
+                             ON user_profiles.user_id =  
+                                user_contacts.contact_user_id  
+                    WHERE  user_profiles.profile_status = 'active')  
+  
+
+ORDER  BY users.NAME,  
+          orders.total DESC;
+```
+
+The above **example query** retrieves a list of users along with details about their orders, the products they purchased, the suppliers of those products, and (if available) the customer support agents who assisted them. It applies filters to include only active users\*\* who have **email contact information**.
+
+:)
 
 ## A Brief History of SQL: From Humble Beginnings to Data Dominance
 

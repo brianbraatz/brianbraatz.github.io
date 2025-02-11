@@ -1,5 +1,5 @@
 ---
-title: My Experience Building a Hybrid On-Prem Cloud App with a Secret API!
+title: Building a Hybrid On-Prem Cloud App with a Secret API!
 description: Examples of mixing cloud and on prem servers
 slug: experience-building-a-hybrid
 date: 2020-01-25
@@ -31,7 +31,7 @@ tags:
   - Security
 draft: false
 weight: 439
-lastmod: 2025-02-10T17:06:13.414Z
+lastmod: 2025-02-11T12:11:20.661Z
 ---
 <!--
 # Experience Building a Hybrid On-Premise Cloud Application, and How to Do It with AWS, Azure, and Google Cloud  

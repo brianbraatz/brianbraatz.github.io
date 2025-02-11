@@ -3,7 +3,7 @@ title: Understanding HP's Printer Control Language-PCL
 description: Dive into HP's PCL Language
 slug: deep-dive-into-hps-pcl-language
 date: 2024-12-15
-image: post/Articles/IMAGES/12.jpg
+image: post/Articles/IMAGES/hplaserjet2.jpg
 categories:
   - Postscript
   - PDF
@@ -22,7 +22,7 @@ tags:
   - PDF
 draft: false
 weight: 278
-lastmod: 2025-02-09T21:32:22.440Z
+lastmod: 2025-02-11T12:51:03.730Z
 ---
 # Deep Dive into HP's PCL Language
 

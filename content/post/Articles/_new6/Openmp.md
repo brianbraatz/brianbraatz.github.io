@@ -16,7 +16,6 @@ tags:
   - Multithreading
   - C
   - Programming
-  - C++
   - Fortran
   - High-Performance
   - Computing
@@ -24,9 +23,10 @@ tags:
   - Languages
   - Syntax
   - Comparison
+  - CPP
 draft: false
 weight: 320
-lastmod: 2025-02-10T18:08:29.783Z
+lastmod: 2025-02-11T13:14:16.597Z
 ---
 <!--
 # OpenMP in Detail: History, Motivation, Relationship to Modern Languages, and 10 Code Examples
@@ -254,5 +254,3 @@ int main() {
 1. [OpenMP Wikipedia](https://en.wikipedia.org/wiki/OpenMP)
 2. [Official OpenMP Documentation](https://www.openmp.org/specifications/)
 3. [OpenMP Tutorial](https://computing.llnl.gov/tutorials/openMP/)
-
-K
