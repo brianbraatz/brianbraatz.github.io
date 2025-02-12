@@ -3,7 +3,7 @@ title: Adaptive Bitrate Cloud Video Streaming for IOS iPhone
 description: Demo of my IPhone App which adjusts video bitrate to match available bandwidth
 slug: iphone-abv-video-demo
 date: 2012-03-06 00:00:00+0000
-image: megasharescover.png
+image: post/Articles/IMAGES/iphonevideostreaming.png
 categories:
   - Cloud
   - VIdeo Streaming
@@ -25,7 +25,7 @@ tags:
   - WebDevelopment
   - iPhone
 weight: 9
-lastmod: 2025-02-09T23:23:52.846Z
+lastmod: 2025-02-12T10:08:07.044Z
 ---
 # Adaptive Video Bitrate Streaming
 
@@ -39,12 +39,20 @@ While in the past most video or audio streaming technologies utilized streaming 
 
 Adaptive bitrate streaming works by detecting a user's [bandwidth](https://en.wikipedia.org/wiki/Bandwidth_\(computing\) "Bandwidth (computing)") and [CPU](https://en.wikipedia.org/wiki/CPU "CPU") capacity in real time, adjusting the quality of the media stream accordingly.[\[2\]](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming#cite_note-2) It requires the use of an [encoder](https://en.wikipedia.org/wiki/Encode/Decode "Encode/Decode") which encodes a single source media (video or audio) at multiple [bit rates](https://en.wikipedia.org/wiki/Bit_rate "Bit rate"). The player client[\[3\]](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming#cite_note-itec-dash-3) switches between streaming the different encodings depending on available resources.[\[4\]](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming#cite_note-mobileval-4) This results in providing very little [buffering](https://en.wikipedia.org/wiki/Data_buffer "Data buffer"), faster start times and a good experience for both high-end and low-end connections.[\[5\]](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming#cite_note-5)
 
-More specifically, adaptive bitrate streaming is a method of video streaming over HTTP where the source content is encoded at multiple bit rates. Each of the different bit rate streams are segmented into small multi-second parts.[\[6\]](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming#cite_note-dataset-6) The segment size can vary depending on the particular implementation, but they are typically between two and ten seconds.[\[4\]](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming#cite_note-mobileval-4)[\[6\]](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming#cite_note-dataset-6) First, the client downloads a [manifest file](https://en.wikipedia.org/wiki/Manifest_file "Manifest file") that describes the available stream segments and their respective bit rates. During stream start-up, the client usually requests the segments from the lowest bit rate stream. If the client finds that the network throughput is greater than the bit rate of the downloaded segment, then it will request a higher bit rate segment. Later, if the client finds that the network throughput has deteriorated, it will request a lower bit rate segment. An adaptive bitrate (ABR) algorithm in the client performs the key function of deciding which bit rate segments to download, based on the current state of the network. Several types of ABR algorithms are in commercial use: [throughput](https://en.wikipedia.org/wiki/Throughput "Throughput")-based algorithms use the throughput achieved in recent prior downloads for decision-making (e.g., throughput rule in [dash.js](https://reference.dashif.org/dash.js)), buffer-based algorithms use only the client's current buffer level (e.g., BOLA[\[7\]](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming#cite_note-7) in [dash.js](https://reference.dashif.org/dash.js)), and hybrid algorithms combine both types of information (e.g., DYNAMIC[\[8\]](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming#cite_note-8) in [dash.js](https://reference.dashif.org/dash.js)).
+More specifically, adaptive bitrate streaming is a method of video streaming over HTTP where the source content is encoded at multiple bit rates. Each of the different bit rate streams are segmented into small multi-second parts.[\[6\]](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming#cite_note-dataset-6) 
+
+The segment size can vary depending on the particular implementation, but they are typically between two and ten seconds.[\[4\]](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming#cite_note-mobileval-4)[\[6\]](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming#cite_note-dataset-6) First, the client downloads a [manifest file](https://en.wikipedia.org/wiki/Manifest_file "Manifest file") that describes the available stream segments and their respective bit rates.
+
+During stream start-up, the client usually requests the segments from the lowest bit rate stream. If the client finds that the network throughput is greater than the bit rate of the downloaded segment, then it will request a higher bit rate segment. Later, if the client finds that the network throughput has deteriorated, it will request a lower bit rate segment.
+
+An adaptive bitrate (ABR) algorithm in the client performs the key function of deciding which bit rate segments to download, based on the current state of the network. Several types of ABR algorithms are in commercial use: [throughput](https://en.wikipedia.org/wiki/Throughput "Throughput")-based algorithms use the throughput achieved in recent prior downloads for decision-making (e.g., throughput rule in [dash.js](https://reference.dashif.org/dash.js)), buffer-based algorithms use only the client's current buffer level (e.g., BOLA[\[7\]](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming#cite_note-7) in [dash.js](https://reference.dashif.org/dash.js)), and hybrid algorithms combine both types of information (e.g., DYNAMIC[\[8\]](https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming#cite_note-8) in [dash.js](https://reference.dashif.org/dash.js)).
 
 ## Megashares Adaptive Video Bitrate Streaming Implementation
 
 ![](/post/mobile/iphone-abv-video-demo/megashares.png)\
-[Wayback machine archive of Megashares.com](https://web.archive.org/web/20100304213428/http://www.megashares.com/)
+[Wayback machine archive of Megashares.com](https://web.archive.org/web/20100304213428/http://www.megashares.com/)\
+**Above is a wayback machine of the main site**\
+**We were like the MySpace of filesharing :)**
 
 Below are some videos  of me demonstrating my iphone app which was using our Adaptive bitrate streaming implementation from the users private cloud on their Megashares account.
 

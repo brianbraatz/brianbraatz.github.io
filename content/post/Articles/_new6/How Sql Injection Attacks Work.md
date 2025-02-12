@@ -31,7 +31,7 @@ tags:
   - Dapper
 draft: false
 weight: 431
-lastmod: 2025-02-11T22:04:18.208Z
+lastmod: 2025-02-11T22:22:26.322Z
 ---
 <!-- 
 # Web Security: How SQL Injection Attacks Work
