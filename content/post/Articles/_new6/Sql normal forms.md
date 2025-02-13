@@ -32,7 +32,7 @@ tags:
   - Optimization
 draft: false
 weight: 250
-lastmod: 2025-02-10T18:04:18.524Z
+lastmod: 2025-02-13T17:03:19.367Z
 ---
 <!--
 
@@ -212,5 +212,3 @@ Normalization is the **process of structuring a relational database** to **reduc
 2. [E.F. Codd and the Relational Model](https://en.wikipedia.org/wiki/Edgar_F._Codd)
 3. [Normalization Forms Explained](https://www.geeksforgeeks.org/normalization-in-dbms/)
 4. [Denormalization vs Normalization](https://www.sqlshack.com/database-normalization-vs-denormalization/)
-
-K

@@ -10,6 +10,7 @@ categories:
   - Amazon Cloud-AWS
   - Microsoft Azure Cloud
   - Google Cloud-GCP
+  - Machine Learning
 tags:
   - AI
   - AWS
@@ -22,7 +23,7 @@ tags:
   - MachineLearning
 draft: false
 weight: 378
-lastmod: 2025-02-09T21:51:15.777Z
+lastmod: 2025-02-13T16:58:28.788Z
 ---
 # AI Comparison: Amazon SageMaker vs Azure ML vs Google Vertex AI
 

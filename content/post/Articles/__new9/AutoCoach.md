@@ -6,36 +6,27 @@ date: 2020-12-03
 image: post/Articles/IMAGES/hal6.jpg
 draft: false
 weight: 487
-lastmod: 2025-02-13T16:27:42.804Z
----
 categories:
-
-* Artificial Intellgence
-* History
-* Languages
-* Machine Learning
-* Python
-* CPP\
-  tags:
-* AI
-* LISP
-* Prolog
-* Artificial
-* Intelligence
-* History
-* of
-* AI
-* Logic
-* Programming
-* Machine
-* Learning
-* Neural
-* Networks
-* Expert
-* Systems
-* Python
-* CPP
-
+  - Artificial Intellgence
+  - History
+  - Languages
+  - Machine Learning
+  - Python
+  - CPP
+tags:
+  - AI
+  - LISP
+  - Prolog
+  - Artificial Intelligence
+  - History
+  - Logic Programming
+  - Machine Learning
+  - Neural Networks
+  - Expert Systems
+  - Python
+  - CPP
+lastmod: 2025-02-13T16:55:09.347Z
+---
 # Gun Shooting Neural Network Coach with OpenCV
 
 ## **How the project came to be ...**

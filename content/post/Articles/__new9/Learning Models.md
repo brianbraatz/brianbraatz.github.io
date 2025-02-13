@@ -28,7 +28,7 @@ tags:
   - Algorithms
 draft: false
 weight: 399
-lastmod: 2025-02-13T16:06:50.427Z
+lastmod: 2025-02-13T17:07:05.903Z
 ---
 # Understanding Supervised Learning, Unsupervised Learning, Reinforcement Learning: In-Depth with Code Examples
 
@@ -170,10 +170,6 @@ RL is like a video game — you try things, fail, learn, and eventually get that
 * **Supervised Learning** underpins tools like image recognition and chatbots.
 * **Unsupervised Learning** powers anomaly detection and clustering.
 * **Reinforcement Learning** trains game-playing AIs and robots.
-
-## My First ML Mishap
-
-The first time I tried building a spam filter with supervised learning, it marked my grandma's birthday email as spam. Lesson learned: garbage in, garbage out.
 
 ## Key Ideas
 
