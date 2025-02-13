@@ -1,13 +1,15 @@
 ---
 title: Lisp in a Nutshell
 description: Examining one of the oldest programming languages still in use today
-slug: the-lisp-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+slug: lisp-nutshell
 date: 2022-12-21
 image: post/Articles/IMAGES/lisplogo.png
 categories:
   - LISP
   - Languages
   - History
+  - Artificial Intellgence
+  - Machine Learning
 tags:
   - Lisp
   - Programming
@@ -26,7 +28,7 @@ tags:
   - Comparison
 draft: false
 weight: 308
-lastmod: 2025-02-10T18:08:08.239Z
+lastmod: 2025-02-13T15:50:26.518Z
 ---
 <!--
 # The Lisp Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples
@@ -36,7 +38,11 @@ lastmod: 2025-02-10T18:08:08.239Z
 
 If there’s one language that can claim **true OG status**, it’s **Lisp**.
 
-Born in **1958**, Lisp is **one of the oldest programming languages still in use today**, second only to **Fortran**. But unlike Fortran, **Lisp never really faded away**. Instead, it quietly influenced **modern languages like Python, JavaScript, and Ruby**, and it remains a favorite in **artificial intelligence, machine learning, and symbolic computing**.
+Born in **1958**, Lisp is **one of the oldest programming languages still in use today**, second only to **Fortran**.
+
+But unlike Fortran, **Lisp never really faded away**.
+
+Instead, it quietly influenced **modern languages like Python, JavaScript, and Ruby**, and it remains popular in **artificial intelligence, machine learning, and symbolic computing**.
 
 <!--
 This article explores:  
@@ -52,6 +58,8 @@ This article explores:
 ## The History of Lisp
 
 Lisp was invented by **John McCarthy** at **MIT** in 1958. It was **the second high-level programming language ever created**, after Fortran.
+
+(To me, its **Crazy** how far ahead LISP was in ideas , especially given how early it was created.... )
 
 ### **Why Was Lisp Created?**
 
@@ -167,7 +175,7 @@ Lisp was invented by **John McCarthy** at **MIT** in 1958. It was **the second h
 
 ***
 
-## Why is Lisp Still Relevant?
+## Is Lisp Still Relevant?
 
 ✅ **It powers AI and machine learning** → Lisp was heavily used in **AI research** and inspired languages like **Clojure**.\
 ✅ **It pioneered modern programming features** → **Dynamic typing, garbage collection, REPLs, and higher-order functions.**\

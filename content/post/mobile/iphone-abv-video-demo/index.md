@@ -14,18 +14,19 @@ categories:
   - iPhone
   - Objective C
   - Mac OS
+  - Apple TV
 tags:
   - DotNet
   - CSharp
   - Cross-Platform
-  - Unity3D
   - Cloud
   - ObjectiveC
   - MobileApps
   - WebDevelopment
   - iPhone
+  - CPP
 weight: 9
-lastmod: 2025-02-12T10:08:07.044Z
+lastmod: 2025-02-12T11:44:59.435Z
 ---
 # Adaptive Video Bitrate Streaming
 
