@@ -15,10 +15,10 @@ tags:
   - CPP
   - WeavePattern
   - StrategyPattern
-weight: 3
+weight: 23
 published: 2001-01-01
 draft: false
-lastmod: 2025-02-09T23:21:44.909Z
+lastmod: 2025-02-14T15:55:33.873Z
 ---
 [Template Metaprogramming-Wikipedia](https://en.wikipedia.org/wiki/Template_metaprogramming)
 

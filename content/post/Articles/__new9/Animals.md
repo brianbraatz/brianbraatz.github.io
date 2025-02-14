@@ -17,7 +17,7 @@ tags:
   - History of Computing
 draft: false
 weight: 421
-lastmod: 2025-02-13T14:44:32.073Z
+lastmod: 2025-02-14T15:50:47.648Z
 ---
 ## The Origins of the Animals Program: A Digital Guessing Game with a Brain
 

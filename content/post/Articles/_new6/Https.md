@@ -9,6 +9,7 @@ categories:
   - Networking
   - Security
   - Protocols
+  - Network Protocols
 tags:
   - Https
   - Tls
@@ -24,7 +25,7 @@ tags:
   - Communication
 draft: false
 weight: 165
-lastmod: 2025-02-10T18:00:02.295Z
+lastmod: 2025-02-14T17:02:10.667Z
 ---
 <!--
 

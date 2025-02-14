@@ -36,7 +36,7 @@ tags:
   - Java
 weight: 3
 draft: false
-lastmod: 2025-02-11T16:32:32.606Z
+lastmod: 2025-02-13T19:52:48.588Z
 ---
 ![](/post/Articles/_EfitAware/Pasted%20image%2020250211070710.png)
 
@@ -44,7 +44,7 @@ lastmod: 2025-02-11T16:32:32.606Z
 
 The company later imploded.. But the work was fun....
 
-You can see bits of the IOS and Android Mobile apps in the videos below
+You can see bits of the IOS and Android Mobile apps in the videos in the link above
 
 The syncing was done with Azure backend and Azure Mobile Sync API.
 

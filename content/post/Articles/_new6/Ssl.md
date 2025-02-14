@@ -7,6 +7,7 @@ image: post/Articles/IMAGES/ssl.png
 categories:
   - Web Development
   - Security
+  - Network Protocols
 tags:
   - Ssl
   - Tls
@@ -21,7 +22,7 @@ tags:
   - Certificates
 draft: false
 weight: 126
-lastmod: 2025-02-10T17:57:08.007Z
+lastmod: 2025-02-14T17:02:22.379Z
 ---
 <!--
 

@@ -8,6 +8,7 @@ categories:
   - Internet standards
   - Protocols
   - Networking
+  - Network Protocols
 tags:
   - SMTP
   - Email
@@ -20,7 +21,7 @@ tags:
   - Protocols
 draft: false
 weight: 287
-lastmod: 2025-02-09T23:10:53.968Z
+lastmod: 2025-02-14T16:54:51.335Z
 ---
 # The Curious SMTP Protocol
 

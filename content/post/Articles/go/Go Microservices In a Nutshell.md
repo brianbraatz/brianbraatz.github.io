@@ -14,9 +14,9 @@ tags:
   - WebDevelopment
   - GoLanguage
   - MicroServices
-weight: 10
+weight: 40
 draft: false
-lastmod: 2025-02-09T21:47:44.483Z
+lastmod: 2025-02-14T16:07:21.060Z
 ---
 # Microservices with Go
 

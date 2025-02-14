@@ -9,6 +9,7 @@ categories:
   - Python-Websockets
   - Websockets
   - Networking
+  - Network Protocols
 tags:
   - WebSockets
   - Sockets
@@ -18,7 +19,7 @@ tags:
   - Communication
 draft: false
 weight: 30
-lastmod: 2025-02-09T23:16:55.224Z
+lastmod: 2025-02-14T16:23:38.403Z
 ---
 <!--
 # WebSockets, Sockets, and SignalR: A Fun Dive into Real-Time Communication with Python

@@ -8,6 +8,7 @@ categories:
   - Internet standards
   - Protocols
   - Networking
+  - Network Protocols
 tags:
   - TCP
   - UDP
@@ -17,7 +18,7 @@ tags:
   - Protocols
 draft: false
 weight: 243
-lastmod: 2025-02-09T23:10:33.580Z
+lastmod: 2025-02-14T16:24:09.694Z
 ---
 # TCP/IP-UDP Explained
 

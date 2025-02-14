@@ -16,9 +16,9 @@ tags:
   - WebDevelopment
   - JQuery
   - Ajax
-weight: 10
+weight: 180
 draft: false
-lastmod: 2025-02-09T21:50:21.585Z
+lastmod: 2025-02-14T16:06:41.298Z
 ---
 ## jQuery Cheatsheet
 

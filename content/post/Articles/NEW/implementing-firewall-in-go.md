@@ -8,6 +8,7 @@ categories:
   - Firewalls
   - GoLang
   - Networking
+  - Network Protocols
 tags:
   - Go
   - Firewall
@@ -16,7 +17,7 @@ tags:
   - DNS
 draft: false
 weight: 477
-lastmod: 2025-02-09T22:24:15.362Z
+lastmod: 2025-02-14T16:23:28.314Z
 ---
 ## A Brief History of Go (Because Why Not?)
 

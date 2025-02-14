@@ -2,7 +2,7 @@
 title: DevOps In a Nutshell
 description: DevOps In a Nutshell
 slug: devops-in-a-nutshell
-date: 2017-12-04
+date: 2023-12-04
 image: post/Articles/IMAGES/devops.png
 categories:
   - DevOps
@@ -25,7 +25,7 @@ tags:
   - WebDevelopment
 draft: false
 weight: 379
-lastmod: 2025-02-09T22:06:53.651Z
+lastmod: 2025-02-14T16:56:33.355Z
 ---
 # DevOps In a Nutshell
 

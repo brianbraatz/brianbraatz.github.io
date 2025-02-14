@@ -10,6 +10,7 @@ categories:
   - Windows API
   - Protocols
   - History
+  - Network Protocols
 tags:
   - Winsock
   - Windows
@@ -26,7 +27,7 @@ tags:
   - Client-Server
 draft: false
 weight: 213
-lastmod: 2025-02-11T14:10:44.533Z
+lastmod: 2025-02-14T16:24:18.545Z
 ---
 <!--
 

@@ -8,6 +8,7 @@ categories:
   - Cloud
   - Google Cloud-GCP
   - Protobuf
+  - Network Protocols
 tags:
   - Protobuf
   - Data
@@ -25,7 +26,7 @@ tags:
   - GoLang
 draft: false
 weight: 278
-lastmod: 2025-02-09T23:02:05.804Z
+lastmod: 2025-02-14T16:23:00.158Z
 ---
 # Protobuf: The Not-So-Secret Sauce Behind Efficient Data Serialization
 

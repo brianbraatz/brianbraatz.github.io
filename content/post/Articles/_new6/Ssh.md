@@ -13,6 +13,7 @@ categories:
   - Scripting
   - Cloud
   - Docker
+  - Network Protocols
 tags:
   - Ssh
   - Secure
@@ -29,7 +30,7 @@ tags:
   - Scripting
 draft: false
 weight: 391
-lastmod: 2025-02-11T02:49:35.105Z
+lastmod: 2025-02-14T16:23:57.521Z
 ---
 <!--
 # How the SSH Protocol Works: History, Relationship to Alternatives, and 10 Code Examples

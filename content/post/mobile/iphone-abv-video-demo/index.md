@@ -1,6 +1,6 @@
 ---
-title: Adaptive Bitrate Cloud Video Streaming for IOS iPhone
-description: Demo of my IPhone App which adjusts video bitrate to match available bandwidth
+title: Adaptive Bitrate Cloud Video Streaming- Mobile
+description: Demo of Mobile App -adjusts video bitrate to match available bandwidth
 slug: iphone-abv-video-demo
 date: 2012-03-06 00:00:00+0000
 image: post/Articles/IMAGES/iphonevideostreaming.png
@@ -15,6 +15,11 @@ categories:
   - Objective C
   - Mac OS
   - Apple TV
+  - Android
+  - Xamarin
+  - CSharp
+  - Java
+  - Network Protocols
 tags:
   - DotNet
   - CSharp
@@ -26,7 +31,7 @@ tags:
   - iPhone
   - CPP
 weight: 9
-lastmod: 2025-02-12T11:44:59.435Z
+lastmod: 2025-02-14T16:55:16.803Z
 ---
 # Adaptive Video Bitrate Streaming
 
@@ -75,10 +80,22 @@ Aside from that , this was a fun time in my past, and I think we just bumped int
 
 ## IPhone Video Bitrate Megashares App Demo
 
-### Video demo of me doing a demo IPhone App which adjusts video bitrate to match available bandwidth
+### Video demo of me
+
+**NOTE These are videos demoing me running the app and showing how to stream to an Apple TV. To actually TEST this code. I drove out into the backcountry and streamed video from our servers with spotty network coverage.. It worked Great - but I couldnt seem to find any videos of me doing that test**
 
 {{< video "Megashares Video Streaming Apple TV Demo.mp4" >}}
 
 ### Streaming to a tv via Apple TV from the Phone
 
 {{< video "Megashares Iphone App Streaming to a TV.mp4" >}}
+
+There was a later feature that I added which allowed Connecting to Amazon S3 Storage and accessing your Megashares files and S3 files in the same app..
+
+And I also built an Android Version of this app.
+
+This code was written in Objective C and the Android was with Java and the Android SDK.
+
+After I did this, I wrote a Xamarin version - which shared code between the two projects ..
+
+Well a little, early Versions of Xamarin had some weird project setups - where you would make symbolic links and other tricks to share files between Android and IOS..

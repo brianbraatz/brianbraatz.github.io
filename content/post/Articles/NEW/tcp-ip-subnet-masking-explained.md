@@ -8,6 +8,7 @@ categories:
   - Internet standards
   - Networking
   - Protocols
+  - Network Protocols
 tags:
   - TCP/IP
   - Subnetting
@@ -17,7 +18,7 @@ tags:
   - CIDR
 draft: false
 weight: 155
-lastmod: 2025-02-09T23:10:15.932Z
+lastmod: 2025-02-14T16:24:02.633Z
 ---
 # TCP/IP Subnet Masking Explained
 
