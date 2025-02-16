@@ -26,9 +26,9 @@ categories:
 tags:
   - Cheatsheet
   - WebDevelopment
-weight: 2
+weight: 5
 draft: false
-lastmod: 2025-02-09T23:16:28.051Z
+lastmod: 2025-02-16T19:06:57.379Z
 ---
 ## Python Web Framework Comparison Chart
 

@@ -5,7 +5,7 @@ slug: ai-autocoach
 date: 2020-12-03
 image: post/Articles/IMAGES/hal6.jpg
 draft: false
-weight: 487
+weight: 2
 categories:
   - Artificial Intellgence
   - History
@@ -17,15 +17,20 @@ tags:
   - AI
   - LISP
   - Prolog
-  - Artificial Intelligence
+  - Artificial
+  - Intelligence
   - History
-  - Logic Programming
-  - Machine Learning
-  - Neural Networks
-  - Expert Systems
+  - Logic
+  - Programming
+  - Machine
+  - Learning
+  - Neural
+  - Networks
+  - Expert
+  - Systems
   - Python
   - CPP
-lastmod: 2025-02-13T16:55:09.347Z
+lastmod: 2025-02-16T19:06:16.310Z
 ---
 # Gun Shooting Neural Network Coach with OpenCV
 

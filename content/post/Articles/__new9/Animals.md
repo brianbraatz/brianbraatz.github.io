@@ -3,21 +3,30 @@ title: "The Animals Program on the Apple ][: "
 description: Early Machine Learning and AI Insights
 slug: the-animals-program-on-the-apple-ii
 date: 2024-11-30
-image: post/Articles/IMAGES/12.jpg
-categories: []
+image: post/Articles/IMAGES/Apple_II_Plus.jpg
+categories: 
 tags:
   - AI
-  - Animals Program
-  - Apple II
-  - Machine Learning
-  - Expert Systems
-  - Rule-Based Systems
-  - Early AI
-  - Neural Networks
-  - History of Computing
+  - Animals
+  - Program
+  - Apple
+  - II
+  - Machine
+  - Learning
+  - Expert
+  - Systems
+  - Rule-Based
+  - Systems
+  - Early
+  - AI
+  - Neural
+  - Networks
+  - History
+  - of
+  - Computing
 draft: false
 weight: 421
-lastmod: 2025-02-14T15:50:47.648Z
+lastmod: 2025-02-16T01:15:45.403Z
 ---
 ## The Origins of the Animals Program: A Digital Guessing Game with a Brain
 

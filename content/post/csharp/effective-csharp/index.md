@@ -14,9 +14,9 @@ tags:
   - Mentoring
   - DesignPatterns
   - WPF
-weight: 2
+weight: 4
 published: 2001-01-01
-lastmod: 2025-02-09T23:22:18.782Z
+lastmod: 2025-02-16T19:07:52.182Z
 ---
 <!-- ecsharpcover.png --> 
 
