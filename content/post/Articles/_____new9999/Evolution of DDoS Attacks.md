@@ -3,7 +3,7 @@ title: Evolution of DDoS Attacks
 description: How we fought DDoS in the 2000s..
 slug: evolution-ddos-attacks-modern-cloud-security
 date: 2022-11-10
-image: Blaster_hex_dump.png
+image: post/Articles/IMAGES/Blaster_hex_dump.png
 categories:
   - Kubernetes
   - Security
@@ -23,7 +23,7 @@ tags:
   - Networking
 draft: false
 weight: 1000
-lastmod: 2025-02-16T23:57:46.735Z
+lastmod: 2025-02-17T17:22:17.222Z
 ---
 <!-- 
 # The Evolution of DDoS Attacks: From 2000s Chaos to Modern Cloud Security
@@ -79,7 +79,7 @@ In **2005**, I was in **San Diego Data Center deploying a Enterprise Pharmacy Sy
 
 (Yes we went to the datacenter back then - physically- to install web applications. The software engineering team and I had to physically install the new servers.. and install windows etc... )
 
-Blastor was insane.. it hit the world HARD...
+Blaster was insane.. it hit the world HARD...
 
 [Blaster (computer worm) - Wikipedia](https://en.wikipedia.org/wiki/Blaster_%28computer_worm%29)
 
@@ -92,6 +92,10 @@ This **worm** came from United States on August 11, 2003, and only affected *
 **Blaster** contained the message in your code: “I just want to say I love you San!” (We still do not know who San is) and added, “Billy Gates, why do you make this possible? Stop making money and fix your software “.\
 """"
 
+Blaster hit us hard.. it took- literally- several days to get to a point where we had working laptops and working servers..
+
+Blaster was VERY infectious.. And when it hit your computer it slowed to a crawl making removing the virus take forever..  it would spread on  a network very quickly...
+
 Blastor was a **self-replicating worm** that spread **via an unpatched Windows vulnerability**.
 
 🔴 **Blaster’s impact:**
@@ -101,7 +105,7 @@ Blastor was a **self-replicating worm** that spread **via an unpatched Windows v
 * **Computers would randomly crash and reboot**
 * **Downloading the Blaster removal tool was nearly impossible** because the infection spread **faster than people could fix it**
 
-**Blastor was a Motivating Incident which cause all of us in the industry to change how we thought and change how we wrote software and secured networks.**
+**Blaster was a **VERY** Motivating Incident which cause all of us in the industry to change how we thought and change how we wrote software and secured networks.**
 
 ### **1.3 The Rise of Botnets and DDoS Attacks**
 
@@ -142,11 +146,14 @@ Although **not intentional**, it was still a **denial-of-service attack**.
 
 These problems led to **modern rate limiting, request filtering, and cloud security tools**.\
 [Slashdot effect](https://en.wikipedia.org/wiki/Slashdot_effect)
-----------------------------------------------------------------
 
-## **2. Modern Solutions: How We Stopped the Chaos**
+***
 
-### **2.1 API Rate Limiting: The First Line of Defense**
+With that background, know you know the history and the concepts.
+
+Lets look at some simple defenses and how to set them up .
+
+## **1.5 API Rate Limiting: The First Line of Defense**
 
 [API rate limiting](https://en.wikipedia.org/wiki/Rate_limiting) **controls the number of requests** a client can send within a certain time.
 
@@ -178,7 +185,7 @@ Now, **each IP can only send 60 requests per minute**, preventing abuse.
 
 ***
 
-### **2.2 Web Application Firewalls (WAFs)**
+## **1.6 Web Application Firewalls (WAFs)**
 
 [Web Application Firewalls (WAFs)](https://en.wikipedia.org/wiki/Web_application_firewall) **filter and block malicious requests**.
 
@@ -196,9 +203,9 @@ aws wafv2 create-web-acl     --name "MyWAF"     --scope "REGIONAL"     --default
 
 ***
 
-### **2.3 Distributed Denial-of-Service (DDoS) Protection**
+## **1.7 Distributed Denial-of-Service (DDoS) Protection**
 
-Cloud providers offer **built-in DDoS protection**.
+The major Cloud providers offer **built-in DDoS protection**.
 
 🔹 **Examples of modern DDoS protection tools:**
 
@@ -211,7 +218,7 @@ These **absorb attack traffic** before it reaches your server.
 
 ***
 
-## **3. The Future: What We Solved and What’s Left to Fix**
+## **1.8 Today vs the 2000s..**
 
 ### ✅ **Problems We Solved**
 
@@ -228,20 +235,21 @@ These **absorb attack traffic** before it reaches your server.
 
 We still need **constant security updates, advanced AI detection, and proactive defense strategies**.
 
-***
+<!--
+---
 
 ## **4. Final Thoughts: The Key Takeaways**
 
 ### **Key Lessons from the 2000s Chaos**
-
-✅ **Rate limiting and filtering are critical for API security**\
-✅ **Firewalls, WAFs, and cloud DDoS protection prevent massive attacks**\
-✅ **Modern DevOps teams must secure Kubernetes pods against abuse**\
-✅ **We must stay vigilant, as attackers evolve with new techniques**
+✅ **Rate limiting and filtering are critical for API security**  
+✅ **Firewalls, WAFs, and cloud DDoS protection prevent massive attacks**  
+✅ **Modern DevOps teams must secure Kubernetes pods against abuse**  
+✅ **We must stay vigilant, as attackers evolve with new techniques**  
 
 The internet is **safer now than it was in the 2000s**, but **we must continue building security-first applications**.
 
-***
+---
+-->
 
 ## **Reference Links**
 

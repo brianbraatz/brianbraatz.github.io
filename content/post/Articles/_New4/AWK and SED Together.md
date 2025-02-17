@@ -3,7 +3,7 @@ title: AWK and SED Together
 description: AWK and SED, Compared and how best to Combine
 slug: awk-vs-sed
 date: 2021-12-30
-image: post/Articles/IMAGES/25.jpg
+image: post/Articles/IMAGES/ManhattanMelodrama.jpg
 categories:
   - Scripting
   - AWK
@@ -25,8 +25,10 @@ tags:
   - Scripting
 draft: false
 weight: 269
-lastmod: 2025-02-10T00:21:49.765Z
+lastmod: 2025-02-17T13:11:19.423Z
 ---
+[Manhattan Melodrama - Wikipedia](https://en.wikipedia.org/wiki/Manhattan_Melodrama)
+
 ## Introduction
 
 So you've heard about `sed` and `awk`, two legendary tools from the golden age of UNIX. But now you're stuck in a classic dilemma: **Which one should you use?** Or, **should you use both?**

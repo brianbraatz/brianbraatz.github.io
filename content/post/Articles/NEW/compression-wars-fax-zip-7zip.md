@@ -1,7 +1,7 @@
 ---
 title: "Compression Evolution: Fax Machines, ZIP, and 7Zip"
 description: Overview of how we went from Fax to 7zip
-slug: the-compression-wars-fax-machines-zip-7zip
+slug: the-compression-fax-machines-zip-7zip
 date: 2020-06-20
 image: post/Articles/IMAGES/Hookes-law-springs.png
 categories:
@@ -21,7 +21,7 @@ tags:
   - Encoding
 draft: false
 weight: 345
-lastmod: 2025-02-09T22:05:15.202Z
+lastmod: 2025-02-17T13:30:36.371Z
 ---
 ![](/post/Articles/IMAGES/Hookes-law-springs.png)
 

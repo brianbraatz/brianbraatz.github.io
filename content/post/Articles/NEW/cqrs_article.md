@@ -3,7 +3,7 @@ title: Dive into The CQRS Messaging Pattern
 description: CQRS (Command Query Responsibility Segregation)
 slug: cqrs-command-query-responsibility-segregation
 date: 2024-12-15
-image: post/Articles/IMAGES/23.jpg
+image: post/Articles/IMAGES/jollypostman.png
 categories:
   - Cloud
   - Docker
@@ -23,8 +23,10 @@ tags:
   - Java
 draft: false
 weight: 347
-lastmod: 2025-02-09T22:06:08.226Z
+lastmod: 2025-02-17T13:59:18.445Z
 ---
+[Norman Rockwell - Wikipedia](https://en.wikipedia.org/wiki/Norman_Rockwell)
+
 # CQRS: Making Software Less Confusing (or More, Depending on Your Perspective)
 
 ## What is CQRS?
@@ -32,7 +34,9 @@ lastmod: 2025-02-09T22:06:08.226Z
 CQRS, short for **Command Query Responsibility Segregation**, is a fancy way of saying:\
 *"What if we separate the logic that changes data (commands) from the logic that reads data (queries)?"*
 
-This pattern is **often linked to Martin Fowler** ([Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler_%28software_engineer%29)), though **Greg Young** also played a huge role in its popularization ([Wikipedia](https://en.wikipedia.org/wiki/Greg_Young_%28software_engineer%29)). The idea is simple: instead of having one model that does **both** reading and writing (which is what we usually do), we create **two** models—one for writes (commands) and one for reads (queries).
+This pattern is **often linked to Martin Fowler** ([Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler_%28software_engineer%29)), though **Greg Young** also played a huge role in its popularization ([Wikipedia](https://en.wikipedia.org/wiki/Greg_Young_%28software_engineer%29)).
+
+The idea is simple: instead of having one model that does **both** reading and writing (which is what we usually do), we create **two** models—one for writes (commands) and one for reads (queries).
 
 ## Relationship to the Gang of Four Patterns
 

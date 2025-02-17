@@ -1,6 +1,6 @@
 ---
-title: "Understanding Deadlocks and Race Conditions in C++ and C#: What They Are and How to Avoid Them"
-description: Understanding Deadlocks and Race Conditions in C++ and C#. What They Are and How to Avoid Them
+title: Understanding Deadlocks and Race Conditions in C++ and C#
+description: What They Are and How to Avoid Them
 slug: understanding-deadlocks-and-race-conditions-in-cpp-and-csharp
 date: 2019-07-14
 image: post/Articles/IMAGES/locks.jpg
@@ -21,7 +21,7 @@ tags:
   - CSharp
 draft: false
 weight: 298
-lastmod: 2025-02-17T00:22:44.173Z
+lastmod: 2025-02-17T14:48:16.614Z
 ---
 # Understanding Deadlocks and Race Conditions in C++ and C\#
 

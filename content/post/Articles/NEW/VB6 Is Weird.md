@@ -21,7 +21,7 @@ tags:
   - History
 draft: false
 weight: 324
-lastmod: 2025-02-09T23:11:32.567Z
+lastmod: 2025-02-17T17:11:44.457Z
 ---
 # 10 Reasons Why Visual Basic 6 is Really Weird
 
@@ -167,12 +167,14 @@ You can even mix these together, using `Form1.Show` alongside multiple dynamical
 
 ```vb
 Dim forms(5) As Form1
-Dim fglobal As New Form1
 For i = 0 To 4
     Set forms(i) = New Form1
     forms(i).Show
 Next
-fglobal.Show
+
+' so is Form1 a CLASS ? or a Global Variable?
+Form1.Show
+
 ```
 
 **SO NOW YOU HAVE 6 FORMS ON THE SCREEN..**

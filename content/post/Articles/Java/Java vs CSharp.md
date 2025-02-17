@@ -3,7 +3,7 @@ title: Java vs C#
 description: High Level bullet point comparison of the two languages
 slug: java-vs-csharp
 date: 2010-03-06
-image: post/Articles/IMAGES/33.jpg
+image: post/Articles/IMAGES/swordfight.png
 categories:
   - Java
   - CSharp
@@ -18,9 +18,11 @@ tags:
   - Maui
 weight: 30
 draft: false
-lastmod: 2025-02-09T21:49:29.765Z
+lastmod: 2025-02-17T13:46:30.046Z
 ---
-(this is an old presentation converted to this article )
+[Errol Flynn - Wikipedia](https://en.wikipedia.org/wiki/Errol_Flynn)
+
+(old Lunch and Learn presentation )
 
 # **Java vs. C#**
 

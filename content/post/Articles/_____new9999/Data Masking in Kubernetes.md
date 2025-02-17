@@ -23,7 +23,7 @@ tags:
   - Docker
 draft: false
 weight: 980
-lastmod: 2025-02-16T22:08:44.559Z
+lastmod: 2025-02-17T14:59:46.606Z
 ---
 <!-- 
 # Data Masking in Kubernetes: A Complete Guide with Code Examples
@@ -40,6 +40,8 @@ Let’s secure our data! 🔒
 
 ---
 -->
+
+<https://en.wikipedia.org/wiki/The_Mask_(1994_film)>
 
 ## **1. What is Data Masking?**
 

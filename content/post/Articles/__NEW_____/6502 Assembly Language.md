@@ -19,10 +19,8 @@ tags:
   - Low-Level Programming
 draft: false
 weight: 274
-lastmod: 2025-02-17T00:27:33.262Z
+lastmod: 2025-02-17T02:33:41.381Z
 ---
-3
-
 # 6502 Assembly Language in a Nutshell
 
 ## The Glorious History of the 6502

@@ -14,8 +14,10 @@ tags:
   - No Garbage Collection
 draft: false
 weight: 378
-lastmod: 2025-02-16T19:03:31.090Z
+lastmod: 2025-02-17T14:46:10.127Z
 ---
+https://en.wikipedia.org/wiki/300\_(film)
+
 # Rust's Memory Safety Without Garbage Collection
 
 One of Rust’s most revolutionary features is **memory safety without garbage collection (GC)**. While most modern languages rely on **garbage collection** to manage memory automatically (looking at you, Java and Go), Rust takes a different approach. It ensures memory safety **at compile time** through **ownership, borrowing, and lifetimes**.

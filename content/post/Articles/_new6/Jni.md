@@ -1,5 +1,5 @@
 ---
-title: Java JNI in a Nutsehell
+title: Java JNI in a Nutshell
 description: Hook your Java Code  up to other languages!
 slug: java-jni
 date: 2021-11-17
@@ -24,7 +24,7 @@ tags:
   - CPP
 draft: false
 weight: 490
-lastmod: 2025-02-10T15:53:34.933Z
+lastmod: 2025-02-17T17:17:47.219Z
 ---
 # Java JNI in Detail: History, Motivation, Relationship to Modern Languages, and 10 Code Examples
 

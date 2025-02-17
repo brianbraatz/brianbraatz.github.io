@@ -1,6 +1,6 @@
 ---
-title: "Understanding Deadlocks and Race Conditions in Golang and Python: What They Are and How to Avoid Them"
-description: Understanding Deadlocks and Race Conditions in Golang and Python. What They Are and How to Avoid Them
+title: Understanding Deadlocks and Race Conditions in Golang and Python
+description: What They Are and How to Avoid Them
 slug: understanding-deadlocks-and-race-conditions-in-golang-and-python
 date: 2018-12-05
 image: post/Articles/IMAGES/racingbike.png
@@ -15,11 +15,13 @@ tags:
   - Golang
   - Python
   - Deadlocks
-  - Race Conditions
-  - Thread Safety
+  - Race
+  - Conditions
+  - Thread
+  - Safety
 draft: false
 weight: 417
-lastmod: 2025-02-17T00:07:09.107Z
+lastmod: 2025-02-17T14:47:40.897Z
 ---
 # Understanding Deadlocks and Race Conditions in Golang and Python
 

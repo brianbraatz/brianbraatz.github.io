@@ -17,7 +17,7 @@ tags:
   - Cybersecurity
 draft: false
 weight: 287
-lastmod: 2025-02-15T23:04:27.649Z
+lastmod: 2025-02-17T03:09:01.760Z
 ---
 # How Hackers Used Memory Corruption to Break Into Systems
 
@@ -53,7 +53,7 @@ But with `mseal`, once you've sealed a memory region, any attempt to change its 
 
 ### Intro to Using `mseal`
 
-````c
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/mman.h>
@@ -90,23 +90,25 @@ int main() {
     munmap(mem, page_size);
     return 0;
 }
-
+```
 
 ## How It Works in Practice
-When a developer seals a memory region using mseal, it locks that memory in place. 
 
-The operating system refuses any future changes—you can’t modify its permissions, you can’t remove it, and you can’t remap it. 
+When a developer seals a memory region using mseal, it locks that memory in place.
 
-This is a game-changer because a lot of common exploits rely on being able to tweak memory settings after gaining control of a program. 
+The operating system refuses any future changes—you can’t modify its permissions, you can’t remove it, and you can’t remap it.
+
+This is a game-changer because a lot of common exploits rely on being able to tweak memory settings after gaining control of a program.
 
 If they can’t do that, their attack fails.
 
 ## Ia This Is a Big Deal for Linux Security?
-With mseal, Linux is adding another strong layer of defense against memory corruption exploits. 
 
-It doesn’t solve all security issues, but it makes it much harder for attackers to pull off certain types of hacks. 
+With mseal, Linux is adding another strong layer of defense against memory corruption exploits.
 
-Developers now have a straightforward way to lock down sensitive memory regions, preventing them from being tampered with. 
+It doesn’t solve all security issues, but it makes it much harder for attackers to pull off certain types of hacks.
+
+Developers now have a straightforward way to lock down sensitive memory regions, preventing them from being tampered with.
 
 This makes it significantly harder for hackers to exploit these vulnerabilities, improving overall system security.
 
@@ -116,43 +118,47 @@ In short, mseal is like putting a deadbolt on your memory—once it's locked, no
 
 ## Details of How `mseal` Works
 
-`mseal` works by **locking down** specific memory regions in a process so that their properties **cannot** be changed after they have been sealed. 
+`mseal` works by **locking down** specific memory regions in a process so that their properties **cannot** be changed after they have been sealed.
 
 Normally, a program (or an attacker who has gained some control over a program) can modify memory regions using system calls like:
 
-- **`mprotect`** – Changes memory permissions (e.g., making a memory region executable or writable).
-- **`munmap`** – Unmaps memory, effectively removing it.
-- **`madvise`** – Can be used to discard or change how memory is handled.
+* **`mprotect`** – Changes memory permissions (e.g., making a memory region executable or writable).
+* **`munmap`** – Unmaps memory, effectively removing it.
+* **`madvise`** – Can be used to discard or change how memory is handled.
 
 With `mseal`, once a region of memory is **sealed**, the kernel **blocks any attempt to modify or unmap it**. Even if an attacker gains access to a process, they **cannot** use these system calls to manipulate memory, which is a common way exploits work.
 
----
+***
 
 ## What If Low-Level Code (Assembly) Tries to Access or Modify the Memory?
 
-Attackers often use **assembly language** or other **low-level tricks** to bypass security features, sometimes interacting directly with memory and registers. 
+Attackers often use **assembly language** or other **low-level tricks** to bypass security features, sometimes interacting directly with memory and registers.
 
 But `mseal` is implemented **at the kernel level**, which means that even if an attacker writes assembly code or attempts to manipulate memory manually, the kernel **enforces the seal and blocks any modification attempts**.
 
 Here’s what happens if a program (or attacker) tries to mess with sealed memory:
 
 ### 1. Direct Memory Writes (`mov` in Assembly)
-- If an attacker already has access to writable memory, they could try to write into it using assembly instructions like `mov [address], value`.  
-- **`mseal` does not block normal memory writes**, but it ensures that **memory protection cannot be changed**. If the memory was **read-only**, an attacker cannot make it writable.
+
+* If an attacker already has access to writable memory, they could try to write into it using assembly instructions like `mov [address], value`.
+* **`mseal` does not block normal memory writes**, but it ensures that **memory protection cannot be changed**. If the memory was **read-only**, an attacker cannot make it writable.
 
 ### 2. Modifying Permissions (`mprotect` in Assembly)
-- Some exploits involve changing memory permissions using syscalls. Attackers could try to call `mprotect` using inline assembly or direct system call instructions.  
-- **`mseal` blocks `mprotect` from changing sealed memory regions**, so even if an attacker tries to make **read-only memory writable** (or vice versa), it won’t work.
+
+* Some exploits involve changing memory permissions using syscalls. Attackers could try to call `mprotect` using inline assembly or direct system call instructions.
+* **`mseal` blocks `mprotect` from changing sealed memory regions**, so even if an attacker tries to make **read-only memory writable** (or vice versa), it won’t work.
 
 ### 3. Trying to Unmap Memory (`munmap` in Assembly)
-- An attacker might try to remove (unmap) memory to overwrite it later.  
-- **Sealed memory cannot be unmapped**, so this attack method is also blocked.
+
+* An attacker might try to remove (unmap) memory to overwrite it later.
+* **Sealed memory cannot be unmapped**, so this attack method is also blocked.
 
 ### 4. Changing Memory Mappings (`mmap`, `remap` in Assembly)
-- Some attacks involve **remapping** existing memory regions. For example, an attacker could try to replace a function’s code by remapping memory.  
-- **Sealed memory cannot be remapped**, stopping this kind of attack.
 
----
+* Some attacks involve **remapping** existing memory regions. For example, an attacker could try to replace a function’s code by remapping memory.
+* **Sealed memory cannot be remapped**, stopping this kind of attack.
+
+***
 
 ## How Does the Kernel Enforce `mseal`?
 
@@ -160,7 +166,7 @@ When a memory region is sealed, the **kernel sets a special flag (`VM_SEALED`)**
 
 If an attacker (or a legitimate process) tries to bypass `mseal` by making direct system calls or using low-level assembly tricks, they **will receive an error from the kernel**. The process will either fail **silently** (the memory won’t change) or, in some cases, **trigger a segmentation fault (`SIGSEGV`)**, crashing the program.
 
----
+***
 
 ## Why Is This Effective?
 
@@ -168,26 +174,27 @@ Many modern exploits **depend on modifying memory permissions** to execute arbit
 
 ## `mseal`: Why You Can’t Use It Everywhere
 
-
-While `mseal` is a powerful tool that **prevents memory modifications** and **shuts down common hacking techniques**, it has an important limitation: **you cannot expand or shrink a memory allocation after sealing it**. 
+While `mseal` is a powerful tool that **prevents memory modifications** and **shuts down common hacking techniques**, it has an important limitation: **you cannot expand or shrink a memory allocation after sealing it**.
 
 This means that once you call `mseal`, you **lose the ability to resize memory using `mremap`**.
 
 This restriction makes `mseal` unsuitable for many **dynamic memory allocations**, such as those used by **heap managers, JIT compilers, or applications that frequently resize memory**. Let’s break this down in detail.
 
----
+***
 
 ## The Problem: `mseal` and `mremap` Are Incompatible
 
 ### **What Does `mremap` Do?**
-Normally, when you allocate memory using `mmap`, you get a fixed-size region. 
+
+Normally, when you allocate memory using `mmap`, you get a fixed-size region.
 
 But sometimes, you need **more memory** or want to **shrink the allocation**. This is where `mremap` comes in.
 
-- `mremap` lets you **resize an existing memory allocation** without needing to allocate new memory and copy data manually.
-- You can **expand or shrink** an existing memory region.
+* `mremap` lets you **resize an existing memory allocation** without needing to allocate new memory and copy data manually.
+* You can **expand or shrink** an existing memory region.
 
 **Example: Expanding a Memory Allocation Using `mremap`**
+
 ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -223,16 +230,18 @@ int main() {
     munmap(new_mem, expanded_size);
     return 0;
 }
+```
 
- **What happens?** 
- The memory starts as one page and expands to two pages, keeping the original data intact.
+**What happens?**\
+The memory starts as one page and expands to two pages, keeping the original data intact.
 
 ## mseal Breaks mremap
+
 Now, what happens if we seal the memory region before calling mremap?
 
 Sealing Memory Before Trying to Expand It
 
-~~~c++
+```c++
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/mman.h>
@@ -271,14 +280,15 @@ int main() {
 
     return 0;
 }
-
-~~~
+```
 
 ## What happens?
+
 The mremap call fails because mseal has locked the memory, preventing any changes to its mapping.
 
 ## Why Does This Happen?
-Once a memory region is sealed with mseal, the kernel marks it as immutable. 
+
+Once a memory region is sealed with mseal, the kernel marks it as immutable.
 
 **This means:**
 
@@ -291,16 +301,15 @@ Once a memory region is sealed with mseal, the kernel marks it as immutable.
 * Extending the current mapping (if there’s free space).
 * Moving the memory elsewhere (if it needs more space).
 
-
-But since mseal locks the memory region, mremap cannot perform its operations. 
+But since mseal locks the memory region, mremap cannot perform its operations.
 
 The kernel enforces this restriction to prevent exploits that rely on modifying memory regions after a process has started.
 
-
 ## Example: Trying to Shrink Memory After Sealing
+
 If you try to reduce a memory region after sealing it, it fails in the same way:
 
-~~~c++
+```c++
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/mman.h>
@@ -339,27 +348,28 @@ int main() {
 
     return 0;
 }
-
-~~~
+```
 
 ❌ What happens? The mremap call fails because shrinking a sealed memory region is also not allowed.
 
 ## When Should You Not Use mseal?
+
 **Since mseal makes memory completely immutable, you should avoid using it in:**
+
 * Dynamic memory allocations – Programs that frequently resize memory will break.
 * Heap management – Memory allocators like malloc rely on resizing or reusing memory.
 * JIT compilers – Just-in-time compilers need to generate and modify memory.
 * Shared memory regions – If memory needs to be dynamically changed by multiple processes.
 
 ## When Is mseal Useful?
+
 **mseal is great when:**
 
 * You want to lock down critical memory (e.g., security-sensitive structures).
 * Prevent attackers from modifying memory permissions (stopping many exploits).
 * Protect executable code regions from being tampered with.
 
-
-
+<!-- 
 ============
 ## Introduction
 
@@ -505,34 +515,35 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Linux Dev");
 MODULE_DESCRIPTION("Example of using mseal in a device driver");
 
-````
+```
 
 ## Why This Is a Bad Idea?
-
-* After sealing the memory, kfree(secure\_buffer) will not work, leading to a memory leak.
+*  After sealing the memory, kfree(secure_buffer) will not work, leading to a memory leak.
 * If the driver needs to modify the data later, it won’t be able to.
 * If the system runs out of memory, it cannot reclaim the sealed region, which reduces efficiency.
 
 ## Should You Use `mseal` in a Driver?
 
-| **Use Case**                                 | **Should You Use `mseal`?** | **Why?**                                |
-| -------------------------------------------- | --------------------------- | --------------------------------------- |
-| **Static security-sensitive memory**         | ✅ Yes (Rare Cases)          | Protects data like cryptographic keys   |
-| **Memory-mapped I/O (MMIO)**                 | ✅ Yes (With Caution)        | Can prevent changes to mapped registers |
-| **Dynamically allocated buffers**            | ❌ No                        | Buffers often need resizing & freeing   |
-| **Memory that must be accessed by hardware** | ❌ No                        | Hardware may need to modify the memory  |
-| **Heap or dynamically growing structures**   | ❌ No                        | `mseal` prevents `mremap` and resizing  |
+| **Use Case**                        | **Should You Use `mseal`?** | **Why?**                                        |
+|--------------------------------------|----------------------------|-------------------------------------------------|
+| **Static security-sensitive memory** | ✅ Yes (Rare Cases)        | Protects data like cryptographic keys          |
+| **Memory-mapped I/O (MMIO)**         | ✅ Yes (With Caution)      | Can prevent changes to mapped registers        |
+| **Dynamically allocated buffers**    | ❌ No                      | Buffers often need resizing & freeing          |
+| **Memory that must be accessed by hardware** | ❌ No               | Hardware may need to modify the memory        |
+| **Heap or dynamically growing structures** | ❌ No               | `mseal` prevents `mremap` and resizing        |
 
 ## When Is `mseal` Useful?
 
 `mseal` is great when:
 
-* You want to **lock down critical memory** (e.g., security-sensitive structures).
-* Prevent **attackers from modifying memory permissions** (stopping many exploits).
-* Protect **executable code regions** from being tampered with.
+- You want to **lock down critical memory** (e.g., security-sensitive structures).
+- Prevent **attackers from modifying memory permissions** (stopping many exploits).
+- Protect **executable code regions** from being tampered with.
 
 ## Final-FINAL!!! (final?) Thoughts
 
-* **`mseal` can be useful in rare cases** where memory **must never change**.
-* Most **device drivers need flexibility** to allocate, resize, and free memory—**which `mseal` prevents**.
-* **Linux already provides other security mechanisms** that are **better suited** for protecting memory in drivers.
+- **`mseal` can be useful in rare cases** where memory **must never change**.
+- Most **device drivers need flexibility** to allocate, resize, and free memory—**which `mseal` prevents**.
+- **Linux already provides other security mechanisms** that are **better suited** for protecting memory in drivers.
+
+-->

@@ -1,7 +1,7 @@
 ---
-title: "Cult of the Dead Cow and Back Orifice: History and How It Affected Computer Security"
-description: "Cult of the Dead Cow and Back Orifice: History and How It Affected Computer Security"
-slug: cult-of-the-dead-cow-and-back-orifice-history-and-how-it-affected-computer-security
+title: Cult of the Dead Cow and Back Orifice
+description: How cDc Affected Modern Computer Security
+slug: cult-of-the-dead-cow-
 date: 2019-11-27
 image: post/Articles/IMAGES/cultofthedeadcow.jpeg
 categories:
@@ -19,7 +19,7 @@ tags:
   - Remote Access Tools
 draft: false
 weight: 368
-lastmod: 2025-02-15T14:58:06.487Z
+lastmod: 2025-02-17T15:49:48.788Z
 ---
 # Cult of the Dead Cow and Back Orifice: History and How It Affected Computer Security
 

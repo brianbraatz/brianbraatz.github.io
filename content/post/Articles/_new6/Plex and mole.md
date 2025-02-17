@@ -25,7 +25,7 @@ tags:
   - Csharp
 draft: false
 weight: 467
-lastmod: 2025-02-10T17:06:56.880Z
+lastmod: 2025-02-17T12:52:35.143Z
 ---
 <!--
 
@@ -57,7 +57,7 @@ Pex will generate test cases for **all** sorts of input values, including:
 
 Pretty neat, huh?
 
-More on Pex here: [Microsoft Research – Pex](https://www.microsoft.com/en-us/research/project/pex-and-moles-isolation-and-white-box-unit-testing-for-net/?utm_source=chatgpt.com)
+More on Pex here: [Microsoft Research – Pex](https://www.microsoft.com/en-us/research/project/pex-and-moles-isolation-and-white-box-unit-testing-for-net/)
 
 ***
 
@@ -90,7 +90,7 @@ public void TestWeekend()
 
 Boom! No more flaky tests because of time-dependent logic.
 
-More on Moles here: [Microsoft Research – Moles](https://www.microsoft.com/en-us/research/project/moles-isolation-framework-for-net/?utm_source=chatgpt.com)
+More on Moles here: [Microsoft Research – Moles](https://www.microsoft.com/en-us/research/project/moles-isolation-framework-for-net/)
 
 ***
 

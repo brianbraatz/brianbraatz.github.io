@@ -3,7 +3,7 @@ title: AWK in a Nutshell
 description: AWK in a Nutshell
 slug: awk-in-a-nutshell
 date: 2022-11-07
-image: post/Articles/IMAGES/28.jpg
+image: post/Articles/IMAGES/myrnaloy.png
 categories:
   - AWK
   - Scripting
@@ -24,8 +24,10 @@ tags:
   - Scripting
 draft: false
 weight: 414
-lastmod: 2025-02-09T20:54:47.050Z
+lastmod: 2025-02-17T13:18:27.599Z
 ---
+[Myrna Loy - Wikipedia](https://en.wikipedia.org/wiki/Myrna_Loy)
+
 # AWK in a Nutshell
 
 ## Introduction

@@ -2,7 +2,7 @@
 title: Early AI- How LISP and Prolog Led to Modern AI
 description: The future was gonna be cool... Or so it seemed..
 slug: ai-early
-date: 2020-12-03
+date: 2024-06-03
 image: post/Articles/IMAGES/hal5.jpg
 categories:
   - Artificial Intellgence
@@ -30,11 +30,11 @@ tags:
   - Systems
 draft: false
 weight: 487
-lastmod: 2025-02-13T16:08:03.583Z
+lastmod: 2025-02-17T12:51:27.342Z
 ---
 ## The Birth of AI: Enter LISP and Prolog
 
-Before ChatGPT, Alexa, and robots that can flip pancakes, there was a time when AI was all about logic and rules.
+Before Chat GPT, Alexa, and robots that can flip pancakes, there was a time when AI was all about logic and rules.
 
 And back then, the cool kids on the AI block were **LISP** and **Prolog** — two programming languages that laid the groundwork for modern artificial intelligence.
 

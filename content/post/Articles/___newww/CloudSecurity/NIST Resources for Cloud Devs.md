@@ -22,7 +22,7 @@ tags:
   - Risk management
 draft: false
 weight: 404
-lastmod: 2025-02-15T14:03:09.426Z
+lastmod: 2025-02-17T12:52:39.398Z
 ---
 This is just a list of useful links.
 
@@ -143,5 +143,3 @@ If your cloud application serves regulated industries, **NIST frameworks often d
 * [SOC 2 Compliance](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/soc.html)
 
 ***
-
-**Copy or Download This Markdown Document for Your Obsidian or Hugo Setup.** 🚀

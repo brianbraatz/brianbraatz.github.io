@@ -3,7 +3,7 @@ title: " Service Mesh Istio Setup"
 description: 
 slug: setup-service-mesh-inside-pod
 date: 2021-05-22
-image: bluemesh.jpg
+image: post/Articles/IMAGES/bluemesh.jpg
 categories:
   - Kubernetes
   - Networking
@@ -20,7 +20,7 @@ tags:
   - Consul
 draft: false
 weight: 845
-lastmod: 2025-02-17T00:08:24.680Z
+lastmod: 2025-02-17T14:23:35.304Z
 ---
 <!-- 
 # Setting Up a Service Mesh Inside a Pod: A Complete Guide

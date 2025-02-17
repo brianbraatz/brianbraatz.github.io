@@ -3,7 +3,7 @@ title: "Generics vs Templates: Java vs C# vs C++"
 description: "Generics vs Templates: Java vs C# vs C++"
 slug: generics-vs-templates-java-vs-csharp-vs-cpp
 date: 2019-07-15
-image: post/Articles/IMAGES/7.jpg
+image: post/Articles/IMAGES/jackrunning.png
 categories:
   - CSharp
   - DotNet
@@ -17,7 +17,7 @@ tags:
   - DesignPatterns
 draft: false
 weight: 378
-lastmod: 2025-02-09T22:16:26.850Z
+lastmod: 2025-02-17T15:41:10.103Z
 ---
 # Generics vs Templates: Java vs C# vs C++
 

@@ -20,7 +20,7 @@ tags:
   - Secure Coding
 draft: false
 weight: 248
-lastmod: 2025-02-15T14:13:13.639Z
+lastmod: 2025-02-17T02:41:30.337Z
 ---
 # So, What’s OWASP? 🤔
 

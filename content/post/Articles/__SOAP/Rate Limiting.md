@@ -1,7 +1,7 @@
 ---
-title: "Rate Limiting 101: Keeping Your App from Exploding (Metaphorically)"
-description: "Rate Limiting 101: Keeping Your App from Exploding (Metaphorically)"
-slug: rate-limiting-101-keeping-your-app-from-exploding-metaphorically
+title: Rate Limiting 101
+description: Keeping Your App from Exploding (Metaphorically)
+slug: rate-limiting-101
 date: 2018-01-04
 image: post/Articles/IMAGES/purplecloud2.webp
 categories:
@@ -30,7 +30,7 @@ tags:
   - Control
 draft: false
 weight: 500
-lastmod: 2025-02-16T00:40:40.400Z
+lastmod: 2025-02-17T15:52:05.995Z
 ---
 # Rate Limiting 101: Keeping Your App from Exploding (Metaphorically)
 

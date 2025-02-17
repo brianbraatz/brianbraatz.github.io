@@ -23,9 +23,11 @@ tags:
   - Cloud
 draft: false
 weight: 294
-lastmod: 2025-02-09T22:05:01.156Z
+lastmod: 2025-02-17T15:09:18.983Z
 ---
 ![](/post/Articles/IMAGES/theblogposter.jpg)
+
+<https://en.wikipedia.org/wiki/The_Blob>
 
 # Comparing File and Blob Storage in AWS, GCP, and Azure
 

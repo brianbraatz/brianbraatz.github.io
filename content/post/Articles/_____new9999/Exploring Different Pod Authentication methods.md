@@ -3,7 +3,7 @@ title: Exploring Different Pod Authentication methods..
 description: OAuth, JWT, API Gateways and Service Meshes
 slug: setup-authentication-identity-management-pod
 date: 2018-12-03
-image: post/Articles/IMAGESpeapod.jpg
+image: post/Articles/IMAGES/peapod.jpg
 categories:
   - Kubernetes
   - Security
@@ -19,7 +19,7 @@ tags:
   - Management
 draft: false
 weight: 812
-lastmod: 2025-02-17T00:34:49.790Z
+lastmod: 2025-02-17T14:02:12.310Z
 ---
 <!-- 
 # Setting Up Authentication and Identity Management Inside a Pod

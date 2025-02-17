@@ -22,7 +22,7 @@ tags:
   - Vulnerability scanning
 draft: false
 weight: 306
-lastmod: 2025-02-15T14:03:09.425Z
+lastmod: 2025-02-17T12:52:41.511Z
 ---
 # NIST 800-190: Keeping Your Containers from Becoming Security Dumpster Fires
 
@@ -32,23 +32,27 @@ If you're running **Docker**, **Kubernetes**, or any other containerized magic, 
 
 That's where **[NIST 800-190](https://csrc.nist.gov/publications/detail/sp/800-190/final)** comes in. It’s basically a survival guide for keeping your containers from becoming **security dumpster fires**.
 
-**I have embedded the document for you here**\
-**NOTE:**\
+<!--
+**I have embedded the document for you here**
+**NOTE:** 
 The .Gov link seems to frequntly NOT be up frmo time to time- so I am hosting my latest copy on this site.
 
 Here is an embedded viewer of my latest copy of this document .
 
 NIST.SP.800-190.pdf
 
-**Also** a bug on this site I have not had a chance to track down, is the pdf embeds dont always seem to work on mobile.\
+**Also** a bug on this site I have not had a chance to track down, is the pdf embeds dont always seem to work on mobile.
 If you are on mobile, and the viewer doesnt work,- click my Full Page link below and it will direct link to the PDF, which usualy displays nicely in most browsers.
 
-<embed src="NIST.SP.800-190.pdf" type="application/pdf" width="100%" height="600px">\`
 
+
+<embed src="NIST.SP.800-190.pdf" type="application/pdf" width="100%" height="600px">`
 <div style="text-align: center;"> 
 <a href="NIST.SP.800-190.pdf" style="text-align:center; text-decoration: underline">VIEW FULLPAGE-Download</a><br>
 
 </div>
+
+-->
 
 ***
 
@@ -128,7 +132,3 @@ Containers are **only as secure as your access controls**. Poorly configured **I
 * [Zero Trust Security Model](https://en.wikipedia.org/wiki/Zero_trust_security_model)
 
 ***
-
-**Final Thoughts:** Security isn’t an afterthought—it’s **baked in**. Follow NIST 800-190’s advice, and your containers will be locked down **tighter than a spaceship hatch**. 🚀🔐
-
-**Copy or Download This Markdown Document for Your Obsidian or Hugo Setup.** 📝

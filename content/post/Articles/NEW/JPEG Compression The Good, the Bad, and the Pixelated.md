@@ -3,7 +3,7 @@ title: "JPEG Compression: The Good, the Bad, and the Pixelated"
 description: JPEG Compression Explained and Compared
 slug: jpeg-compression-good-bad-pixelated
 date: 2022-12-15
-image: post/Articles/IMAGES/27.jpg
+image: post/Articles/IMAGES/blockycat.png
 categories:
   - Algorithms
   - Image Compression
@@ -19,8 +19,12 @@ tags:
   - Formats
 draft: false
 weight: 342
-lastmod: 2025-02-09T22:27:52.508Z
+lastmod: 2025-02-17T13:32:26.336Z
 ---
+Check out:\
+**Blocking effect after re-constructuring the image.  - Jpeg compression**\
+https://dsp.stackexchange.com/questions/54186/blocking-effect-after-reconstructuring-the-image-jpeg-compression
+
 # JPEG Compression: The Good, the Bad, and the Pixelated
 
 ## Why Do We Even Bother with Image Compression?

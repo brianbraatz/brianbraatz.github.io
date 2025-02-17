@@ -18,11 +18,12 @@ tags:
   - Computers
   - History
   - Hayes
-  - AT Commands
+  - AT
+  - Commands
   - Dial-up
 draft: false
-weight: 253
-lastmod: 2025-02-16T00:45:40.883Z
+weight: 53
+lastmod: 2025-02-17T13:47:40.676Z
 ---
 # Inside the Hayes Command Set for Modems
 

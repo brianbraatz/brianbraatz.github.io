@@ -15,7 +15,7 @@ tags:
   - Control
 draft: false
 weight: 30
-lastmod: 2025-02-17T01:37:23.889Z
+lastmod: 2025-02-17T12:52:32.022Z
 ---
 # Git Submodules vs. Git Subtrees
 
@@ -186,13 +186,3 @@ Steps:
 Git doesn't support using only a specific subdirectory from a repository as a submodule directly. When you add a submodule, it clones the entire repository, not just a part of it. However, there are a few workarounds to achieve a similar result:
 
 ***
-
-<!-- 
-Can I have a git repository which has just submodule where only a subdirectory from the repository used as a submodule is included ?
-ChatGPT said:
-ChatGPT
-Git doesn't support using only a specific subdirectory from a repository as a submodule directly. When you add a submodule, it clones the entire repository, not just a part of it. However, there are a few workarounds to achieve a similar result:
-
-
-
--->

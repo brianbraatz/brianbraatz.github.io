@@ -26,7 +26,7 @@ tags:
   - Computing
 draft: false
 weight: 421
-lastmod: 2025-02-16T01:15:45.403Z
+lastmod: 2025-02-17T12:52:37.302Z
 ---
 ## The Origins of the Animals Program: A Digital Guessing Game with a Brain
 
@@ -95,7 +95,7 @@ Little did I know, I was participating in a rudimentary form of AI training.
 ### Key Differences:
 
 * **Hardcoded Rules** vs. **Self-Learning Algorithms**: Animals needed me to add rules; modern AI learns patterns from data.
-* **Small Knowledge Base** vs. **Big Data**: Animals remembered a handful of animals; ChatGPT knows more trivia than your local pub quiz champion.
+* **Small Knowledge Base** vs. **Big Data**: Animals remembered a handful of animals; Modern AI Bots know more trivia than your local pub quiz champion.
 * **Simple Decision Trees** vs. **Deep Neural Networks**: One branched Q\&A game vs. multi-layered algorithms.
 
 ### Shared DNA:
