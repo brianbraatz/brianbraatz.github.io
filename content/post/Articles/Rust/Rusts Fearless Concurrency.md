@@ -3,7 +3,7 @@ title: Rust's Fearless Concurrency
 description: Thread safety at compile time?!?!?! What about race conditions and deadlocks??
 slug: rust-fearless-concurrency
 date: 2024-08-12
-image: post/Articles/IMAGES/287.jpg
+image: post/Articles/IMAGES/rust.png
 categories: []
 tags:
   - Rust
@@ -14,7 +14,7 @@ tags:
   - Race Conditions
 draft: false
 weight: 423
-lastmod: 2025-02-16T19:03:29.486Z
+lastmod: 2025-02-16T23:23:32.373Z
 ---
 # Rust's Fearless Concurrency 🚀
 

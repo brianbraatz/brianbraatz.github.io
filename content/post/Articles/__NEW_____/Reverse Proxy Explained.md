@@ -3,7 +3,7 @@ title: Reverse Proxies for  Performance and Scalability in Web Apps
 description: Exploring How Reverse Proxies work
 slug: reverse-proxies-perf
 date: 2019-05-18
-image: post/Articles/IMAGES/356.jpg
+image: post/Articles/IMAGES/phoneboothtoomany.png
 categories:
   - Reverse Proxy
   - Security
@@ -17,21 +17,34 @@ categories:
   - Kubernetes
   - Forward Proxy
 tags:
-  - Reverse Proxy
+  - Reverse
+  - Proxy
   - Security
-  - Web Applications
+  - Web
+  - Applications
   - Performance
   - Scalability
-  - Load Balancing
+  - Load
+  - Balancing
   - Nginx
   - Apache
   - Docker
   - Kubernetes
-  - Forward Proxy
+  - Forward
+  - Proxy
 draft: false
 weight: 274
-lastmod: 2025-02-15T23:04:27.790Z
+lastmod: 2025-02-16T23:34:37.402Z
 ---
+Phonebooth Stuffing:
+
+[Phonebooth Stuffing - Wikipedia](https://en.wikipedia.org/wiki/Phonebooth_stuffing#:~:text=Phonebooth%20stuffing%20is%20a%20sporadic,are%20no%20more%20individuals%20available)
+
+For a code example of visualizing Reverse Proxies see these articles:
+
+[Reverse Proxies Visually Explained](/post/Articles/__NEW_____/Reverse%20Proxies%20Visually%20Explained.md)\
+[Reverse Proxies Scaling](/post/Articles/__NEW_____/Reverse%20Proxies%20Scaling.md)
+
 # Understanding How Reverse Proxies Improve Performance and Scalability in Web Applications
 
 <!--

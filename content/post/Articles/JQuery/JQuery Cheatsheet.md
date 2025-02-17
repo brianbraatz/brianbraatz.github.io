@@ -3,7 +3,7 @@ title: JQuery Cheatsheet
 description: JQuery Cheatsheet
 slug: jquery-cheatsheet
 date: 2014-05-06
-image: post/Articles/IMAGES/8.jpg
+image: post/Articles/IMAGES/jquery.jpg
 categories:
   - JQuery
   - Web Development
@@ -18,7 +18,7 @@ tags:
   - Ajax
 weight: 180
 draft: false
-lastmod: 2025-02-14T16:06:41.298Z
+lastmod: 2025-02-17T00:58:55.588Z
 ---
 ## jQuery Cheatsheet
 

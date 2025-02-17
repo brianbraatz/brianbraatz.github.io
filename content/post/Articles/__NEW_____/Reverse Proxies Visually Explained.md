@@ -1,30 +1,38 @@
 ---
-title: Foobar Orderbots-Visualizing Reverse Proxies with Python
-description: Demonstrated with NGINX,IIS, mitmproxy and Docker
+title: Foobar Orderbots-Part1-Visualizing Reverse Proxies with Python
+description: Demonstrated And Visualizing with NGINX,IIS, mitmproxy and Docker
 slug: foobar-how-reverse-proxies-visual
 date: 2023-05-07
-image: post/Articles/IMAGES/26.jpg
+image: post/Articles/IMAGES/lostinspace.png
 categories:
   - Foobar Examples
 tags:
   - Python
-  - Reverse Proxy
+  - Reverse
+  - Proxy
   - Networking
   - Flask
   - Linux
   - Windows
-  - Web Servers
+  - Web
+  - Servers
   - mitmproxy
   - IIS
   - NGINX
   - Docker
   - Kubernetes
-  - Load Balancing
+  - Load
+  - Balancing
 draft: false
 weight: 114
-lastmod: 2025-02-15T23:04:27.744Z
+lastmod: 2025-02-16T23:14:57.016Z
 ---
 See Part 2 here:
+
+[Reverse Proxies Scaling](/post/Articles/__NEW_____/Reverse%20Proxies%20Scaling.md)
+
+Overview on Reverse Proxies:\
+[Reverse Proxy Explained](/post/Articles/__NEW_____/Reverse%20Proxy%20Explained.md)
 
 ### The Company: Foobar Inc.
 
@@ -163,6 +171,8 @@ if __name__ == "__main__":
 4. Add a Reverse Proxy rule:
    * **Condition:** `localhost`
    * **Rewrite URL:** `http://localhost:8080`
+
+**(if you get ill in the stomach at bloating down your dev box with IIS.. i understand.. later in the article ill show how to do this without IIS... )**
 
 ### Running Multiple OrderBots
 

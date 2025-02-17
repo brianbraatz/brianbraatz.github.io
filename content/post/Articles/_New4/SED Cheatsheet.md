@@ -3,7 +3,7 @@ title: SED Cheatsheet
 description: A quick reference table for SED commands
 slug: sed-reference-table
 date: 2023-06-15
-image: post/Articles/IMAGES/12.jpg
+image: post/Articles/IMAGES/Sed.jpg
 categories:
   - SED
   - AWK
@@ -22,7 +22,7 @@ tags:
   - Reference
 draft: false
 weight: 198
-lastmod: 2025-02-10T18:01:47.995Z
+lastmod: 2025-02-17T01:00:35.798Z
 ---
 # SED Reference Table
 

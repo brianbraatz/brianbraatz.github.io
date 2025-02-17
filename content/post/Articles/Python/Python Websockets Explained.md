@@ -3,7 +3,7 @@ title: Python Websockets Explained
 description: An informal exploration of Python WebSockets including example
 slug: websockets-sockets-python
 date: 2015-12-15
-image: post/Articles/IMAGES/24.jpg
+image: post/Articles/IMAGES/pythonlogo.png
 categories:
   - Python
   - Python-Websockets
@@ -19,7 +19,7 @@ tags:
   - Communication
 draft: false
 weight: 30
-lastmod: 2025-02-14T16:23:38.403Z
+lastmod: 2025-02-17T00:56:48.645Z
 ---
 <!--
 # WebSockets, Sockets, and SignalR: A Fun Dive into Real-Time Communication with Python

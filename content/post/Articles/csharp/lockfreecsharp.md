@@ -3,7 +3,7 @@ title: Multi-Threaded Lock-Free Programming in C#
 description: A dive into this high performance techniuqe in C#
 slug: lock-free-programming-csharp
 date: 2024-12-15
-image: post/Articles/IMAGES/23.jpg
+image: post/Articles/IMAGES/csharpblue.png
 categories:
   - CSharp
   - DotNet
@@ -18,7 +18,7 @@ tags:
   - SAFe
 draft: false
 weight: 30
-lastmod: 2025-02-10T00:32:57.513Z
+lastmod: 2025-02-17T01:40:46.472Z
 ---
 ## What Is Lock-Free Programming?
 

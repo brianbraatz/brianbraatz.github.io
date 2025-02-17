@@ -3,7 +3,7 @@ title: Javascript Cheatsheet
 description: Javascript Cheatsheet
 slug: javascript-cheatsheet
 date: 2014-05-06
-image: post/Articles/IMAGES/18.jpg
+image: post/Articles/IMAGES/javascript.png
 categories:
   - Javascript
   - Web Development
@@ -15,7 +15,7 @@ tags:
   - WebDevelopment
 weight: 80
 draft: false
-lastmod: 2025-02-09T21:50:17.022Z
+lastmod: 2025-02-17T01:23:41.532Z
 ---
 ## Javascript Cheatsheet
 

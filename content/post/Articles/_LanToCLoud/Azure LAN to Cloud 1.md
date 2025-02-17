@@ -24,6 +24,7 @@ categories:
   - Maui
   - Cloud
   - Redis
+  - OWASP
 tags:
   - Azure
   - Python
@@ -49,8 +50,8 @@ tags:
   - Notifications
   - CICD
 draft: false
-weight: 3
-lastmod: 2025-02-14T15:57:15.548Z
+weight: 8
+lastmod: 2025-02-17T00:47:11.583Z
 ---
 <!-- # Azure LAN to Cloud: Part 1 - Project Vision and Goals
 -->
@@ -152,6 +153,11 @@ The journey will unfold in phases:
 * Set up Azure DevOps pipelines.
 * Use Infrastructure as Code to manage deployments.
 * Add monitoring and logging.
+* Follow Modern Security Practices
+  * [OWAS Tools In a Nutshell](/post/Articles/___newww/CloudSecurity/OWAS%20Tools%20In%20a%20Nutshell.md)
+  * [NIST Resources for Cloud Devs](/post/Articles/___newww/CloudSecurity/NIST%20Resources%20for%20Cloud%20Devs.md)
+* Integrate OWASP Tools into our pipeline
+  * [OWASP tools Integration into the DevOps pipeline](/post/Articles/___newww/CloudSecurity/OWASP%20tools%20Integration%20into%20the%20DevOps%20pipeline.md)
 
 ### Phase 5: Mobile & Cross-Cloud Exploration
 

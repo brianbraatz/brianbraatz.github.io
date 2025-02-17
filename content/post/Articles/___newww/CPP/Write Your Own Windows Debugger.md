@@ -3,7 +3,7 @@ title: Who needs Visual Studio?? Write your OWN debugger....
 description: For fun and profit
 slug: write-your-own-debugger-windows
 date: 2016-12-03
-image: post/Articles/IMAGES/32.jpg
+image: post/Articles/IMAGES/windbg.webp
 categories: []
 tags:
   - Debugger
@@ -13,7 +13,7 @@ tags:
   - Fun Programming Projects
 draft: false
 weight: 437
-lastmod: 2025-02-15T15:25:10.995Z
+lastmod: 2025-02-17T01:02:25.341Z
 ---
 # Who Needs Visual Studio?? Write Your OWN Debugger Using the Windows API for Fun and Profit 🎯
 

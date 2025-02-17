@@ -3,7 +3,7 @@ title: Debug Release Mode Crashes in the Field With PDB Files
 description: Understanding PDB Files and how to use them
 slug: pdb-crashes-in-the-field
 date: 2025-12-15
-image: post/Articles/IMAGES/362.jpg
+image: post/Articles/IMAGES/windbg.webp
 categories:
   - DevOps
   - C++ Debugging
@@ -17,7 +17,7 @@ tags:
   - Windbg
 draft: false
 weight: 317
-lastmod: 2025-02-16T15:17:52.872Z
+lastmod: 2025-02-17T01:02:06.896Z
 ---
 # Understanding PDB Files and How to Debug Release Mode Crashes in the Field
 

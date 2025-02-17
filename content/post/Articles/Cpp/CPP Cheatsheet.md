@@ -3,7 +3,7 @@ title: C++ Cheatsheet
 description: 
 slug: cpp-cheatsheet
 date: 2014-05-06
-image: post/Articles/IMAGES/cpp.png
+image: post/Articles/IMAGES/cppblue.png
 categories:
   - CPP
   - Cheatsheet
@@ -12,7 +12,7 @@ tags:
   - CPP
 weight: 30
 draft: false
-lastmod: 2025-02-09T21:41:08.736Z
+lastmod: 2025-02-17T02:02:52.826Z
 ---
 ## C++ Cheatsheet
 

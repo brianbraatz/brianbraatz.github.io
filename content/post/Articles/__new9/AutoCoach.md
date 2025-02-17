@@ -5,7 +5,7 @@ slug: ai-autocoach
 date: 2020-12-03
 image: post/Articles/IMAGES/hal6.jpg
 draft: false
-weight: 2
+weight: 7
 categories:
   - Artificial Intellgence
   - History
@@ -30,7 +30,7 @@ tags:
   - Systems
   - Python
   - CPP
-lastmod: 2025-02-16T19:06:16.310Z
+lastmod: 2025-02-16T23:24:04.615Z
 ---
 # Gun Shooting Neural Network Coach with OpenCV
 

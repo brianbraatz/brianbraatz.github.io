@@ -3,7 +3,7 @@ title: Buffer Overrun Attacks and How to Prevent Them
 description: In Python, C#, and Go
 slug: history-of-buffer-overrun-attacks-and-how-to-prevent-them-in-python-csharp-and-go
 date: 2021-10-10
-image: post/Articles/IMAGES/32.jpg
+image: post/Articles/IMAGES/bufferoverflow.png
 categories:
   - Cybersecurity
   - Programming
@@ -21,7 +21,7 @@ tags:
   - Security Practices
 draft: false
 weight: 489
-lastmod: 2025-02-15T15:25:11.041Z
+lastmod: 2025-02-17T01:54:58.002Z
 ---
 # History of Buffer Overrun Attacks and How to Prevent Them in Python, C#, and Go
 

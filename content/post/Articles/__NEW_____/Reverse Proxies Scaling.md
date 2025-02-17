@@ -1,23 +1,28 @@
 ---
-title: Kubernetes Load Balancing and Monitoring
-description: How to test and visualize Kubernetes load balancing with dynamic scaling for Foobar OrderBot.
+title: Foobar Orderbots-Part2-Visualizing Kubernetes Load Balancing and Monitoring
+description: How to test and visualize Kubernetes load balancing with dynamic scaling for Foobar OrderBots
 slug: testing-kubernetes-load-balancing-and-monitoring-orderbot-output
 date: 2021-07-19
-image: post/Articles/IMAGES/35.jpg
+image: post/Articles/IMAGES/lostinspace.png
 categories:
   - Foobar Examples
 tags:
   - Kubernetes
   - Docker
-  - Load Balancing
+  - Load
+  - Balancing
   - Python
   - Testing
   - Logging
 draft: false
 weight: 289
-lastmod: 2025-02-15T23:04:27.728Z
+lastmod: 2025-02-16T23:14:47.834Z
 ---
-See Part 1 here:
+See Part 1 here:\
+[Reverse Proxies Visually Explained](/post/Articles/__NEW_____/Reverse%20Proxies%20Visually%20Explained.md)
+
+Overview on Reverse Proxies:\
+[Reverse Proxy Explained](/post/Articles/__NEW_____/Reverse%20Proxy%20Explained.md)
 
 ## Testing Kubernetes Load Balancing and Monitoring OrderBot Output
 

@@ -19,8 +19,10 @@ tags:
   - Low-Level Programming
 draft: false
 weight: 274
-lastmod: 2025-02-15T23:04:27.571Z
+lastmod: 2025-02-17T00:27:33.262Z
 ---
+3
+
 # 6502 Assembly Language in a Nutshell
 
 ## The Glorious History of the 6502
@@ -139,6 +141,7 @@ MESSAGE:
         .BYTE "Hello, World!", $00  ; Null-terminated string
 ```
 
+<!-- 
 ## 2. Blinking an LED
 
 ```assembly
@@ -201,10 +204,11 @@ ARRAY_LENGTH = 6
 SWAPPED:
         .BYTE 0
 ```
+-->
 
 ***
 
-## 3. Bubble Sort
+## 2. Bubble Sort
 
 ```assembly
 SORT:   
@@ -258,13 +262,10 @@ SWAPPED:
 * [6502 Assembly Programming Guide](http://6502.org/)
 * [6502 Instruction Set Reference](http://www.6502.org/tutorials/6502opcodes.html)
 
-```
-
-**Check out this uber cool 6502 Laptop!**
+**Check out this uber cool 6502 Laptop!**\
 <https://www.grappendorf.net/projects/6502-home-computer/>
 
-and good video
+and good video\
 The 6502 CPU Powered a Whole Generation!
 
 <https://www.youtube.com/watch?v=acUH4lWe2NQ>
-```

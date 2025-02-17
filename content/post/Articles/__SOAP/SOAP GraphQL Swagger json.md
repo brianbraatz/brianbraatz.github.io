@@ -3,7 +3,7 @@ title: Adding Swagger.json to GraphQL Middleware for Migrating SOAP to REST with
 description: Learn how to integrate Swagger.json into a GraphQL middleware to enable type-safe proxy generation using NSwagStudio.
 slug: swagger-graphql-middleware-soap-rest
 date: 2021-06-23
-image: post/Articles/IMAGES/34.jpg
+image: post/Articles/IMAGES/soap3.jpg
 categories:
   - API
   - Web Services
@@ -19,7 +19,7 @@ tags:
   - API Proxy
 draft: false
 weight: 330
-lastmod: 2025-02-15T12:27:02.812Z
+lastmod: 2025-02-17T00:44:28.466Z
 ---
 # Adding Swagger.json to GraphQL Middleware for Migrating SOAP to REST with NSwagStudio
 

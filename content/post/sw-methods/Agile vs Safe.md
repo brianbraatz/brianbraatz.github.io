@@ -3,7 +3,7 @@ title: How SAFe Agile Differs from Regular Agile
 description: Comparison of SAFe Agile vs Regular Agile
 slug: how-safe-agile-differs-from-regular-agile
 date: 2024-12-15
-image: post/Articles/IMAGES/22.jpg
+image: post/Articles/IMAGES/safeagile.png
 categories:
   - Agile
   - Software Architecture
@@ -19,7 +19,7 @@ tags:
   - Agile
 draft: false
 weight: 30
-lastmod: 2025-02-10T16:50:03.881Z
+lastmod: 2025-02-17T01:39:37.531Z
 ---
 Hey there, fellow Agile nerd!
 
