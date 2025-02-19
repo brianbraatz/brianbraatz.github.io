@@ -20,7 +20,7 @@ tags:
   - CSharp
 draft: false
 weight: 171
-lastmod: 2025-02-09T22:32:08.178Z
+lastmod: 2025-02-19T13:49:25.838Z
 ---
 # MAUI vs WPF
 
@@ -48,7 +48,7 @@ If your goal is **cross-platform support**, WPF is about as flexible as a brick.
 
 .NET MAUI (Multi-platform App UI) is Microsoft’s **shiny new framework** that lets you **build applications for Windows, Mac, iOS, and Android**—all from a **single codebase**.
 
-While it originally evolved from Xamarin.Forms (which focused on mobile), MAUI **extends its reach to desktops**.
+While it originally evolved from Xamarin.Forms (which focused on mobileL(iPhone-Android)), MAUI **extends its reach to desktops**.
 
 ***
 
@@ -56,7 +56,7 @@ While it originally evolved from Xamarin.Forms (which focused on mobile), MAUI *
 
 | Feature                   | WPF                     | MAUI                                   |
 | ------------------------- | ----------------------- | -------------------------------------- |
-| **Supported Platforms**   | Windows only            | Windows, macOS, iOS, Android           |
+| **Supported Platforms**   | Windows only            | Windows, macOS, iOS, iPhone,Android    |
 | **UI Framework**          | XAML-based              | XAML-based (but more flexible)         |
 | **Graphics Engine**       | DirectX-based rendering | Skia/WinUI-based rendering             |
 | **Performance**           | Optimized for Windows   | Optimized for cross-platform           |

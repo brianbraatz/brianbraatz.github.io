@@ -18,7 +18,7 @@ tags:
   - MSSQL
 weight: 30
 draft: false
-lastmod: 2025-02-09T23:18:55.168Z
+lastmod: 2025-02-19T13:51:15.961Z
 ---
 # Why I Love the SQLite Database Engine
 
@@ -61,7 +61,7 @@ The nice thing about this- is if you are making schema changes- you can very qui
 
 Most people (are engineers people?) don't know that SQLite is included in the standard SDKs for both Android and iOS.
 
-Its the underlying data store for most mobile apps.
+Its the underlying data store for most mobile (iPhone-Android) apps.
 
 Whether it's saving your high scores, storing your favorite cat memes, or keeping track of your to-do list,
 

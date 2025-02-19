@@ -19,9 +19,11 @@ tags:
   - Java
   - Object-Oriented
   - Programming
+  - DesignPaterns
+  - DesignPatterns
 draft: false
 weight: 243
-lastmod: 2025-02-09T22:16:14.422Z
+lastmod: 2025-02-19T15:30:21.097Z
 ---
 # The Gang of Four Patterns Explained
 

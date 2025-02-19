@@ -25,7 +25,7 @@ tags:
   - Balancing
 draft: false
 weight: 114
-lastmod: 2025-02-16T23:14:57.016Z
+lastmod: 2025-02-19T13:51:03.982Z
 ---
 See Part 2 here:
 
@@ -42,7 +42,7 @@ Clever, huh? I thought so.
 
 Now, our customers are hardcore foobar enthusiasts.
 
-They don't want fancy web interfaces or mobile apps.
+They don't want fancy web interfaces or mobile apps.. (sorry IPhone and Android users... :) )
 
 No, sir! **They use Python command-line console apps** to order their beloved foobars.
 

@@ -30,7 +30,7 @@ tags:
   - Testing
 draft: false
 weight: 246
-lastmod: 2025-02-10T18:03:42.647Z
+lastmod: 2025-02-19T13:48:59.573Z
 ---
 <!--
 # Best Unit Testing Strategies for MAUI: Alternatives and How to Structure Your Project
@@ -44,7 +44,7 @@ So, you’re building a **.NET MAUI** app and want to **test it properly**? Firs
 
 * UI elements don't play nicely with unit tests.
 * MAUI apps rely on **dependency injection** and **platform-specific code**.
-* Mocking frameworks have **limitations** in mobile development.
+* Mocking frameworks have **limitations** in mobile development. i.e iPhone - Android
 
 ### The solution?
 

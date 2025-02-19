@@ -1,7 +1,7 @@
 ---
 title: Blazor Hybrid with MAUI- Share code?
 description: Can You Share Code with Your Website? Should You?
-slug: advantages-and-disadvantages-of-blazor-hybrid-with-maui-can-you-share-code-with-your-website-should-you-how-to-structure-your-maui-project-to-share-code-with-your-blazor-website-alternative-approaches-pros-and-cons
+slug: blazor-hybrid-with-maui-can-you-share-code
 date: 2024-07-19
 image: post/Articles/IMAGES/blazor.png
 categories:
@@ -32,7 +32,7 @@ tags:
   - Webassembly
 draft: false
 weight: 145
-lastmod: 2025-02-10T15:17:38.500Z
+lastmod: 2025-02-19T13:47:53.186Z
 ---
 <!--
 # Advantages and Disadvantages of Blazor Hybrid with MAUI. Can You Share Code with Your Website? Should You? How to Structure Your MAUI Project to Share Code with Your Blazor Website. Alternative Approaches Pros and Cons
@@ -69,6 +69,8 @@ Blazor started as a **WebAssembly-based framework** for running **.NET in the br
 ### **MAUI: Xamarin’s Successor**
 
 .NET MAUI (**Multi-platform App UI**) is the evolution of **Xamarin**, allowing developers to build **cross-platform native apps** with a **single codebase**.
+
+Maui covers iPhone, iPad, Android, Windows, and Mac OS.
 
 ### **Blazor Hybrid + MAUI: The Best of Both Worlds?**
 

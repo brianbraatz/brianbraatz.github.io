@@ -19,7 +19,7 @@ tags:
   - CSharp
 draft: false
 weight: 284
-lastmod: 2025-02-09T22:32:29.077Z
+lastmod: 2025-02-19T13:49:33.598Z
 ---
 <!-- >
 
@@ -36,7 +36,7 @@ So, what’s the deal? Should you ditch Xamarin like an expired milk carton and 
 
 ### **Xamarin – The Veteran**
 
-Xamarin was Microsoft's way of letting C# developers build mobile apps for iOS and Android **without** learning Swift, Kotlin, or sacrificing their sanity.
+Xamarin was Microsoft's way of letting C# developers build mobile apps for iOS-iPhone and Android **without** learning Swift, Kotlin, or sacrificing their sanity.
 
 It provided a way to share most of the codebase while still letting you write platform-specific tweaks. It even had **Xamarin.Forms**, which let you build UIs that (mostly) worked across platforms.
 

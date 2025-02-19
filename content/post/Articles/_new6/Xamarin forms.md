@@ -31,7 +31,7 @@ tags:
   - Structure
 draft: false
 weight: 233
-lastmod: 2025-02-10T18:03:06.423Z
+lastmod: 2025-02-19T13:51:26.535Z
 ---
 <!--
 
@@ -52,7 +52,7 @@ Long answer? Let’s **break it all down**—from **performance** to **appearanc
 
 ## What Came Before Xamarin? A Brief History
 
-Before **Xamarin**, developing mobile apps meant writing **separate** applications for **iOS and Android**.
+Before **Xamarin**, developing mobile (iPhone-Android) apps meant writing **separate** applications for **iOS and Android**.
 
 1. **Native Development:**
    * **iOS** → Swift / Objective-C

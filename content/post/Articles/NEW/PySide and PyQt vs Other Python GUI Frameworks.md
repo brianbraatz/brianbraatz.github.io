@@ -23,7 +23,7 @@ tags:
   - Qt
 draft: false
 weight: 30
-lastmod: 2025-02-09T23:05:37.447Z
+lastmod: 2025-02-19T13:50:34.731Z
 ---
 # PySide and PyQt vs Other Python GUI Frameworks
 
@@ -184,7 +184,7 @@ root.mainloop()
 
 ### **Kivy: The Mobile-Friendly Framework**
 
-Kivy is focused on touch interfaces.\
+Kivy is focused on touch interfaces.  ala iPhone and Android.\
 However, humans on the interwebs seem to complain it has a steeper learning curve .
 
 **Use Kivy if:**

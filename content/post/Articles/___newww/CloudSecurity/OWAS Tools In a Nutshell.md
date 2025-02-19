@@ -20,7 +20,7 @@ tags:
   - Secure Coding
 draft: false
 weight: 248
-lastmod: 2025-02-17T02:41:30.337Z
+lastmod: 2025-02-19T13:49:54.488Z
 ---
 # So, What’s OWASP? 🤔
 
@@ -450,7 +450,7 @@ If you're looking to improve your vulnerability management process, give OWASP D
 
 ## 🛡️ What is OWASP Security Shepherd?
 
-OWASP Security Shepherd is a purposely vulnerable web and mobile application security training platform. It helps developers and security professionals sharpen their skills by finding and fixing vulnerabilities in a safe environment.
+OWASP Security Shepherd is a purposely vulnerable web and mobile application (iPhone-Android) security training platform. It helps developers and security professionals sharpen their skills by finding and fixing vulnerabilities in a safe environment.
 
 The platform, maintained by the OWASP Foundation, is designed to raise awareness about common application security risks like those listed in the OWASP Top 10.
 

@@ -13,6 +13,8 @@ categories:
   - WPF
   - CSharp
   - DotNet
+  - Web Development
+  - Typescript
 tags:
   - Maui
   - WPF
@@ -28,7 +30,7 @@ tags:
   - CSharp
 draft: false
 weight: 312
-lastmod: 2025-02-09T21:29:43.681Z
+lastmod: 2025-02-19T11:05:41.365Z
 ---
 # Maui-WPF-XAML-Silverlight Conversion to Angular with the T4 Template Engine
 
