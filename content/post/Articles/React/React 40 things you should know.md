@@ -1,7 +1,7 @@
 ---
-title: React-40 Things You Should Know
-description: 
-slug: react-10-things
+title: React - 40 Things You Should Know
+description: Collected Bits of React Wisdom
+slug: react-40-things
 date: 2023-12-15
 image: post/Articles/IMAGES/reactlogolong.png
 categories:
@@ -18,28 +18,32 @@ tags:
   - Examples
 draft: false
 weight: 12
-lastmod: 2025-02-19T17:06:14.044Z
+lastmod: 2025-02-20T14:02:04.775Z
 ---
-# React: 10 Things You Must Know
-
-So, you're diving into the world of React, huh? Buckle up! It's a wild ride full of components, hooks, and more curly braces than you can shake a stick at. Whether you're prepping for an interview or just trying to impress your cat with your coding skills, here are the top 10 React interview questions you should have under your belt.
-
 ## 1. What is React?
 
-Ah, the classic opener. If you don't know this, just pack up and go home. Kidding! But seriously, React is a JavaScript library for building user interfaces. It's like the Lego of the web development world—snap components together to build something awesome.
+Ah, the classic opener.
 
-> **Example:**
->
-> ```javascript
-> import React from 'react';
-> import ReactDOM from 'react-dom';
->
-> function App() {
->   return <h1>Hello, world!</h1>;
-> }
->
-> ReactDOM.render(<App />, document.getElementById('root'));
-> ```
+If you don't know this, just pack up and go home.
+
+Kidding!
+
+But seriously, React is a JavaScript library for building user interfaces.
+
+It's like the Lego of the web development world—snap components together to build something cool.
+
+**Example:**
+
+```javascript
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+function App() {
+  return <h1>Hello, world!</h1>;
+}
+
+ReactDOM.render(<App />, document.getElementById('root'));
+```
 
 For more details, check out the [React Wikipedia page](https://en.wikipedia.org/wiki/React_\(JavaScript_library\)).
 
@@ -47,87 +51,87 @@ For more details, check out the [React Wikipedia page](https://en.wikipedia.org/
 
 Components are the building blocks of a React application. Think of them as JavaScript functions that return HTML (well, JSX, but let's not split hairs).
 
-> **Example:**
->
-> ```javascript
-> function Welcome(props) {
->   return <h1>Hello, {props.name}</h1>;
-> }
->
-> // Usage
-> <Welcome name="Sara" />
-> ```
+**Example:**
+
+```javascript
+function Welcome(props) {
+  return <h1>Hello, {props.name}</h1>;
+}
+
+// Usage
+<Welcome name="Sara" />
+```
 
 ## 3. What is JSX?
 
 JSX stands for JavaScript XML. It's a syntax extension that allows you to write HTML directly within JavaScript. It's like mixing peanut butter and jelly—better together.
 
-> **Example:**
->
-> ```javascript
-> const element = <h1>Hello, world!</h1>;
-> ```
+**Example:**
+
+```javascript
+const element = <h1>Hello, world!</h1>;
+```
 
 ## 4. What are Props?
 
 Props (short for "properties") are like function arguments in JavaScript. They allow you to pass data from one component to another.
 
-> **Example:**
->
-> ```javascript
-> function Greeting(props) {
->   return <h1>Hello, {props.name}</h1>;
-> }
->
-> // Usage
-> <Greeting name="John" />
-> ```
+**Example:**
+
+```javascript
+function Greeting(props) {
+  return <h1>Hello, {props.name}</h1>;
+}
+
+// Usage
+<Greeting name="John" />
+```
 
 ## 5. What is State?
 
 State is like a component's personal diary. It's data that changes over time and affects what gets rendered.
 
-> **Example:**
->
-> ```javascript
-> import React, { useState } from 'react';
->
-> function Counter() {
->   const [count, setCount] = useState(0);
->
->   return (
->     <div>
->       <p>You clicked {count} times</p>
->       <button onClick={() => setCount(count + 1)}>
->         Click me
->       </button>
->     </div>
->   );
-> }
-> ```
+**Example:**
+
+```javascript
+import React, { useState } from 'react';
+
+function Counter() {
+  const [count, setCount] = useState(0);
+
+  return (
+    <div>
+      <p>You clicked {count} times</p>
+      <button onClick={() => setCount(count + 1)}>
+        Click me
+      </button>
+    </div>
+  );
+}
+```
 
 ## 6. What are Hooks?
 
 Hooks are special functions that let you "hook into" React features. They're like power-ups for your components.
 
-> **Example:**
->
-> ```javascript
-> import React, { useState, useEffect } from 'react';
->
-> function Timer() {
->   const [seconds, setSeconds] = useState(0);
->
->   useEffect(() => {
->     const interval = setInterval(() => {
->       setSeconds(seconds => seconds + 1);
->     }, 1000);
->     return () => clearInterval(interval);
->   }, []);
->
->   return <div>Seconds: {seconds}</div>;
-> }
-> ```
+*Example:*\*
+
+```javascript
+import React, { useState, useEffect } from 'react';
+
+unction Timer() {
+ const [seconds, setSeconds] = useState(0);
+
+ useEffect(() => {
+   const interval = setInterval(() => {
+     setSeconds(seconds => seconds + 1);
+   }, 1000);
+   return () => clearInterval(interval);
+ }, []);
+
+ return <div>Seconds: {seconds}</div>;
+
+```
 
 ## 7. What is the Virtual DOM?
 
@@ -137,86 +141,86 @@ The Virtual DOM is React's way of being sneaky efficient. It's a lightweight cop
 
 Redux is like a global state manager for your application. It helps you manage state outside of your components, making it easier to share data and debug.
 
-> **Example:**
->
-> ```javascript
-> import { createStore } from 'redux';
->
-> // Reducer
-> function counter(state = 0, action) {
->   switch (action.type) {
->     case 'INCREMENT':
->       return state + 1;
->     case 'DECREMENT':
->       return state - 1;
->     default:
->       return state;
->   }
-> }
->
-> // Create Store
-> let store = createStore(counter);
->
-> // Usage
-> store.dispatch({ type: 'INCREMENT' });
-> console.log(store.getState()); // 1
-> ```
+**Example:**
+
+```javascript
+import { createStore } from 'redux';
+
+// Reducer
+function counter(state = 0, action) {
+  switch (action.type) {
+    case 'INCREMENT':
+      return state + 1;
+    case 'DECREMENT':
+      return state - 1;
+    default:
+      return state;
+  }
+}
+
+// Create Store
+let store = createStore(counter);
+
+// Usage
+store.dispatch({ type: 'INCREMENT' });
+console.log(store.getState()); // 1
+```
 
 ## 9. What is Context API?
 
 The Context API is React's way of making sure you don't have to pass props down like a hot potato through every component. It allows you to share values between components without explicitly passing props.
 
-> **Example:**
->
-> ```javascript
-> const ThemeContext = React.createContext('light');
->
-> function App() {
->   return (
->     <ThemeContext.Provider value="dark">
->       <Toolbar />
->     </ThemeContext.Provider>
->   );
-> }
->
-> function Toolbar() {
->   return (
->     <div>
->       <ThemedButton />
->     </div>
->   );
-> }
->
-> function ThemedButton() {
->   const theme = React.useContext(ThemeContext);
->   return <button className={theme}>I am styled by theme!</button>;
-> }
-> ```
+**Example:**
+
+```javascript
+const ThemeContext = React.createContext('light');
+
+function App() {
+  return (
+    <ThemeContext.Provider value="dark">
+      <Toolbar />
+    </ThemeContext.Provider>
+  );
+}
+
+function Toolbar() {
+  return (
+    <div>
+      <ThemedButton />
+    </div>
+  );
+}
+
+function ThemedButton() {
+  const theme = React.useContext(ThemeContext);
+  return <button className={theme}>I am styled by theme!</button>;
+}
+```
 
 ## 10. What is Prop Drilling?
 
 Prop drilling is the process of passing data through multiple layers of components. It's like playing telephone with your props—sometimes things get lost along the way.
 
-> **Example:**
->
-> ```javascript
-> function App() {
->   const user = { name: 'John' };
->   return <Parent user={user} />;
-> }
->
-> function Parent(props) {
->   return <Child user={props.user} />;
-> }
->
-> function Child(props) {
->   return <Grandchild user={props.user} />;
-> }
->
-> function Grandchild(props) {
->   return <h1>Hello, {props.user.name}</h1>;
-> }
-> ```
+**Example:**
+
+```javascript
+function App() {
+  const user = { name: 'John' };
+  return <Parent user={user} />;
+}
+
+function Parent(props) {
+  return <Child user={props.user} />;
+}
+
+function Child(props) {
+  return <Grandchild user={props.user} />;
+}
+
+function Grandchild(props) {
+  return <h1>Hello, {props.user.name}</h1>;
+}
+```
 
 <!-- 
 ## Key Ideas
@@ -241,15 +245,15 @@ React Server Components (RSC) are one of the hottest topics in modern React.
 
 They allow React components to be **rendered on the server** and sent to the client as HTML, reducing JavaScript bundle sizes.
 
-> **Example:**
->
-> ```javascript
-> // This is a Server Component (runs only on the server)
-> export default async function ServerComponent() {
->   const data = await fetchData();
->   return <div>{data}</div>;
-> }
-> ```
+**Example:**
+
+```javascript
+// This is a Server Component (runs only on the server)
+export default async function ServerComponent() {
+  const data = await fetchData();
+  return <div>{data}</div>;
+}
+```
 
 📖 Read more about it on [React's official site](https://react.dev/).
 
@@ -257,22 +261,21 @@ They allow React components to be **rendered on the server** and sent to the cli
 
 Suspense is React’s way of handling asynchronous operations like **data fetching** with built-in loading states.
 
-> **Example:**
->
-> ```javascript
-> import React, { Suspense } from "react";
-> ```
+**Example:**
 
-> const DataComponent = React.lazy(() => import("./DataComponent"));
+```javascript
+import React, { Suspense } from "react";
 
-> function App() {\
-> return (\
-> \<Suspense fallback={<p>Loading...</p>}>\ <DataComponent />\ </Suspense>\
-> );\
-> }
->
-> ```
-> ```
+const DataComponent = React.lazy(() => import("./DataComponent"));
+
+function App() {
+  return (
+    <Suspense fallback={<p>Loading...</p>}>
+      <DataComponent />
+    </Suspense>
+  );
+}
+```
 
 This makes loading states easier than ever. No more `isLoading` state variables everywhere!
 
@@ -282,19 +285,16 @@ React’s **Concurrent Mode** allows React to prepare multiple UI updates in the
 
 Example scenario: **Typing in a search box while data loads**.
 
-> **Example:**
->
-> ```javascript
-> import { useDeferredValue } from "react";
-> ```
+**Example:**
 
-> function Search({ query }) {\
-> const deferredQuery = useDeferredValue(query);\
-> return <Results search={deferredQuery} />;\
-> }
->
-> ```
-> ```
+```javascript
+import { useDeferredValue } from "react";
+
+function Search({ query }) {
+  const deferredQuery = useDeferredValue(query);
+  return <Results search={deferredQuery} />;
+}
+```
 
 React will prioritize keeping the UI responsive over rendering heavy computations.
 
@@ -302,14 +302,14 @@ React will prioritize keeping the UI responsive over rendering heavy computation
 
 When a component **re-renders too much**, it might be time to use `React.memo()`. This **prevents unnecessary renders** by checking if props have changed.
 
-> **Example:**
->
-> ```javascript
-> const ExpensiveComponent = React.memo(({ value }) => {
->   console.log("Re-rendered!");
->   return <p>{value}</p>;
-> });
-> ```
+**Example:**
+
+```javascript
+const ExpensiveComponent = React.memo(({ value }) => {
+  console.log("Re-rendered!");
+  return <p>{value}</p>;
+});
+```
 
 If `value` doesn’t change, the component **won’t** re-render.
 
@@ -317,27 +317,24 @@ If `value` doesn’t change, the component **won’t** re-render.
 
 These hooks help with **performance optimizations** when dealing with functions or computations inside components.
 
-> **Example (useCallback):**
->
-> ```javascript
-> import { useCallback } from "react";
-> ```
+**Example (useCallback):**
 
-> function Parent() {\
-> const handleClick = useCallback(() => {\
-> console.log("Clicked!");\
-> }, \[]);\
-> return <Child onClick={handleClick} />;\
-> }
->
-> ```
-> ```
+```javascript
+import { useCallback } from "react";
 
-> **Example (useMemo):**
->
-> ```javascript
-> const expensiveCalculation = useMemo(() => computeSomething(data), [data]);
-> ```
+function Parent() {
+  const handleClick = useCallback(() => {
+    console.log("Clicked!");
+  }, []);
+  return <Child onClick={handleClick} />;
+}
+```
+
+**Example (useMemo):**
+
+```javascript
+const expensiveCalculation = useMemo(() => computeSomething(data), [data]);
+```
 
 Both help **avoid unnecessary recalculations**.
 
@@ -345,30 +342,27 @@ Both help **avoid unnecessary recalculations**.
 
 React **does not catch errors inside event handlers or asynchronous code**. But with **Error Boundaries**, you can catch UI-breaking errors before they crash the entire app.
 
-> **Example:**
->
-> ```javascript
-> class ErrorBoundary extends React.Component {
->   constructor(props) {
->     super(props);
->     this.state = { hasError: false };
->   }
-> ```
+**Example:**
 
-> static getDerivedStateFromError(error) {\
-> return { hasError: true };\
-> }
+```javascript
+class ErrorBoundary extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { hasError: false };
+  }
 
-> render() {\
-> if (this.state.hasError) {\
-> return <h1>Something went wrong.</h1>;\
-> }\
-> return this.props.children;\
-> }\
-> }
->
-> ```
-> ```
+  static getDerivedStateFromError(error) {
+    return { hasError: true };
+  }
+
+  render() {
+    if (this.state.hasError) {
+      return <h1>Something went wrong.</h1>;
+    }
+    return this.props.children;
+  }
+}
+```
 
 Wrap components inside `<ErrorBoundary>` to catch errors **gracefully**.
 
@@ -376,44 +370,42 @@ Wrap components inside `<ErrorBoundary>` to catch errors **gracefully**.
 
 If your components have **too much repeated logic**, create a **custom hook** instead.
 
-> **Example:**
->
-> ```javascript
-> function useWindowSize() {
->   const [size, setSize] = useState(window.innerWidth);
->   useEffect(() => {
->     const handleResize = () => setSize(window.innerWidth);
->     window.addEventListener("resize", handleResize);
->     return () => window.removeEventListener("resize", handleResize);
->   }, []);
->   return size;
-> }
-> ```
+**Example:**
+
+```javascript
+function useWindowSize() {
+  const [size, setSize] = useState(window.innerWidth);
+  useEffect(() => {
+    const handleResize = () => setSize(window.innerWidth);
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
+  return size;
+}
+```
 
 Now, use it like this:
 
-> ```javascript
-> const width = useWindowSize();
-> ```
+```javascript
+const width = useWindowSize();
+```
 
 ## 18. React Portal
 
 Portals allow you to render components **outside the root DOM node**, useful for **modals, tooltips, and dropdowns**.
 
-> **Example:**
->
-> ```javascript
-> import ReactDOM from "react-dom";
-> ```
+**Example:**
 
-> function Modal({ children }) {\
-> return ReactDOM.createPortal(\ <div className="modal">{children}</div>,\
-> document.getElementById("modal-root")\
-> );\
-> }
->
-> ```
-> ```
+```javascript
+import ReactDOM from "react-dom";
+
+function Modal({ children }) {
+  return ReactDOM.createPortal(
+    <div className="modal">{children}</div>,
+    document.getElementById("modal-root")
+  );
+}
+```
 
 No more CSS `z-index` nightmares!
 
@@ -421,11 +413,11 @@ No more CSS `z-index` nightmares!
 
 Hydration is when the **server renders HTML** first, and React takes over after the initial load.
 
-> **Example:**
->
-> ```javascript
-> ReactDOM.hydrate(<App />, document.getElementById("root"));
-> ```
+**Example:**
+
+```javascript
+ReactDOM.hydrate(<App />, document.getElementById("root"));
+```
 
 It makes SSR (Server-Side Rendering) **faster** and avoids flickering during page loads.
 
@@ -445,26 +437,23 @@ Enter `useRef()`!
 
 Refs let you reference **DOM nodes or persist values** across renders **without causing re-renders**.
 
-> **Example:**
->
-> ```javascript
-> import { useRef, useEffect } from "react";
-> ```
+**Example:**
 
-> function FocusInput() {\
-> const inputRef = useRef(null);
+```javascript
+import { useRef, useEffect } from "react";
 
-> useEffect(() => {\
-> inputRef.current.focus(); // Auto-focuses the input on mount\
-> }, \[]);
+function FocusInput() {
+  const inputRef = useRef(null);
 
-> return <input ref={inputRef} type="text" />;\
-> }
->
-> ```
-> ```
+  useEffect(() => {
+    inputRef.current.focus(); // Auto-focuses the input on mount
+  }, []);
 
-🔥 **Hot tip:** `useRef()` is also great for storing **mutable values** between renders.
+  return <input ref={inputRef} type="text" />;
+}
+```
+
+🔥 **Tip:** `useRef()` is also great for storing **mutable values** between renders.
 
 ***
 
@@ -474,41 +463,39 @@ Ever heard of **controlled components**?
 
 React wants all inputs to be **controlled**, meaning the **state controls the value**.
 
-> **Example of a controlled component:**
->
-> ```javascript
-> function ControlledInput() {
->   const [text, setText] = useState("");
-> ```
+**Example of a controlled component:**
 
-> return (\
-> \<input\
-> value={text}\
-> onChange={(e) => setText(e.target.value)}\
-> />\
-> );\
-> }
->
-> ```
-> ```
+```javascript
+function ControlledInput() {
+  const [text, setText] = useState("");
+
+  return (
+    <input
+      value={text}
+      onChange={(e) => setText(e.target.value)}
+    />
+  );
+}
+```
 
 🛑 **Uncontrolled components**, on the other hand, don’t rely on state:
 
-> ```javascript
-> function UncontrolledInput() {
->   const inputRef = useRef();
-> ```
+```javascript
+function UncontrolledInput() {
+  const inputRef = useRef();
 
-> const handleSubmit = () => {\
-> alert(inputRef.current.value);\
-> };
+  const handleSubmit = () => {
+    alert(inputRef.current.value);
+  };
 
-> return (\ <div>\ <input ref={inputRef} type="text" />\ <button onClick={handleSubmit}>Submit</button>\ </div>\
-> );\
-> }
->
-> ```
-> ```
+  return (
+    <div>
+      <input ref={inputRef} type="text" />
+      <button onClick={handleSubmit}>Submit</button>
+    </div>
+  );
+}
+```
 
 Controlled is **React-y**. Uncontrolled is **old-school HTML form-y**. Pick your poison.
 
@@ -518,23 +505,20 @@ Controlled is **React-y**. Uncontrolled is **old-school HTML form-y**. Pick your
 
 Refs are useful, but what if you need to **pass a ref to a child component**? Use `forwardRef()`!
 
-> **Example:**
->
-> ```javascript
-> import { forwardRef } from "react";
-> ```
+**Example:**
 
-> const CustomInput = forwardRef((props, ref) => (\
-> \<input ref={ref} {...props} />\
-> ));
+```javascript
+import { forwardRef } from "react";
 
-> function Parent() {\
-> const inputRef = useRef();\
-> return <CustomInput ref={inputRef} />;\
-> }
->
-> ```
-> ```
+const CustomInput = forwardRef((props, ref) => (
+  <input ref={ref} {...props} />
+));
+
+function Parent() {
+  const inputRef = useRef();
+  return <CustomInput ref={inputRef} />;
+}
+```
 
 This is **super useful** when working with **third-party UI libraries**.
 
@@ -544,32 +528,32 @@ This is **super useful** when working with **third-party UI libraries**.
 
 **Tired of `useState`?** When state logic gets complex, `useReducer()` comes to the rescue.
 
-> **Example:**
->
-> ```javascript
-> function reducer(state, action) {
->   switch (action.type) {
->     case "increment":
->       return { count: state.count + 1 };
->     case "decrement":
->       return { count: state.count - 1 };
->     default:
->       throw new Error();
->   }
-> }
-> ```
+**Example:**
 
-> function Counter() {\
-> const \[state, dispatch] = useReducer(reducer, { count: 0 });
+```javascript
+function reducer(state, action) {
+  switch (action.type) {
+    case "increment":
+      return { count: state.count + 1 };
+    case "decrement":
+      return { count: state.count - 1 };
+    default:
+      throw new Error();
+  }
+}
 
-> return (\ <div>\
-> \<button onClick={() => dispatch({ type: "decrement" })}>-</button>\ <span>{state.count}</span>\
-> \<button onClick={() => dispatch({ type: "increment" })}>+</button>\ </div>\
-> );\
-> }
->
-> ```
-> ```
+function Counter() {
+  const [state, dispatch] = useReducer(reducer, { count: 0 });
+
+  return (
+    <div>
+      <button onClick={() => dispatch({ type: "decrement" })}>-</button>
+      <span>{state.count}</span>
+      <button onClick={() => dispatch({ type: "increment" })}>+</button>
+    </div>
+  );
+}
+```
 
 Think of `useReducer()` as **React's mini Redux**.
 
@@ -581,20 +565,17 @@ Both are similar, but `useLayoutEffect()` **fires before** the browser paints th
 
 Good for **synchronizing the DOM**.
 
-> **Example:**
->
-> ```javascript
-> useLayoutEffect(() => {
->   console.log("useLayoutEffect");
-> });
-> ```
+**Example:**
 
-> useEffect(() => {\
-> console.log("useEffect");\
-> });
->
-> ```
-> ```
+```javascript
+useLayoutEffect(() => {
+  console.log("useLayoutEffect");
+});
+
+useEffect(() => {
+  console.log("useEffect");
+});
+```
 
 👀 **Use `useLayoutEffect` only when necessary**, as it can block painting.
 
@@ -604,11 +585,11 @@ Good for **synchronizing the DOM**.
 
 Context API is **awesome**, but **overuse it, and your app slows down**.
 
-> **Solution:** **Memoize Context Values**
->
-> ```javascript
-> const value = useMemo(() => ({ theme, toggleTheme }), [theme]);
-> ```
+**Solution:** **Memoize Context Values**
+
+```javascript
+const value = useMemo(() => ({ theme, toggleTheme }), [theme]);
+```
 
 Memoizing context **prevents unnecessary re-renders**.
 
@@ -618,20 +599,19 @@ Memoizing context **prevents unnecessary re-renders**.
 
 Want to **load components only when needed**? Use `React.lazy()`.
 
-> **Example:**
->
-> ```javascript
-> const LazyComponent = React.lazy(() => import("./LazyComponent"));
-> ```
+**Example:**
 
-> function App() {\
-> return (\
-> \<Suspense fallback={<p>Loading...</p>}>\ <LazyComponent />\ </Suspense>\
-> );\
-> }
->
-> ```
-> ```
+```javascript
+const LazyComponent = React.lazy(() => import("./LazyComponent"));
+
+function App() {
+  return (
+    <Suspense fallback={<p>Loading...</p>}>
+      <LazyComponent />
+    </Suspense>
+  );
+}
+```
 
 🚀 This improves **performance** by reducing **initial load times**.
 
@@ -641,17 +621,17 @@ Want to **load components only when needed**? Use `React.lazy()`.
 
 If you **don’t use keys properly**, React **will re-render everything** instead of **just updating the changed items**.
 
-> **Good example:**
->
-> ```javascript
-> items.map((item) => <li key={item.id}>{item.name}</li>);
-> ```
+**Good example:**
 
-> **Bad example:**
->
-> ```javascript
-> items.map((item, index) => <li key={index}>{item.name}</li>);
-> ```
+```javascript
+items.map((item) => <li key={item.id}>{item.name}</li>);
+```
+
+**Bad example:**
+
+```javascript
+items.map((item, index) => <li key={index}>{item.name}</li>);
+```
 
 **Moral of the story:** Always use **stable, unique IDs** for `key` props.
 
@@ -680,13 +660,13 @@ Instead of **passing JSX** as children, we **pass a function** that returns JSX.
 
 React’s **Strict Mode** helps **catch potential issues** in your code. It **doesn’t** affect the UI but highlights **side effects and warnings**.
 
-> **Example:**
->
-> ```javascript
-> <React.StrictMode>
->   <App />
-> </React.StrictMode>
-> ```
+**Example:**
+
+```javascript
+<React.StrictMode>
+  <App />
+</React.StrictMode>
+```
 
 🚨 **Using Strict Mode?** Don’t freak out when your component **mounts twice** in development—it’s intentional.
 
@@ -696,25 +676,22 @@ React’s **Strict Mode** helps **catch potential issues** in your code. It **do
 
 If you’ve ever needed to **reuse logic across multiple components**, **HOCs** are your friends. A Higher-Order Component is **a function that takes a component and returns a new component** with enhanced functionality.
 
-> **Example:**
->
-> ```javascript
-> function withLogging(WrappedComponent) {
->   return function EnhancedComponent(props) {
->     console.log("Component rendered with props:", props);
->     return <WrappedComponent {...props} />;
->   };
-> }
-> ```
+**Example:**
 
-> function Hello({ name }) {\
-> return <h1>Hello, {name}!</h1>;\
-> }
+```javascript
+function withLogging(WrappedComponent) {
+  return function EnhancedComponent(props) {
+    console.log("Component rendered with props:", props);
+    return <WrappedComponent {...props} />;
+  };
+}
 
-> const EnhancedHello = withLogging(Hello);
->
-> ```
-> ```
+function Hello({ name }) {
+  return <h1>Hello, {name}!</h1>;
+}
+
+const EnhancedHello = withLogging(Hello);
+```
 
 **When to use HOCs?** When you find yourself **repeating logic** across multiple components (e.g., authentication, logging, styling). However, **hooks have made HOCs less common**.
 
@@ -734,13 +711,13 @@ This means:
 * **Works consistently across browsers**
 * **Bubbling and capturing are still available**
 
-> **Example:**
->
-> ```javascript
-> function Button() {
->   return <button onClick={() => console.log("Clicked!")}>Click me</button>;
-> }
-> ```
+**Example:**
+
+```javascript
+function Button() {
+  return <button onClick={() => console.log("Clicked!")}>Click me</button>;
+}
+```
 
 Even though the click event is **on the button**,
 
@@ -752,26 +729,28 @@ it’s **actually handled by React’s synthetic event system**.
 
 We talked about `React.lazy()` before, but **did you know** you can use it for **code-splitting routes** dynamically?
 
-> **Example:**
->
-> ```javascript
-> import { lazy, Suspense } from "react";
-> import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-> ```
+**Example:**
 
-> const Home = lazy(() => import("./Home"));\
-> const About = lazy(() => import("./About"));
+```javascript
+import { lazy, Suspense } from "react";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
-> function App() {\
-> return (\ <Router>\
-> \<Suspense fallback={<p>Loading...</p>}>\ <Routes>\
-> \<Route path="/" element={<Home />} />\
-> \<Route path="/about" element={<About />} />\ </Routes>\ </Suspense>\ </Router>\
-> );\
-> }
->
-> ```
-> ```
+const Home = lazy(() => import("./Home"));
+const About = lazy(() => import("./About"));
+
+function App() {
+  return (
+    <Router>
+      <Suspense fallback={<p>Loading...</p>}>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+        </Routes>
+      </Suspense>
+    </Router>
+  );
+}
+```
 
 This way, **React only loads components when needed**, reducing **initial load times**.
 
@@ -781,21 +760,21 @@ This way, **React only loads components when needed**, reducing **initial load t
 
 Ever seen this?
 
-> ```javascript
-> function Greeting({ name = "Stranger" }) {
->   return <h1>Hello, {name}!</h1>;
-> }
-> ```
+```javascript
+function Greeting({ name = "Stranger" }) {
+  return <h1>Hello, {name}!</h1>;
+}
+```
 
 That’s **default props in destructuring**. But with **optional chaining (`?.`)**, you don’t always need defaults.
 
-> **Example:**
->
-> ```javascript
-> function Greeting(props) {
->   return <h1>Hello, {props.name?.toUpperCase() ?? "Stranger"}!</h1>;
-> }
-> ```
+**Example:**
+
+```javascript
+function Greeting(props) {
+  return <h1>Hello, {props.name?.toUpperCase() ?? "Stranger"}!</h1>;
+}
+```
 
 Both work, but **optional chaining (`?.`) is better when dealing with deeply nested objects**.
 
@@ -805,34 +784,34 @@ Both work, but **optional chaining (`?.`) is better when dealing with deeply nes
 
 **What if you want to expose certain methods** of a component but hide the rest? Use `useImperativeHandle()`.
 
-> **Example:**
->
-> ```javascript
-> import { useRef, forwardRef, useImperativeHandle } from "react";
-> ```
+**Example:**
 
-> const CustomInput = forwardRef((props, ref) => {\
-> const inputRef = useRef();
+```javascript
+import { useRef, forwardRef, useImperativeHandle } from "react";
 
-> useImperativeHandle(ref, () => ({\
-> focus: () => {\
-> inputRef.current.focus();\
-> },\
-> }));
+const CustomInput = forwardRef((props, ref) => {
+const inputRef = useRef();
 
-> return \<input ref={inputRef} {...props} />;\
-> });
+useImperativeHandle(ref, () => ({
+    focus: () => {
+    inputRef.current.focus();
+    },
+}));
 
-> function Parent() {\
-> const inputRef = useRef();
+return <input ref={inputRef} {...props} />;
+});
 
-> return (\ <div>\ <CustomInput ref={inputRef} />\
-> \<button onClick={() => inputRef.current.focus()}>Focus Input</button>\ </div>\
-> );\
-> }
->
-> ```
-> ```
+function Parent() {
+const inputRef = useRef();
+
+return (
+    <div>
+    <CustomInput ref={inputRef} />
+    <button onClick={() => inputRef.current.focus()}>Focus Input</button>
+    </div>
+);
+}
+```
 
 Now, **only the `focus()` method** is exposed to the parent, **keeping everything else private**.
 
@@ -842,19 +821,19 @@ Now, **only the `focus()` method** is exposed to the parent, **keeping everythin
 
 We know `key` helps with performance, but **did you know that using array indexes as keys can break UI state?** 🤯
 
-> **Bad Example:**
->
-> ```javascript
-> items.map((item, index) => <li key={index}>{item.name}</li>);
-> ```
+**Bad Example:**
+
+```javascript
+items.map((item, index) => <li key={index}>{item.name}</li>);
+```
 
 If the **array order changes**, React will **misinterpret UI updates**, causing **unexpected behavior**.
 
-> **Good Example:**
->
-> ```javascript
-> items.map((item) => <li key={item.id}>{item.name}</li>);
-> ```
+**Good Example:**
+
+```javascript
+items.map((item) => <li key={item.id}>{item.name}</li>);
+```
 
 Always use **unique IDs** for keys.
 
@@ -864,13 +843,13 @@ Always use **unique IDs** for keys.
 
 Need to inject raw HTML? Use `dangerouslySetInnerHTML` (**but carefully**).
 
-> **Example:**
->
-> ```javascript
-> function DangerousComponent({ html }) {
->   return <div dangerouslySetInnerHTML={{ __html: html }} />;
-> }
-> ```
+**Example:**
+
+```javascript
+function DangerousComponent({ html }) {
+  return <div dangerouslySetInnerHTML={{ __html: html }} />;
+}
+```
 
 🚨 **DANGER:** This makes your app **vulnerable to XSS (Cross-Site Scripting)**. Always sanitize user input!
 
@@ -880,16 +859,13 @@ Need to inject raw HTML? Use `dangerouslySetInnerHTML` (**but carefully**).
 
 Hydration is when **React reuses existing server-rendered HTML** instead of re-rendering from scratch.
 
-> **Example:**
->
-> ```javascript
-> import { hydrate } from "react-dom";
-> ```
+**Example:**
 
-> hydrate(<App />, document.getElementById("root"));
->
-> ```
-> ```
+```javascript
+import { hydrate } from "react-dom";
+
+hydrate(<App />, document.getElementById("root"));
+```
 
 Why use it? **SSR (Server-Side Rendering) with Hydration** speeds up **initial page load times**.
 
@@ -899,29 +875,28 @@ Why use it? **SSR (Server-Side Rendering) with Hydration** speeds up **initial p
 
 If your UI is **lagging due to expensive renders**, `useTransition()` can **delay state updates** for a smoother experience.
 
-> **Example:**
->
-> ```javascript
-> import { useTransition, useState } from "react";
-> ```
+**Example:**
 
-> function ExpensiveComponent() {\
-> const \[search, setSearch] = useState("");\
-> const \[isPending, startTransition] = useTransition();
+```javascript
+import { useTransition, useState } from "react";
 
-> function handleChange(event) {\
-> startTransition(() => {\
-> setSearch(event.target.value);\
-> });\
-> }
+function ExpensiveComponent() {
+  const [search, setSearch] = useState("");
+  const [isPending, startTransition] = useTransition();
 
-> return (\ <div>\ <input onChange={handleChange} />\
-> {isPending ? <p>Loading...</p> : <p>Results for {search}</p>}\ </div>\
-> );\
-> }
->
-> ```
-> ```
+  function handleChange(event) {
+    startTransition(() => {
+      setSearch(event.target.value);
+    });
+  }
+  return (
+    <div>
+      <input onChange={handleChange} />
+      {isPending ? <p>Loading...</p> : <p>Results for {search}</p>}
+    </div>
+  );
+}
+```
 
 This keeps the **UI responsive** while state updates in the background.
 
@@ -931,13 +906,13 @@ This keeps the **UI responsive** while state updates in the background.
 
 If you’re passing **functions as props**, **memoize them** using `useCallback()` to avoid unnecessary renders.
 
-> **Example:**
->
-> ```javascript
-> const handleClick = useCallback(() => {
->   console.log("Clicked!");
-> }, []);
-> ```
+**Example:**
+
+```javascript
+const handleClick = useCallback(() => {
+  console.log("Clicked!");
+}, []);
+```
 
 ***
 

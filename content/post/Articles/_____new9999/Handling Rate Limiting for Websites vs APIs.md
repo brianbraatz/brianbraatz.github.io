@@ -8,8 +8,8 @@ categories:
   - Web Development
   - Security
   - API Rate Limiting
-  - Cloud Computing
   - DevOps
+  - Cloud
 tags:
   - Web
   - Development
@@ -25,7 +25,7 @@ tags:
   - Kubernetes
 draft: false
 weight: 1020
-lastmod: 2025-02-16T22:08:44.613Z
+lastmod: 2025-02-20T12:21:02.710Z
 ---
 <!--
 # Handling Rate Limiting for Websites vs APIs: Best Practices and Code Examples

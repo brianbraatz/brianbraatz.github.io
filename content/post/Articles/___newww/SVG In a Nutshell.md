@@ -1,10 +1,14 @@
 ---
-title: SVG in DA Nutshell
-description: SCompared to PostScript and Others
+title: SVG in A Nutshell
+description: Compared to PostScript and Others- Python Examples
 slug: svg-in-a-nustshell
-date: 2025-12-14
-image: post/Articles/IMAGES/367.jpg
-categories: []
+date: 2022-12-14
+image: post/Articles/IMAGES/36.jpg
+categories:
+  - Svg
+  - Postscript
+  - Python
+  - Document Imaging
 tags:
   - Svg
   - Postscript
@@ -15,19 +19,25 @@ tags:
   - Comparison
 draft: false
 weight: 425
-lastmod: 2025-02-15T23:08:45.335Z
+lastmod: 2025-02-20T13:58:15.826Z
 ---
+<!--
 # SVG in Depth - Compared to PostScript and Others (with Python Code!)
 
-Welcome to the wonderful world of SVG! If you've ever looked at an SVG file and thought, "Is this XML or an alien language?" — congrats, you're in the right place. Let's break down SVG like a curious cat ripping apart a cardboard box and compare it with the grandpa of graphics, PostScript, and a few other formats.
+Welcome to the wonderful world of SVG! If you've ever looked at an SVG file and thought, "Is this XML or an alien language?" — congrats, you're in the right place. Let's break down SVG like a curious cat ripping apart a cardboard box and compare it with the grandpa of graphics, PostScript, and a few other formats. 
+-->
 
 ## 1. A Very Brief, and Mildly Snarky, History of SVG
 
-SVG (Scalable Vector Graphics) came to life in 1999 because the web needed crisp graphics that wouldn’t pixelate like an 8-bit video game when zoomed. XML-based and vector-friendly, SVG lets you create everything from logos to interactive infographics without worrying about resolution.
+SVG (Scalable Vector Graphics) came to life in 1999 because the web needed crisp graphics that wouldn’t pixelate like an 8-bit video game when zoomed. XML-based and vector-friendly,
+
+SVG lets you create everything from logos to interactive infographics without worrying about resolution.
 
 ### Meanwhile, in the PostScript World…
 
-PostScript, invented by Adobe in the 80s, was the cool kid in print graphics. It’s powerful, but as user-friendly as a porcupine in a balloon factory. Unlike SVG, PostScript is designed for printers, not browsers.
+PostScript, invented by Adobe in the 80s, was the cool kid in print graphics.
+
+It’s powerful, but as user-friendly as a porcupine in a balloon factory. Unlike SVG, PostScript is designed for printers, not browsers.
 
 ### Other Competitors in the Ring:
 

@@ -20,9 +20,10 @@ tags:
   - Monitoring
   - Deployment
   - Tools
+  - Cloud
 draft: false
 weight: 287
-lastmod: 2025-02-16T22:48:55.504Z
+lastmod: 2025-02-20T12:21:27.181Z
 ---
 <!-- 
 ## Introduction

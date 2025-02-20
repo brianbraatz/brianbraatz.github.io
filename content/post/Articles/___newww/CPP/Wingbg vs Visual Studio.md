@@ -1,11 +1,15 @@
 ---
 title: Why Do We Use WinDbg Instead of Visual Studio?
 description: Examined...
-slug: windbg-vs-visual-studio
+slug: windbg-vs-visual-studio-why
 date: 2018-12-14
 image: post/Articles/IMAGES/windbg.webp
 categories:
   - C++ Debugging
+  - WinDbg
+  - Visual Studio
+  - Performance Analysis
+  - Memory Dump Analysis
 tags:
   - Debugging
   - WinDbg
@@ -15,7 +19,7 @@ tags:
   - Low-Level Debugging
 draft: false
 weight: 386
-lastmod: 2025-02-15T23:30:04.658Z
+lastmod: 2025-02-20T13:29:00.489Z
 ---
 # Why Do We Use WinDbg Instead of Visual Studio?
 

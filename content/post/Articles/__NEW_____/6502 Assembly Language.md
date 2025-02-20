@@ -10,6 +10,8 @@ categories:
   - 6502 Processor
   - Retro Computing
   - Assembly Language
+  - Languages
+  - History
 tags:
   - Assembly
   - Embedded
@@ -22,7 +24,7 @@ tags:
   - Programming
 draft: false
 weight: 274
-lastmod: 2025-02-20T11:35:08.079Z
+lastmod: 2025-02-20T12:19:11.405Z
 ---
 # 6502 Assembly Language in a Nutshell
 

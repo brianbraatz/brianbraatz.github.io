@@ -4,7 +4,12 @@ description: For fun and profit
 slug: write-your-own-debugger-windows
 date: 2016-12-03
 image: post/Articles/IMAGES/windbg.webp
-categories: []
+categories:
+  - C++ Debugging
+  - WinDbg
+  - Visual Studio
+  - Performance Analysis
+  - Memory Dump Analysis
 tags:
   - Debugger
   - Windows API
@@ -13,7 +18,7 @@ tags:
   - Fun Programming Projects
 draft: false
 weight: 437
-lastmod: 2025-02-17T01:02:25.341Z
+lastmod: 2025-02-20T13:29:07.668Z
 ---
 # Who Needs Visual Studio?? Write Your OWN Debugger Using the Windows API for Fun and Profit 🎯
 

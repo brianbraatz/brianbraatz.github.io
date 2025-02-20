@@ -3,7 +3,7 @@ title: "Tutorial: Multiplayer Game with Unity 3D and Azure Cloud- Part 1"
 description: Walk through the basics of a real-time multiplayer game in Unity 3D (C#) in Azure Cloud for hosting and OAuth for authentication. We will use Photon, Azure Functions, and Azure App Services
 slug: unity-tutorial-multi-player-1
 date: 2022-05-06
-image: post/Articles/IMAGES/bw2_wide.png
+image: post/Articles/IMAGES/bw2.png
 categories:
   - Unity 3D Engine
   - CSharp
@@ -29,7 +29,7 @@ tags:
 weight: 21
 published: 2001-01-01
 draft: false
-lastmod: 2025-02-20T11:56:43.575Z
+lastmod: 2025-02-20T14:33:07.123Z
 ---
 <!-- 
 Article Image is from my Proto game "Babblewar" - more on that here [Unity 3D Multiplayer Game Experiments](post/unity3d/unity-proto-games/index.md) 

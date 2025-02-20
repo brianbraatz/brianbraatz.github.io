@@ -23,9 +23,10 @@ tags:
   - Istio
   - NGINX
   - Traefik
+  - Cloud
 draft: false
 weight: 990
-lastmod: 2025-02-16T22:08:44.490Z
+lastmod: 2025-02-20T12:21:53.987Z
 ---
 # API Rate Limiting and Request Filtering in Kubernetes: A Complete Guide
 

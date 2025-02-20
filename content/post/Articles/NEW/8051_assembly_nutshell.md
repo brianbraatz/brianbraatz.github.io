@@ -8,6 +8,8 @@ categories:
   - Assembly Language
   - Embedded
   - 8051 Embedded Processor
+  - Languages
+  - History
 tags:
   - Assembly
   - Microcontroller
@@ -20,7 +22,7 @@ tags:
   - 8051CPU
 draft: false
 weight: 438
-lastmod: 2025-02-09T23:37:46.605Z
+lastmod: 2025-02-20T12:19:25.576Z
 ---
 # 8051 Assembly Language in a Nutshell
 

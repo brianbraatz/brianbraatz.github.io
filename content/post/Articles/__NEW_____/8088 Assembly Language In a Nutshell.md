@@ -7,9 +7,11 @@ image: post/Articles/IMAGES/8088.png
 categories:
   - Assembly
   - Embedded Systems
-  - 6502 Processor
   - Retro Computing
   - Assembly Language
+  - 8088 Processor
+  - Languages
+  - History
 tags:
   - Assembly
   - Embedded
@@ -23,7 +25,7 @@ tags:
   - AssemblyLanguage
 draft: false
 weight: 274
-lastmod: 2025-02-20T12:13:33.962Z
+lastmod: 2025-02-20T12:18:55.658Z
 ---
 # 8088 Assembly Language in a Nutshell
 

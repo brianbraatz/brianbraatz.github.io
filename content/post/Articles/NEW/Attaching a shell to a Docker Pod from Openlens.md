@@ -9,6 +9,7 @@ categories:
   - DevOps
   - OpenLens
   - Kubernetes
+  - Cloud
 tags:
   - Docker
   - Kubernetes
@@ -18,7 +19,7 @@ tags:
   - Kubectl
 draft: false
 weight: 30
-lastmod: 2025-02-09T21:51:48.552Z
+lastmod: 2025-02-20T12:20:13.614Z
 ---
 # How to Attach a Shell to a Pod in OpenLens
 

@@ -1,6 +1,6 @@
 ---
 title: Angular-40 Things You Should Know
-description: Curated list of 40 Important Angular Notes
+description: Collected Bits of Angular Wisdom
 slug: Angular-40-things
 date: 2024-10-10
 image: post/Articles/IMAGES/angular_wordmark_gradient.png
@@ -19,7 +19,7 @@ tags:
   - MVVM
 weight: 21
 draft: false
-lastmod: 2025-02-19T10:37:51.755Z
+lastmod: 2025-02-20T14:00:03.454Z
 ---
 ### 1. Why were client-side frameworks like Angular introduced?
 

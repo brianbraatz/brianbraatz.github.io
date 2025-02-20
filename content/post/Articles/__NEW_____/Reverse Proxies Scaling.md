@@ -6,6 +6,9 @@ date: 2021-07-19
 image: post/Articles/IMAGES/lostinspace.png
 categories:
   - Foobar Examples
+  - Cloud
+  - Kubernetes
+  - Load Balancing
 tags:
   - Kubernetes
   - Docker
@@ -16,7 +19,7 @@ tags:
   - Logging
 draft: false
 weight: 289
-lastmod: 2025-02-16T23:14:47.834Z
+lastmod: 2025-02-20T12:22:38.433Z
 ---
 See Part 1 here:\
 [Reverse Proxies Visually Explained](/post/Articles/__NEW_____/Reverse%20Proxies%20Visually%20Explained.md)

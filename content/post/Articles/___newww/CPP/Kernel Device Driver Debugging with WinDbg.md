@@ -1,7 +1,7 @@
 ---
 title: Kernel Device Driver Debugging with WinDbg
 description: How to Use WinDbg to Debug Kernel Device Drivers in Windows
-slug: how-to-use-windbg-to-debug-kernel-device-drivers-in-windows
+slug: windbg-debug-kernel-drivers
 date: 2018-12-03
 image: post/Articles/IMAGES/windbg.webp
 categories:
@@ -19,7 +19,7 @@ tags:
   - Analysis
 draft: false
 weight: 428
-lastmod: 2025-02-20T11:34:07.629Z
+lastmod: 2025-02-20T13:05:26.845Z
 ---
 # How to Use WinDbg to Debug Kernel Device Drivers in Windows
 
