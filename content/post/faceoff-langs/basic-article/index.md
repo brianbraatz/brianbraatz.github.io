@@ -69,8 +69,10 @@ tags:
   - 8051CPU
 weight: 1
 draft: false
-lastmod: 2025-02-09T23:38:35.905Z
+lastmod: 2025-02-20T17:33:59.843Z
 ---
+![](/post/faceoff-langs/basic-article/bubblewarcover.png)
+
 ## BUBBBLE BATTLE!
 
 A Bubble Sort is a very simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
