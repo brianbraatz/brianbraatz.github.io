@@ -9,17 +9,20 @@ categories:
   - Embedded Systems
   - 6502 Processor
   - Retro Computing
+  - Assembly Language
 tags:
   - Assembly
-  - Embedded Systems
-  - 6502
+  - Embedded
+  - Systems
   - Programming
   - Microcontroller
-  - Retro Computing
-  - Low-Level Programming
+  - Retro
+  - Computing
+  - Low-Level
+  - Programming
 draft: false
 weight: 274
-lastmod: 2025-02-17T02:33:41.381Z
+lastmod: 2025-02-20T11:35:08.079Z
 ---
 # 6502 Assembly Language in a Nutshell
 

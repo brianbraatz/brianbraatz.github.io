@@ -11,6 +11,7 @@ categories:
   - C#
   - Go
   - Security
+  - Assembly Language
 tags:
   - Cybersecurity
   - Buffer Overflow
@@ -21,7 +22,7 @@ tags:
   - Security Practices
 draft: false
 weight: 489
-lastmod: 2025-02-17T01:54:58.002Z
+lastmod: 2025-02-20T11:37:05.782Z
 ---
 # History of Buffer Overrun Attacks and How to Prevent Them in Python, C#, and Go
 

@@ -16,6 +16,7 @@ categories:
   - Cloud
   - Cloud-Real Time Multi User
   - Web Assembly
+  - Azure
 tags:
   - Cloud
   - Azure
@@ -26,8 +27,16 @@ tags:
 weight: 3
 published: 2001-01-01
 draft: false
-lastmod: 2025-02-09T23:43:47.334Z
+lastmod: 2025-02-20T11:04:43.838Z
 ---
+<!-- 
+If you are interested in a tutorial on how to setup Multiplayer in Azure , Check out my tutorial:
+[Tutorial: Make a Real-Time Multiplayer Game with Unity 3D and Azure Cloud](post/unity3d/unity-proto-games/Unity3DwithMultiplayer1.md)
+
+[Unity3DwithMultiplayer1](Unity3DwithMultiplayer1.md)
+Read on for an overview of weird things from my past :) 
+-->
+
 # Unity Game Prototypes
 
 Some Unity Prototypes I built over a **several months without sleep** for a crazy business venture..

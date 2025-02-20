@@ -11,6 +11,7 @@ categories:
   - Unix
   - Mac OS
   - Concurrency
+  - Assembly Language
 tags:
   - Concurrency
   - Lock-Free
@@ -21,7 +22,7 @@ tags:
 draft: false
 weight: 30
 description: Dive into a Multi-Threading world with NO LOCKS!
-lastmod: 2025-02-09T21:42:16.925Z
+lastmod: 2025-02-20T11:38:07.067Z
 ---
 # Understanding Lock-Free Programming
 

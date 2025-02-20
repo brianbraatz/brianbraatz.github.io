@@ -7,17 +7,21 @@ image: post/Articles/IMAGES/windbg.webp
 categories:
   - DevOps
   - C++ Debugging
+  - WinDbg
+  - Assembly Language
 tags:
   - PDB
   - Debugging
-  - Release Mode
-  - Crash Analysis
+  - Release
+  - Mode
+  - Crash
+  - Analysis
   - Windows
   - Symbols
   - Windbg
 draft: false
 weight: 317
-lastmod: 2025-02-17T01:02:06.896Z
+lastmod: 2025-02-20T11:37:14.386Z
 ---
 # Understanding PDB Files and How to Debug Release Mode Crashes in the Field
 

@@ -7,6 +7,7 @@ image: post/Articles/IMAGES/linux.png
 categories:
   - Linux
   - Security
+  - Device Drivers
 tags:
   - Linux
   - Security
@@ -17,7 +18,7 @@ tags:
   - Cybersecurity
 draft: false
 weight: 287
-lastmod: 2025-02-17T03:09:01.760Z
+lastmod: 2025-02-20T11:37:36.339Z
 ---
 # How Hackers Used Memory Corruption to Break Into Systems
 
