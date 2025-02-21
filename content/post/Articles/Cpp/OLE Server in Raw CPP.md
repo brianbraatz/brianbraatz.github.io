@@ -11,18 +11,22 @@ categories:
   - MFC
   - WinAPi
 tags:
-  - C++
   - Ole
   - Com
-  - In Process
-  - Out Of Process
-  - Windows Api
+  - In
+  - Process
+  - Out
+  - Of
+  - Process
+  - Windows
+  - Api
   - Dll
   - Exe
   - Automation
+  - CPP
 draft: false
 weight: 213
-lastmod: 2025-02-20T22:13:45.900Z
+lastmod: 2025-02-21T00:57:30.183Z
 ---
 <!-- 
 # Write an OLE Server in Raw C++

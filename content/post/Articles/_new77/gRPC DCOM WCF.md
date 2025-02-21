@@ -12,6 +12,7 @@ categories:
   - CSharp
   - Python
   - GoLang
+  - WinApi
 tags:
   - gRPC
   - WCF
@@ -23,7 +24,7 @@ tags:
   - RPC
 draft: false
 weight: 412
-lastmod: 2025-02-14T16:47:32.977Z
+lastmod: 2025-02-21T01:11:03.583Z
 ---
 ## 🕰️ A Little Backstory (because context matters)
 

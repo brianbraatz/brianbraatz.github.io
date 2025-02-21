@@ -12,6 +12,7 @@ categories:
   - Threads
   - Concurrency
   - Operating Systems
+  - WinApi
 tags:
   - Unix
   - Linux
@@ -19,10 +20,11 @@ tags:
   - Processes
   - Threads
   - Concurrency
-  - Operating Systems
+  - Operating
+  - Systems
 draft: false
 weight: 387
-lastmod: 2025-02-20T13:00:55.734Z
+lastmod: 2025-02-21T00:53:53.690Z
 ---
 # Operating System Design Patterns - Processes vs Threads
 

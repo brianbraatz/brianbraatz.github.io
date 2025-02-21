@@ -9,6 +9,7 @@ categories:
   - Languages
   - Concurrency
   - Cloud
+  - WinApi
 tags:
   - Openmp
   - Parallel
@@ -26,7 +27,7 @@ tags:
   - CPP
 draft: false
 weight: 320
-lastmod: 2025-02-11T13:14:16.597Z
+lastmod: 2025-02-21T01:10:14.557Z
 ---
 <!--
 # OpenMP in Detail: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

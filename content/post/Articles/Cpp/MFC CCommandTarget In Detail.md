@@ -3,7 +3,7 @@ title: MFC CCommandTarget In Detail
 description: Exploring CCommandTarget
 slug: mfc-ccommandtarget-in-detail
 date: 2018-12-17
-image: post/Articles/IMAGES/mfcclassic.pngng
+image: post/Articles/IMAGES/mfcclassic.png
 categories:
   - MFC
   - C++
@@ -21,7 +21,7 @@ tags:
   - CPP
 draft: false
 weight: 239
-lastmod: 2025-02-20T22:02:00.786Z
+lastmod: 2025-02-21T00:41:11.925Z
 ---
 # MFC CCommandTarget In Detail
 

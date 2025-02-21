@@ -10,6 +10,7 @@ categories:
   - C
   - CPP
   - Assembly Language
+  - WinAPI
 tags:
   - Windows
   - Kernel
@@ -22,7 +23,7 @@ tags:
   - UserModeDriverFramework
 draft: false
 weight: 30
-lastmod: 2025-02-09T20:17:39.776Z
+lastmod: 2025-02-21T00:55:39.279Z
 ---
 ![](/post/Articles/_New2/Pasted%20image%2020250205091148.png)\
 **Blue screen of death**\

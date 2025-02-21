@@ -3,7 +3,7 @@ title: Next.js vs React vs Angular
 description: Cheatsheet Comparison of these three
 slug: nextjs-vs-react-vs-angular
 date: 2023-06-15
-image: post/Articles/IMAGES/angular2.png"
+image: post/Articles/IMAGES/angular2.png
 categories:
   - HTML
   - Angular
@@ -21,7 +21,7 @@ tags:
   - Frontend
 draft: false
 weight: 578
-lastmod: 2025-02-20T19:14:55.491Z
+lastmod: 2025-02-21T01:13:20.090Z
 ---
 # Next.js vs React vs Angular Compared with Code Examples
 

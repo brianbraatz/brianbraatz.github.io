@@ -8,7 +8,7 @@ categories:
   - Windows
   - MFC
   - Multithreading
-  - WinAPI
+  - WinApi
 tags:
   - Windows
   - Mfc
@@ -21,7 +21,7 @@ tags:
   - Api
 draft: false
 weight: 412
-lastmod: 2025-02-20T22:02:20.682Z
+lastmod: 2025-02-21T00:57:19.968Z
 ---
 # MFC Worker Threads Explored
 

@@ -9,6 +9,7 @@ categories:
   - Assembly
   - WinAPI
   - Assembly Language
+  - WinApi
 tags:
   - Windows
   - Assembly
@@ -18,7 +19,7 @@ tags:
   - GUI
 draft: false
 weight: 567
-lastmod: 2025-02-20T23:35:28.547Z
+lastmod: 2025-02-21T00:55:54.514Z
 ---
 # Can you write a Windows API Hello World In Assembly in 2019?
 

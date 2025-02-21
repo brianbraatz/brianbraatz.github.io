@@ -10,15 +10,21 @@ categories:
   - Visual Studio
   - Performance Analysis
   - Memory Dump Analysis
+  - WinApi
 tags:
   - Debugger
-  - Windows API
-  - Reverse Engineering
-  - Windows Debugging
-  - Fun Programming Projects
+  - Windows
+  - API
+  - Reverse
+  - Engineering
+  - Windows
+  - Debugging
+  - Fun
+  - Programming
+  - Projects
 draft: false
 weight: 637
-lastmod: 2025-02-20T23:07:09.426Z
+lastmod: 2025-02-21T00:56:49.280Z
 ---
 # Who Needs Visual Studio?? Write Your OWN Debugger Using the Windows API for Fun and Profit 🎯
 

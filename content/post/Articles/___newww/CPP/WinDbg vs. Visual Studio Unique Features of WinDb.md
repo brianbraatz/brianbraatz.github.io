@@ -9,6 +9,7 @@ categories:
   - C++ Debugging
   - WinDbg
   - Assembly Language
+  - WinApi
 tags:
   - PDB
   - Debugging
@@ -21,7 +22,7 @@ tags:
   - Windbg
 draft: false
 weight: 817
-lastmod: 2025-02-20T23:06:50.985Z
+lastmod: 2025-02-21T00:56:15.934Z
 ---
 <!-- 
 ---
