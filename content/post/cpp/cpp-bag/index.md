@@ -18,9 +18,10 @@ tags:
   - DesignPatterns
   - VisitorPattern
   - TemplateProgramming
+  - WinAPI
 weight: 36
 draft: false
-lastmod: 2025-02-11T16:09:49.271Z
+lastmod: 2025-02-20T22:01:40.413Z
 ---
 [Template Metaprogramming-Wikipedia](https://en.wikipedia.org/wiki/Template_metaprogramming)
 

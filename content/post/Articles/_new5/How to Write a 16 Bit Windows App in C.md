@@ -12,6 +12,7 @@ categories:
   - GUI
   - Qt GUI Framework
   - Windows API
+  - WinApi
 tags:
   - C
   - CPP
@@ -22,10 +23,11 @@ tags:
   - GUI
   - MessageLoop
   - Qt
+  - WinAPI
 draft: false
 weight: 220
 description: Old Skool Guis Explained with comparison to MFC, OWL and Qt
-lastmod: 2025-02-09T21:34:27.879Z
+lastmod: 2025-02-20T22:56:48.148Z
 ---
 <!-- 
 How to Write a Windows App in C

@@ -18,8 +18,8 @@ tags:
   - React
   - Javascript
 draft: false
-weight: 8
-lastmod: 2025-02-19T10:37:08.892Z
+weight: 100
+lastmod: 2025-02-20T22:24:23.907Z
 ---
 <!-- 
 # WHats New in Angular 16?

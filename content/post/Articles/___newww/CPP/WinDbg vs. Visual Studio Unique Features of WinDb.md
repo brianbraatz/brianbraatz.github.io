@@ -3,7 +3,7 @@ title: WinDbg vs Visual Studio Unique Features of WinDbg
 description: 
 slug: windbg-vs-unique
 date: 2024-12-15
-image: post/Articles/IMAGES/windbg.webp
+image: post/Articles/IMAGES/windbg2.png
 categories:
   - DevOps
   - C++ Debugging
@@ -20,8 +20,8 @@ tags:
   - Symbols
   - Windbg
 draft: false
-weight: 317
-lastmod: 2025-02-20T14:08:09.935Z
+weight: 817
+lastmod: 2025-02-20T23:06:50.985Z
 ---
 <!-- 
 ---

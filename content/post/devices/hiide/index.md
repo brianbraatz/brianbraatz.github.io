@@ -16,6 +16,7 @@ categories:
   - Assembly Language
   - Embedded Image Procesing
   - Biometrics Algorithms
+  - WinApi
 tags:
   - CSharp
   - CPP
@@ -33,7 +34,7 @@ tags:
 weight: 3
 published: 2001-01-01
 draft: false
-lastmod: 2025-02-09T23:44:24.850Z
+lastmod: 2025-02-20T22:09:32.988Z
 ---
 We used to like to say "You can RUN , but you cannot HIIDE!".\
 Which is proof that software engineers are FUNNY.. hahaha

@@ -19,8 +19,8 @@ tags:
   - Penetration Testing
   - Secure Coding
 draft: false
-weight: 448
-lastmod: 2025-02-15T16:01:25.682Z
+weight: 648
+lastmod: 2025-02-20T22:57:39.101Z
 ---
 # OWASP Tools Compatibility: A Cross-Language and Database Comparison
 

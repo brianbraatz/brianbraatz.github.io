@@ -18,7 +18,7 @@ tags:
   - Legacy Systems
 draft: false
 weight: 289
-lastmod: 2025-02-15T12:27:02.817Z
+lastmod: 2025-02-20T23:15:12.523Z
 ---
 # Deep Dive: Using GraphQL as a Middleware for Migrating SOAP to REST
 

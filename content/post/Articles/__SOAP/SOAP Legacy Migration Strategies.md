@@ -16,7 +16,7 @@ tags:
   - Legacy Systems
 draft: false
 weight: 321
-lastmod: 2025-02-15T12:27:02.820Z
+lastmod: 2025-02-20T23:15:17.693Z
 ---
 # 10 Strategies for Migrating from SOAP to REST Using the Strangler Pattern
 

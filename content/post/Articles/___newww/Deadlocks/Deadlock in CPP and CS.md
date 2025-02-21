@@ -9,6 +9,7 @@ categories:
   - Multithreading
   - C++
   - C#
+  - WinAPI
 tags:
   - Concurrency
   - Multithreading
@@ -21,7 +22,7 @@ tags:
   - CSharp
 draft: false
 weight: 298
-lastmod: 2025-02-17T14:48:16.614Z
+lastmod: 2025-02-20T23:35:51.406Z
 ---
 # Understanding Deadlocks and Race Conditions in C++ and C\#
 

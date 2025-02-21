@@ -1,6 +1,6 @@
 ---
 title: Stuck On AngularJS-1??
-description: Can You Upgrade? Shuold you?
+description: Can You Upgrade? Should you?
 slug: angular-1-stuck
 date: 2022-11-11
 image: post/Articles/IMAGES/angular2.png
@@ -18,7 +18,7 @@ tags:
   - Javascript
 draft: false
 weight: 100
-lastmod: 2025-02-20T19:15:56.868Z
+lastmod: 2025-02-20T19:24:01.647Z
 ---
 <!-- 
 ---

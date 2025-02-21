@@ -3,7 +3,7 @@ title: SED in a Nutshell
 description: SED in a Nutshell
 slug: sed-in-a-nutshell
 date: 2023-06-15
-image: post/Articles/IMAGES/27.jpg
+image: post/Articles/IMAGES/SED.png
 categories:
   - SED
   - Unix
@@ -22,7 +22,7 @@ tags:
   - Regex
 draft: false
 weight: 273
-lastmod: 2025-02-10T18:05:04.483Z
+lastmod: 2025-02-20T23:00:03.137Z
 ---
 # SED in a Nutshell
 

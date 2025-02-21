@@ -15,9 +15,13 @@ tags:
   - CPP
   - MFC
   - CPP-MFC
+  - Win16
+  - Win32
+  - Win64
+  - WinAPI
 weight: 180
 draft: false
-lastmod: 2025-02-09T21:40:46.648Z
+lastmod: 2025-02-20T22:01:06.943Z
 ---
 ## MFC Cheatsheet
 

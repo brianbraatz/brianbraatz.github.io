@@ -11,6 +11,7 @@ categories:
   - Development
   - Debugging
   - Security
+  - WinAPI
 tags:
   - WinDbg
   - Kernel
@@ -21,8 +22,8 @@ tags:
   - Memory
   - Analysis
 draft: false
-weight: 428
-lastmod: 2025-02-20T12:59:10.178Z
+weight: 528
+lastmod: 2025-02-20T23:35:41.109Z
 ---
 # **WinDbg in 2024??**
 

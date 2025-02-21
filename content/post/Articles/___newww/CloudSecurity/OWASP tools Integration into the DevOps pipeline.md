@@ -19,8 +19,8 @@ tags:
   - Penetration Testing
   - Secure Coding
 draft: false
-weight: 648
-lastmod: 2025-02-15T16:03:31.226Z
+weight: 148
+lastmod: 2025-02-20T22:57:44.751Z
 ---
 # How to Integrate All OWASP Tools into Your DevOps Pipeline
 

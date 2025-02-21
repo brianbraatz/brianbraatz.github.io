@@ -4,7 +4,13 @@ description: The Huge Kernel Change that Changed the (Windows) World
 slug: windows-nt-3-51-to-nt4-huge-change
 date: 2016-12-15
 image: post/Articles/IMAGES/nt351_4.png
-categories: 
+categories:
+  - WinAPI
+  - Windows
+  - History
+  - WinNT
+  - CPP
+  - Device Drivers
 tags:
   - Windows
   - NT
@@ -24,7 +30,7 @@ tags:
   - History
 draft: false
 weight: 342
-lastmod: 2025-02-16T01:08:40.616Z
+lastmod: 2025-02-20T23:08:20.691Z
 ---
 Ah, Windows NT. The good ol' days of the 90s when Microsoft was figuring out how to build an operating system that wouldn’t crash when you sneezed on it.
 

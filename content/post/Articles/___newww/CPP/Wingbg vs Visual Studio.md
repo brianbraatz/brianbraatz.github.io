@@ -18,8 +18,8 @@ tags:
   - Memory Dump Analysis
   - Low-Level Debugging
 draft: false
-weight: 386
-lastmod: 2025-02-20T13:29:00.489Z
+weight: 306
+lastmod: 2025-02-20T23:07:02.826Z
 ---
 # Why Do We Use WinDbg Instead of Visual Studio?
 

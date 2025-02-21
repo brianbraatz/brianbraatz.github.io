@@ -22,8 +22,8 @@ tags:
 date: 2023-10-17
 image: post/Articles/IMAGES/SharePoint.png
 draft: false
-weight: 621
-lastmod: 2025-02-20T14:05:56.533Z
+weight: 234
+lastmod: 2025-02-20T23:13:07.877Z
 ---
 <!-- 
 # SharePoint in a Nutshell - For Software Developers

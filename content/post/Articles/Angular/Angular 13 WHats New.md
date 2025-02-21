@@ -18,8 +18,8 @@ tags:
   - React
   - Javascript
 draft: false
-weight: 100
-lastmod: 2025-02-20T14:41:44.532Z
+weight: 300
+lastmod: 2025-02-20T22:24:14.018Z
 ---
 Ah, Angular 13—the version where the Angular team decided to go full throttle on performance, developer experience, and saying goodbye to things that were holding us back.
 

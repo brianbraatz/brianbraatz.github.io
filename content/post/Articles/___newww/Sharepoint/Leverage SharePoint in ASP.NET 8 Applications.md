@@ -11,17 +11,19 @@ categories:
   - CSharp
   - Office 365
 tags:
-  - Graph API
-  - Microsoft 365
+  - Graph
+  - API
+  - Microsoft
   - Python
-  - C#
-  - REST API
+  - REST
+  - API
   - Authentication
+  - CSharp
 date: 2023-10-17
 image: post/Articles/IMAGES/SharePoint.png
 draft: false
-weight: 621
-lastmod: 2025-02-20T13:50:18.879Z
+weight: 122
+lastmod: 2025-02-20T23:14:55.393Z
 ---
 <!-- 
 ---

@@ -8,6 +8,9 @@ categories:
   - Java
   - CPP
   - Assembly Language
+  - MFC
+  - WinAPI
+  - OLE
 tags:
   - Java
   - Jni
@@ -25,7 +28,7 @@ tags:
   - CPP
 draft: false
 weight: 490
-lastmod: 2025-02-20T14:10:35.390Z
+lastmod: 2025-02-20T22:05:53.921Z
 ---
 # Java JNI in Detail: History, Motivation, Relationship to Modern Languages, and 10 Code Examples
 
@@ -33,7 +36,9 @@ lastmod: 2025-02-20T14:10:35.390Z
 
 Ever found yourself writing Java and thinking, *"Man, I wish I could just call this C function directly!"*?
 
-Well, say hello to **Java Native Interface (JNI)**! JNI is Java's **built-in mechanism for interacting with native code written in C, C++, or even assembly**. It's **a bridge between Java and the raw power of lower-level languages**.
+Well, say hello to **Java Native Interface (JNI)**! JNI is Java's **built-in mechanism for interacting with native code written in C, C++, or even assembly, or MFC**. It's **a bridge between Java and the raw power of lower-level languages**.
+
+(I actually did a project in the 1990s where I had to connect an OLE server with JNI using MFS)
 
 <!--
 In this article, we'll cover:  

@@ -14,7 +14,6 @@ categories:
 tags:
   - Programming
   - Comparison
-  - C#
   - Python
   - Go
   - Java
@@ -24,7 +23,7 @@ tags:
   - GoLang
 draft: false
 weight: 537
-lastmod: 2025-02-19T10:29:47.080Z
+lastmod: 2025-02-20T22:13:06.773Z
 ---
 C++ has been around for so long that dinosaurs probably wrote their own game engines in it before the asteroid hit.
 

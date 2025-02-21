@@ -17,8 +17,8 @@ tags:
   - Windows Debugging
   - Fun Programming Projects
 draft: false
-weight: 437
-lastmod: 2025-02-20T13:29:07.668Z
+weight: 637
+lastmod: 2025-02-20T23:07:09.426Z
 ---
 # Who Needs Visual Studio?? Write Your OWN Debugger Using the Windows API for Fun and Profit 🎯
 

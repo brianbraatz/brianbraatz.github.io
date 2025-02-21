@@ -19,8 +19,8 @@ tags:
   - Penetration Testing
   - Secure Coding
 draft: false
-weight: 248
-lastmod: 2025-02-15T14:20:05.787Z
+weight: 448
+lastmod: 2025-02-20T22:57:26.977Z
 ---
 # OWASP: The Guardians of Web Application Security (and Your Sanity)
 

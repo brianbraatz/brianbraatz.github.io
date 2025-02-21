@@ -16,8 +16,8 @@ tags:
   - WebDevelopment
   - Javascript
 draft: false
-weight: 100
-lastmod: 2025-02-19T10:50:47.186Z
+weight: 400
+lastmod: 2025-02-20T22:24:46.725Z
 ---
 # Whats New in Angular 8?
 
