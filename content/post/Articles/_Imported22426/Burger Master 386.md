@@ -21,9 +21,9 @@ categories:
   - Device Drivers
 slug: 386-enh-burger
 draft: false
-image: post/Articles/IMAGES/BurgerMaster.webp
+image: post/Articles/IMAGES/theBurgerMaster.png
 weight: 324
-lastmod: 2025-02-24T15:04:49.356Z
+lastmod: 2025-02-24T16:20:44.790Z
 ---
 ![](/post/Articles/IMAGES/burgermaster348s.jpg)
 
@@ -35,7 +35,7 @@ Right next door stood a beloved local eatery: Burgermaster. This wasn't just any
 
 The proximity and popularity of this drive-in led to a deliciously quirky decision.
 
-The data segment responsible for tracking all other data segments in Windows 3.0 was christened 'BurgerMaster.' Why? Because when you're staring out the window, pondering a name, and see a glowing 'BURGERMASTER' sign, inspiration (and perhaps hunger) strikes. citeturn0search0
+The data segment responsible for tracking all other data segments in Windows 3.0 was christened 'BurgerMaster.' Why? Because when you're staring out the window, pondering a name, and see a glowing 'BURGERMASTER' sign, inspiration (and perhaps hunger) strikes.
 
 ## The 'BurgerMaster' Segment: More Than Just a Tasty Name
 
