@@ -10,6 +10,7 @@ categories:
   - WinDbg
   - Assembly Language
   - WinAPI
+  - CPP
 tags:
   - PDB
   - Debugging
@@ -22,7 +23,7 @@ tags:
   - Windbg
 draft: false
 weight: 617
-lastmod: 2025-02-20T23:06:40.783Z
+lastmod: 2025-02-24T15:56:40.562Z
 ---
 # Understanding PDB Files and How to Debug Release Mode Crashes in the Field
 

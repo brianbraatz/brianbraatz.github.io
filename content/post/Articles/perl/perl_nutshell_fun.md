@@ -16,8 +16,17 @@ categories:
   - Languages
 weight: 30
 draft: false
-lastmod: 2025-02-10T17:15:02.156Z
+lastmod: 2025-02-24T12:21:09.916Z
 ---
+Updated Blog Image is from the amazing Dall-e\
+<https://openai.com/index/dall-e-2>
+
+Since the Camel is the Perl Mascot I asked for an image of a camel eating nuts..
+
+Honestly I am quite impressed with the results
+
+![](/post/Articles/IMAGES/cameleatingnutsmall_800_clipped.png)
+
 # 🐪 The Perl Programming Language in a Nutshell (With Extra Nuts)
 
 ![](/post/Articles/perl/Pasted%20image%2020250201062155.jpg)

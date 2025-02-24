@@ -25,7 +25,7 @@ tags:
   - AssemblyLanguage
 draft: false
 weight: 274
-lastmod: 2025-02-20T12:18:55.658Z
+lastmod: 2025-02-24T12:16:30.850Z
 ---
 # 8088 Assembly Language in a Nutshell
 

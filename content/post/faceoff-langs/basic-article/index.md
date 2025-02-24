@@ -69,8 +69,11 @@ tags:
   - 8051CPU
 weight: 1
 draft: false
-lastmod: 2025-02-20T17:33:59.843Z
+lastmod: 2025-02-24T12:17:42.543Z
 ---
+Updated Blog Image is from the amazing Dall-e\
+<https://openai.com/index/dall-e-2>
+
 ![](/post/faceoff-langs/basic-article/bubblewarcover.png)
 
 ## BUBBBLE BATTLE!

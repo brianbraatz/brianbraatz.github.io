@@ -11,6 +11,7 @@ categories:
   - Performance Analysis
   - Memory Dump Analysis
   - WinApi
+  - CPP
 tags:
   - Debugger
   - Windows
@@ -24,7 +25,7 @@ tags:
   - Projects
 draft: false
 weight: 637
-lastmod: 2025-02-21T00:56:49.280Z
+lastmod: 2025-02-24T15:57:13.546Z
 ---
 # Who Needs Visual Studio?? Write Your OWN Debugger Using the Windows API for Fun and Profit 🎯
 
