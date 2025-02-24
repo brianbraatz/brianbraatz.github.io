@@ -30,7 +30,7 @@ tags:
   - Optimization
 draft: false
 weight: 523
-lastmod: 2025-02-21T16:11:44.243Z
+lastmod: 2025-02-24T10:47:46.546Z
 ---
 <!-- 
 # A* Search Algorithm Explained in Detail (With Code in C# and Python)

@@ -8,7 +8,6 @@ categories:
   - SQL
   - NOSQL
   - GraphQL
-  - Sharepoint
 tags:
   - Graphql
   - Api
@@ -28,7 +27,7 @@ tags:
   - Resolvers
 draft: false
 weight: 721
-lastmod: 2025-02-20T23:14:08.826Z
+lastmod: 2025-02-21T16:16:09.342Z
 ---
 # GraphQL In a Nutshell
 
