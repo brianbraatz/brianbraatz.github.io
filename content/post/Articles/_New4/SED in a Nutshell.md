@@ -3,7 +3,7 @@ title: SED in a Nutshell
 description: SED in a Nutshell
 slug: sed-in-a-nutshell
 date: 2023-06-15
-image: post/Articles/IMAGES/SED.png
+image: post/Articles/IMAGES/sed.png
 categories:
   - SED
   - Unix
@@ -22,15 +22,19 @@ tags:
   - Regex
 draft: false
 weight: 273
-lastmod: 2025-02-20T23:00:03.137Z
+lastmod: 2025-02-24T16:36:32.251Z
 ---
 # SED in a Nutshell
 
 ## Introduction
 
-Ah, `sed`. The little text-processing tool that has been around since dinosaurs roamed the early UNIX systems. If you've ever found yourself drowning in a sea of text files, manually editing each one like some kind of medieval scribe, then `sed` is about to become your best friend.
+Ah, `sed`. The little text-processing tool that has been around since dinosaurs roamed the early UNIX systems.
 
-SED stands for **Stream Editor**. It’s a command-line tool for parsing and transforming text. Think of it as "Find and Replace" on steroids—except instead of clicking buttons, you're wielding the power of regular expressions like a wizard.
+If you've ever found yourself drowning in a sea of text files, manually editing each one like some kind of medieval scribe, then `sed` is about to become your best friend.
+
+SED stands for **Stream Editor**.
+
+It’s a command-line tool for parsing and transforming text. Think of it as "Find and Replace" on steroids—except instead of clicking buttons, you're wielding the power of regular expressions like a wizard.
 
 ## This article will take you through a whirlwind tour of `sed`, from its history to common use cases.
 
@@ -38,7 +42,9 @@ SED stands for **Stream Editor**. It’s a command-line tool for parsing and tra
 
 `sed` was created in 1973 by **Lee E. McMahon** at Bell Labs as part of early UNIX development. It was inspired by the `ed` text editor (hence the name **S**tream **ED**itor). Unlike `ed`, which was interactive, `sed` was designed to process text automatically, making it perfect for scripting and automation.
 
-Fast forward a few decades, and `sed` has become a staple of **Linux**, **macOS**, and other UNIX-like operating systems. It's so ingrained in UNIX culture that if you don’t know `sed`, they don’t even let you into the secret sysadmin club (kidding… mostly).
+Fast forward a few decades, and `sed` has become a staple of **Linux**, **macOS**, and other UNIX-like operating systems.
+
+It's so ingrained in UNIX culture that if you don’t know `sed`, they don’t even let you into the secret sysadmin club (kidding… mostly).
 
 For the history buffs, here’s the Wikipedia page on `sed`:\
 <https://en.wikipedia.org/wiki/Sed>
