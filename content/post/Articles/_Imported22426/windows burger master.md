@@ -1,18 +1,22 @@
 ---
-title: "The 'BurgerMaster' in the Windows OS- A Tasty Slice of History"
+title: "The BurgerMaster in the Windows OS- A Tasty Slice of History"
 description: "Ever wondered how a burger joint could influence the world of operating systems?"
-slug: "burgermaster-windows"
+slug: burger-nutshell
 date: 2025-02-25
 image: "post/Articles/IMAGES/BurgerMaster.webp"
-categories: [History, Programming]
+categories:
+  - Web Development
 tags: [Windows, Burgermaster, Microsoft, Programming, History]
 draft: false
-weight: 542
+weight: 324
+lastmod: 2025-02-24T10:47:56.010Z
 ---
+
+![](post/Articles/IMAGES/BurgerMaster.jpg)
 
 
 ## What's in a Name?
-
+ 
 Back in the sizzling days of Windows 3.0 development, Microsoft had its headquarters at 10700 Northup Way in Bellevue, Washington.
 
  Right next door stood a beloved local eatery: Burgermaster. This wasn't just any burger spot; it was the go-to refueling station for hungry developers burning the midnight oil. 
@@ -61,7 +65,6 @@ Employees could ring in their orders, stroll over, and find their meals hot and 
 
 
 The original Burgermaster location near University Village in Seattle served patrons for an impressive 73 years before closing its doors at the end of February 2025.
-
 
 
 ## Wrapping It Up
