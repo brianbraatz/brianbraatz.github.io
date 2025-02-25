@@ -24,7 +24,7 @@ tags:
   - Windows
 draft: false
 weight: 151
-lastmod: 2025-02-10T17:58:13.347Z
+lastmod: 2025-02-25T12:25:57.955Z
 ---
 # What's a Hypervisor? And Why Does My Docker Need One???  
 
@@ -109,7 +109,7 @@ But on **Windows and macOS**, Docker **can't** talk to the Linux kernel directly
 
 This is why **Docker Desktop** **automatically installs a hypervisor** to make everything work.  
 
-💡 **TL;DR:** If you're on **Windows or Mac**, Docker runs inside a **tiny Linux VM**, and that VM needs a **hypervisor** to exist.  
+💡 If you're on **Windows or Mac**, Docker runs inside a **tiny Linux VM**, and that VM needs a **hypervisor** to exist.  
 
 \---  
 

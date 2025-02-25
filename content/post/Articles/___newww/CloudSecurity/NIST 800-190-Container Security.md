@@ -22,7 +22,7 @@ tags:
   - Vulnerability scanning
 draft: false
 weight: 306
-lastmod: 2025-02-17T12:52:41.511Z
+lastmod: 2025-02-25T12:26:21.873Z
 ---
 # NIST 800-190: Keeping Your Containers from Becoming Security Dumpster Fires
 
@@ -78,7 +78,7 @@ Before you run a container, **scan that thing** like it’s airport security on 
 ✔️ Automate **container vulnerability scanning** (CI/CD integration is your friend).\
 ✔️ **Regularly update** images, because stale containers are full of old security holes.
 
-**TL;DR:** If you **don’t** scan your images, you might as well hand over your root access to hackers. 🚨
+If you **don’t** scan your images, you might as well hand over your root access to hackers. 🚨
 
 ***
 
@@ -92,7 +92,7 @@ Your container **starts out clean**, but what happens **after** it’s running? 
 ✔️ Monitor **unexpected network traffic** (because containers should NOT be calling out to mystery servers).\
 ✔️ Implement **runtime security tools** like [Falco](https://falco.org/) or [Sysdig](https://sysdig.com/).
 
-**TL;DR:** What happens in your container **does not** stay in your container. Monitor it! 👀
+What happens in your container **does not** stay in your container. Monitor it! 👀
 
 ***
 
@@ -106,7 +106,7 @@ Containers are **only as secure as your access controls**. Poorly configured **I
 ✔️ Use **Secrets Management** tools instead of hardcoding credentials.\
 ✔️ Implement **Zero Trust** (assume every request is suspicious).
 
-**TL;DR:** If you’re handing out **admin access** like Halloween candy, **stop**. 🎃🚫
+If you’re handing out **admin access** like Halloween candy, **stop**. 🎃🚫
 
 ***
 

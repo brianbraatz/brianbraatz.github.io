@@ -1,7 +1,7 @@
 ---
-title: Angular-40 Things You Should Know
+title: Angular Explained + Code Snippet Collection
 description: Collected Bits of Angular Wisdom
-slug: Angular-40-things
+slug: Angular-Snippet-collection
 date: 2024-10-10
 image: post/Articles/IMAGES/angular_wordmark_gradient.png
 categories:
@@ -19,7 +19,7 @@ tags:
   - MVVM
 weight: 21
 draft: false
-lastmod: 2025-02-20T14:00:03.454Z
+lastmod: 2025-02-25T12:23:48.384Z
 ---
 ### 1. Why were client-side frameworks like Angular introduced?
 

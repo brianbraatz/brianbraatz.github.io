@@ -1,7 +1,7 @@
 ---
-title: React - 40 Things You Should Know
+title: React In a Nutshell + Code Snippet Collection
 description: Collected Bits of React Wisdom
-slug: react-40-things
+slug: react-code-snippets
 date: 2023-12-15
 image: post/Articles/IMAGES/reactlogolong.png
 categories:
@@ -18,7 +18,7 @@ tags:
   - Examples
 draft: false
 weight: 12
-lastmod: 2025-02-20T14:02:04.775Z
+lastmod: 2025-02-25T12:25:27.798Z
 ---
 ## 1. What is React?
 
@@ -916,7 +916,7 @@ const handleClick = useCallback(() => {
 
 ***
 
-## Key Ideas Behind React
+## MANY of the Key Ideas Behind React :)
 
 | Concept               | Description                                                                         |
 | --------------------- | ----------------------------------------------------------------------------------- |

@@ -20,7 +20,7 @@ tags:
   - Automation
 draft: false
 weight: 328
-lastmod: 2025-02-11T13:18:45.940Z
+lastmod: 2025-02-25T12:26:29.484Z
 ---
 <!-- 
 # Pulumi in a Nutshell
@@ -58,7 +58,7 @@ Since its launch, **Pulumi has gained traction** as an alternative to Terraform,
 | **Imperative or Declarative** | Imperative             | Declarative  | Declarative     | Imperative        |
 | **Best For**                  | DevOps & developers    | DevOps teams | AWS-heavy shops | Config management |
 
-**TL;DR:** If you love programming, use **Pulumi**. If you want multi-cloud support but don’t mind HCL, use **Terraform**. If you only use AWS, **CloudFormation** is fine. If you just need to install software, **Ansible** is your go-to.
+If you love programming, use **Pulumi**. If you want multi-cloud support but don’t mind HCL, use **Terraform**. If you only use AWS, **CloudFormation** is fine. If you just need to install software, **Ansible** is your go-to.
 
 ***
 

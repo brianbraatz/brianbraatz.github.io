@@ -30,7 +30,7 @@ tags:
   - History
 draft: false
 weight: 342
-lastmod: 2025-02-20T23:08:20.691Z
+lastmod: 2025-02-25T12:26:46.853Z
 ---
 Ah, Windows NT. The good ol' days of the 90s when Microsoft was figuring out how to build an operating system that wouldn’t crash when you sneezed on it.
 
@@ -134,7 +134,7 @@ The NT4 gamble laid the foundation for the performance improvements that made Wi
 
 The NT kernel we know today is still haunted by the ghosts of these decisions.
 
-### TL;DR:
+### General Ideas
 
 * NT 3.51: Slow but stable (like a Volvo from the 80s).
 * NT4: Faster but prone to BSODs thanks to kernel-mode graphics.

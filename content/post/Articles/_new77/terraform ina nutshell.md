@@ -20,7 +20,7 @@ tags:
   - Cloud
 draft: false
 weight: 276
-lastmod: 2025-02-11T13:18:45.965Z
+lastmod: 2025-02-25T12:26:35.402Z
 ---
 # Terraform in a Nutshell
 
@@ -67,7 +67,7 @@ Since then, it’s become the **de facto standard** for managing cloud infrastru
 | **Programming Language** | HCL                | YAML/JSON        | Python/JS/Go                 | YAML                     |
 | **Best For**             | Cloud provisioning | AWS environments | Devs who like real languages | Configuration management |
 
-**TL;DR:** If you want to provision **multi-cloud infrastructure**, use **Terraform**. If you’re AWS-only, **CloudFormation** is fine. If you prefer Python, try **Pulumi**. If you just want to install packages, use **Ansible**.
+If you want to provision **multi-cloud infrastructure**, use **Terraform**. If you’re AWS-only, **CloudFormation** is fine. If you prefer Python, try **Pulumi**. If you just want to install packages, use **Ansible**.
 
 ***
 

@@ -25,7 +25,7 @@ tags:
   - Windows
 draft: false
 weight: 456
-lastmod: 2025-02-20T23:12:01.490Z
+lastmod: 2025-02-25T12:25:48.486Z
 ---
 # What is ActiveX and Why It Was a Security Nightmare?
 
@@ -52,7 +52,7 @@ Once you installed an ActiveX control, it could pretty much do whatever it wante
 * **Internet Explorer Was the Only Guardian** – ActiveX was tied to Internet Explorer, which was *not* known for its strong security record.
 * **Once Installed, Always Installed** – If you installed a bad ActiveX control, it stayed on your system forever unless you manually removed it.
 
-### TL;DR: ActiveX turned web browsers into a hacker's playground.
+### ActiveX turned web browsers into a hacker's playground.
 
 ## MFC ActiveX Example: Hello World
 
