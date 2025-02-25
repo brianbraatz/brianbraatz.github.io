@@ -11,16 +11,21 @@ categories:
   - Open Source
   - Penetration Testing
   - Secure Coding
+  - Testing
 tags:
   - OWASP
-  - Web Security
+  - Web
+  - Security
   - Cybersecurity
-  - Open Source
-  - Penetration Testing
-  - Secure Coding
+  - Open
+  - Source
+  - Penetration
+  - Testing
+  - Secure
+  - Coding
 draft: false
 weight: 148
-lastmod: 2025-02-20T22:57:44.751Z
+lastmod: 2025-02-25T12:57:33.720Z
 ---
 # How to Integrate All OWASP Tools into Your DevOps Pipeline
 

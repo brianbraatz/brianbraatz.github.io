@@ -18,9 +18,10 @@ tags:
   - CICD
   - Security
   - Monitoring
+  - Testing
 draft: false
 weight: 682
-lastmod: 2025-02-24T14:39:41.072Z
+lastmod: 2025-02-25T12:54:14.866Z
 ---
 # AWS DevOps Operational Framework: The Secret Sauce to a Smooth Pipeline
 

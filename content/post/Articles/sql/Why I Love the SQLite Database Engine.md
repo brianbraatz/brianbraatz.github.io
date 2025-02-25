@@ -10,6 +10,7 @@ categories:
   - Microsoft Sql Server
   - MySql
   - Postgres Sql
+  - Testing
 tags:
   - SQL
   - SqlLite
@@ -18,7 +19,7 @@ tags:
   - MSSQL
 weight: 30
 draft: false
-lastmod: 2025-02-19T13:51:15.961Z
+lastmod: 2025-02-25T12:58:29.050Z
 ---
 # Why I Love the SQLite Database Engine
 

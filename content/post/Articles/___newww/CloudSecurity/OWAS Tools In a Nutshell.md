@@ -11,16 +11,21 @@ categories:
   - Open Source
   - Penetration Testing
   - Secure Coding
+  - Testing
 tags:
   - OWASP
-  - Web Security
+  - Web
+  - Security
   - Cybersecurity
-  - Open Source
-  - Penetration Testing
-  - Secure Coding
+  - Open
+  - Source
+  - Penetration
+  - Testing
+  - Secure
+  - Coding
 draft: false
 weight: 248
-lastmod: 2025-02-19T13:49:54.488Z
+lastmod: 2025-02-25T12:57:23.318Z
 ---
 # So, What’s OWASP? 🤔
 

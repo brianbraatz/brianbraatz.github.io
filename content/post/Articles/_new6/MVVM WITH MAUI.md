@@ -14,6 +14,7 @@ categories:
   - Model View Presenter-MVP
   - DotNet
   - GUI
+  - Testing
 tags:
   - Mvvm
   - Maui
@@ -33,7 +34,7 @@ tags:
   - Patterns
 draft: false
 weight: 460
-lastmod: 2025-02-10T18:13:56.623Z
+lastmod: 2025-02-25T12:56:05.481Z
 ---
 <!--
 # Should You Use MVVM with MAUI? Alternatives Explored and Compared with Code Examples

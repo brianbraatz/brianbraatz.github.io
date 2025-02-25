@@ -7,6 +7,7 @@ image: post/Articles/IMAGES/Go-Logo_Blue.png
 categories:
   - GoLang
   - Unit Testing
+  - Testing
 tags:
   - Gofakeit
   - Unit
@@ -26,7 +27,7 @@ tags:
   - Testing
 draft: false
 weight: 329
-lastmod: 2025-02-10T17:14:19.901Z
+lastmod: 2025-02-25T12:55:22.903Z
 ---
 # In-Depth Introduction to the GoFakeIt Library for Sample Data Generation and Unit Testing in Go
 

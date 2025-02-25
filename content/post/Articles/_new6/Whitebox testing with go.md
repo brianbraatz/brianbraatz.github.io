@@ -7,6 +7,7 @@ image: post/Articles/IMAGES/whitebox2.jpg
 categories:
   - Unit Testing
   - GoLang
+  - Testing
 tags:
   - Unit
   - Testing
@@ -25,7 +26,7 @@ tags:
   - Testing
 draft: false
 weight: 196
-lastmod: 2025-02-10T17:07:30.532Z
+lastmod: 2025-02-25T12:58:11.598Z
 ---
 <!--
 

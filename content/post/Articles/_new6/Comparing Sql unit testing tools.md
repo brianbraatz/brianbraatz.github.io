@@ -10,6 +10,7 @@ categories:
   - Microsoft Sql Server
   - MySql
   - Postgres Sql
+  - Testing
 tags:
   - Database
   - Testing
@@ -31,7 +32,7 @@ tags:
   - Integrity
 draft: false
 weight: 407
-lastmod: 2025-02-10T15:40:40.780Z
+lastmod: 2025-02-25T12:54:45.106Z
 ---
 <!-- 
 # History and In-Depth Comparison with Code Examples of tSQLt, DbUnit, SQL Server Unit Testing, pgTAP, Liquibase, Flyway, and DbFit for More Effective SQL Database Testing, Including Views and Stored Procedures

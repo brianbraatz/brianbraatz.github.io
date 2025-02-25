@@ -7,6 +7,7 @@ image: https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg
 categories:
   - Java
   - Unit Testing
+  - Testing
 tags:
   - Unit
   - Testing
@@ -25,7 +26,7 @@ tags:
   - Testing
 draft: false
 weight: 466
-lastmod: 2025-02-10T18:14:21.026Z
+lastmod: 2025-02-25T12:55:40.708Z
 ---
 <!-- 
 # History and In-Depth Comparison with Code Examples of JUnit, TestNG, Mockito, PowerMock, JMockit, Arquillian, and DbUnit for More Effective Unit Testing in Java

@@ -10,6 +10,7 @@ categories:
   - Amazon Cloud-AWS
   - Microsoft Azure Cloud
   - Google Cloud-GCP
+  - Testing
 tags:
   - Devops
   - Amazon
@@ -25,7 +26,7 @@ tags:
   - WebDevelopment
 draft: false
 weight: 379
-lastmod: 2025-02-14T16:56:33.355Z
+lastmod: 2025-02-25T12:55:04.973Z
 ---
 # DevOps In a Nutshell
 

@@ -7,6 +7,7 @@ image: post/Articles/IMAGES/whitebox2.jpg
 categories:
   - Unit Testing
   - Python
+  - Testing
 tags:
   - Unit
   - Testing
@@ -31,7 +32,7 @@ tags:
   - Testing
 draft: false
 weight: 473
-lastmod: 2025-02-10T17:07:37.303Z
+lastmod: 2025-02-25T12:58:22.566Z
 ---
 <!--
 

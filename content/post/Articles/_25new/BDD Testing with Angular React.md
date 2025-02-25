@@ -28,7 +28,7 @@ tags:
   - Testing
 draft: false
 weight: 444
-lastmod: 2025-02-25T12:36:50.218Z
+lastmod: 2025-02-25T12:52:16.048Z
 ---
 This is the Angular and React Version of this Article
 
@@ -41,7 +41,7 @@ Also check out
 * [Comparing web up testing approaches](/post/Articles/_new6/Comparing%20web%20up%20testing%20approaches.md)
 
 All Testing Articles here:\
-https://brianbraatz.github.io/categories/unit-testing/
+https://brianbraatz.github.io/search/?keyword=testing
 
 <!-- 
 # Behavior Driven Design (BDD): Its History and How It Relates to Testing

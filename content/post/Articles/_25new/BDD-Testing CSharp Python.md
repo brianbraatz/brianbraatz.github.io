@@ -24,7 +24,7 @@ tags:
   - Gherkin
 draft: false
 weight: 529
-lastmod: 2025-02-25T12:39:57.505Z
+lastmod: 2025-02-25T12:52:22.388Z
 ---
 This is the C# and Python Version of this Article
 
@@ -37,7 +37,7 @@ Also check out
 * [Comparing web up testing approaches](/post/Articles/_new6/Comparing%20web%20up%20testing%20approaches.md)
 
 All Testing Articles here:\
-https://brianbraatz.github.io/categories/unit-testing/
+https://brianbraatz.github.io/search/?keyword=testing
 
 <!-- 
 # Behavior-Driven Development (BDD): History, Testing, and Tools

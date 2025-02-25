@@ -9,6 +9,7 @@ categories:
   - CI\CD
   - Cloud
   - DevOps
+  - Testing
 tags:
   - Jenkins
   - ContinuousIntegration
@@ -26,7 +27,7 @@ tags:
   - DevOps
 draft: false
 weight: 181
-lastmod: 2025-02-09T22:27:35.283Z
+lastmod: 2025-02-25T12:55:49.314Z
 ---
 ## A Brief History of Jenkins
 

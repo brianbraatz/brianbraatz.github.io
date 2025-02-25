@@ -12,6 +12,7 @@ categories:
   - Python
   - Javascript
   - Typescript
+  - Testing
 tags:
   - Ui
   - Testing
@@ -29,7 +30,7 @@ tags:
   - Applications
 draft: false
 weight: 335
-lastmod: 2025-02-25T12:05:52.364Z
+lastmod: 2025-02-25T12:54:52.107Z
 ---
 <!--
 

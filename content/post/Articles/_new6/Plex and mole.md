@@ -8,6 +8,7 @@ categories:
   - Unit Testing
   - DotNet
   - CSharp
+  - Testing
 tags:
   - Moles
   - Pex
@@ -25,7 +26,7 @@ tags:
   - Csharp
 draft: false
 weight: 467
-lastmod: 2025-02-17T12:52:35.143Z
+lastmod: 2025-02-25T12:57:38.470Z
 ---
 <!--
 

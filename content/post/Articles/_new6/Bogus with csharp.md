@@ -8,6 +8,7 @@ categories:
   - Unit Testing
   - CSharp
   - DotNet
+  - Testing
 tags:
   - Bogus
   - Unit
@@ -27,7 +28,7 @@ tags:
   - Testing
 draft: false
 weight: 471
-lastmod: 2025-02-10T15:50:15.312Z
+lastmod: 2025-02-25T12:54:27.207Z
 ---
 <!--
 # In-Depth Introduction to the Bogus Library for Sample Data Generation and Unit Testing Data

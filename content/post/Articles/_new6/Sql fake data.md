@@ -10,6 +10,7 @@ categories:
   - Microsoft Sql Server
   - Postgres Sql
   - SQLite
+  - Testing
 tags:
   - Sql
   - Database
@@ -30,7 +31,7 @@ tags:
   - Seeding
 draft: false
 weight: 530
-lastmod: 2025-02-10T17:09:54.405Z
+lastmod: 2025-02-25T12:57:55.341Z
 ---
 <!--
 # In-Depth Introduction to Generating Sample Data for SQL Databases Using Faker, tSQLt, pgTAP, and More

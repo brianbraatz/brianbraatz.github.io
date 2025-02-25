@@ -1,12 +1,15 @@
 ---
-title: Next JS - 40 Things You Should Know
+title: Next JS Snippets Collection
 description: Collected Bits of Next JS Wisdom
-slug: next-40-things
+slug: next-js-snippets
 date: 2023-12-15
 image: post/Articles/IMAGES/nextjs.png
 categories:
   - NextJs
   - Web Development
+  - Testing
+  - Javascript
+  - Typescript
 tags:
   - React
   - Interview
@@ -18,7 +21,7 @@ tags:
   - Examples
 draft: false
 weight: 370
-lastmod: 2025-02-21T02:19:54.794Z
+lastmod: 2025-02-25T12:57:11.963Z
 ---
 # 40 Things You Should Know About Next.js
 
