@@ -1,6 +1,6 @@
 ---
-title: "API Rate Limiting and Request Filtering in Kubernetes: A Complete Guide"
-description: "API Rate Limiting and Request Filtering in Kubernetes: A Complete Guide"
+title: API Rate Limiting and Request Filtering in Kubernetes
+description: Cheatsheets for Setup
 slug: api-rate-limiting-request-filtering
 date: 2022-10-05
 image: post/Articles/IMAGES/tronmountains.png
@@ -26,20 +26,28 @@ tags:
   - Cloud
 draft: false
 weight: 990
-lastmod: 2025-02-20T12:21:53.987Z
+lastmod: 2025-02-25T17:59:51.666Z
 ---
 # API Rate Limiting and Request Filtering in Kubernetes: A Complete Guide
 
-APIs are the **backbone of modern applications**, but **without proper security**, they can be exploited by **DDoS attacks, abuse, and excessive traffic**. **Rate limiting and request filtering** ensure **API stability, security, and compliance**.
+APIs are the meat of our apps...
 
-By the end of this guide, you’ll understand:\
-✅ **What API rate limiting and request filtering are**\
-✅ **Why they are crucial for security and performance**\
-✅ **How to implement rate limiting in Kubernetes using NGINX, Istio, and Traefik**\
-✅ **How to apply request filtering to block malicious traffic**\
-✅ **How these strategies relate to Kubernetes pods and Docker**
+but **without proper security**,
+
+they can be exploited by **DDoS attacks, abuse, and excessive traffic**.
+
+<!--
+**Rate limiting and request filtering** ensure **API stability, security, and compliance**.
+
+By the end of this guide, you’ll understand:
+✅ **What API rate limiting and request filtering are**  
+✅ **Why they are crucial for security and performance**  
+✅ **How to implement rate limiting in Kubernetes using NGINX, Istio, and Traefik**  
+✅ **How to apply request filtering to block malicious traffic**  
+✅ **How these strategies relate to Kubernetes pods and Docker**  
 
 Let’s get started! 🚀
+-->
 
 ***
 
@@ -50,9 +58,11 @@ Let’s get started! 🚀
 ### **1.1 Why Use API Rate Limiting?**
 
 * 🛡 **Prevents API abuse and denial-of-service (DDoS) attacks**
-* 🚀 **Ensures fair usage and prevents excessive traffic from a single client**
-* 🔥 **Optimizes backend resources and improves performance**
-* ⚖ **Complies with API usage policies (e.g., public APIs, SaaS platforms)**
+* 🚀 **Ensures fairly balanced usage and prevents excessive traffic from a single client**
+
+<!-- - 🔥 **Optimizes backend resources and improves performance**  
+- ⚖ **Complies with API usage policies (e.g., public APIs, SaaS platforms)**  
+-->
 
 ### **1.2 Types of Rate Limiting**
 
@@ -88,7 +98,7 @@ Now, let’s **implement rate limiting and request filtering in Kubernetes pods*
 
 ***
 
-## **3. Implementing API Rate Limiting in Kubernetes**
+## **3. Cheatsheets for setup of API Rate Limiting in Kubernetes**
 
 ### **3.1 Using NGINX Ingress Controller for Rate Limiting**
 
@@ -235,6 +245,7 @@ kubectl apply -f nginx-request-filter.yaml
 
 ***
 
+<!-- 
 ## **5. Why Rate Limiting and Request Filtering Are Critical**
 
 ### **5.1 Dangers of Not Implementing Rate Limiting**
@@ -257,22 +268,22 @@ kubectl apply -f nginx-request-filter.yaml
 
 **Implementing rate limiting and request filtering is essential to prevent these threats.**
 
-***
+---
 
 ## **6. Final Thoughts**
 
 API security **is critical in Kubernetes environments**. **Rate limiting and request filtering** help prevent **DDoS, abuse, and malicious attacks**.
 
 ### **Key Takeaways**
-
-✅ **Rate limiting protects APIs from overuse and abuse**\
-✅ **Request filtering blocks bots, bad actors, and malicious requests**\
-✅ **Use NGINX, Istio, and Traefik for enforcement**\
-✅ **Without these protections, APIs are vulnerable to attacks**
+✅ **Rate limiting protects APIs from overuse and abuse**  
+✅ **Request filtering blocks bots, bad actors, and malicious requests**  
+✅ **Use NGINX, Istio, and Traefik for enforcement**  
+✅ **Without these protections, APIs are vulnerable to attacks**  
 
 By implementing **API rate limiting and request filtering inside Kubernetes**, you **ensure security, stability, and compliance**. 🚀
 
-***
+---
+-->
 
 ## **Reference Links**
 
