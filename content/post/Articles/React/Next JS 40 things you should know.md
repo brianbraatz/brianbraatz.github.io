@@ -21,13 +21,14 @@ tags:
   - Examples
 draft: false
 weight: 370
-lastmod: 2025-02-25T12:57:11.963Z
+lastmod: 2025-02-26T17:32:59.844Z
 ---
-# 40 Things You Should Know About Next.js
-
 Next.js: the framework that turns React into a **supercharged**, **server-rendered**, **SEO-friendly** powerhouse.
 
 If React is a Swiss Army knife, Next.js is that version with a built-in flamethrower and bottle opener.
+
+:)\
+(How's that for a visual? )
 
 ## A Brief History of Next.js (Or: How We Got Here)
 
