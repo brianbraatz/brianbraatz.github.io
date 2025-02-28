@@ -10,6 +10,7 @@ categories:
   - Typescript
   - Javascript
   - Web Development
+  - Async
 tags:
   - Cheatsheet
   - Angular
@@ -19,7 +20,7 @@ tags:
   - MVVM
 weight: 21
 draft: false
-lastmod: 2025-02-25T12:23:48.384Z
+lastmod: 2025-02-28T03:17:19.072Z
 ---
 ### 1. Why were client-side frameworks like Angular introduced?
 

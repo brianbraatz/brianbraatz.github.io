@@ -3,7 +3,7 @@ title: Just-In-Time (JIT) Compilation - A Deep Dive with Humor
 description: Just-In-Time (JIT) Compilation - A Deep Dive with Humor
 slug: just-in-time-jit-compilat
 date: 2018-07-14
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/daliclock.png
 categories:
   - Jit
   - Compilation
@@ -16,7 +16,7 @@ tags:
   - Performance
 draft: "False"
 weight: "382"
-lastmod: 2025-02-27T14:39:18.343Z
+lastmod: 2025-02-27T17:18:05.239Z
 ---
 # Just-In-Time (JIT) Compilation - A Deep Dive with Humor
 
@@ -174,9 +174,9 @@ Let’s pit some major players against each other and see how they handle JIT.
 
 * Python but faster.
 
-* No need to rewrite slow code in C.
-
-**Cons:**
+* No need to rewrite slow code in C.\
+  iu an 22\
+  **Cons:**
 
 * Higher memory usage.
 

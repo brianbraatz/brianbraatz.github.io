@@ -3,7 +3,7 @@ title: Node.js- Is It a Server, an Editor, or a Web-Serving Magic Trick?
 description: Node.js- Is It a Server, an Editor, or a Web-Serving Magic Trick?
 slug: nodejs-server-or-editor
 date: 2017-06-18
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - JavaScript
@@ -18,7 +18,7 @@ tags:
   - Scalability
 draft: "True"
 weight: "439"
-lastmod: 2025-02-27T14:45:59.356Z
+lastmod: 2025-02-27T17:22:17.161Z
 ---
 # Node.js: Is It a Server, an Editor, or a Web-Serving Magic Trick?
 

@@ -3,7 +3,7 @@ title: Node.js - Good for Streaming Applications?
 description: 
 slug: is-nodejs-good-for-stream
 date: 2017-06-22
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - Streaming
@@ -19,7 +19,7 @@ tags:
   - Streaming
 draft: "False"
 weight: "426"
-lastmod: 2025-02-27T14:37:20.917Z
+lastmod: 2025-02-27T17:13:23.308Z
 ---
 # Is Node.js Good for Streaming Applications?
 

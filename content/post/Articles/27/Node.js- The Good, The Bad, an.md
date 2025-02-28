@@ -3,7 +3,7 @@ title: Node.js- Understanding Async
 description: 
 slug: nodejs-good-bad-async
 date: 2017-09-22
-image: post/Articles/IMAGES/33.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - Async
@@ -18,7 +18,7 @@ tags:
   - Event Loop
 draft: "False"
 weight: "427"
-lastmod: 2025-02-27T14:49:13.408Z
+lastmod: 2025-02-27T17:25:08.075Z
 ---
 <!-- 
 # Node.js: The Good, The Bad, and The Best Practices of Async

@@ -3,7 +3,7 @@ title: Node.js -CoffeeScript, Dart, TypeScript, and ClojureScript
 description: 
 slug: nodejs-alternate-language
 date: 2018-09-14
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - CoffeeScript
@@ -18,7 +18,7 @@ tags:
   - ClojureScript
 draft: "False"
 weight: "432"
-lastmod: 2025-02-27T14:41:38.879Z
+lastmod: 2025-02-27T17:19:49.399Z
 ---
 # Node.js - Alternate Languages: CoffeeScript, Dart, TypeScript, and ClojureScript
 

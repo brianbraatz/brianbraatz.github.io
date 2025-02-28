@@ -8,6 +8,7 @@ categories:
   - Agile
   - Software Architecture
   - Software Project Methods
+  - SAFEAgile
 tags:
   - Agile
   - SAFe
@@ -19,7 +20,7 @@ tags:
   - Agile
 draft: false
 weight: 30
-lastmod: 2025-02-17T01:39:37.531Z
+lastmod: 2025-02-28T03:32:42.548Z
 ---
 Hey there, fellow Agile nerd!
 

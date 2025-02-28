@@ -3,7 +3,7 @@ title: Laravel in a Nutshell- The PHP Framework That Just Works
 description: Laravel in a Nutshell- The PHP Framework That Just Works
 slug: laravel-in-a-nutshell
 date: 2018-06-14
-image: post/Articles/IMAGES/27.jpg
+image: post/Articles/IMAGES/laravel.png
 categories:
   - Laravel
   - PHP
@@ -20,7 +20,7 @@ tags:
   - Routing
 draft: "False"
 weight: "346"
-lastmod: 2025-02-27T14:39:49.964Z
+lastmod: 2025-02-27T18:18:31.297Z
 ---
 <!-- 
 

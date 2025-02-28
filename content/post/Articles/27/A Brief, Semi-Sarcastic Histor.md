@@ -3,7 +3,7 @@ title: A Brief, Semi-Sarcastic History of Revision Control- From SourceSafe to G
 description: A Brief, Semi-Sarcastic History of Revision Control- From SourceSafe to Git
 slug: history-revision-control
 date: 2017-09-14
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/git.png
 categories:
   - Version Control
   - Programming History
@@ -19,7 +19,7 @@ tags:
   - SourceSafe
 draft: "False"
 weight: "348"
-lastmod: 2025-02-27T14:24:25.780Z
+lastmod: 2025-02-27T18:19:43.722Z
 ---
 # A Brief, Semi-Sarcastic History of Revision Control: From SourceSafe to Git
 

@@ -3,7 +3,7 @@ title: Node.js- Does It Use Threads? How Does It Scale?
 description: 
 slug: nodejs-does-it-use-thread
 date: 2019-08-14
-image: post/Articles/IMAGES/23.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - Threads
@@ -17,7 +17,7 @@ tags:
   - Multithreading
 draft: "False"
 weight: "362"
-lastmod: 2025-02-27T14:44:46.267Z
+lastmod: 2025-02-27T17:21:06.262Z
 ---
 ## Node.js: Does It Use Threads?
 

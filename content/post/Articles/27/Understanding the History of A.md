@@ -3,7 +3,7 @@ title: ASP vs ASP.NET vs ASP.NET MVC vs ASP.NET Core vs ASP.NET 8
 description: Understanding the History and Differences
 slug: aspnet-the-history
 date: 2017-05-18
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/ASP.NET_.png
 categories:
   - Asp
   - Asp.Net
@@ -12,17 +12,18 @@ categories:
   - Asp.Net 8
 tags:
   - Asp
-  - Asp.Net
-  - Asp.Net Mvc
-  - Asp.Net Core
-  - Asp.Net 8
+  - Mvc
+  - Core
+  - "8"
   - History
   - Timeline
   - Features
-  - Code Examples
+  - Code
+  - Examples
+  - Asp-Net
 draft: "False"
 weight: "359"
-lastmod: 2025-02-27T14:59:22.961Z
+lastmod: 2025-02-28T01:59:37.817Z
 ---
 <!-- # Understanding the History of ASP vs ASP.NET vs ASP.NET MVC vs ASP.NET Core vs ASP.NET 8
 

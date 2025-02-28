@@ -3,7 +3,7 @@ title: TFS (Team Foundation Server) in a Nutshell
 description: It Compares
 slug: tfs-team-foundation-serve
 date: 2017-09-12
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/tfs.png
 categories:
   - Version Control
   - Microsoft
@@ -21,7 +21,7 @@ tags:
   - Source Control
 draft: "False"
 weight: "392"
-lastmod: 2025-02-27T14:54:43.206Z
+lastmod: 2025-02-27T17:39:19.077Z
 ---
 # TFS (Team Foundation Server) in a Nutshell: What It Includes and How It Compares
 

@@ -3,7 +3,7 @@ title: Advanced XML Schema Validation
 description: Advanced XML Schema Validation
 slug: advanced-xml-schema-validation
 date: 2017-06-14
-image: post/Articles/IMAGES/43.jpg
+image: post/Articles/IMAGES/pictureframes2.png
 categories:
   - Xml
   - Schema
@@ -24,7 +24,7 @@ tags:
   - Programming
 draft: false
 weight: 357
-lastmod: 2025-02-24T14:15:34.710Z
+lastmod: 2025-02-27T18:10:34.493Z
 ---
 # Advanced XML Schema Validation
 

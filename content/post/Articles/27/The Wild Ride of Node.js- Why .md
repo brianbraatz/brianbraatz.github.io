@@ -3,7 +3,7 @@ title: Node.js- Why It Exists
 description: 
 slug: wild-ride-nodejs
 date: 2017-05-14
-image: post/Articles/IMAGES/23.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - JavaScript
   - Node.js
@@ -17,7 +17,7 @@ tags:
   - Npm
 draft: "False"
 weight: "472"
-lastmod: 2025-02-27T14:55:13.966Z
+lastmod: 2025-02-27T17:39:37.115Z
 ---
 Ah, **Node.js**.
 

@@ -3,7 +3,7 @@ title: Asynchronous Code- Exploring Quirks & Workarounds
 description: 
 slug: understanding-async-quirks
 date: 2018-07-22
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/asyncpipes.png
 categories:
   - Programming
   - Async
@@ -19,7 +19,7 @@ tags:
   - Event Loop
 draft: "False"
 weight: "357"
-lastmod: 2025-02-27T15:01:18.848Z
+lastmod: 2025-02-27T17:48:49.291Z
 ---
 # Understanding the Nature of Asynchronous Programming and Its Quirks and Workarounds
 

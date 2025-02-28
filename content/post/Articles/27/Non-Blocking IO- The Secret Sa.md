@@ -3,7 +3,7 @@ title: Non-Blocking I/O- The Secret Sauce Behind Snappy Applications
 description: Non-Blocking I/O- The Secret Sauce Behind Snappy Applications
 slug: non-blocking-io-the-secre
 date: 2019-07-14
-image: post/Articles/IMAGES/27.jpg
+image: post/Articles/IMAGES/busycity.jpg
 categories:
   - Programming
   - Technology
@@ -15,7 +15,7 @@ tags:
   - Python
 draft: "False"
 weight: "342"
-lastmod: 2025-02-27T14:49:39.301Z
+lastmod: 2025-02-27T17:26:23.460Z
 ---
 <!-- # Non-Blocking I/O: The Secret Sauce Behind Snappy Applications
 

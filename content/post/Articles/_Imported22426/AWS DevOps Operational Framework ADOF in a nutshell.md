@@ -9,6 +9,7 @@ categories:
   - AWS
   - Cloud
   - Operations
+  - DevOps-Operational-Framework
 tags:
   - DevOps
   - AWS
@@ -21,7 +22,7 @@ tags:
   - Testing
 draft: false
 weight: 682
-lastmod: 2025-02-25T12:54:14.866Z
+lastmod: 2025-02-28T04:02:02.199Z
 ---
 # AWS DevOps Operational Framework: The Secret Sauce to a Smooth Pipeline
 

@@ -3,7 +3,7 @@ title: Node.js- Comparing Performance
 description: 
 slug: nodejs-perf-compare
 date: 2017-08-15
-image: post/Articles/IMAGES/27.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - JavaScript
   - Node.js
@@ -17,7 +17,7 @@ tags:
   - Performance Comparison
 draft: "False"
 weight: "342"
-lastmod: 2025-02-27T14:48:51.820Z
+lastmod: 2025-02-27T17:24:59.428Z
 ---
 <!-- # Node.js: The Event-Driven, Non-Blocking Champion of the Server World
 

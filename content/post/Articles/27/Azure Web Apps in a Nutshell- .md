@@ -3,7 +3,7 @@ title: Azure Web Apps in a Nutshell- The Good, The Bad, and The Cloudy
 description: Azure Web Apps in a Nutshell- The Good, The Bad, and The Cloudy
 slug: azure-web-apps-nutshell
 date: 2017-06-14
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/azurewebapps.png
 categories:
   - Azure
   - Cloud
@@ -18,7 +18,7 @@ tags:
   - Node.js
 draft: "False"
 weight: "342"
-lastmod: 2025-02-27T14:25:25.686Z
+lastmod: 2025-02-27T18:17:06.075Z
 ---
 # Azure Web Apps in a Nutshell: The Good, The Bad, and The Cloudy
 

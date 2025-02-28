@@ -4,7 +4,11 @@ description: Contemplating Cancellation...
 slug: windows-async-async-revisited-what-about-cancellation
 date: 2020-12-03
 image: post/Articles/IMAGES/asyncawait.png
-categories: 
+categories:
+  - Concurrency
+  - Multithreading
+  - ASP.NET
+  - Async
 tags:
   - Windows
   - Async
@@ -13,7 +17,7 @@ tags:
   - Concurrency
 draft: false
 weight: 327
-lastmod: 2025-02-16T23:43:48.549Z
+lastmod: 2025-02-28T03:17:24.062Z
 ---
 ## Why Do We Even Need Cancellation?
 

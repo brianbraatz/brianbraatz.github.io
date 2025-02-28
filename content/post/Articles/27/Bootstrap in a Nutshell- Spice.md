@@ -3,7 +3,7 @@ title: Bootstrap in a Nutshell
 description: 
 slug: bootstrap-in-a-nutshell
 date: 2018-07-14
-image: post/Articles/IMAGES/27.jpg
+image: post/Articles/IMAGES/bootstrap.png
 categories:
   - Web Development
   - Frontend
@@ -18,7 +18,7 @@ tags:
   - Frontend
 draft: "False"
 weight: "342"
-lastmod: 2025-02-27T14:27:38.448Z
+lastmod: 2025-02-27T18:15:34.649Z
 ---
 # Bootstrap in a Nutshell: Spice Up Your Web Design with Some Sass!
 

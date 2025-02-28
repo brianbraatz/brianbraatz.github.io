@@ -3,7 +3,7 @@ title: NPM and Node Modules in a Nutshell
 description: NPM and Node Modules in a Nutshell
 slug: npm-and-node-modules-nuts
 date: 2018-06-22
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/npm.png
 categories:
   - Node.js
   - Npm
@@ -18,7 +18,7 @@ tags:
   - Package Management
 draft: "False"
 weight: "476"
-lastmod: 2025-02-27T14:50:36.843Z
+lastmod: 2025-02-27T17:27:20.626Z
 ---
 # NPM and Node Modules in a Nutshell
 

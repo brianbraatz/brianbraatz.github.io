@@ -19,6 +19,7 @@ categories:
   - Scaled Agile Framework-SAFe
   - Hybrid Agile
   - Cheatsheet
+  - SAFEAgile
 tags:
   - Agile
   - XP-ExtremeProgramming
@@ -30,7 +31,7 @@ tags:
   - SAFeAgile
   - Cheatsheet
 weight: 45
-lastmod: 2025-02-14T16:17:00.666Z
+lastmod: 2025-02-28T03:32:53.623Z
 ---
 | **Type**                                      | **Description**                                                                 | **Best For**                                                      | **Homepage**                                                                 |
 | --------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |

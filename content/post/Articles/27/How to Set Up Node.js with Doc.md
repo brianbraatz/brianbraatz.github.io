@@ -3,7 +3,7 @@ title: Node.js with Docker
 description: 
 slug: how-to-set-up-nodejs-docker
 date: 2018-06-23
-image: post/Articles/IMAGES/34.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - Docker
@@ -17,7 +17,7 @@ tags:
   - Containers
 draft: "False"
 weight: "432"
-lastmod: 2025-02-27T14:35:44.645Z
+lastmod: 2025-02-27T17:13:11.987Z
 ---
 ***
 

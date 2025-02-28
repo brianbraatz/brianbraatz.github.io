@@ -10,6 +10,7 @@ categories:
   - C#
   - CSharp
   - Office 365
+  - ASP.NET
 tags:
   - Graph
   - API
@@ -23,7 +24,7 @@ date: 2023-10-17
 image: post/Articles/IMAGES/SharePoint.png
 draft: false
 weight: 122
-lastmod: 2025-02-20T23:14:55.393Z
+lastmod: 2025-02-28T01:55:53.289Z
 ---
 <!-- 
 ---

@@ -3,7 +3,7 @@ title: Building a Simple Video Streaming App with Node.js
 description: 
 slug: building-a-simple-video-stream
 date: 2017-08-15
-image: post/Articles/IMAGES/27.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - Video Streaming
@@ -18,7 +18,7 @@ tags:
   - JavaScript
 draft: "False"
 weight: "342"
-lastmod: 2025-02-27T14:30:37.238Z
+lastmod: 2025-02-27T17:00:35.345Z
 ---
 # Building a Simple Video Streaming App with Node.js: A Fun and Informal Guide
 

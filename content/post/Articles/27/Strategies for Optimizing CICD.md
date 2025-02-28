@@ -3,7 +3,7 @@ title: Thoughts on Optimizing CI/CD Pipelines
 description: 
 slug: cicd-optimizing
 date: 2017-08-22
-image: post/Articles/IMAGES/33.jpg
+image: post/Articles/IMAGES/pipestoomany.png
 categories:
   - Ci/cd
   - Devops
@@ -18,7 +18,7 @@ tags:
   - Performance
 draft: "False"
 weight: "374"
-lastmod: 2025-02-27T14:54:05.618Z
+lastmod: 2025-02-27T17:36:50.335Z
 ---
 So, you’ve got a CI/CD pipeline.
 

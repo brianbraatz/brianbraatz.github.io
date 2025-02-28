@@ -3,7 +3,7 @@ title: SQL Paging Strategies-Load What You Need
 description: 
 slug: sql-paging-strategies
 date: 2017-06-22
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/sql.png
 categories:
   - Sql
   - Paging
@@ -20,7 +20,7 @@ tags:
   - Postgres
 draft: "False"
 weight: "432"
-lastmod: 2025-02-27T14:53:11.579Z
+lastmod: 2025-02-27T17:31:34.607Z
 ---
 # SQL Paging Strategies: How to Load Only What You Need
 

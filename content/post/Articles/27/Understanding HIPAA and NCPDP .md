@@ -3,7 +3,7 @@ title: HIPAA and NCPDP Formats for Software Devs
 description: 
 slug: understanding-hipaa-ncpdp
 date: 2018-06-14
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/hipaa.png
 categories:
   - Healthcare
   - Software Development
@@ -18,7 +18,7 @@ tags:
   - EDI
 draft: "False"
 weight: "324"
-lastmod: 2025-02-27T14:58:05.433Z
+lastmod: 2025-02-27T17:44:31.396Z
 ---
 <!-- 
 

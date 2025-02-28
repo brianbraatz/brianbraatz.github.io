@@ -7,7 +7,7 @@ description: |-
   Exploring Entity Framework and How It Generates SQL for You
 slug: what-are-orms-and-how-the
 date: 2017-06-14
-image: post/Articles/IMAGES/42.jpg
+image: post/Articles/IMAGES/orms.png
 categories:
   - ORM
   - Entity Framework
@@ -20,7 +20,7 @@ tags:
   - C#
 draft: "False"
 weight: "364"
-lastmod: 2025-02-27T14:22:40.807Z
+lastmod: 2025-02-27T17:52:19.839Z
 ---
 # What Are ORMs and How Do They Work?
 

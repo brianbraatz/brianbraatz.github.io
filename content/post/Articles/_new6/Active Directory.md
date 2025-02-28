@@ -12,6 +12,7 @@ categories:
   - Scripting
   - Biztalk
   - Microsoft Azure Cloud
+  - Active Directory
 tags:
   - Active
   - Directory
@@ -28,7 +29,7 @@ tags:
   - Services
 draft: false
 weight: 464
-lastmod: 2025-02-10T13:47:36.875Z
+lastmod: 2025-02-28T04:16:08.488Z
 ---
 <!--
 

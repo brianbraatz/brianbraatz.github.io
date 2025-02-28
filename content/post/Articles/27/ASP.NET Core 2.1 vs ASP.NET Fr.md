@@ -3,21 +3,21 @@ title: ASP.NET Core 2.1 vs ASP.NET Framework – Key Differences and What Change
 description: ASP.NET Core 2.1 vs ASP.NET Framework – Key Differences and What Changed?
 slug: aspnet-core-2-1-vs-aspnet
 date: 2018-11-20
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/aspnetold.png
 categories:
   - ASP.NET
   - .NET
   - Web Development
 tags:
-  - Asp.net
   - Core
   - Framework
   - Microsoft
   - Development
   - Web
+  - Asp-Net
 draft: "False"
 weight: "289"
-lastmod: 2025-02-27T14:24:39.125Z
+lastmod: 2025-02-28T01:54:40.174Z
 ---
 # ASP.NET Core 2.1 vs ASP.NET Framework – Key Differences and What Changed?
 
@@ -33,9 +33,7 @@ If you're still clinging to the classic ASP.NET Framework like it’s an old Win
 
 Let's break it down.
 
-## 1.
-
-What’s the Big Deal About ASP.NET Core 2.1?
+## 1. What’s the Big Deal About ASP.NET Core 2.1?
 
 ASP.NET Core 2.1 is like ASP.NET Framework's cooler, faster, and much more lightweight younger sibling.
 
@@ -66,9 +64,7 @@ It’s all included.
 * **GDPR Support** – Because we all love extra compliance requirements.
 * **HTTPS by Default** – No more lazy devs shipping insecure HTTP apps.
 
-## 2.
-
-What’s Still Good About ASP.NET Framework?
+## 2. What’s Still Good About ASP.NET Framework?
 
 So, should we all just throw ASP.NET Framework into a burning trash can and move on?
 
@@ -84,9 +80,7 @@ Good luck rewriting it in Core overnight.
 * **Web Forms (lol, just kidding)** – If you're still using Web Forms in 2018, I hope you enjoy suffering.
 * **Mature Ecosystem** – More third-party libraries and tools are still available for .NET Framework.
 
-## 3.
-
-Migration: Should You Make the Leap?
+## 3. Migration: Should You Make the Leap?
 
 If you're starting a *new* project, **ASP.NET Core 2.1 is a no-brainer**.
 
@@ -96,9 +90,7 @@ If you're maintaining an old-school ASP.NET Framework app, though, migrating to 
 
 It’s not always a smooth transition.
 
-## 4.
-
-The Verdict: Is ASP.NET Framework Dead?
+## 4. The Verdict: Is ASP.NET Framework Dead?
 
 Not quite.
 

@@ -9,6 +9,7 @@ categories:
   - Scripting
   - Python-Rich
   - GUI
+  - Python-Gui
 tags:
   - Python
   - CLI
@@ -18,7 +19,7 @@ tags:
   - Automation
 draft: false
 weight: 412
-lastmod: 2025-02-17T00:08:24.680Z
+lastmod: 2025-02-28T02:24:42.432Z
 ---
 # Making a Beautiful CLI Dashboard with Rich
 

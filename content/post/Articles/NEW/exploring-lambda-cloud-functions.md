@@ -13,6 +13,8 @@ categories:
   - CSharp
   - DotNet
   - Python
+  - AWS-Lambda
+  - Azure-Functions
 tags:
   - AWS
   - GCP
@@ -26,9 +28,10 @@ tags:
   - CPP
   - GoogleCloud
   - GoogleAppEngine
+  - Azure-Functions
 draft: false
 weight: 256
-lastmod: 2025-02-09T22:14:57.065Z
+lastmod: 2025-02-28T03:13:11.535Z
 ---
 # Exploring Lambda and Cloud Functions in GCP, AWS, & Azure Cloud
 

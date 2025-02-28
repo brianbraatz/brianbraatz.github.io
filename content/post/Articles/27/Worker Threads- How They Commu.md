@@ -3,7 +3,7 @@ title: Node.js 10-Worker Thread Messages
 description: 
 slug: worker-threads-how-they-c
 date: 2019-05-17
-image: post/Articles/IMAGES/35.jpg
+image: post/Articles/IMAGES/tangledthreads.png
 categories:
   - Node.js
   - Worker Threads
@@ -17,7 +17,7 @@ tags:
   - Inter-Thread Communication
 draft: "False"
 weight: "428"
-lastmod: 2025-02-27T15:08:21.107Z
+lastmod: 2025-02-27T17:59:15.793Z
 ---
 <!-- ## Worker Threads: How They Communicate with Messages
 

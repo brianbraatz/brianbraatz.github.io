@@ -3,7 +3,7 @@ title: Parsing NCPDP & HIPAA X12 EDI Transactions in C#, Python, and Node.JS
 description: 
 slug: ncpdp-hipaa-parsing
 date: 2017-06-14
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/hipaa.png
 categories:
   - EDI
   - NCPDP
@@ -24,7 +24,7 @@ tags:
   - Transactions
 draft: "False"
 weight: "347"
-lastmod: 2025-02-27T14:26:49.091Z
+lastmod: 2025-02-27T18:18:57.612Z
 ---
 ## So, You Have to Parse NCPDP or HIPAA X12 EDI?
 

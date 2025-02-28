@@ -3,7 +3,7 @@ title: Visualizing Node.js Scaling - Part 1
 description: 
 slug: visualizing-nodejs-scaling-1
 date: 2018-06-15
-image: post/Articles/IMAGES/23.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - Scaling
@@ -18,7 +18,7 @@ tags:
   - Performance
 draft: "False"
 weight: "347"
-lastmod: 2025-02-27T15:07:08.351Z
+lastmod: 2025-02-27T17:19:37.833Z
 ---
 # Visualizing Node.js Scaling - Part 1 🚀
 

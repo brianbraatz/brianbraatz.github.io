@@ -3,7 +3,7 @@ title: "What is Node.js? Is It a Web Server? "
 description: ""
 slug: what-is-nodejs
 date: 2017-04-23
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - JavaScript
@@ -18,7 +18,7 @@ tags:
   - Linux
 draft: false
 weight: 472
-lastmod: 2025-02-27T13:36:10.699Z
+lastmod: 2025-02-27T17:56:17.107Z
 ---
 <!-- 
 # What is Node.js? Is It a Web Server? Let's Set the Record Straight!

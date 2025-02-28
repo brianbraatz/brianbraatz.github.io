@@ -9,6 +9,7 @@ categories:
   - Microsoft Azure Cloud
   - Biztalk
   - Cloud
+  - Async
 tags:
   - Azure
   - Logic
@@ -27,7 +28,7 @@ tags:
   - Architecture
 draft: false
 weight: 491
-lastmod: 2025-02-11T13:32:51.758Z
+lastmod: 2025-02-28T03:17:35.845Z
 ---
 <!--
 # Understanding Azure Logic Apps and How It Evolved from BizTalk Server with Example Uses Explained

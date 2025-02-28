@@ -3,15 +3,17 @@ title: ASP.NET Core 5.0 vs 3.1- What's New?
 description: ASP.NET Core 5.0 vs 3.1- What's New?
 slug: aspnet-core-5-vs-3-whats-
 date: 2021-01-10
-image: post/Articles/IMAGES/27.jpg
+image: post/Articles/IMAGES/ASP.NET_.png
 categories:
   - Asp.net Core
   - Dotnet
   - Web Development
+  - ASP.NET
 tags:
-  - Asp.net Core
+  - Core
   - Dotnet
-  - Web Development
+  - Web
+  - Development
   - Performance
   - Upgrades
   - Csharp
@@ -19,7 +21,7 @@ tags:
   - Middleware
 draft: "False"
 weight: "378"
-lastmod: 2025-02-27T14:24:40.473Z
+lastmod: 2025-02-28T01:54:55.716Z
 ---
 # ASP.NET Core 5.0 vs 3.1: What’s New?
 

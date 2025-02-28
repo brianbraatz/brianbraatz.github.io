@@ -3,7 +3,7 @@ title: XML - The History, Motivation, Pros and Cons
 description: XML - The History, Motivation, Pros and Cons
 slug: xml-the-history-motivation-pros-and-cons
 date: 2017-09-12
-image: post/Articles/IMAGES/32.jpg
+image: post/Articles/IMAGES/pictureframes.png
 categories:
   - XML
   - Data Formats
@@ -19,7 +19,7 @@ tags:
   - Protobuf
 draft: false
 weight: 543
-lastmod: 2025-02-24T14:15:34.704Z
+lastmod: 2025-02-27T18:09:13.047Z
 ---
 ## The History of XML
 

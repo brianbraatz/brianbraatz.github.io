@@ -9,6 +9,7 @@ categories:
   - Azure
   - Cloud
   - Operations
+  - DevOps-Operational-Framework
 tags:
   - DevOps
   - Azure
@@ -20,7 +21,7 @@ tags:
   - Monitoring
 draft: false
 weight: 456
-lastmod: 2025-02-24T14:15:34.129Z
+lastmod: 2025-02-28T04:02:07.328Z
 ---
 # Azure DevOps Operational Framework: The Secret Sauce to a Smooth Pipeline
 

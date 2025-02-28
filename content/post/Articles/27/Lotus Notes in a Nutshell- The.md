@@ -3,7 +3,7 @@ title: Lotus Notes in a Nutshell- The Original Low-Code Pioneer
 description: Lotus Notes in a Nutshell- The Original Low-Code Pioneer
 slug: lotus-notes-nutshell
 date: 2017-06-18
-image: post/Articles/IMAGES/27.jpg
+image: post/Articles/IMAGES/lotusnotes.png
 categories:
   - Low-code
   - History
@@ -16,7 +16,7 @@ tags:
   - Lotus Notes
 draft: "False"
 weight: "368"
-lastmod: 2025-02-27T14:22:40.572Z
+lastmod: 2025-02-27T18:22:49.597Z
 ---
 # Lotus Notes in a Nutshell: The Original Low-Code Pioneer
 

@@ -3,7 +3,7 @@ title: Blue-Green Deployments and Canary Releases
 description: 
 slug: understanding-blue-green-canary
 date: 2018-05-14
-image: post/Articles/IMAGES/21.jpg
+image: post/Articles/IMAGES/bluegreen.png
 categories:
   - Ci/cd
   - Devops
@@ -18,7 +18,7 @@ tags:
   - Performance
 draft: "False"
 weight: "512"
-lastmod: 2025-02-27T14:56:24.132Z
+lastmod: 2025-02-27T17:43:05.907Z
 ---
 # Understanding Blue-Green Deployments and Canary Releases
 

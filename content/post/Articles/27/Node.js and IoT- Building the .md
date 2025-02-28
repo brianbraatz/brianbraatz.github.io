@@ -3,7 +3,7 @@ title: Node.js and IoT- Building the Future with JavaScript and Blinking LEDs
 description: Node.js and IoT- Building the Future with JavaScript and Blinking LEDs
 slug: nodejs-iot-building-futur
 date: 2017-06-14
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - IoT
@@ -19,7 +19,7 @@ tags:
   - Networking
 draft: "False"
 weight: "482"
-lastmod: 2025-02-27T14:42:27.590Z
+lastmod: 2025-02-27T17:20:01.381Z
 ---
 # Node.js and IoT: Building the Future with JavaScript and Blinking LEDs
 

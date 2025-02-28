@@ -3,7 +3,7 @@ title: Scaling Node.js- Keep Your App from Melting
 description: Scaling Node.js- How to Keep Your App from Melting
 slug: scaling-nodejs-keep-app-f
 date: 2019-08-22
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - Scaling
@@ -17,7 +17,7 @@ tags:
   - Microservices
 draft: "False"
 weight: "472"
-lastmod: 2025-02-27T14:52:02.036Z
+lastmod: 2025-02-27T17:31:11.658Z
 ---
 # Scaling Node.js: How to Keep Your App from Melting
 

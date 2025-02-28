@@ -3,7 +3,7 @@ title: Git Cheatsheet- Common Operations
 description: Common GIT Operations
 slug: git-cheatsheet-common-ope
 date: 2017-08-14
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/git.png
 categories:
   - Git
   - Version Control
@@ -15,7 +15,7 @@ tags:
   - Cheatsheet
 draft: "False"
 weight: "423"
-lastmod: 2025-02-27T14:33:38.846Z
+lastmod: 2025-02-27T18:31:54.099Z
 ---
 ***
 

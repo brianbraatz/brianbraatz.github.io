@@ -11,7 +11,6 @@ categories:
   - CSharp
   - Office 365
 tags:
-  - Graph
   - API
   - Microsoft
   - Python
@@ -19,11 +18,12 @@ tags:
   - API
   - Authentication
   - CSharp
+  - GraphAPI
 date: 2023-10-17
 image: post/Articles/IMAGES/SharePoint.png
 draft: false
 weight: 423
-lastmod: 2025-02-20T23:15:31.429Z
+lastmod: 2025-02-28T03:35:24.125Z
 ---
 # Exploring the Graph API (Sharepoint) with Python and C#: 10 Things You Can Do
 

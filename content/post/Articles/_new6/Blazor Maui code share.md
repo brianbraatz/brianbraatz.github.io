@@ -14,6 +14,8 @@ categories:
   - IOS
   - Android
   - Cross Platform
+  - ASP.NET
+  - Asp.Net
 tags:
   - Blazor
   - Blazor
@@ -28,11 +30,10 @@ tags:
   - Development
   - Cross-Platform
   - Architecture
-  - Asp.Net
   - Webassembly
 draft: false
 weight: 145
-lastmod: 2025-02-19T13:47:53.186Z
+lastmod: 2025-02-28T02:04:29.618Z
 ---
 <!--
 # Advantages and Disadvantages of Blazor Hybrid with MAUI. Can You Share Code with Your Website? Should You? How to Structure Your MAUI Project to Share Code with Your Blazor Website. Alternative Approaches Pros and Cons

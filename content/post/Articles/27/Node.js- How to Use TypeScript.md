@@ -3,7 +3,7 @@ title: Node.js- How to Use TypeScript
 description: 
 slug: nodejs-how-to-use-typescr
 date: 2017-09-15
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - TypeScript
@@ -15,7 +15,7 @@ tags:
   - Development
 draft: "False"
 weight: "386"
-lastmod: 2025-02-27T14:45:16.133Z
+lastmod: 2025-02-27T18:30:50.597Z
 ---
 <!-- 
 

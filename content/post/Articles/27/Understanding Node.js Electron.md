@@ -3,7 +3,7 @@ title: Understanding Node.js Electron Connection
 description: Understanding Node.js Electron Connection
 slug: understanding-nodejs-elec
 date: 2018-04-15
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/electronlogo.png
 categories:
   - Node.js
   - Electron
@@ -18,7 +18,7 @@ tags:
   - JavaScript
 draft: "False"
 weight: "472"
-lastmod: 2025-02-27T14:22:40.765Z
+lastmod: 2025-02-27T17:45:15.620Z
 ---
 <!-- ## Understanding Node.js Electron Connection
 

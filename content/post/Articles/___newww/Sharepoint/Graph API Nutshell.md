@@ -18,11 +18,12 @@ tags:
   - REST
   - API
   - Authentication
+  - GraphAPI
 date: 2023-10-17
 image: post/Articles/IMAGES/SharePoint.png
 draft: false
 weight: 651
-lastmod: 2025-02-20T23:13:56.474Z
+lastmod: 2025-02-28T03:35:31.800Z
 ---
 <!-- 
 

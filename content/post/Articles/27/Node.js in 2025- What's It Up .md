@@ -3,7 +3,7 @@ title: Node.js in 2025- What's It Up To Now?
 description: Node.js in 2025- What's It Up To Now?
 slug: nodejs-in-2025-whats-it-u
 date: 2018-07-22
-image: post/Articles/IMAGES/27.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Web Development
   - JavaScript
@@ -19,7 +19,7 @@ tags:
   - Serverless Computing
 draft: "False"
 weight: "342"
-lastmod: 2025-02-27T14:22:40.620Z
+lastmod: 2025-02-27T17:20:07.120Z
 ---
 <!-- 
 

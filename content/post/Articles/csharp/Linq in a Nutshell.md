@@ -11,6 +11,7 @@ categories:
   - LINQ
   - Entity Framework
   - SQL
+  - ORM
 tags:
   - LINQ
   - CSharp
@@ -21,7 +22,7 @@ tags:
   - MultiThreading
 draft: false
 weight: 30
-lastmod: 2025-02-09T21:41:42.500Z
+lastmod: 2025-02-28T03:25:38.492Z
 ---
 ![LINQ Logo](https://seeklogo.com/images/L/linq-logo-8B9C0C6C6A-seeklogo.com.png)
 

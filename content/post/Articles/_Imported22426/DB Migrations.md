@@ -3,7 +3,7 @@ title: How to Use Database Migrations (Flyway, Liquibase, Entity Framework Migra
 description: How to Use Database Migrations (Flyway, Liquibase, Entity Framework Migrations, and Custom Scripts) to Evolve Schemas Smoothly
 slug: how-to-use-database-migrations-flyway-liquibase-entity-framework-migrations-and-custom-scripts-to-evolve-schemas-smoothly
 date: 2015-11-27
-image: post/Articles/IMAGES/40.jpg
+image: post/Articles/IMAGES/birdsmigrating.png
 categories:
   - Database
   - Migrations
@@ -24,7 +24,7 @@ tags:
   - DevOps
 draft: false
 weight: 368
-lastmod: 2025-02-24T14:42:47.905Z
+lastmod: 2025-02-27T18:24:55.742Z
 ---
 # How to Use Database Migrations (Flyway, Liquibase, Entity Framework Migrations, and Custom Scripts) to Evolve Schemas Smoothly
 

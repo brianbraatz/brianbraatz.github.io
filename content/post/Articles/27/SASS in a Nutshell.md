@@ -3,7 +3,7 @@ title: SASS in a Nutshell
 description: SASS in a Nutshell
 slug: sass-in-a-nutshell
 date: 2017-06-23
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/sass.png
 categories:
   - CSS
   - SASS
@@ -18,7 +18,7 @@ tags:
   - Preprocessor
 draft: "False"
 weight: "462"
-lastmod: 2025-02-27T14:51:31.164Z
+lastmod: 2025-02-27T17:30:55.929Z
 ---
 # SASS in a Nutshell
 

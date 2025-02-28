@@ -14,6 +14,7 @@ categories:
   - Performance Optimization
   - Cloud
   - Entity Framework
+  - ORM
 tags:
   - Entity
   - Framework
@@ -29,7 +30,7 @@ tags:
   - CSharp
 draft: false
 weight: 382
-lastmod: 2025-02-13T16:29:54.375Z
+lastmod: 2025-02-28T03:24:35.735Z
 ---
 <!-- 
 # Entity Framework In Depth: 20 Code Examples, LINQ, Pros, Cons, and Alternate ORMs Explained

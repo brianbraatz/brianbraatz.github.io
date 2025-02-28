@@ -3,7 +3,7 @@ title: PrimeNG with Angular
 description: PrimeNG with Angular
 slug: primeng-with-angular
 date: 2017-08-14
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/primeng.png
 categories:
   - Angular
   - PrimeNG
@@ -16,7 +16,7 @@ tags:
   - Frontend
 draft: "False"
 weight: "452"
-lastmod: 2025-02-27T14:51:07.418Z
+lastmod: 2025-02-27T17:29:04.038Z
 ---
 <!-- 
 # PrimeNG with Angular in a Nutshell 🚀

@@ -3,7 +3,7 @@ title: Node.js Web Frameworks- Pros, Cons, and Code Examples
 description: Node.js Web Frameworks- Pros, Cons, and Code Examples
 slug: nodejs-web-frameworks-pro
 date: 2018-09-12
-image: post/Articles/IMAGES/38.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - Web Frameworks
@@ -19,7 +19,7 @@ tags:
   - Meteor
 draft: "False"
 weight: "400"
-lastmod: 2025-02-27T14:43:31.491Z
+lastmod: 2025-02-27T17:20:53.518Z
 ---
 <!-- # Node.js Web Frameworks: Pros, Cons, and Code Examples
 

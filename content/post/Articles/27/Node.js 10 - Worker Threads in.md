@@ -3,7 +3,7 @@ title: Node.js 10 - Worker Threads in a Nutshell
 description: Node.js 10 - Worker Threads in a Nutshell
 slug: nodejs-10-worker-threads-
 date: 2019-11-03
-image: post/Articles/IMAGES/42.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - Worker Threads
@@ -16,7 +16,7 @@ tags:
   - Parallel Processing
 draft: "False"
 weight: "512"
-lastmod: 2025-02-27T14:42:15.527Z
+lastmod: 2025-02-27T17:19:55.610Z
 ---
 ## Node.js 10 - Worker Threads in a Nutshell
 

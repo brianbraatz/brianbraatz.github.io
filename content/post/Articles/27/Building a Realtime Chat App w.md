@@ -3,7 +3,7 @@ title: Building a Realtime Chat App with Node.js and Socket.IO
 description: 
 slug: building-realtime-chat-no
 date: 2018-07-22
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - Socket.IO
@@ -18,7 +18,7 @@ tags:
   - Communication
 draft: "False"
 weight: "386"
-lastmod: 2025-02-27T14:28:46.529Z
+lastmod: 2025-02-27T17:00:25.373Z
 ---
 ## 🚀 Let's Build a Realtime Chat App with Node.js and Socket.IO
 

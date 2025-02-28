@@ -16,6 +16,7 @@ categories:
   - Microsoft Sql Server
   - Postgres Sql
   - Testing
+  - ORM
 tags:
   - EntityFramework
   - SQL
@@ -31,7 +32,7 @@ tags:
   - DotNet
 draft: false
 weight: 321
-lastmod: 2025-02-25T12:55:15.328Z
+lastmod: 2025-02-28T03:24:44.825Z
 ---
 # Factory Pattern for Entity Framework Core: Switching Database Engines with Ease
 

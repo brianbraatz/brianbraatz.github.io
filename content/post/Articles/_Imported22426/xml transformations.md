@@ -3,7 +3,7 @@ title: XSLT - Advanced XML Transformations
 description: XSLT - Advanced XML Transformations
 slug: xslt-advanced-xml-transformations
 date: 2018-01-26
-image: post/Articles/IMAGES/43.jpg
+image: post/Articles/IMAGES/pictureframes3.png
 categories:
   - XML
   - Transformation
@@ -20,7 +20,7 @@ tags:
   - Text Conversion
 draft: false
 weight: 238
-lastmod: 2025-02-24T15:19:59.385Z
+lastmod: 2025-02-27T18:11:30.257Z
 ---
 # XSLT - Advanced XML Transformations
 

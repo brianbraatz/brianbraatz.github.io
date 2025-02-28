@@ -3,7 +3,7 @@ title: Building Code-First OpenAPIs with Node.js
 description: 
 slug: building-code-first-openapi
 date: 2017-08-14
-image: post/Articles/IMAGES/32.jpg
+image: post/Articles/IMAGES/nodejs.png
 categories:
   - Node.js
   - OpenAPI
@@ -19,7 +19,7 @@ tags:
   - Express
 draft: "False"
 weight: "342"
-lastmod: 2025-02-27T14:31:46.136Z
+lastmod: 2025-02-27T17:00:44.411Z
 ---
 ***
 

@@ -10,6 +10,7 @@ categories:
   - Python-PySide
   - GUI
   - Qt GUI Framework
+  - Python-Gui
 tags:
   - Pyside
   - Pyqt
@@ -21,9 +22,10 @@ tags:
   - Frameworks
   - Comparison
   - Qt
+  - PythonGuI
 draft: false
 weight: 30
-lastmod: 2025-02-19T13:50:34.731Z
+lastmod: 2025-02-28T02:23:57.432Z
 ---
 # PySide and PyQt vs Other Python GUI Frameworks
 

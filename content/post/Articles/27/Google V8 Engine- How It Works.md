@@ -3,7 +3,7 @@ title: Google V8 Engine- How It Works
 description: 
 slug: google-v8-engine-how-it-w
 date: 2018-06-17
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/v8google.png
 categories:
   - JavaScript
   - Google
@@ -21,7 +21,7 @@ tags:
   - Compilation
 draft: "False"
 weight: "483"
-lastmod: 2025-02-27T14:37:45.570Z
+lastmod: 2025-02-27T17:03:26.919Z
 ---
 ## What the Heck is Google V8?
 

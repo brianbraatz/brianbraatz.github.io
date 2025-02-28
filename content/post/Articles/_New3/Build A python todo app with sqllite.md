@@ -9,6 +9,7 @@ categories:
   - SQLite
   - SQL
   - Python-Click
+  - Python-Gui
 tags:
   - Python
   - CLI
@@ -18,7 +19,7 @@ tags:
   - Automation
 draft: true
 weight: 333
-lastmod: 2025-02-09T20:24:57.664Z
+lastmod: 2025-02-28T02:24:25.457Z
 ---
 # How to Build a Full CLI App with Click and SQLite
 
