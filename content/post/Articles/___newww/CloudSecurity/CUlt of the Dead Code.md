@@ -2,7 +2,7 @@
 title: Cult of the Dead Cow and Back Orifice
 description: How cDc Affected Modern Computer Security
 slug: cult-of-the-dead-cow-
-date: 2019-11-27
+date: 2018-11-27
 image: post/Articles/IMAGES/cultofthedeadcow.jpeg
 categories:
   - Hacking
@@ -19,7 +19,7 @@ tags:
   - Remote Access Tools
 draft: false
 weight: 368
-lastmod: 2025-02-17T15:49:48.788Z
+lastmod: 2025-02-28T20:42:55.046Z
 ---
 # Cult of the Dead Cow and Back Orifice: History and How It Affected Computer Security
 

@@ -2,7 +2,7 @@
 title: MFC Dot Net Interop Options in 2022
 description: MFC Dot Net Interop Options in 2022
 slug: mfc-dot-net-interop-options-in-2022
-date: 2019-07-17
+date: 2022-07-17
 image: post/Articles/IMAGES/mfcclassic.png
 categories:
   - Interop
@@ -23,7 +23,7 @@ tags:
   - Windows
 draft: false
 weight: 404
-lastmod: 2025-02-21T00:57:09.893Z
+lastmod: 2025-02-28T20:41:20.079Z
 ---
 # MFC Dot Net Interop Options in 2022
 

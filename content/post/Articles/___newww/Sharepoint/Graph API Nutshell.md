@@ -10,6 +10,7 @@ categories:
   - C#
   - CSharp
   - Office 365
+  - Power Apps
 tags:
   - Graph
   - API
@@ -20,10 +21,10 @@ tags:
   - Authentication
   - GraphAPI
 date: 2023-10-17
-image: post/Articles/IMAGES/SharePoint.png
+image: post/Articles/IMAGES/gollumonering.png
 draft: false
 weight: 651
-lastmod: 2025-02-28T03:35:31.800Z
+lastmod: 2025-02-28T20:58:05.451Z
 ---
 <!-- 
 
@@ -59,6 +60,8 @@ Before Microsoft introduced Graph API, developers had to use **separate APIs for
 The **problem** with this approach? **Inconsistent authentication, different endpoints, and varied permissions** for each API.
 
 Microsoft needed a **single API** to unify these services.
+
+![](/post/Articles/___newww/Sharepoint/Pasted%20image%2020250228125535.png)
 
 ***
 

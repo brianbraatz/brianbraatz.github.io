@@ -1,7 +1,7 @@
 ---
 title: How to Write a Windows App in C
 slug: windows-app-c
-date: 2019-12-15
+date: 2017-12-15
 image: post/Articles/IMAGES/winlogo-old.png
 categories:
   - Windows
@@ -27,7 +27,7 @@ tags:
 draft: false
 weight: 220
 description: Old Skool Guis Explained with comparison to MFC, OWL and Qt
-lastmod: 2025-02-20T22:56:48.148Z
+lastmod: 2025-02-28T20:42:28.226Z
 ---
 <!-- 
 How to Write a Windows App in C

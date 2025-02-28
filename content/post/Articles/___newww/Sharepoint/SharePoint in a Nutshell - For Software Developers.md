@@ -10,6 +10,7 @@ categories:
   - C#
   - CSharp
   - Office 365
+  - Power Apps
 tags:
   - Graph
   - API
@@ -23,7 +24,7 @@ date: 2023-10-17
 image: post/Articles/IMAGES/SharePoint.png
 draft: false
 weight: 234
-lastmod: 2025-02-20T23:13:07.877Z
+lastmod: 2025-02-28T20:47:16.513Z
 ---
 <!-- 
 # SharePoint in a Nutshell - For Software Developers

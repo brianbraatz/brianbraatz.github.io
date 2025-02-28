@@ -2,7 +2,7 @@
 title: 6502 Assembly Language in a Nutshell
 description: 6502 Assembly Language in a Nutshell
 slug: 6502-assembly-language-in-a-nutshell
-date: 2019-11-27
+date: 2017-11-27
 image: post/Articles/IMAGES/6502.jpg
 categories:
   - Assembly
@@ -24,7 +24,7 @@ tags:
   - Programming
 draft: false
 weight: 274
-lastmod: 2025-02-20T12:19:11.405Z
+lastmod: 2025-02-28T20:42:03.372Z
 ---
 # 6502 Assembly Language in a Nutshell
 

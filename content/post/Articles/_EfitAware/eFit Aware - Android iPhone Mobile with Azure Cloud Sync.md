@@ -2,7 +2,7 @@
 title: eFit Aware - Android iPhone Mobile with Azure Cloud Sync
 description: Mobile Apps I Built for a Kickstarter.. oh and STEVE WOZNIAK... ?!?!?!
 slug: efit-aware
-date: 2021-05-06
+date: 2018-05-06
 image: post/Articles/IMAGES/efitcover.png
 categories:
   - Mobile
@@ -36,7 +36,7 @@ tags:
   - Java
 weight: 3
 draft: false
-lastmod: 2025-02-13T19:52:48.588Z
+lastmod: 2025-02-28T20:41:49.514Z
 ---
 ![](/post/Articles/_EfitAware/Pasted%20image%2020250211070710.png)
 

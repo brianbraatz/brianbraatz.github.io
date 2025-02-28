@@ -1,7 +1,7 @@
 ---
-title: Exploring the Graph API with Python and C#
-description: Huge List of Code snippets for common tasks
-slug: graphapi-python-cs-examples
+title: Graph API  Snippets -Python and C#
+description: List of Code snippets for common Graph API tasks
+slug: graphapi-python-cs-snippets
 categories:
   - Sharepoint
   - Cloud
@@ -10,6 +10,7 @@ categories:
   - C#
   - CSharp
   - Office 365
+  - Power Apps
 tags:
   - API
   - Microsoft
@@ -23,8 +24,9 @@ date: 2023-10-17
 image: post/Articles/IMAGES/SharePoint.png
 draft: false
 weight: 423
-lastmod: 2025-02-28T03:35:24.125Z
+lastmod: 2025-02-28T20:46:51.457Z
 ---
+<!-- 
 # Exploring the Graph API (Sharepoint) with Python and C#: 10 Things You Can Do
 
 ## 🔍 What is the Microsoft Graph API?
@@ -33,22 +35,23 @@ The **Microsoft Graph API** is a RESTful API that allows developers to interact 
 
 ### ✅ Pros of the Graph API
 
-* **Unified API** – One API for multiple Microsoft 365 services.
-* **Modern Authentication** – Supports OAuth 2.0 for secure authentication.
-* **Extensive Data Access** – Access emails, calendars, files, users, groups, and more.
-* **Integration-Friendly** – Works well with Python, C#, JavaScript, and other languages.
-* **Cloud-First** – Optimized for Microsoft 365 cloud-based services.
+- **Unified API** – One API for multiple Microsoft 365 services.
+- **Modern Authentication** – Supports OAuth 2.0 for secure authentication.
+- **Extensive Data Access** – Access emails, calendars, files, users, groups, and more.
+- **Integration-Friendly** – Works well with Python, C#, JavaScript, and other languages.
+- **Cloud-First** – Optimized for Microsoft 365 cloud-based services.
 
 ### ❌ Cons of the Graph API
 
-* **Rate Limits** – API calls are throttled, which can affect performance.
-* **Complex Authentication** – OAuth 2.0 setup requires app registration in Azure.
-* **Limited On-Prem Support** – Best suited for Microsoft 365, not legacy on-premises systems.
-* **Learning Curve** – Requires understanding permissions and API structure.
+- **Rate Limits** – API calls are throttled, which can affect performance.
+- **Complex Authentication** – OAuth 2.0 setup requires app registration in Azure.
+- **Limited On-Prem Support** – Best suited for Microsoft 365, not legacy on-premises systems.
+- **Learning Curve** – Requires understanding permissions and API structure.
 
-***
+---
 
-# 🚀 Things You Can Do with Microsoft Graph API
+# 🚀 Things You Can Do with Microsoft Graph API 
+-->
 
 ## 1️⃣ Authenticate with Microsoft Graph API (OAuth 2.0)
 

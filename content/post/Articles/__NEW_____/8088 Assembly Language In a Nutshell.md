@@ -2,7 +2,7 @@
 title: 8088 Assembly Language in a Nutshell
 description: 
 slug: 8088-assembly-nutshell
-date: 2019-11-27
+date: 2017-11-27
 image: post/Articles/IMAGES/8088.png
 categories:
   - Assembly
@@ -25,7 +25,7 @@ tags:
   - AssemblyLanguage
 draft: false
 weight: 274
-lastmod: 2025-02-24T12:16:30.850Z
+lastmod: 2025-02-28T20:41:36.298Z
 ---
 # 8088 Assembly Language in a Nutshell
 
