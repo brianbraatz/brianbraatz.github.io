@@ -20,8 +20,8 @@ tags:
   - JIT
   - Compilation
 draft: "False"
-weight: "483"
-lastmod: 2025-03-02T22:55:30.829Z
+weight: "140"
+lastmod: 2025-03-03T17:22:22.772Z
 ---
 <!-- 
 # Google V8 Engine: How It Works, Pros and Cons, History & Timeline

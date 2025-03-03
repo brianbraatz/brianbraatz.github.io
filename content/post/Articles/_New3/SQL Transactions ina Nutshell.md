@@ -1,7 +1,7 @@
 ---
 title: SQL Transactions In a Nutshell
 description: Code Examples in MSSQL, MySql and Postgres
-slug: sql-transactions-history-motivation-understanding
+slug: sql-transactions-nutshell
 date: 2016-11-28
 image: post/Articles/IMAGES/sqlquerysyntax.png
 categories:
@@ -23,8 +23,8 @@ tags:
   - Distributed
   - Transactions
 draft: false
-weight: 381
-lastmod: 2025-03-02T23:50:56.694Z
+weight: 72
+lastmod: 2025-03-03T15:02:52.253Z
 ---
 # SQL Transactions: The History, How They Work, and Why You Should Care
 

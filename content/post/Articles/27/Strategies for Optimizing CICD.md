@@ -17,8 +17,8 @@ tags:
   - Automation
   - Performance
 draft: "False"
-weight: "374"
-lastmod: 2025-02-27T17:36:50.335Z
+weight: "38"
+lastmod: 2025-03-03T14:59:01.966Z
 ---
 So, you’ve got a CI/CD pipeline.
 

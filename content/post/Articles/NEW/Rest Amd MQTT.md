@@ -18,8 +18,8 @@ tags:
   - Messaging
   - SignalR
 draft: false
-weight: 222
-lastmod: 2025-02-09T23:08:40.772Z
+weight: 64
+lastmod: 2025-03-03T14:42:22.051Z
 ---
 # REST and MQTT: The Dynamic Duo of Microservice APIs
 

@@ -22,8 +22,8 @@ tags:
   - Istio
   - Traefik
 draft: false
-weight: 860
-lastmod: 2025-02-16T22:08:44.636Z
+weight: 72
+lastmod: 2025-03-03T15:07:18.851Z
 ---
 <!-- 
 # Kong vs Istio vs Traefik: A Complete Comparison with Code Samples Inside a Pod

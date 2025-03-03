@@ -21,8 +21,8 @@ tags:
   - EmbeddedSystems
   - 8051CPU
 draft: false
-weight: 438
-lastmod: 2025-03-03T00:13:02.399Z
+weight: 210
+lastmod: 2025-03-03T17:26:55.169Z
 ---
 # 8051 Assembly Language in a Nutshell
 

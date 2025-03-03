@@ -25,8 +25,8 @@ tags:
   - Automation
   - CPP
 draft: false
-weight: 213
-lastmod: 2025-02-21T00:57:30.183Z
+weight: 39
+lastmod: 2025-03-03T14:41:27.907Z
 ---
 <!-- 
 # Write an OLE Server in Raw C++

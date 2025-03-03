@@ -28,8 +28,8 @@ tags:
   - Mobile
   - XAML
 draft: false
-weight: 287
-lastmod: 2025-02-09T22:31:35.793Z
+weight: 68
+lastmod: 2025-03-03T14:47:04.575Z
 ---
 <!-- 
 title: Evolution of MAUI From Mono to Xamarin to MAUI

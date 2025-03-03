@@ -1,9 +1,9 @@
 ---
 title: Scheme in a Nutshell
 description: The Scheme Programming Language Explored
-slug: the-scheme-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+slug: scheme-nutshell
 date: 2020-11-15
-image: post/Articles/IMAGES/schemelogo.png
+image: post/Articles/IMAGES/schemelogo.jpg
 categories:
   - Languages
   - Scheme
@@ -25,7 +25,7 @@ tags:
   - Comparison
 draft: false
 weight: 129
-lastmod: 2025-02-10T17:57:35.080Z
+lastmod: 2025-03-03T12:17:13.053Z
 ---
 <!-- 
 # The Scheme Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

@@ -1,9 +1,9 @@
 ---
 title: Introspective Whitebox Unit Testing with Mole and Pex
 description: History of this Curious Microsoft Research Creation
-slug: the-history-of-moles-and-pex-the-dynamic-duo-of-net-unit-testing
+slug: moles-and-pex-unit-testing
 date: 2020-12-14
-image: post/Articles/IMAGES/pexlogo.png
+image: post/Articles/IMAGES/mammal_mole.jpg
 categories:
   - Unit Testing
   - DotNet
@@ -25,21 +25,34 @@ tags:
   - Framework
   - Csharp
 draft: false
-weight: 467
-lastmod: 2025-02-25T12:57:38.470Z
+weight: 35
+lastmod: 2025-03-03T13:57:46.759Z
 ---
+[Moles](https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals/Moles)
+
 <!--
 
 # The History of Moles and Pex: The Dynamic Duo of .NET Unit Testing  
 -->
 
-Ever tried to write unit tests and thought, *"Man, this would be a lot easier if I could just hijack this method and make it do what I want?"* Well, good news: Microsoft Research felt the same way! Enter **Pex** and **Moles**, two tools that made unit testing in .NET a whole lot less painful.
+<!-- 
+Ever tried to write unit tests and thought, *"Man, this would be a lot easier if I could just hijack this method and make it do what I want?"* Well, good news: Microsoft Research felt the same way! Enter **Pex** and **Moles**, two tools that made unit testing in .NET a whole lot less painful.  
+-->
 
 ## Pex: The Smart Test Generator
 
-Pex burst onto the scene in 2007 as a **Visual Studio add-in** designed to automatically generate test cases for your code. It’s like having an overachieving intern who keeps poking at your methods, trying to find ways to break them.
+Pex was first released in 2007 as a **Visual Studio add-in** designed to automatically generate test cases for your code.
 
-Pex works by doing **white-box testing**, which means it actually looks at your code, figures out different execution paths, and then creates test cases to hit all of them. If there’s an edge case, Pex will find it (and laugh at your fragile code while doing so).
+(!!!)\
+What?
+
+<!-- 
+It’s like having an overachieving intern who keeps poking at your methods, trying to find ways to break them.  
+-->
+
+Pex works by doing **white-box testing**, which means it actually looks at your code, figures out different execution paths, and then creates test cases to hit all of them.
+
+If there’s an edge case, Pex will find it (and laugh at your fragile code while doing so).
 
 For example, given this simple method:
 
@@ -64,7 +77,9 @@ More on Pex here: [Microsoft Research – Pex](https://www.microsoft.com/en-us/r
 
 ## Moles: The Ultimate Code Impersonator
 
-Then there’s **Moles**, which arrived in 2009 to solve another annoying problem in unit testing: **dependencies**. We’ve all been there—trying to write a unit test, only to realize our method depends on some external service, a database call, or (*shudder*) `DateTime.Now`.
+Then there’s **Moles**, which arrived in 2009 to solve another annoying problem in unit testing: **dependencies**.
+
+We’ve all been there—trying to write a unit test, only to realize our method depends on some external service, a database call, or (*shudder*) `DateTime.Now`.
 
 Moles fixes this by letting you **replace any .NET method with your own delegate**. This means you can swap out static, non-virtual, and even sealed methods—things that were previously impossible to mock.
 
@@ -97,9 +112,15 @@ More on Moles here: [Microsoft Research – Moles](https://www.microsoft.com/en-
 
 ## Pex + Moles = A Match Made in Unit Testing Heaven
 
-Pex and Moles worked *really* well together. Pex would generate smart test cases, and Moles would isolate dependencies so you could actually run those tests. The combination was a game-changer for .NET developers.
+Pex and Moles worked *really* well together.
 
-But alas, all good things must come to an end—or rather, evolve. In **2012**, Microsoft rolled Pex and Moles into something new: the **Fakes Framework**, which became a built-in part of Visual Studio.
+Pex would generate smart test cases, and Moles would isolate dependencies so you could actually run those tests.
+
+The combination was a game-changer for .NET developers.
+
+But alas, all good things must come to an end—or rather, evolve.
+
+In **2012**, Microsoft rolled Pex and Moles into something new: the **Fakes Framework**, which became a built-in part of Visual Studio.
 
 So while Pex and Moles may no longer be around in their original form, their legacy lives on!
 
@@ -109,11 +130,15 @@ So while Pex and Moles may no longer be around in their original form, their leg
 
 **Short answer: Nope. But there are alternatives.**
 
-Pex and Moles were designed for .NET Framework (pre-.NET Core days) and **are no longer actively maintained**. If you're working with modern C# (.NET Core, .NET 5, 6, 7, or later), you'll need to use other tools.
+Pex and Moles were designed for .NET Framework (pre-.NET Core days) and **are no longer actively maintained**.
+
+If you're working with modern C# (.NET Core, .NET 5, 6, 7, or later), you'll need to use other tools.
 
 ### **Alternatives to Pex**
 
-Pex's core idea—automated test generation—lives on in a tool called **Microsoft IntelliTest**, which is available in some versions of Visual Studio Enterprise. IntelliTest does what Pex did: analyzes your code and generates unit tests automatically.
+Pex's core idea—automated test generation—lives on in a tool called **Microsoft IntelliTest**, which is available in some versions of Visual Studio Enterprise.
+
+IntelliTest does what Pex did: analyzes your code and generates unit tests automatically.
 
 If you want something open-source, check out:
 
@@ -144,5 +169,3 @@ Basically, if you need **static method mocking** like Moles did, **Microsoft Fak
 * **IntelliTest**: The modern successor to Pex for automated test case generation.
 
 If you’re writing **modern** .NET tests, you’ll want to look into **Microsoft Fakes, IntelliTest, Moq, and JustMock** to get the same benefits Pex and Moles provided.
-
-Now, go forth and mock everything! (In your code, not in real life... unless you're feeling particularly sarcastic today.)

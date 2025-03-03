@@ -18,8 +18,8 @@ tags:
   - API
   - Governance
 draft: false
-weight: 528
-lastmod: 2025-02-26T11:08:19.729Z
+weight: 68
+lastmod: 2025-03-03T17:16:24.744Z
 ---
 One of the **biggest questions** you need to answer when starting an OpenAPI project is:
 

@@ -1,7 +1,7 @@
 ---
 title: 10 Reasons JavaScript is WEIRD
 description: Like really weird..
-slug: 10-reasons-javascript-is-insane
+slug: 10-reasons-javascript-is-weird
 date: 2009-09-15
 image: post/Articles/IMAGES/watermelonguy-trimmed.jpg
 categories:
@@ -14,8 +14,8 @@ tags:
   - Programming
   - WebDevelopment
 draft: false
-weight: 387
-lastmod: 2025-02-09T22:27:22.038Z
+weight: 27
+lastmod: 2025-03-03T13:56:44.128Z
 ---
 # 10 Reasons JavaScript is Weird
 

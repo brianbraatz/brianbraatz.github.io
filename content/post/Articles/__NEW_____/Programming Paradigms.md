@@ -3,7 +3,7 @@ title: Programming Paradigms Explored
 description: Object Orientated vs Functional vs Asynchronous va Recursive vs Parallel
 slug: programming-paradigms
 date: 0216-12-15
-image: post/Articles/IMAGES/CPU-High.png
+image: post/Articles/IMAGES/cautionthisissparta.png
 categories:
   - Design Patterns
 tags:
@@ -14,8 +14,8 @@ tags:
   - Learning
   - Paradigms
 draft: false
-weight: 289
-lastmod: 2025-03-03T00:10:40.626Z
+weight: 589
+lastmod: 2025-03-03T12:40:57.487Z
 ---
 ## The Procedural Predicament
 

@@ -20,8 +20,8 @@ tags:
   - SQL
   - C#
 draft: "False"
-weight: "364"
-lastmod: 2025-03-03T00:27:20.282Z
+weight: "64"
+lastmod: 2025-03-03T15:03:44.538Z
 ---
 # What Are ORMs and How Do They Work?
 

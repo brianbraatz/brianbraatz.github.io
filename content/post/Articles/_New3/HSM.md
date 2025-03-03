@@ -29,8 +29,8 @@ tags:
   - Code
   - Examples
 draft: false
-weight: 480
-lastmod: 2025-02-11T02:54:38.799Z
+weight: 180
+lastmod: 2025-03-03T17:22:47.775Z
 ---
 <!-- 
 # Hierarchical State Machines, History, Understanding How They Work, Comparison to Finite State Machines with Code Examples in Go, Python, C#, and C++

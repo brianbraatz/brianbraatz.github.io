@@ -13,14 +13,16 @@ tags:
   - XML
   - Transformation
   - XSLT
-  - Data Conversion
+  - Data
+  - Conversion
   - HTML
   - Schema
   - Formatting
-  - Text Conversion
+  - Text
+  - Conversion
 draft: false
-weight: 238
-lastmod: 2025-02-27T18:11:30.257Z
+weight: 58
+lastmod: 2025-03-03T14:42:44.732Z
 ---
 # XSLT - Advanced XML Transformations
 

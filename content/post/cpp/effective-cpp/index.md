@@ -13,8 +13,8 @@ tags:
   - Mentoring
   - Cross-Platform
   - DesignPatterns
-weight: 8
-lastmod: 2025-02-09T23:22:09.014Z
+weight: 21
+lastmod: 2025-03-03T16:15:01.848Z
 ---
 <!--- 
 image embed

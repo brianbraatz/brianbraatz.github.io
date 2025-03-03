@@ -12,15 +12,20 @@ categories:
   - Business Apps
   - Workflow Automation
 tags:
-  - Power Apps
-  - Microsoft Flow
-  - Power Automate
+  - Power
+  - Apps
+  - Microsoft
+  - Flow
+  - Power
+  - Automate
   - Low-Code
-  - Business Apps
-  - Workflow Automation
+  - Business
+  - Apps
+  - Workflow
+  - Automation
 draft: false
-weight: 689
-lastmod: 2025-02-28T18:10:57.346Z
+weight: 52
+lastmod: 2025-03-03T15:43:33.096Z
 ---
 I've been using **Microsoft Flow** for a few years now, and it's been a good ride...
 

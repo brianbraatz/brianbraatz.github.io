@@ -18,9 +18,9 @@ tags:
   - WebDevelopment
   - Javascript
   - MVVM
-weight: 21
+weight: 121
 draft: false
-lastmod: 2025-02-28T03:17:19.072Z
+lastmod: 2025-03-03T16:15:57.092Z
 ---
 ### 1. Why were client-side frameworks like Angular introduced?
 

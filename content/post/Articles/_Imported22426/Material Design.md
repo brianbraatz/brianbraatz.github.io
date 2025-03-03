@@ -3,7 +3,7 @@ title: Material Design in a Nutshell
 description: ""
 slug: material-design-nutshell
 date: 2016-07-03
-image: post/Articles/IMAGES/46.jpg
+image: post/Articles/IMAGES/materialdesign.png
 categories:
   - Material Design
   - Web Frameworks
@@ -12,8 +12,10 @@ categories:
   - Angular
   - React
 tags:
-  - Material Design
-  - Web Frameworks
+  - Material
+  - Design
+  - Web
+  - Frameworks
   - WPF
   - MAUI
   - Angular
@@ -22,7 +24,7 @@ tags:
   - History
 draft: false
 weight: 461
-lastmod: 2025-02-24T15:10:32.183Z
+lastmod: 2025-03-03T12:47:59.579Z
 ---
 <!-- 
 # The Wild World of Material Design: From History to Modern Frameworks

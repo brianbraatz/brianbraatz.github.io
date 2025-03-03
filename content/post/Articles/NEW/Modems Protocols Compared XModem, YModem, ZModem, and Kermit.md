@@ -28,8 +28,8 @@ tags:
   - Window
   - Protocol
 draft: false
-weight: 342
-lastmod: 2025-03-03T00:14:45.831Z
+weight: 80
+lastmod: 2025-03-03T14:52:49.066Z
 ---
 # Modems & File Transfer Protocols: XModem, YModem, ZModem, and Kermit
 

@@ -22,8 +22,8 @@ tags:
   - Query
   - Optimization
 draft: false
-weight: 201
-lastmod: 2025-02-11T02:32:44.729Z
+weight: 62
+lastmod: 2025-03-03T14:41:06.995Z
 ---
 <!-- >
 # SQL Subselects and GROUP BY Explained: The History, Motivation, and How They Work

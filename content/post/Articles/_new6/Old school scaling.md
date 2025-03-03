@@ -32,8 +32,8 @@ tags:
   - Performance
   - Optimization
 draft: false
-weight: 425
-lastmod: 2025-02-10T15:45:23.795Z
+weight: 28
+lastmod: 2025-03-03T13:45:59.675Z
 ---
 <!--
 # How We Used to Scale Websites and App Services: A Deep Dive into Pre-Cloud Scaling Methods

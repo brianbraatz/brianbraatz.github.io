@@ -18,8 +18,8 @@ tags:
   - Best
   - Practices
 draft: false
-weight: 920
-lastmod: 2025-02-16T22:08:44.460Z
+weight: 58
+lastmod: 2025-03-03T15:08:03.447Z
 ---
 # Kubernetes Secrets: A Complete Guide with Code Examples
 

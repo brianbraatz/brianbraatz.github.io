@@ -24,8 +24,8 @@ tags:
   - Microservices
   - Kubernetes
 draft: false
-weight: 1020
-lastmod: 2025-03-03T00:10:00.493Z
+weight: 44
+lastmod: 2025-03-03T14:32:18.337Z
 ---
 <!--
 # Handling Rate Limiting for Websites vs APIs: Best Practices and Code Examples

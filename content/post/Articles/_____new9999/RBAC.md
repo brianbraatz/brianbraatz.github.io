@@ -20,8 +20,8 @@ tags:
   - Best
   - Practices
 draft: false
-weight: 930
-lastmod: 2025-02-16T22:08:44.513Z
+weight: 68
+lastmod: 2025-03-03T15:08:24.147Z
 ---
 <!-- 
 # Enforcing Role-Based Access Control (RBAC) in Kubernetes: A Complete Guide

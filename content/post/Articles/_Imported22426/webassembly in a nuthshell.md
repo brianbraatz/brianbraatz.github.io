@@ -15,7 +15,7 @@ tags:
   - Browser
   - Programming
 draft: false
-weight: 324
+weight: 38
 lastmod: 2025-02-24T10:47:56.010Z
 ---
 # Deep Dive into WebAssembly

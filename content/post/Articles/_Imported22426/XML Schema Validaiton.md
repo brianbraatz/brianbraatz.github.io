@@ -23,8 +23,8 @@ tags:
   - Examples
   - Programming
 draft: false
-weight: 357
-lastmod: 2025-02-27T18:10:34.493Z
+weight: 71
+lastmod: 2025-03-03T14:58:31.383Z
 ---
 # Advanced XML Schema Validation
 

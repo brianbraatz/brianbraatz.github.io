@@ -3,7 +3,7 @@ title: Kibana in a nutshell
 description: Bring on the fancy graphs!
 slug: kibana-nutshell
 date: 2018-06-14
-image: post/Articles/IMAGES/39.jpg
+image: post/Articles/IMAGES/kinaba.png
 categories:
   - Elasticsearch
   - Logging
@@ -22,7 +22,7 @@ tags:
   - Dashboards
 draft: false
 weight: 482
-lastmod: 2025-02-24T15:26:03.560Z
+lastmod: 2025-03-03T12:55:26.152Z
 ---
 Kibana! If you've ever dealt with logs and dashboards, you've probably heard of it.\
 Or at least, you've been forced to use it while trying to impress your boss with fancy graphs.

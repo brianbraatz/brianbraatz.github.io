@@ -1,7 +1,7 @@
 ---
-title: "Defending Against Attacks: Comparing CDN Protection, WAFs, and Machine Learning-Based Anomaly Detection"
+title: Defending Against Attacks
 description: "Defending Against Attacks: Comparing CDN Protection, WAFs, and Machine Learning-Based Anomaly Detection"
-slug: defending-against-attacks-comparing-cdn-protection-wafs-and-machine-learning-based-anomaly-detection
+slug: defending-against-attacks
 date: 2020-06-14
 image: post/Articles/IMAGES/snape.jpg
 categories:
@@ -30,12 +30,20 @@ tags:
   - Attack
   - Prevention
 draft: false
-weight: 312
-lastmod: 2025-02-16T00:43:44.055Z
+weight: 22
+lastmod: 2025-03-03T14:20:53.382Z
 ---
+<!--
 # Defending Against Attacks: Comparing CDN Protection, WAFs, and Machine Learning-Based Anomaly Detection
+-->
 
-So, you’ve got your rate limiting in place—great! But what happens when the bad guys turn it up to **11** and flood your system with a full-on attack? You need stronger defenses. Let’s talk about the **three main ways** to shield your app from cyber mayhem:
+So, you’ve got your rate limiting in place—great!
+
+But what happens when the bad guys turn it up to **11** and flood your system with a full-on attack?
+
+You need stronger defenses.
+
+Let’s talk about the **three main ways** to shield your app from Dark-Arts cyber mayhem:
 
 1. **CDN Protection** – Offload traffic to giant global networks like Cloudflare, Akamai, or AWS Shield.
 2. **Web Application Firewalls (WAFs)** – Filter out malicious requests before they reach your app.

@@ -1,6 +1,6 @@
 ---
 title: How Memory Paging Worked on Older Computers
-slug: Paging
+slug: mem-Paging
 date: 2014-02-23
 description: A deep dive into how early computers managed memory using paging, overcoming hardware limitations and paving the way for modern virtual memory systems.
 tags:
@@ -25,14 +25,18 @@ categories:
   - Linker Errors
   - CPP
 draft: false
-weight: 562
-lastmod: 2025-03-03T00:25:06.295Z
+weight: 40
+image: post/Articles/IMAGES/Oldbook.png
+lastmod: 2025-03-03T15:28:17.899Z
 ---
-## Introduction
+Back in the early days of computing, memory was **precious and extremely limited**.
 
-Back in the early days of computing, memory was **precious and extremely limited**. The introduction of **memory paging** was a game-changer, allowing computers to do more with less and laying the groundwork for modern virtual memory systems.
+The introduction of **memory paging** was a game-changer, allowing computers to do more with less and laying the groundwork for modern virtual memory systems.
 
-In this article, we’ll explore how **memory paging worked on older computers**, from the 8086 days to the rise of the 80386 and beyond. We’ll also take a look at how clever engineers used paging to **break through memory limitations**, enabling multitasking, larger applications, and better system stability.
+In this post, we’ll explore how **memory paging worked on older computers**, from the 8086 days to the rise of the 80386 and beyond.
+
+<!-- We’ll also take a look at how clever engineers used paging to **break through memory limitations**, enabling multitasking, larger applications, and better system stability.
+-->
 
 ## The Problem: Memory Limitations
 

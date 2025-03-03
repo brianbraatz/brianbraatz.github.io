@@ -16,8 +16,8 @@ tags:
   - Linux
   - Cloud
 draft: false
-weight: 574
-lastmod: 2025-03-02T23:13:02.393Z
+weight: 54
+lastmod: 2025-03-03T17:08:13.938Z
 ---
 # **Which Linux Should You Use for Docker Containers on AWS?**
 

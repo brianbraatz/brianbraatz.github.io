@@ -14,8 +14,8 @@ categories:
   - CI\CD
 tags: 
 draft: false
-weight: 219
-lastmod: 2025-02-11T13:18:45.930Z
+weight: 51
+lastmod: 2025-03-03T14:41:46.078Z
 ---
 <!-- 
 # How to Move a legacy IIS app to the AWS Cloud with Beanstalk, App runner and docker

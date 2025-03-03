@@ -1,9 +1,9 @@
 ---
 title: Handling Rate Limiting When Large User Pools or Countries Are Behind a Firewall
-description: Handling Rate Limiting When Large User Pools or Countries Are Behind a Firewall
+description: 
 slug: handling-rate-limiting-large-user-pools
 date: 2022-12-05
-image: post/Articles/IMAGES/ddos.png
+image: post/Articles/IMAGES/crowdedchinapool.png
 categories:
   - Kubernetes
   - Security
@@ -23,8 +23,10 @@ tags:
   - Firewall
 draft: false
 weight: 1010
-lastmod: 2025-02-16T22:08:44.566Z
+lastmod: 2025-03-03T13:24:05.718Z
 ---
+[Swimmers  in crowded China pool](https://www.nbcnews.com/news/photo/swimmers-look-bowl-fruit-loops-crowded-china-pool-flna953892)
+
 # Handling Rate Limiting When Large User Pools or Countries Are Behind a Firewall
 
 **Rate limiting is a crucial defense mechanism** against **DDoS attacks, API abuse, and server overloads**. But what happens when **millions of legitimate users**—such as **an entire country, university, or corporate network**—are behind **a shared IP due to a firewall or NAT (Network Address Translation)?**

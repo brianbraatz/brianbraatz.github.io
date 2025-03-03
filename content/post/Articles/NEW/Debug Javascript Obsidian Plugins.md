@@ -17,8 +17,8 @@ tags:
   - JavaScript
   - Typescript
 draft: false
-weight: 30
-lastmod: 2025-02-17T01:54:51.581Z
+weight: 70
+lastmod: 2025-03-03T16:18:11.698Z
 ---
 # Debugging Obsidian Plugins Like a Pro (Or At Least Like Someone Who Knows Where the Console Is)
 

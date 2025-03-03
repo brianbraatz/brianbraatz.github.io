@@ -1,7 +1,7 @@
 ---
 title: HTTPS in a Nutshell
 description: How HTTPS works
-slug: how-the-https-network-protocol-works:-history-relationship-to-alternatives-and-10-code-examples
+slug: https-nutshell
 date: 2022-09-02
 image: post/Articles/IMAGES/https.png
 categories:
@@ -25,7 +25,7 @@ tags:
   - Communication
 draft: false
 weight: 165
-lastmod: 2025-02-14T17:02:10.667Z
+lastmod: 2025-03-03T13:56:26.819Z
 ---
 <!--
 

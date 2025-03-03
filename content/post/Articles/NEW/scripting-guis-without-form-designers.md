@@ -19,8 +19,8 @@ tags:
   - Code
   - CPP
 draft: false
-weight: 450
-lastmod: 2025-02-17T01:03:49.018Z
+weight: 150
+lastmod: 2025-03-03T17:26:06.466Z
 ---
 # Scripting GUIs Without Form Designers in C\#
 

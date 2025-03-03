@@ -1,7 +1,7 @@
 ---
 title: gRPC in a Nutshell
 description: Code Examples in Python, C# and GO
-slug: grpc-in-depth-with-10-code-examples-in-python-csharp-and-go
+slug: grpc-nutshell
 date: 2021-03-22
 image: post/Articles/IMAGES/grpc.webp
 categories:
@@ -22,8 +22,8 @@ tags:
   - RPC
   - Protobuf
 draft: false
-weight: 287
-lastmod: 2025-02-14T16:47:57.688Z
+weight: 65
+lastmod: 2025-03-03T14:48:10.086Z
 ---
 ## 📜 A Quick History Lesson
 

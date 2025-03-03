@@ -18,8 +18,8 @@ tags:
   - Shell
   - Kubectl
 draft: false
-weight: 30
-lastmod: 2025-02-20T12:20:13.614Z
+weight: 110
+lastmod: 2025-03-03T16:19:30.284Z
 ---
 # How to Attach a Shell to a Pod in OpenLens
 

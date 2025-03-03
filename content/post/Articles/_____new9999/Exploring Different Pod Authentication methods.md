@@ -18,8 +18,8 @@ tags:
   - Identity
   - Management
 draft: false
-weight: 812
-lastmod: 2025-02-17T14:02:12.310Z
+weight: 26
+lastmod: 2025-03-03T17:06:27.508Z
 ---
 <!-- 
 # Setting Up Authentication and Identity Management Inside a Pod

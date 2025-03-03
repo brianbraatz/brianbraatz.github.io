@@ -19,8 +19,8 @@ tags:
   - Automation
   - DevOps
 draft: false
-weight: 287
-lastmod: 2025-02-11T13:18:45.934Z
+weight: 31
+lastmod: 2025-03-03T14:47:43.210Z
 ---
 # 8 Unusual Things You COULD Do with Infrastructure as Code
 

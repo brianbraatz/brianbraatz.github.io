@@ -15,8 +15,8 @@ tags:
   - DNS
   - WebDevelopment
 draft: false
-weight: 477
-lastmod: 2025-02-09T21:52:37.406Z
+weight: 177
+lastmod: 2025-03-03T17:24:16.943Z
 ---
 # Implementing a DNS Server in the Go Programming Language
 

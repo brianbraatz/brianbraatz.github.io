@@ -13,12 +13,13 @@ categories:
 tags:
   - CSS
   - SASS
-  - Web Development
+  - Web
+  - Development
   - SCSS
   - Preprocessor
 draft: "False"
-weight: "462"
-lastmod: 2025-03-02T23:05:35.998Z
+weight: "37"
+lastmod: 2025-03-03T17:25:11.338Z
 ---
 # SASS in a Nutshell
 

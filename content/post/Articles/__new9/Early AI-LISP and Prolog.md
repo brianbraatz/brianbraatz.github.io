@@ -29,8 +29,8 @@ tags:
   - Expert
   - Systems
 draft: false
-weight: 487
-lastmod: 2025-02-17T12:51:27.342Z
+weight: 87
+lastmod: 2025-03-03T17:21:36.831Z
 ---
 ## The Birth of AI: Enter LISP and Prolog
 

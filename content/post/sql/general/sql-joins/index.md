@@ -10,9 +10,9 @@ categories:
 tags:
   - SQL
   - Mentoring
-weight: 5
+weight: 25
 imag: cover.jpg
-lastmod: 2025-02-09T23:24:30.320Z
+lastmod: 2025-03-03T16:13:42.523Z
 ---
 Details
 

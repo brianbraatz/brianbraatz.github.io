@@ -3,7 +3,7 @@ title: Operating System Design Patterns - Processes vs Threads
 description: Understanding Why Unix And Linux Like Processes And Windows likes Threads
 slug: os-design-patterns-processes-threads
 date: 2014-12-03
-image: post/Articles/IMAGES/31.jpg
+image: post/Articles/IMAGES/fiberonecereal.png
 categories:
   - Unix
   - Linux
@@ -24,7 +24,7 @@ tags:
   - Systems
 draft: false
 weight: 387
-lastmod: 2025-03-02T23:47:51.086Z
+lastmod: 2025-03-03T12:38:30.180Z
 ---
 # Operating System Design Patterns - Processes vs Threads
 

@@ -17,12 +17,14 @@ categories:
   - Design Patterns
 tags:
   - RAII
-  - Memory Management
-  - Resource Management
+  - Memory
+  - Management
+  - Resource
+  - Management
   - Programming
 draft: false
-weight: 452
-lastmod: 2025-03-03T02:48:07.376Z
+weight: 42
+lastmod: 2025-03-03T17:25:47.139Z
 ---
 **Photographer Waits Hours To Capture The Autumn Idyll Of Squirrels Carrying A Nut Over A Lake**\
 <https://www.boredpanda.com/squirrel-animals-photography-dick-van-duijn/>

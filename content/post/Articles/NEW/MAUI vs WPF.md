@@ -1,6 +1,6 @@
 ---
 title: MAUI vs WPF
-description: Includes Side by Side code
+description: High Level Comparison
 slug: maui-vs-wpf-desktop
 date: 2022-02-20
 image: post/Articles/IMAGES/mauilogo1.png
@@ -19,8 +19,8 @@ tags:
   - Cross-platform
   - CSharp
 draft: false
-weight: 171
-lastmod: 2025-02-19T13:49:25.838Z
+weight: 61
+lastmod: 2025-03-03T14:38:56.435Z
 ---
 # MAUI vs WPF
 

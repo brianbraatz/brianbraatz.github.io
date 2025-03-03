@@ -23,8 +23,8 @@ tags:
   - PDF
   - Generation
 draft: false
-weight: 478
-lastmod: 2025-02-26T12:03:21.810Z
+weight: 104
+lastmod: 2025-03-03T17:23:09.253Z
 ---
 Swagger UI is **great** for interactive API docs, but sometimes you need a **professional PDF document**.
 

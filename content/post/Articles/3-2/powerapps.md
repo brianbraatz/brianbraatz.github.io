@@ -20,8 +20,8 @@ tags:
   - Apps
   - Alternatives
 draft: false
-weight: 289
-lastmod: 2025-03-03T01:56:38.910Z
+weight: 29
+lastmod: 2025-03-03T16:22:16.500Z
 ---
 <!-- 
 ## Microsoft Power Apps: The No-Code Superhero You Didn't Know You Needed -->

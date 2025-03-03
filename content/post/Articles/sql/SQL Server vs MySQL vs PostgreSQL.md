@@ -3,7 +3,7 @@ title: Performance? SQL Server vs MySQL vs PostgreSQL
 description: Curated list of SQL engine comparsions (includes other engines as well)
 slug: sql-performance-list
 date: 2014-05-06
-image: post/Articles/IMAGES/45.jpg
+image: post/Articles/IMAGES/flash.png
 categories:
   - SQL
   - Microsoft Sql Server
@@ -19,10 +19,12 @@ tags:
   - MySql
   - SQLPerformance
   - HammerDB
-weight: 10
+weight: 30
 draft: false
-lastmod: 2025-02-09T23:18:15.742Z
+lastmod: 2025-03-03T15:13:51.759Z
 ---
+["The Faster I Run, the More Inhuman I Become"](https://screenrant.com/flash-speed-force-secret-dark-power-transforms-speedsters/)
+
 Below is a curated list of resources comparing these engines, each accompanied by a brief summary and a link.:
 
 **You're WELCOME!**

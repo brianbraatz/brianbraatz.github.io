@@ -22,8 +22,8 @@ tags:
   - Queues
   - CSharp
 draft: false
-weight: 541
-lastmod: 2025-02-24T15:31:35.858Z
+weight: 61
+lastmod: 2025-03-03T17:11:57.049Z
 ---
 # Understanding Event-Driven Microservices with C# and Python
 

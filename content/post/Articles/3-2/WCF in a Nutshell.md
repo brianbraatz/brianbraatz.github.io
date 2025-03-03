@@ -25,8 +25,8 @@ tags:
   - SOAP
   - REST
 draft: false
-weight: 573
-lastmod: 2025-03-03T01:28:35.042Z
+weight: 73
+lastmod: 2025-03-03T17:08:36.028Z
 ---
 # WCF in a Nutshell: A Wild Ride Through Windows Communication Foundation
 

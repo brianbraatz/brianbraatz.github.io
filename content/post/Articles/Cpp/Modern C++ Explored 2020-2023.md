@@ -22,8 +22,8 @@ tags:
   - CPP
   - GoLang
 draft: false
-weight: 537
-lastmod: 2025-02-20T22:13:06.773Z
+weight: 87
+lastmod: 2025-03-03T17:14:58.396Z
 ---
 C++ has been around for so long that dinosaurs probably wrote their own game engines in it before the asteroid hit.
 

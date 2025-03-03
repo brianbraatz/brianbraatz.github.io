@@ -22,8 +22,8 @@ tags:
   - DesignPaterns
   - DesignPatterns
 draft: false
-weight: 243
-lastmod: 2025-02-19T15:30:21.097Z
+weight: 33
+lastmod: 2025-03-03T14:43:09.212Z
 ---
 # The Gang of Four Patterns Explained
 

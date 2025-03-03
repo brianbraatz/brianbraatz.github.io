@@ -23,8 +23,8 @@ tags:
   - DSS
   - Docker
 draft: false
-weight: 980
-lastmod: 2025-02-20T12:20:19.394Z
+weight: 28
+lastmod: 2025-03-03T14:33:13.858Z
 ---
 <!-- 
 # Data Masking in Kubernetes: A Complete Guide with Code Examples

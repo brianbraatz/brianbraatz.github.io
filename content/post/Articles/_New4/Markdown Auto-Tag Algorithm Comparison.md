@@ -24,8 +24,8 @@ tags:
   - Processing
   - Tagging
 draft: false
-weight: 485
-lastmod: 2025-03-03T00:11:47.966Z
+weight: 120
+lastmod: 2025-03-03T17:21:58.027Z
 ---
 # How to Auto-Tag Words in a Markdown File Using SED and AWK
 

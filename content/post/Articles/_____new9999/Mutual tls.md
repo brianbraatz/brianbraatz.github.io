@@ -20,8 +20,8 @@ tags:
   - Linkerd
   - Encryption
 draft: false
-weight: 890
-lastmod: 2025-02-16T22:08:44.480Z
+weight: 89
+lastmod: 2025-03-03T15:07:38.497Z
 ---
 <!--
 # Mutual TLS (mTLS) Explained in Detail: A Complete Guide with Code Samples

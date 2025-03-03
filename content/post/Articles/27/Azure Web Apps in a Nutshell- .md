@@ -13,12 +13,13 @@ categories:
 tags:
   - Azure
   - Cloud
-  - Web Apps
+  - Web
+  - Apps
   - Asp.net
   - Node.js
 draft: "False"
-weight: "342"
-lastmod: 2025-03-03T02:21:49.081Z
+weight: "70"
+lastmod: 2025-03-03T14:52:07.207Z
 ---
 <!-- 
 # Azure Web Apps in a Nutshell: The Good, The Bad, and The Cloudy

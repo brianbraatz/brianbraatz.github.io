@@ -1,9 +1,9 @@
 ---
 title: ETL Processing Roundup NiFi, Talend, Apache Spark, AWS Glue, and dbt
 description: 
-slug: etl-processing-roundup--comparing-apache-nifi-talend-apache-spark-aws-glue-and-dbt
+slug: etl-processing-roundup
 date: 2016-04-12
-image: post/Articles/IMAGES/44.jpg
+image: post/Articles/IMAGES/steelpipelines.png
 categories:
   - ETL
   - Data Processing
@@ -30,8 +30,8 @@ tags:
   - Data
   - Cloud
 draft: false
-weight: 274
-lastmod: 2025-02-24T14:44:46.387Z
+weight: 47
+lastmod: 2025-03-03T14:46:06.216Z
 ---
 ## ETL Processing Roundup: Who Wins the Data Battle?
 

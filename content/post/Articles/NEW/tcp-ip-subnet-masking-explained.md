@@ -1,9 +1,9 @@
 ---
 title: TCP/IP Subnet Masking Explained
-description: TCP/IP Subnet Masking Explained
+description: 
 slug: tcp-ip-subnet-masking-explained
 date: 2022-08-05
-image: post/Articles/IMAGES/16.jpg
+image: post/Articles/IMAGES/venetianmasks.png
 categories:
   - Internet standards
   - Networking
@@ -17,12 +17,16 @@ tags:
   - Addressing
   - CIDR
 draft: false
-weight: 155
-lastmod: 2025-02-14T16:24:02.633Z
+weight: 45
+lastmod: 2025-03-03T14:32:49.267Z
 ---
+The Venetian carnival tradition is most famous for its distinctive masks. Photograph by [Frank Kovalchek](https://en.wikipedia.org/wiki/File:Venice_Carnival_-_Masked_Lovers_\(2010\).jpg) via Wikimedia Commons (CC BY 2.0).
+
+[History of Venetian Carnival Masks](https://www.dailyartmagazine.com/history-of-venetian-carnival-masks/)
+
 # TCP/IP Subnet Masking Explained
 
-## A Brief (and Totally Not Boring) History of TCP/IP
+## A Brief  History of TCP/IP
 
 Back in the ancient days of the internet (a.k.a. the 1970s), a bunch of brilliant people at DARPA were trying to connect computers across different networks.
 

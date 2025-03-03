@@ -23,8 +23,8 @@ tags:
   - Tools
   - Gherkin
 draft: false
-weight: 529
-lastmod: 2025-03-03T02:38:14.077Z
+weight: 129
+lastmod: 2025-03-03T17:15:59.876Z
 ---
 This is the C# and Python Version of this Article
 

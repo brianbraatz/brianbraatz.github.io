@@ -1,7 +1,7 @@
 ---
 title: VNC in a Nutshell
 description: How to use VNC with command line cheatsheet
-slug: how-the-vnc-protocol-works:-history-relationship-to-alternatives-and-10-code-examples
+slug: vnc-protocol
 date: 2024-05-13
 image: post/Articles/IMAGES/vnc.png
 categories:
@@ -24,7 +24,7 @@ tags:
   - Virtualization
 draft: false
 weight: 376
-lastmod: 2025-02-10T18:10:24.223Z
+lastmod: 2025-03-03T15:00:20.601Z
 ---
 <!--
 # How the VNC Protocol Works: History, Relationship to Alternatives, and 10 Code Examples

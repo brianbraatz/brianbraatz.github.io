@@ -19,8 +19,8 @@ tags:
   - Inter-Thread
   - Communication
 draft: "False"
-weight: "428"
-lastmod: 2025-03-03T02:28:02.545Z
+weight: "228"
+lastmod: 2025-03-03T17:29:25.105Z
 ---
 <!-- ## Worker Threads: How They Communicate with Messages
 

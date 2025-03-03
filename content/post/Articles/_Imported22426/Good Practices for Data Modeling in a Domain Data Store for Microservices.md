@@ -23,8 +23,8 @@ tags:
   - Software
   - Architecture
 draft: false
-weight: 543
-lastmod: 2025-03-02T23:50:09.609Z
+weight: 43
+lastmod: 2025-03-03T17:11:34.083Z
 ---
 # Good Practices for Data Modeling in a Domain Data Store for Microservices
 

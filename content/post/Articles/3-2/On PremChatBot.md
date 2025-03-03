@@ -3,7 +3,7 @@ title: On-Prem AI Chatbot for PDF Search
 description: "Learn how to build a fully on-prem AI-powered chatbot "
 slug: on-prem-ai-pdf-search
 date: 2017-06-15
-image: post/Articles/omnibot2000.png
+image: post/Articles/IMAGES/omnibot2000.png
 categories:
   - AI
   - Machine Learning
@@ -18,8 +18,8 @@ tags:
   - PDF
   - Processing
 draft: false
-weight: 645
-lastmod: 2025-03-03T03:30:23.070Z
+weight: 25
+lastmod: 2025-03-03T17:06:01.074Z
 ---
 [Omnibot 2000 - Wikipedia](https://en.wikipedia.org/wiki/Omnibot)
 
@@ -2282,7 +2282,7 @@ for timestamp, response in recent_responses:
 ✅ **Now, admins can monitor chatbot performance in real-time!**  
 
 ---
-
+<!-- 
 # 🎯 What We Automated in Part 10  
 
 | Automation  | Status |
@@ -2313,11 +2313,10 @@ Stay tuned for **Part 11!** 🚀
 - [Cron Job Guide](https://crontab.guru/)  
 - [SMTP Email Alerts](https://docs.python.org/3/library/smtplib.html)  
 
---- -->
 
-\==========================
-
-Here’s **Part 11**, where we add **advanced AI features** like **memory-efficient embeddings, document summarization, and multi-document reasoning** to improve our AI chatbot. 🚀
+Here’s **Part 11**, where we add **advanced AI features** like **memory-efficient embeddings, document summarization, and multi-document reasoning** to improve our AI chatbot. 🚀  
+--- 
+-->
 
 ***
 
@@ -2762,7 +2761,7 @@ Stay tuned for **Part 13!** 🚀
 
 ---
 
-🔥 **Let me know if you want any changes before I move on to Part 13!** 🚀
+
  
   -->
 
@@ -3032,5 +3031,5 @@ Stay tuned for **Part 14!** 🚀
 
 ---
 
-🔥 **Let me know if you want any changes before I move on to Part 14!** 🚀
+
 ->

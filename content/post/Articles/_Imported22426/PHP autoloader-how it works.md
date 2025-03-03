@@ -3,7 +3,7 @@ title: How Autoloader Works in PHP
 description: And why it's important for modern PHP applications.
 slug: how-autoloader-works-in-php
 date: 2016-09-23
-image: post/Articles/IMAGES/33.jpg
+image: post/Articles/IMAGES/php.png
 categories:
   - PHP
   - Code Organization
@@ -19,7 +19,7 @@ tags:
   - Structure
 draft: false
 weight: 678
-lastmod: 2025-02-24T15:12:40.867Z
+lastmod: 2025-03-03T14:13:57.890Z
 ---
 # How Autoloader Works in PHP
 

@@ -16,10 +16,11 @@ tags:
   - Python
   - Promises
   - Threads
-  - Event Loop
+  - Event
+  - Loop
 draft: "False"
-weight: "357"
-lastmod: 2025-02-27T17:48:49.291Z
+weight: "22"
+lastmod: 2025-03-03T14:58:13.234Z
 ---
 # Understanding the Nature of Asynchronous Programming and Its Quirks and Workarounds
 

@@ -19,8 +19,8 @@ tags:
   - Performance
   - AssemblyLanguage
 draft: false
-weight: 476
-lastmod: 2025-02-17T01:55:00.072Z
+weight: 15
+lastmod: 2025-03-03T13:55:13.813Z
 ---
 # How to write a Preemptive multi-threaded OS in 8051 Assembly Language
 

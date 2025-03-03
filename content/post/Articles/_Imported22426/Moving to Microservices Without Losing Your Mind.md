@@ -1,9 +1,9 @@
 ---
 title: Moving to Microservices Without Losing Your Mind
 description: Breaking Up With Your Monolithic SQL
-slug: breaking-up-with-your-monolithic-sql-moving-to-microservices
+slug: breaking-up-monolithic-sql
 date: 2019-06-22
-image: post/Articles/IMAGES/35.jpg
+image: post/Articles/IMAGES/microservciemind.png
 categories:
   - Microservices
   - Databases
@@ -20,10 +20,9 @@ tags:
   - Systems
   - Normalization
 draft: false
-weight: 489
-lastmod: 2025-03-02T23:50:25.150Z
+weight: 109
+lastmod: 2025-03-03T17:21:16.836Z
 ---
-\
 So, you've got this gigantic, monstrous, interrelated, join-heavy, super-normalized SQL database powering your legacy monolith. And now, some wise soul has decided it's time to go all-in on microservices.
 
 **But wait!** Microservices aren’t supposed to share databases! And your data is like a clingy ex—everything is dependent on everything else. If you split it up, how will your services talk? How will you get any performance? Will your database start crying in a corner?

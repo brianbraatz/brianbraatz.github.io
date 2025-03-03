@@ -18,10 +18,10 @@ tags:
   - Cheatsheet
   - AzureCloud
   - WebDevelopment
-weight: 5
+weight: 76
 published: 2001-01-01
 draft: false
-lastmod: 2025-02-11T17:22:39.480Z
+lastmod: 2025-03-03T16:13:21.647Z
 ---
 <!-- 
 see also [DevOps Cloud Services Comparison](post/Articles/DevOps%20Cloud%20Services%20Comparison/DevOps%20Cloud%20Services%20Comparison.md)

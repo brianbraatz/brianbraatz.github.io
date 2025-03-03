@@ -3,7 +3,7 @@ title: "Tutorial: Multiplayer Game with Unity 3D and Azure Cloud- Part 2"
 description: Part 2-Set up Photon PUN with Azure and Unity. This guide covers Photon PUN’s history, sign-up process, pricing, and integrating it with Azure.
 slug: unity-tutorial-multi-player-2
 date: 2022-05-06
-image: post/Articles/IMAGES/carmangria5_wide.png
+image: post/Articles/IMAGES/carmangria5_wide.jpg
 categories:
   - Unity 3D Engine
   - CSharp
@@ -29,7 +29,7 @@ tags:
 weight: 31
 published: 2001-01-01
 draft: false
-lastmod: 2025-02-20T11:59:28.509Z
+lastmod: 2025-03-03T12:42:19.020Z
 ---
 <!-- 
 (Article Image is from my Proto game "Carmangria" - more on that here [Unity 3D Multiplayer Game Experiments](post/unity3d/unity-proto-games/index.md) )

@@ -12,9 +12,9 @@ tags:
   - Python-StandardLibrary
   - Python
   - WebDevelopment
-weight: 30
+weight: 300
 draft: false
-lastmod: 2025-02-09T23:13:20.818Z
+lastmod: 2025-03-03T14:35:57.069Z
 ---
 ![](/post/Articles/IMAGES/pythonstandardlibrary.png)
 

@@ -20,8 +20,8 @@ tags:
   - Email
   - Protocols
 draft: false
-weight: 287
-lastmod: 2025-02-14T16:54:51.335Z
+weight: 52
+lastmod: 2025-03-03T14:47:24.646Z
 ---
 # The Curious SMTP Protocol
 

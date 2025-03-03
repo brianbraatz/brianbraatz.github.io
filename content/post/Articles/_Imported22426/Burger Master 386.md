@@ -22,8 +22,8 @@ categories:
 slug: 386-enh-burger
 draft: false
 image: post/Articles/IMAGES/theBurgerMaster.png
-weight: 324
-lastmod: 2025-03-02T23:57:43.073Z
+weight: 22
+lastmod: 2025-03-03T16:21:55.740Z
 ---
 ![](/post/Articles/IMAGES/burgermaster348s.jpg)
 

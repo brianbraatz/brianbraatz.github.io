@@ -8,14 +8,16 @@ categories:
   - Programming
   - Technology
 tags:
-  - Non-blocking I/O
-  - Asynchronous Programming
+  - Non-blocking
+  - I/O
+  - Asynchronous
+  - Programming
   - Node.js
   - C#
   - Python
 draft: "False"
-weight: "342"
-lastmod: 2025-03-02T23:04:28.913Z
+weight: "34"
+lastmod: 2025-03-03T14:51:04.454Z
 ---
 <!-- # Non-Blocking I/O: The Secret Sauce Behind Snappy Applications
 

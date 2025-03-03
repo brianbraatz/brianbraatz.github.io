@@ -1,9 +1,9 @@
 ---
-title: ETL Pipeline from Scratch - Should You Roll Your Own?
-description: ETL Pipeline from Scratch - Should You Roll Your Own?
-slug: etl-pipeline-from-scratch-should-you-roll-your-own
-date: 2017-08-14
-image: post/Articles/IMAGES/37.jpg
+title: ETL Pipeline from Scratch
+description: Should You Roll Your Own? Or should you use tools like Apache NiFi, Talend, Spark, AWS Glue, or DBT
+slug: etl-pipeline-roll-your-own
+date: 2022-08-14
+image: post/Articles/IMAGES/alaskanpipeline.png
 categories:
   - ETL
   - Data Engineering
@@ -26,7 +26,7 @@ tags:
   - DBT
 draft: false
 weight: 543
-lastmod: 2025-02-24T15:31:08.689Z
+lastmod: 2025-03-03T14:01:02.955Z
 ---
 # ETL Pipeline from Scratch - Should You Roll Your Own?
 

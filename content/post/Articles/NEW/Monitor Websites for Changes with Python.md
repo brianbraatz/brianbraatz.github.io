@@ -21,8 +21,8 @@ tags:
   - WebDevelopment
   - Chrome
 draft: false
-weight: 324
-lastmod: 2025-02-25T12:55:59.083Z
+weight: 33
+lastmod: 2025-03-03T14:24:18.525Z
 ---
 # How to Monitor Websites for Changes Like a Cyber Detective
 

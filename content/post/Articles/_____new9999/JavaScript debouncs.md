@@ -1,6 +1,6 @@
 ---
-title: JavaScript Throttling and Debouncing with Lodash and Other Methods
-description: Mastering JavaScript Throttling and Debouncing with Lodash, RxJS, and Other Techniques for Performance Optimization
+title: JavaScript Throttling and Debouncing with Lodash ...
+description: 
 slug: javascript-throttling-debouncing-lodash
 date: 2023-03-10
 image: post/Articles/IMAGES/bouncingballs.png
@@ -20,20 +20,26 @@ tags:
   - Blazor
   - RxJS
 draft: false
-weight: 1040
-lastmod: 2025-02-16T22:08:44.629Z
+weight: 45
+lastmod: 2025-03-03T16:23:41.439Z
 ---
 # JavaScript Throttling and Debouncing with Lodash and Other Methods
 
-Modern web applications often suffer from **performance bottlenecks** caused by **frequent event triggers**. Scrolling, resizing, keypresses, and API calls can **overwhelm the browser and server** if not optimized properly. Enter **throttling and debouncing**—two essential techniques for **controlling the execution of functions**.
+Modern web applications often suffer from **performance bottlenecks** caused by **frequent event triggers**.
 
-By the end of this guide, you’ll understand:\
-✅ **What throttling and debouncing are and their key differences**\
-✅ **How to implement them using JavaScript, Angular, React, and Blazor**\
-✅ **How Lodash simplifies throttling and debouncing**\
-✅ **Other tools and libraries for handling performance optimizations**
+Scrolling, resizing, keypresses, and API calls can **overwhelm the browser and server** if not optimized properly
+
+. Enter **throttling and debouncing**—two essential techniques for **controlling the execution of functions**.
+
+<!-- 
+By the end of this guide, you’ll understand:
+✅ **What throttling and debouncing are and their key differences**  
+✅ **How to implement them using JavaScript, Angular, React, and Blazor**  
+✅ **How Lodash simplifies throttling and debouncing**  
+✅ **Other tools and libraries for handling performance optimizations**  
 
 Let’s boost our web app’s performance! 🚀
+-->
 
 ***
 
@@ -252,7 +258,9 @@ fromEvent(button, 'click')
 ✅ **Lodash simplifies both techniques with `_.throttle` and `_.debounce`**\
 ✅ **Use framework-specific solutions in Angular, React, and Blazor**
 
+<!-- 
 By mastering **throttling and debouncing**, we **enhance performance, prevent unnecessary processing, and create smoother user experiences**. 🚀
+-->
 
 ***
 

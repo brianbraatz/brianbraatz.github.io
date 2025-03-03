@@ -18,8 +18,8 @@ tags:
   - Smart
   - Pointers
 draft: false
-weight: 341
-lastmod: 2025-02-24T14:42:35.249Z
+weight: 45
+lastmod: 2025-03-03T14:25:33.196Z
 ---
 # Understanding RAII in C++
 

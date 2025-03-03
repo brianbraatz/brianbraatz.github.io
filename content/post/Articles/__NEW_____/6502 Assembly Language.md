@@ -23,8 +23,8 @@ tags:
   - Low-Level
   - Programming
 draft: false
-weight: 274
-lastmod: 2025-02-28T20:42:03.372Z
+weight: 45
+lastmod: 2025-03-03T14:29:41.617Z
 ---
 # 6502 Assembly Language in a Nutshell
 

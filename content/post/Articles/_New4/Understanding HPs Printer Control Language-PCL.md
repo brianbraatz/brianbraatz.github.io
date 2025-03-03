@@ -21,8 +21,8 @@ tags:
   - Postscript
   - PDF
 draft: false
-weight: 278
-lastmod: 2025-03-02T23:42:10.824Z
+weight: 31
+lastmod: 2025-03-03T14:30:19.750Z
 ---
 # Deep Dive into HP's PCL Language
 

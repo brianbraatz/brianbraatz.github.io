@@ -1,7 +1,7 @@
 ---
 title: A* search algorithm Explained
 description: With code examples in C# and Python
-slug: astar-search-algorithm-explained-in-detail-with-code-examples-in-csharp-and-python
+slug: astar-search-algorithm
 date: 2017-04-15
 image: post/Articles/IMAGES/astar.png
 categories:
@@ -17,20 +17,25 @@ categories:
   - Mobile
   - Cloud
 tags:
-  - Astar Algorithm
+  - Astar
+  - Algorithm
   - Pathfinding
-  - Manhattan Distance
+  - Manhattan
+  - Distance
   - Pathfinding
-  - Artificial Intelligence
-  - Graph Search
+  - Artificial
+  - Intelligence
+  - Graph
+  - Search
   - CSharp
   - Python
   - Algorithms
-  - Game Development
+  - Game
+  - Development
   - Optimization
 draft: false
-weight: 523
-lastmod: 2025-02-24T10:47:46.546Z
+weight: 123
+lastmod: 2025-03-03T17:16:52.288Z
 ---
 <!-- 
 # A* Search Algorithm Explained in Detail (With Code in C# and Python)

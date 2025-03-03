@@ -13,12 +13,15 @@ tags:
   - GraphQL
   - SOAP
   - REST
-  - Strangler Pattern
-  - API Migration
-  - Legacy Systems
+  - Strangler
+  - Pattern
+  - API
+  - Migration
+  - Legacy
+  - Systems
 draft: false
-weight: 289
-lastmod: 2025-02-20T23:15:12.523Z
+weight: 68
+lastmod: 2025-03-03T14:48:34.449Z
 ---
 # Deep Dive: Using GraphQL as a Middleware for Migrating SOAP to REST
 

@@ -1,6 +1,6 @@
 ---
-title: AISS Vector DB In a Nutshell
-description: ""
+title: AISS Vector DBs In a Nutshell
+description: Cheat sheet compare of Milvus, Weaviate, Qdrant, Pinecone, and FAISS for AI or Machine Learning
 slug: aiss-vector-db-nutshell
 date: 2017-06-14
 image: post/Articles/IMAGES/39.jpg
@@ -9,20 +9,25 @@ categories:
   - AI
   - Machine Learning
 tags:
-  - Vector Db
+  - Vector
+  - Db
   - AISS
-  - Machine Learning
+  - Machine
+  - Learning
   - AI
-  - Data Storage
+  - Data
+  - Storage
 draft: false
 weight: 483
-lastmod: 2025-03-02T23:11:55.351Z
+lastmod: 2025-03-03T13:10:24.425Z
 ---
 <!-- # AISS (Vector DB): In a Nutshell
 
 Alright, folks, let’s talk about AISS, the vector database that’s making waves in the AI and machine learning world. If you’re thinking, *“What in the binary hell is a vector database?”*—don’t worry. We’re about to break it down in the most digestible way possible. -->
 
 ## What Even Is AISS?
+
+Approximate Incremental Similarity Search (AISS) =  efficiently finding items in a database that are similar to a given query, especially as new data is (continuously) added.
 
 Imagine you have a massive collection of high-dimensional data—think of it like a giant library where instead of books, you have complex mathematical vectors representing images, audio, and text.
 
@@ -83,7 +88,7 @@ So, next time your AI assistant magically pulls up exactly what you need, just r
 
 ***
 
-## 🔑 Key Ideas
+## 🔑 Key Ideas Behind AISS
 
 | Concept              | Summary                                                               |
 | -------------------- | --------------------------------------------------------------------- |
@@ -92,3 +97,92 @@ So, next time your AI assistant magically pulls up exactly what you need, just r
 | **Speed**            | Uses Approximate Nearest Neighbor (ANN) search for fast retrieval.    |
 | **Use Cases**        | AI-powered search, recommendation systems, fraud detection, and more. |
 | **Indexing Methods** | HNSW, PQ, LSH help optimize search speed and accuracy.                |
+
+## Ok, so What DB Engine can I use?
+
+Approximate Incremental Similarity Search (AISS) =  efficiently finding items in a database that are similar to a given query, especially as new data is (continuously) added.
+
+While no database is explicitly branded as an "AISS database," several vector databases and libraries provide excellent support for approximate similarity search with incremental updates.
+
+## 1. Milvus
+
+![Milvus](https://tse3.mm.bing.net/th?id=OIP.SkyrIV9KnwkIZMiPqq-88QHaGi\&pid=Api)
+
+**Milvus** is an open-source vector database designed for scalable similarity search.
+
+It supports dynamic data insertion, deletion, and updates, making it good for apps requiring real-time data modifications.
+
+🔗 [Milvus](https://en.wikipedia.org/wiki/Milvus_%28vector_database%29)
+
+***
+
+## 2. Weaviate
+
+![Weaviate](https://tse2.mm.bing.net/th?id=OIP.JwpQ2ekwuqssIwr4vrQXCwHaDd\&pid=Api)
+
+**Weaviate** is an open-source, cloud-native vector database  for efficient similarity searches across different data types.
+
+Weaviate supports real-time data ingestion and has plugin\modules for specific  cases.
+
+🔗 [Weaviate](https://www.techtarget.com/searchdatamanagement/tip/Top-vector-database-options-for-similarity-searches)
+
+***
+
+## 3. Qdrant
+
+![Qdrant](https://tse2.mm.bing.net/th?id=OIP.-AJEzUHNuk5tsn7EjZTTPwHaHa\&pid=Api)
+
+**Qdrant** is a vector database built on the HNSW algorithm, providing fast cosine similarity search with high-dimensional data.\
+(COOL!)
+
+Qdrant supports real-time data insertion and deletion, to cater to apps requiring continuous data updates.
+
+🔗 [Qdrant](https://medium.com/%40akriti.upadhyay/employing-qdrantdb-to-conduct-advanced-similarity-searches-for-image-data-daf7a1f0b8b7)
+
+***
+
+## 4. Pinecone
+
+![Pinecone](https://tse3.mm.bing.net/th?id=OIP.B5l4tZg07JwKE-CcaarimwHaIT\&pid=Api)
+
+**Pinecone** is a managed vector database service that offers real-time indexing and querying of high-dimensional vectors.
+
+Pinecone handles dynamic data updates allowing for (efficient) similarity searches as new data is added.
+
+🔗 [Pinecone](https://www.techtarget.com/searchdatamanagement/tip/Top-vector-database-options-for-similarity-searches)
+
+***
+
+## 5. FAISS
+
+![FAISS](https://tse2.mm.bing.net/th?id=OIP.eiXyXG9e9xMJZG14nAGQjwHaEo\&pid=Api)
+
+**FAISS**, developed by Facebook AI, is a library for efficient similarity search and clustering of dense vectors.
+
+Really a library rather than a full-fledged database, FAISS supports various indexing methods and can be integrated into systems that require approximate similarity search with incremental data handling.
+
+🔗 [FAISS](https://github.com/facebookresearch/faiss)
+
+***
+
+## Dbs Compared
+
+| Database | Type                  | Incremental Updates | Real-Time Search | Cloud-Native |
+| -------- | --------------------- | ------------------- | ---------------- | ------------ |
+| Milvus   | Open-source vector DB | ✅                   | ✅                | ❌            |
+| Weaviate | Open-source vector DB | ✅                   | ✅                | ✅            |
+| Qdrant   | Open-source vector DB | ✅                   | ✅                | ❌            |
+| Pinecone | Managed vector DB     | ✅                   | ✅                | ✅            |
+| FAISS    | Library               | ⚠️ (Limited)        | ✅                | ❌            |
+
+***
+
+## Key Ideas of Each DB
+
+| Key Idea     | Description                                                           |
+| ------------ | --------------------------------------------------------------------- |
+| **Milvus**   | Open-source, highly scalable, supports real-time updates.             |
+| **Weaviate** | Cloud-native, supports various data types and modular extensions.     |
+| **Qdrant**   | HNSW-based, efficient similarity search, good for continuous updates. |
+| **Pinecone** | Managed, cloud-based, seamless real-time querying.                    |
+| **FAISS**    | Library for efficient similarity search, not a full database.         |

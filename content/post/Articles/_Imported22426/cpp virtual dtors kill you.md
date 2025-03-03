@@ -1,7 +1,7 @@
 ---
 title: In C++, Virtual Destructors (or Lack Thereof) Can Kill You
 description: 
-slug: in-c++-virtual-destructors-or-lack-thereof-can-kill-you
+slug: in-cpp-virtual-destructors
 date: 2018-05-05
 image: post/Articles/IMAGES/cppblue.png
 categories:
@@ -19,8 +19,8 @@ tags:
   - Inheritance
   - Bugs
 draft: false
-weight: 356
-lastmod: 2025-02-24T14:42:37.672Z
+weight: 56
+lastmod: 2025-03-03T14:57:53.337Z
 ---
 # In C++, Virtual Destructors (or Lack Thereof) Can Kill You
 

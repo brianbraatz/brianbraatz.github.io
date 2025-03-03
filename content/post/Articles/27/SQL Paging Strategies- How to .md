@@ -19,8 +19,8 @@ tags:
   - Mysql
   - Postgres
 draft: "False"
-weight: "432"
-lastmod: 2025-03-02T23:06:10.102Z
+weight: "132"
+lastmod: 2025-03-03T17:27:18.236Z
 ---
 # SQL Paging Strategies: How to Load Only What You Need
 

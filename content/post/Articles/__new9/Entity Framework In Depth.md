@@ -29,8 +29,8 @@ tags:
   - Examples
   - CSharp
 draft: false
-weight: 382
-lastmod: 2025-03-02T23:46:16.593Z
+weight: 82
+lastmod: 2025-03-03T15:04:09.752Z
 ---
 <!-- 
 # Entity Framework In Depth: 20 Code Examples, LINQ, Pros, Cons, and Alternate ORMs Explained

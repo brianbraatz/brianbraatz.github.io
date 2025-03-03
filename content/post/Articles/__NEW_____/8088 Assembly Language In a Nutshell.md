@@ -24,8 +24,8 @@ tags:
   - Programming
   - AssemblyLanguage
 draft: false
-weight: 274
-lastmod: 2025-02-28T20:41:36.298Z
+weight: 22
+lastmod: 2025-03-03T14:29:58.825Z
 ---
 # 8088 Assembly Language in a Nutshell
 

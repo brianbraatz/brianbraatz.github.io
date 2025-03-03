@@ -18,8 +18,8 @@ tags:
   - History
   - Comparison
 draft: false
-weight: 425
-lastmod: 2025-03-02T23:43:41.203Z
+weight: 825
+lastmod: 2025-03-03T17:29:47.988Z
 ---
 <!--
 # SVG in Depth - Compared to PostScript and Others (with Python Code!)

@@ -1,9 +1,9 @@
 ---
-title: Kotlin in a Nutshell with 10 Code Examples
-description: Kotlin in a Nutshell with 10 Code Examples
-slug: kotlin-in-a-nutshell-with-10-code-examples
+title: Kotlin in a Nutshell
+description: With Code Examples
+slug: kotlin-in-a-nutshell
 date: 2017-03-22
-image: post/Articles/IMAGES/41.jpg
+image: post/Articles/IMAGES/kotlin.png
 categories:
   - Programming
   - Kotlin
@@ -17,11 +17,19 @@ tags:
   - Syntax
 draft: false
 weight: 678
-lastmod: 2025-02-24T14:15:34.515Z
+lastmod: 2025-03-03T15:43:01.144Z
 ---
-# Kotlin in a Nutshell with 10 Code Examples
+Kotlin is a modern, programming language that runs on the Java Virtual Machine (JVM).
 
-Kotlin is a modern, concise, and powerful programming language that runs on the Java Virtual Machine (JVM). It’s designed to be fully interoperable with Java while improving upon its verbosity and complexity. Whether you’re developing Android apps, backend services, or even multi-platform applications, Kotlin makes your code more expressive and safer.
+It’s designed to be fully interoperable with Java while improving upon its verbosity and complexity.
+
+Think "Typescript-JavaScript" relationship... In a way
+
+Biggest thing you will notice is a much leaner syntax..
+
+<!--
+Whether you’re developing Android apps, backend services, or even multi-platform applications, Kotlin makes your code more expressive and safer.
+-->
 
 ## 1. Hello, World!
 

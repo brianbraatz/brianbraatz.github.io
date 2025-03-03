@@ -30,8 +30,8 @@ tags:
   - Data
   - Seeding
 draft: false
-weight: 530
-lastmod: 2025-02-25T12:57:55.341Z
+weight: 120
+lastmod: 2025-03-03T17:15:37.970Z
 ---
 <!--
 # In-Depth Introduction to Generating Sample Data for SQL Databases Using Faker, tSQLt, pgTAP, and More

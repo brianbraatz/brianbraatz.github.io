@@ -3,18 +3,20 @@ title: Rust Concurrency-Not All Sunshine and Rainbows
 description: Exploring how Rust truggles with irregular parallelism
 slug: rust-parallelism-challenges
 date: 2023-07-19
-image: post/Articles/IMAGES/sunshinerainbowswide.png
-categories: []
+image: post/Articles/IMAGES/sunshinerainbowsmoviewide.jpg
+categories: 
 tags:
   - Rust
   - Parallelism
   - Concurrency
-  - Thread Safety
-  - Irregular Parallelism
+  - Thread
+  - Safety
+  - Irregular
+  - Parallelism
   - Performance
 draft: false
-weight: 314
-lastmod: 2025-03-03T00:15:19.403Z
+weight: 35
+lastmod: 2025-03-03T14:23:09.743Z
 ---
 **or is it???**\
 """\

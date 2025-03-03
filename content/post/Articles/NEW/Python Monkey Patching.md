@@ -1,6 +1,6 @@
 ---
 title: "Python Monkey Patching: Hacking Your Code Like a Pro"
-description: "Python Monkey Patching: Hacking Your Code Like a Pro"
+description: 
 slug: python-monkey-patching-hacking-your-code-like-a-pro
 date: 2021-02-09
 image: post/Articles/IMAGES/mokeytooltrimmed.png
@@ -21,9 +21,11 @@ tags:
   - Metaprogramming
 draft: false
 weight: 104
-lastmod: 2025-02-09T23:05:17.001Z
+lastmod: 2025-03-03T11:34:21.989Z
 ---
+<!-- 
 # Python Monkey Patching: Hacking Your Code Like a Pro
+-->
 
 ## Introduction
 

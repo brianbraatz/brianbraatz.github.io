@@ -14,11 +14,14 @@ tags:
   - SPFx
   - SharePoint
   - PowerApps
-  - Power Automate
-  - Microsoft Graph API
+  - Power
+  - Automate
+  - Microsoft
+  - Graph
+  - API
 draft: false
-weight: 857
-lastmod: 2025-02-28T20:47:21.232Z
+weight: 37
+lastmod: 2025-03-03T15:09:59.457Z
 ---
 # **What is SPFx (SharePoint Framework)?**
 

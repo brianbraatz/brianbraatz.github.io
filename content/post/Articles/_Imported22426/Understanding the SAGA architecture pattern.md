@@ -1,6 +1,6 @@
 ---
 title: Understanding the SAGA architecture pattern
-description: Understanding the SAGA architecture pattern
+description: To manage distributed transactions in microservices
 slug: understanding-saga
 date: 2017-08-14
 image: post/Articles/IMAGES/38.jpg
@@ -14,11 +14,12 @@ tags:
   - Saga
   - Microservices
   - Architecture
-  - Distributed Systems
+  - Distributed
+  - Systems
   - Event-driven
 draft: false
-weight: 573
-lastmod: 2025-02-24T15:18:36.337Z
+weight: 7
+lastmod: 2025-03-03T17:09:26.953Z
 ---
 ## What the Heck is SAGA? 🤔
 

@@ -24,12 +24,12 @@ tags:
   - CI/CD
   - DevOps
 draft: false
-weight: 500
-lastmod: 2025-03-03T00:14:22.498Z
+weight: 40
+lastmod: 2025-03-03T17:19:41.210Z
 ---
 # Infrastructure as Code (IaC) Demystified
 
-## A Brief (and Slightly Entertaining) History of IaC
+## A Brief History of IaC
 
 Once upon a time, in the wild west of software development, deploying infrastructure was a manual nightmare.
 

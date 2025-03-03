@@ -29,8 +29,8 @@ tags:
   - Windows
   - History
 draft: false
-weight: 342
-lastmod: 2025-02-25T12:26:46.853Z
+weight: 71
+lastmod: 2025-03-03T14:52:27.574Z
 ---
 Ah, Windows NT. The good ol' days of the 90s when Microsoft was figuring out how to build an operating system that wouldn’t crash when you sneezed on it.
 

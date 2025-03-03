@@ -27,8 +27,8 @@ tags:
   - Unit
   - Testing
 draft: false
-weight: 444
-lastmod: 2025-03-03T02:31:45.170Z
+weight: 31
+lastmod: 2025-03-03T13:47:15.316Z
 ---
 [Animal training - Wikipedia](https://en.wikipedia.org/wiki/Animal_training)
 

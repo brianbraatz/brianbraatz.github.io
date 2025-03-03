@@ -3,7 +3,7 @@ title: C++ Static vs Dynamic Linking on Windows and Linux
 description: C++ Static vs Dynamic Linking on Windows and Linux
 slug: cpp-static-vs-dynamic-linking-on-windows-and-linux
 date: 2019-06-08
-image: post/Articles/IMAGES/33.jpg
+image: post/Articles/IMAGES/downydryer.png
 categories:
   - C++
   - Static Linking
@@ -17,19 +17,26 @@ categories:
   - Build Systems
 tags:
   - C++
-  - Static Linking
-  - Dynamic Linking
+  - Static
+  - Linking
+  - Dynamic
+  - Linking
   - Windows
   - Linux
-  - DLL Hell
-  - Shared Libraries
+  - DLL
+  - Hell
+  - Shared
+  - Libraries
   - GPL
   - Versioning
-  - Build Systems
+  - Build
+  - Systems
 draft: false
-weight: 251
-lastmod: 2025-02-24T14:15:34.647Z
+weight: 48
+lastmod: 2025-03-03T14:43:50.343Z
 ---
+[How To prevent Static Cling :) ](https://downy.com/en-us/fabric-softener-tips/how-to-use-downy/how-to-use-dryer-sheets)
+
 ## Static vs Dynamic Linking: The Basics
 
 ### Static Linking

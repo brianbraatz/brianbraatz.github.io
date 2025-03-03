@@ -12,9 +12,9 @@ tags:
   - Regex
   - Scripting
 draft: false
-weight: 28
+weight: 98
 description: Perl And Regex Explained
-lastmod: 2025-02-10T17:14:52.064Z
+lastmod: 2025-03-03T16:17:47.524Z
 ---
 ![Perl Logo](https://cdn.perl.org/perlweb/images/icons/header_camel.png)
 

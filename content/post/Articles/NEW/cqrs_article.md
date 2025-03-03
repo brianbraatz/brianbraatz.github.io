@@ -22,8 +22,8 @@ tags:
   - MVC
   - Java
 draft: false
-weight: 347
-lastmod: 2025-03-02T23:40:43.236Z
+weight: 58
+lastmod: 2025-03-03T14:55:27.838Z
 ---
 [Norman Rockwell - Wikipedia](https://en.wikipedia.org/wiki/Norman_Rockwell)
 

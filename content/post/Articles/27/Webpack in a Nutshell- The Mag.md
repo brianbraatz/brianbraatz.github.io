@@ -1,6 +1,6 @@
 ---
-title: Webpack in a Nutshell- The Magic Behind Modern JavaScript Bundling
-description: Webpack in a Nutshell- The Magic Behind Modern JavaScript Bundling
+title: Webpack in a Nutshell
+description: The Magic Behind Modern JavaScript Bundling
 slug: webpack-in-a-nutshell
 date: 2018-09-14
 image: post/Articles/IMAGES/webpack.jpg
@@ -17,8 +17,8 @@ tags:
   - Frontend
   - Development
 draft: "False"
-weight: "346"
-lastmod: 2025-02-27T17:50:03.102Z
+weight: "56"
+lastmod: 2025-03-03T14:54:43.628Z
 ---
 # Webpack in a Nutshell: The Magic Behind Modern JavaScript Bundling
 

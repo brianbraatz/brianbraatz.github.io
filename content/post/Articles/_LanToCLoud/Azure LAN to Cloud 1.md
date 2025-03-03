@@ -51,8 +51,8 @@ tags:
   - Notifications
   - CICD
 draft: false
-weight: 8
-lastmod: 2025-02-20T23:16:40.955Z
+weight: 78
+lastmod: 2025-03-03T16:14:01.285Z
 ---
 <!-- # Azure LAN to Cloud: Part 1 - Project Vision and Goals
 -->

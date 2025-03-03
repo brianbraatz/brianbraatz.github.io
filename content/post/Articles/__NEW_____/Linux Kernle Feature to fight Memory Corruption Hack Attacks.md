@@ -12,13 +12,14 @@ tags:
   - Linux
   - Security
   - Mseal
-  - Memory Corruption
+  - Memory
+  - Corruption
   - Syscall
   - Kernel
   - Cybersecurity
 draft: false
-weight: 287
-lastmod: 2025-02-20T11:37:36.339Z
+weight: 61
+lastmod: 2025-03-03T14:46:43.696Z
 ---
 # How Hackers Used Memory Corruption to Break Into Systems
 

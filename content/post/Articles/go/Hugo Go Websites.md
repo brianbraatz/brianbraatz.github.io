@@ -15,8 +15,8 @@ tags:
   - WebDevelopment
   - Javascript
 draft: false
-weight: 30
-lastmod: 2025-02-09T21:48:02.593Z
+weight: 130
+lastmod: 2025-03-03T16:19:00.818Z
 ---
 [Hugo](https://gohugo.io/)
 

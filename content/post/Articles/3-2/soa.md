@@ -17,8 +17,8 @@ tags:
   - SOA
   - Microservices
 draft: false
-weight: 452
-lastmod: 2025-03-03T02:49:03.002Z
+weight: 33
+lastmod: 2025-03-03T13:47:58.669Z
 ---
 Employees behind the counter serving a line of customers at a McDonald's\
 https://www.loc.gov/resource/ppmsca.56544/\

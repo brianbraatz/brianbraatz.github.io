@@ -11,9 +11,9 @@ tags:
   - Regex
   - Scripting
 draft: false
-weight: 26
+weight: 106
 description: Regex Cheat Sheet
-lastmod: 2025-02-09T23:12:49.576Z
+lastmod: 2025-03-03T16:17:26.781Z
 ---
 ![Perl Logo](https://cdn.perl.org/perlweb/images/icons/header_camel.png)
 

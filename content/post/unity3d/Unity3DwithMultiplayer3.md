@@ -3,7 +3,7 @@ title: "Tutorial: Multiplayer Game with Unity 3D and Azure Cloud- Part 3"
 description: Part 3- Hooking it all together
 slug: unity-tutorial-multi-player-3
 date: 2022-05-06
-image: post/Articles/IMAGES/carmangria4_wide.png
+image: post/Articles/IMAGES/carmangria4_wide.jpg
 categories:
   - Unity 3D Engine
   - CSharp
@@ -29,7 +29,7 @@ tags:
 weight: 41
 published: 2001-01-01
 draft: false
-lastmod: 2025-02-20T11:45:11.705Z
+lastmod: 2025-03-03T12:24:03.066Z
 ---
 # Multiplayer Unity 3D With Azure: Hooking It All Up and Making It Work
 

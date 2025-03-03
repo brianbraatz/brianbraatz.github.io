@@ -18,8 +18,8 @@ tags:
   - Image
   - Formats
 draft: false
-weight: 342
-lastmod: 2025-02-17T13:32:26.336Z
+weight: 46
+lastmod: 2025-03-03T14:25:53.588Z
 ---
 Check out:\
 **Blocking effect after re-constructuring the image.  - Jpeg compression**\

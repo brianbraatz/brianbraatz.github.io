@@ -25,8 +25,8 @@ tags:
   - Evolution
   - DevOps
 draft: false
-weight: 368
-lastmod: 2025-03-03T02:03:18.921Z
+weight: 90
+lastmod: 2025-03-03T15:04:26.445Z
 ---
 <!-- 
 # How to Use Database Migrations (Flyway, Liquibase, Entity Framework Migrations, and Custom Scripts) to Evolve Schemas Smoothly

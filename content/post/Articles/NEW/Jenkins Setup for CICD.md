@@ -26,8 +26,8 @@ tags:
   - Microservice
   - DevOps
 draft: false
-weight: 181
-lastmod: 2025-03-03T00:14:28.097Z
+weight: 61
+lastmod: 2025-03-03T14:40:23.662Z
 ---
 ## A Brief History of Jenkins
 

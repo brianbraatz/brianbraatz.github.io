@@ -12,9 +12,9 @@ tags:
   - Docker
   - DockerFile
   - WebDevelopment
-weight: 10
+weight: 150
 draft: false
-lastmod: 2025-02-09T21:46:51.790Z
+lastmod: 2025-03-03T16:18:40.610Z
 ---
 ### Dockerfile Cheatsheet
 

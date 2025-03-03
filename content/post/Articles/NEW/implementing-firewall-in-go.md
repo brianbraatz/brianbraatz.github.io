@@ -16,8 +16,8 @@ tags:
   - Security
   - DNS
 draft: false
-weight: 477
-lastmod: 2025-02-14T16:23:28.314Z
+weight: 110
+lastmod: 2025-03-03T17:23:45.683Z
 ---
 ## A Brief History of Go (Because Why Not?)
 

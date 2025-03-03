@@ -30,8 +30,8 @@ tags:
   - CSharp
   - Dapper
 draft: false
-weight: 431
-lastmod: 2025-02-11T22:22:26.322Z
+weight: 29
+lastmod: 2025-03-03T13:46:30.462Z
 ---
 <!-- 
 # Web Security: How SQL Injection Attacks Work

@@ -32,8 +32,8 @@ tags:
   - as
   - Code
 draft: false
-weight: 250
-lastmod: 2025-03-03T00:12:26.259Z
+weight: 31
+lastmod: 2025-03-03T14:43:31.082Z
 ---
 # How I Took a Legacy App from Bare Metal to AWS
 

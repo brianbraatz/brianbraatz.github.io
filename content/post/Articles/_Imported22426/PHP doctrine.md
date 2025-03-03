@@ -3,7 +3,7 @@ title: PHP Doctrine in a Nutshell
 description: A concise guide to PHP Doctrine, an Object-Relational Mapper (ORM) for database interactions.
 slug: php-doctrine-in-a-nutshell
 date: 2018-02-11
-image: post/Articles/IMAGES/32.jpg
+image: post/Articles/IMAGES/php.png
 categories:
   - PHP
   - Database
@@ -18,10 +18,11 @@ tags:
   - Databases
   - Entities
   - Repositories
-  - Doctrine Migrations
+  - Doctrine
+  - Migrations
 draft: false
 weight: 487
-lastmod: 2025-02-28T03:25:34.342Z
+lastmod: 2025-03-03T13:11:31.957Z
 ---
 # PHP Doctrine in a Nutshell
 

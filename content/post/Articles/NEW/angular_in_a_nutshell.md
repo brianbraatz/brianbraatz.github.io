@@ -19,8 +19,8 @@ tags:
   - JavaScript
   - TypeScript
 draft: false
-weight: 134
-lastmod: 2025-02-09T21:51:29.301Z
+weight: 20
+lastmod: 2025-03-03T15:05:42.636Z
 ---
 # Angular In a Nutshell
 

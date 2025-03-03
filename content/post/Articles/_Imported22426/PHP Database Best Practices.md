@@ -1,9 +1,9 @@
 ---
 title: Best Practices for PHP with Databases
-description: Best Practices for PHP with Databases
-slug: best-practices-for-php-with-databases
+description: 
+slug: hp-with-databases
 date: 2017-08-14
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/php.png
 categories:
   - PHP
   - Database
@@ -19,10 +19,12 @@ tags:
   - PDO
   - ORM
   - Optimization
-  - SQL Injection Prevention
+  - SQL
+  - Injection
+  - Prevention
 draft: false
 weight: 523
-lastmod: 2025-02-24T15:13:18.237Z
+lastmod: 2025-03-03T13:33:33.575Z
 ---
 # Best Practices for PHP with Databases
 

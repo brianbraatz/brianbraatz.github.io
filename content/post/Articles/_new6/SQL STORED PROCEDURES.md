@@ -33,8 +33,8 @@ tags:
   - Database
   - Schema
 draft: false
-weight: 106
-lastmod: 2025-02-11T14:01:54.632Z
+weight: 22
+lastmod: 2025-03-03T11:32:22.390Z
 ---
 <!--
 

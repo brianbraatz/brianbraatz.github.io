@@ -20,8 +20,8 @@ tags:
   - Windows
   - History
 draft: false
-weight: 324
-lastmod: 2025-02-17T17:11:44.457Z
+weight: 34
+lastmod: 2025-03-03T14:24:40.506Z
 ---
 # 10 Reasons Why Visual Basic 6 is Really Weird
 

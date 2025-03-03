@@ -33,8 +33,8 @@ tags:
   - Computing
   - Security
 draft: false
-weight: 439
-lastmod: 2025-02-11T15:29:03.995Z
+weight: 30
+lastmod: 2025-03-03T13:46:54.559Z
 ---
 <!--
 # Experience Building a Hybrid On-Premise Cloud Application, and How to Do It with AWS, Azure, and Google Cloud  

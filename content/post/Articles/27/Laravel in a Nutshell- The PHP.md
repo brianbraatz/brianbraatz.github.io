@@ -14,13 +14,14 @@ tags:
   - Laravel
   - Php
   - Framework
-  - Web development
+  - Web
+  - development
   - Eloquent
   - Blade
   - Routing
 draft: "False"
-weight: "346"
-lastmod: 2025-02-27T18:18:31.297Z
+weight: "61"
+lastmod: 2025-03-03T14:55:09.457Z
 ---
 <!-- 
 

@@ -9,17 +9,20 @@ categories:
   - Programming History
   - Software Development
 tags:
-  - Version Control
-  - Programming History
-  - Software Development
+  - Version
+  - Control
+  - Programming
+  - History
+  - Software
+  - Development
   - Git
   - SVN
   - Mercurial
   - CVS
   - SourceSafe
 draft: "False"
-weight: "348"
-lastmod: 2025-03-03T02:00:07.576Z
+weight: "75"
+lastmod: 2025-03-03T14:56:25.815Z
 ---
 # A Brief, Semi-Sarcastic History of Revision Control: From SourceSafe to Git
 

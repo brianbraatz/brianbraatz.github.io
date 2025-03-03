@@ -25,8 +25,8 @@ tags:
   - Docker
   - Kubernetes
 draft: false
-weight: 356
-lastmod: 2025-02-09T21:52:29.267Z
+weight: 78
+lastmod: 2025-03-03T14:57:05.639Z
 ---
 # C# Blazor Reverse Proxy Config - Apache, NGINX, Azure
 

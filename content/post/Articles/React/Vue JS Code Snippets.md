@@ -1,7 +1,7 @@
 ---
-title: Vue.JS  Code Snippet Collection
-description: Collected Bits of Vue JS Wisdom
-slug: vue-code-snippets
+title: Vue.JS  in a Nutshell
+description: Collected Bits of Vue JS Wisdom And Snippets
+slug: vue-nutshell
 date: 2020-12-15
 image: post/Articles/IMAGES/vuejs.png
 categories:
@@ -17,8 +17,8 @@ tags:
   - Coding
   - Examples
 draft: false
-weight: 700
-lastmod: 2025-03-03T00:15:14.256Z
+weight: 18
+lastmod: 2025-03-03T15:06:39.402Z
 ---
 ## A Brief History of Vue.js (How It All Began)
 

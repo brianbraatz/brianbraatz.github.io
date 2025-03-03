@@ -11,8 +11,8 @@ tags:
   - Python
   - Cheatsheet
   - WebDevelopment
-weight: 30
-lastmod: 2025-02-09T23:12:59.348Z
+weight: 135
+lastmod: 2025-03-03T16:19:50.719Z
 ---
 ### Python Cheatsheet
 

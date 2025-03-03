@@ -12,11 +12,14 @@ tags:
   - SPFx
   - SharePoint
   - React
-  - Microsoft Graph API
-  - Power Automate
+  - Microsoft
+  - Graph
+  - API
+  - Power
+  - Automate
 draft: false
-weight: 678
-lastmod: 2025-03-02T23:11:53.351Z
+weight: 11
+lastmod: 2025-03-03T16:21:15.664Z
 ---
 <!-- 
 # **10 Useful Code Examples for SPFx Development** 🚀  

@@ -25,8 +25,8 @@ tags:
   - Code
   - WebDevelopment
 draft: false
-weight: 379
-lastmod: 2025-02-25T12:55:04.973Z
+weight: 55
+lastmod: 2025-03-03T15:02:26.663Z
 ---
 # DevOps In a Nutshell
 

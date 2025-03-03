@@ -10,8 +10,10 @@ categories:
   - Big Data
 tags:
   - Aws
-  - Cloud storage
-  - Big data
+  - Cloud
+  - storage
+  - Big
+  - data
   - S3
   - Glacier
   - Efs
@@ -19,8 +21,8 @@ tags:
   - Dynamodb
   - Aurora
 draft: false
-weight: 376
-lastmod: 2025-02-27T18:28:46.955Z
+weight: 81
+lastmod: 2025-03-03T15:00:44.021Z
 ---
 # AWS Cloud Strategies and Cheatsheet for Storing Large Amounts of Publication Data 📚☁️
 

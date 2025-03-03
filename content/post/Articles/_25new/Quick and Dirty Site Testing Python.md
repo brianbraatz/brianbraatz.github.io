@@ -17,8 +17,8 @@ tags:
   - Automation
   - Web
 draft: false
-weight: 478
-lastmod: 2025-02-25T12:29:05.625Z
+weight: 178
+lastmod: 2025-03-03T17:23:29.543Z
 ---
 # Quick and Dirty Low Ceremony Website Testing with Python and Playwright
 

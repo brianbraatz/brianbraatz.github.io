@@ -1,7 +1,7 @@
 ---
 title: Exploring Lambda and Cloud Functions in GCP, AWS, & Azure Cloud
-description: Code Examples in Python and C#
-slug: exploring-lambda-and-cloud-functions-in-gcp-aws-azure-cloud
+description: CheatSheet and Code Examples in Python and C#
+slug: exploring-lambda-and-cloud-functions
 date: 2023-07-15
 image: post/Articles/IMAGES/lambcloudwide.jpg
 categories:
@@ -30,18 +30,22 @@ tags:
   - GoogleAppEngine
   - Azure-Functions
 draft: false
-weight: 256
-lastmod: 2025-02-28T03:13:11.535Z
+weight: 42
+lastmod: 2025-03-03T14:28:55.038Z
 ---
+<!-- 
 # Exploring Lambda and Cloud Functions in GCP, AWS, & Azure Cloud
+-->
 
-## What Are AWS, GCP, and Azure? A Brief History
+## A Brief History
 
+<!-- 
 Before diving into serverless computing, let’s get acquainted with the three biggest cloud platforms: **Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure**.
+-->
 
-* **Amazon Web Services (AWS)**: Launched in 2006, AWS started with Simple Storage Service (S3) and Elastic Compute Cloud (EC2). Since then, it has become the leader in cloud services, offering computing, storage, machine learning, and more.
-* **Google Cloud Platform (GCP)**: Google jumped into the cloud market in 2008, leveraging its expertise in search and infrastructure. GCP excels in AI, machine learning, and big data services.
-* **Microsoft Azure**: Initially called Windows Azure (2008), this cloud platform gained traction by integrating seamlessly with Microsoft’s enterprise tools. Azure now competes strongly with AWS in enterprise adoption.
+* **Amazon Web Services (AWS)**: Launched in 2006, AWS started with Simple Storage Service (S3) and Elastic Compute Cloud (EC2). Since then, it has become huge in services, offering computing, storage, machine learning, and more.
+* **Google Cloud Platform (GCP)**: Google jumped into the cloud market in 2008, leaning on its expertise in search. GCP offers in AI, machine learning, and big data services.
+* **Microsoft Azure**: Initially called Windows Azure (2008). Huge Surprise: (grin) this cloud platform gained traction by integrating seamlessly with Microsoft’s enterprise tools. Azure now competes strongly with AWS for enterprise business .
 
 ## What Are Lambda, Cloud Functions, and Azure Functions?
 

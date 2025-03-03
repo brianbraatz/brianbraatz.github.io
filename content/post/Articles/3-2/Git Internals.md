@@ -10,13 +10,14 @@ categories:
   - Algorithms
 tags:
   - Git
-  - Version Control
+  - Version
+  - Control
   - DAG
   - SHA-1
   - Intervals
 draft: false
-weight: 513
-lastmod: 2025-03-02T23:46:47.632Z
+weight: 13
+lastmod: 2025-03-03T14:50:32.853Z
 ---
 <!-- 
 # How Git Works Under the Hood: Intervals, Algorithms, and Code Examples -->

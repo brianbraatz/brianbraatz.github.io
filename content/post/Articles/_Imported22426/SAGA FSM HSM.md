@@ -14,15 +14,21 @@ categories:
 tags:
   - Saga
   - Microservices
-  - Finite State Machine
-  - Hierarchical State Machine
-  - Distributed Systems
+  - Finite
+  - State
+  - Machine
+  - Hierarchical
+  - State
+  - Machine
+  - Distributed
+  - Systems
   - C#
   - Python
-  - State Management
+  - State
+  - Management
 draft: false
-weight: 558
-lastmod: 2025-02-24T15:18:14.140Z
+weight: 17
+lastmod: 2025-03-03T17:10:05.444Z
 ---
 Used with Saga, **Finite State Machines (FSMs)** and **Hierarchical State Machines (HSMs)**—two powerful tools that can help structure SAGA workflows. 🚀
 

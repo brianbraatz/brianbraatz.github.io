@@ -25,9 +25,9 @@ tags:
   - Qt
   - WinAPI
 draft: false
-weight: 220
+weight: 63
 description: Old Skool Guis Explained with comparison to MFC, OWL and Qt
-lastmod: 2025-02-28T20:42:28.226Z
+lastmod: 2025-03-03T14:42:02.730Z
 ---
 <!-- 
 How to Write a Windows App in C

@@ -13,14 +13,18 @@ categories:
   - Secure Coding
 tags:
   - OWASP
-  - Web Security
+  - Web
+  - Security
   - Cybersecurity
-  - Open Source
-  - Penetration Testing
-  - Secure Coding
+  - Open
+  - Source
+  - Penetration
+  - Testing
+  - Secure
+  - Coding
 draft: false
-weight: 448
-lastmod: 2025-02-20T22:57:26.977Z
+weight: 35
+lastmod: 2025-03-03T17:26:33.794Z
 ---
 # OWASP: The Guardians of Web Application Security (and Your Sanity)
 

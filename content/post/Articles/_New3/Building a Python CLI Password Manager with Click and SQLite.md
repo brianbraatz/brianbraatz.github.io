@@ -17,8 +17,8 @@ tags:
   - Security
   - Automation
 draft: false
-weight: 346
-lastmod: 2025-02-09T20:25:34.631Z
+weight: 86
+lastmod: 2025-03-03T14:54:12.871Z
 ---
 # Building a CLI Password Manager with Click and SQLite
 

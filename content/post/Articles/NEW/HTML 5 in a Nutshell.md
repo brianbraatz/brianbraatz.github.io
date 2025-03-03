@@ -18,8 +18,8 @@ tags:
   - Html
   - Syntax
 draft: false
-weight: 476
-lastmod: 2025-02-09T22:20:19.978Z
+weight: 16
+lastmod: 2025-03-03T13:55:46.165Z
 ---
 ## A Brief History of HTML5
 

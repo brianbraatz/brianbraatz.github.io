@@ -20,8 +20,8 @@ tags:
   - Run-Length
   - Encoding
 draft: false
-weight: 345
-lastmod: 2025-02-17T13:30:36.371Z
+weight: 82
+lastmod: 2025-03-03T14:53:25.445Z
 ---
 ![](/post/Articles/IMAGES/Hookes-law-springs.png)
 

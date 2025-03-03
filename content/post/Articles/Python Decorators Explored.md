@@ -21,8 +21,8 @@ tags:
   - Authorization
   - Caching
 draft: false
-weight: 284
-lastmod: 2025-02-09T23:19:10.411Z
+weight: 44
+lastmod: 2025-03-03T14:31:15.731Z
 ---
 # Python Decorators Explored
 

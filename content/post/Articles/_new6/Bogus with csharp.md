@@ -27,8 +27,8 @@ tags:
   - Software
   - Testing
 draft: false
-weight: 471
-lastmod: 2025-03-03T00:11:52.886Z
+weight: 191
+lastmod: 2025-03-03T17:24:47.598Z
 ---
 <!--
 # In-Depth Introduction to the Bogus Library for Sample Data Generation and Unit Testing Data

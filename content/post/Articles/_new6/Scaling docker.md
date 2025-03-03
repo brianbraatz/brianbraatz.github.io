@@ -1,6 +1,6 @@
 ---
 title: Horizontally Scaling Docker Microservices
-description: in AWS, Azure, and Google Cloud
+description: Cheat sheet compare of  AWS, Azure, and Google Cloud
 slug: docker-scale-microservices
 date: 2020-12-05
 image: post/Articles/IMAGES/docker1.jpg
@@ -28,8 +28,8 @@ tags:
   - Cloud
   - Native
 draft: false
-weight: 176
-lastmod: 2025-02-10T18:00:57.623Z
+weight: 56
+lastmod: 2025-03-03T14:39:52.740Z
 ---
 <!--
 # How to Horizontally Scale Docker Microservices in AWS, Azure, and Google Cloud: Techniques and Comparisons

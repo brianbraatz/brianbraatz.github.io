@@ -18,8 +18,8 @@ tags:
   - CSharp
   - Mobile
 draft: false
-weight: 171
-lastmod: 2025-02-09T22:31:41.299Z
+weight: 43
+lastmod: 2025-03-03T14:38:09.036Z
 ---
 Both WPF and .NET MAUI offer a variety of layout panels to help you organize and arrange UI elements, but there are some differences in the specific panels available and their usage.
 

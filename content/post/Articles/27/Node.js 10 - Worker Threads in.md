@@ -1,6 +1,6 @@
 ---
-title: Node.js 10 - Worker Threads in a Nutshell
-description: Node.js 10 - Worker Threads in a Nutshell
+title: Node.js Worker Threads in a Nutshell
+description: Exploring Worker Threads in Node.js 10
 slug: nodejs-10-worker-threads-
 date: 2019-11-03
 image: post/Articles/IMAGES/nodejs.png
@@ -10,13 +10,15 @@ categories:
   - Concurrency
 tags:
   - Node.js
-  - Worker Threads
+  - Worker
+  - Threads
   - Multithreading
   - Concurrency
-  - Parallel Processing
+  - Parallel
+  - Processing
 draft: "False"
-weight: "512"
-lastmod: 2025-02-27T17:19:55.610Z
+weight: "110"
+lastmod: 2025-03-03T17:18:32.261Z
 ---
 ## Node.js 10 - Worker Threads in a Nutshell
 

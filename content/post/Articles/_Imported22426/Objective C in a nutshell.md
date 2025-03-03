@@ -1,9 +1,9 @@
 ---
-title: Objective-C in a Nutshell with 10 Code Examples
-description: Objective-C in a Nutshell with 10 Code Examples
+title: Objective-C in a Nutshell
+description: With Code Examples
 slug: objective-c-in-a-nutshell-with-10-code-examples
 date: 2015-11-03
-image: post/Articles/IMAGES/28.jpg
+image: post/Articles/IMAGES/objectivec.png
 categories:
   - Programming
   - Objective-C
@@ -20,18 +20,32 @@ tags:
   - Apple
   - NeXT
 draft: false
-weight: 721
-lastmod: 2025-02-24T15:12:12.760Z
+weight: 35
+lastmod: 2025-03-03T15:49:59.586Z
 ---
-# Objective-C in a Nutshell with 10 Code Examples
+Objective-C is an object-oriented programming language developed in the early 1980s.
 
-Objective-C is an object-oriented programming language developed in the early 1980s. It was created by Brad Cox and Tom Love and was later adopted by NeXT, the company founded by Steve Jobs after leaving Apple in 1985. When Apple acquired NeXT in 1996, Objective-C became the primary language for macOS and iOS development.
+It was created by Brad Cox and Tom Love and was later adopted by NeXT, the company founded by Steve Jobs after leaving Apple in 1985.
+
+When Apple acquired NeXT in 1996, Objective-C became the primary language for macOS and iOS development.
 
 ## A Brief History of Objective-C
 
-Objective-C was designed as an extension of the C programming language, adding Smalltalk-style messaging to bring object-oriented capabilities. It became the foundation of Apple's software ecosystem, including macOS and iOS applications, until Swift emerged as its successor in 2014.
+Objective-C was designed as an extension of the C programming language, adding Smalltalk-style messaging to bring object-oriented capabilities.
 
-NeXT played a crucial role in popularizing Objective-C through its NeXTSTEP operating system, which later evolved into macOS. Steve Jobs’ vision for a modern computing platform heavily influenced Apple's transition to macOS and iOS, solidifying Objective-C's importance for decades.
+It became the foundation of Apple's software ecosystem, including macOS and iOS applications, until Swift emerged as its successor in 2014.
+
+NeXT played a crucial role in popularizing Objective-C through its NeXTSTEP OS, which later evolved into macOS.
+
+Steve Jobs’ vision  for a modern computing platform heavily influenced Apple's transition to macOS and iOS,  making Objective-C's popular for decades.
+
+Also you will notice a lot of "NS" prefixes- Thats for NextStep..
+
+So to keep backwards compatibility , with the NextStep code.. they held on to the NS prefix for quite awhile..
+
+I guess the positive of this would be- out of the gate - when Mac OS was released- they could already leverage some of the Software Companies making NextStep apps, to make Mac OS apps..
+
+It is a little weird though.. :)
 
 ## 1. Hello, World!
 

@@ -16,8 +16,8 @@ tags:
   - Templates
   - DesignPatterns
 draft: false
-weight: 378
-lastmod: 2025-03-03T02:21:56.200Z
+weight: 26
+lastmod: 2025-03-03T13:44:26.657Z
 ---
 # Generics vs Templates: Java vs C# vs C++
 

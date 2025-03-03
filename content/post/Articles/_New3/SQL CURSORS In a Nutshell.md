@@ -19,8 +19,8 @@ tags:
   - MySQL
   - PostgreSQL
 draft: false
-weight: 354
-lastmod: 2025-02-09T20:53:27.689Z
+weight: 72
+lastmod: 2025-03-03T14:56:43.639Z
 ---
 # SQL CURSORS: The History and Motivation, Understanding How They Work
 
