@@ -26,8 +26,8 @@ categories:
   - CPP
 draft: false
 weight: 40
-image: post/Articles/IMAGES/Oldbook.png
-lastmod: 2025-03-03T15:28:17.899Z
+image: post/Articles/IMAGES/oldbook.jpg
+lastmod: 2025-03-03T18:34:21.046Z
 ---
 Back in the early days of computing, memory was **precious and extremely limited**.
 
