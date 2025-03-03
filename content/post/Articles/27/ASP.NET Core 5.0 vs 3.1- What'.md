@@ -10,17 +10,19 @@ categories:
   - Web Development
   - Cloud
 tags:
-  - Asp.net Core
+  - Asp.net
+  - Core
   - Dotnet
-  - Web Development
+  - Web
+  - Development
   - Performance
   - Upgrades
   - Csharp
   - Api
   - Middleware
 draft: "False"
-weight: "378"
-lastmod: 2025-03-02T22:48:39.679Z
+weight: "161"
+lastmod: 2025-03-03T20:59:00.443Z
 ---
 # ASP.NET Core 5.0 vs 3.1: What’s New?
 

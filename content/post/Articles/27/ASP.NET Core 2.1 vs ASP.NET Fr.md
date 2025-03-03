@@ -18,8 +18,8 @@ tags:
   - Web
   - Asp-Net
 draft: "False"
-weight: "31"
-lastmod: 2025-03-03T14:49:16.403Z
+weight: "131"
+lastmod: 2025-03-03T20:58:53.690Z
 ---
 <!-- 
 # ASP.NET Core 2.1 vs ASP.NET Framework – Key Differences and What Changed?

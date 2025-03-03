@@ -18,8 +18,8 @@ tags:
   - CPP
   - Unix
 draft: false
-weight: 3
-lastmod: 2025-03-03T17:45:34.674Z
+weight: 190
+lastmod: 2025-03-03T22:01:05.594Z
 ---
 # History of Device Drivers in Linux
 

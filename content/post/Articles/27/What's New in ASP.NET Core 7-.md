@@ -1,8 +1,8 @@
 ---
 title: What's New in ASP.NET Core 7
 description: Casual Dive into the Latest Features
-slug: whats-new-in-asp-net-core
-date: 2017-04-15
+slug: whats-new-in-asp-net-core7
+date: 2022-12-15
 image: post/Articles/IMAGES/ASP.NET_.png
 categories:
   - ASP.NET Core
@@ -24,8 +24,8 @@ tags:
   - Rate
   - Limiting
 draft: "False"
-weight: "342"
-lastmod: 2025-03-03T02:22:48.446Z
+weight: "131"
+lastmod: 2025-03-03T21:03:13.240Z
 ---
 <!-- 
 
