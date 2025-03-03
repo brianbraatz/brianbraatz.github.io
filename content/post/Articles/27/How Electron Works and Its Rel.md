@@ -1,6 +1,6 @@
 ---
-title: How Electron Works
-description: How Electron Works
+title: Electron-Node.js In a Nutshell
+description: How Electron Works-Node.js
 slug: how-electron-works
 date: 2017-08-15
 image: post/Articles/IMAGES/electronlogo.png
@@ -17,7 +17,7 @@ tags:
   - Development
 draft: "False"
 weight: "432"
-lastmod: 2025-02-27T17:12:49.995Z
+lastmod: 2025-03-02T22:56:20.881Z
 ---
 ## What the Heck is Electron?
 

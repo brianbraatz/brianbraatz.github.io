@@ -1,9 +1,9 @@
 ---
-title: A Brief, Semi-Sarcastic History of Revision Control- From SourceSafe to Git
-description: A Brief, Semi-Sarcastic History of Revision Control- From SourceSafe to Git
+title: The History of Revision Control- From SourceSafe to Git
+description: 
 slug: history-revision-control
 date: 2017-09-14
-image: post/Articles/IMAGES/git.png
+image: post/Articles/IMAGES/monkwriting.png
 categories:
   - Version Control
   - Programming History
@@ -19,7 +19,7 @@ tags:
   - SourceSafe
 draft: "False"
 weight: "348"
-lastmod: 2025-02-27T18:19:43.722Z
+lastmod: 2025-03-03T02:00:07.576Z
 ---
 # A Brief, Semi-Sarcastic History of Revision Control: From SourceSafe to Git
 
@@ -150,17 +150,19 @@ So next time you run `git push --force` and break production, take a moment to a
 
 ***
 
+<!-- 
 ## Key Ideas
 
-| Concept              | Summary                                        |
-| -------------------- | ---------------------------------------------- |
-| **SourceSafe (VSS)** | Microsoft's broken excuse for version control. |
+| Concept                     | Summary |
+|-----------------------------|---------|
+| **SourceSafe (VSS)**        | Microsoft's broken excuse for version control.
 
-RIP. |\
-\| **CVS**                     | Centralized, first step towards proper VCS, but had no atomic commits. |\
-\| **SVN**                     | Fixed CVS issues but was still centralized. |\
-\| **Mercurial**               | Good, but Git won. |\
-\| **Git**                     | The undisputed king of version control. |
+RIP. |
+| **CVS**                     | Centralized, first step towards proper VCS, but had no atomic commits. |
+| **SVN**                     | Fixed CVS issues but was still centralized. |
+| **Mercurial**               | Good, but Git won. |
+| **Git**                     | The undisputed king of version control. |
+-->
 
 ***
 
@@ -176,7 +178,3 @@ RIP. |\
 8. [Bitbucket](https://bitbucket.org/)
 
 ***
-
-There you have it!
-
-Copy, paste, and enjoy!

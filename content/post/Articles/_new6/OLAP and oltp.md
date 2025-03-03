@@ -2,7 +2,7 @@
 title: Understanding OLTP and OLAP
 description: OLTP (Online Transaction Processing) and OLAP (Online Analytical Processing)
 slug: understanding-oltp-and-olap
-date: 2024-11-14
+date: 2019-11-14
 image: post/Articles/IMAGES/olapoltp.png
 categories:
   - OLTP
@@ -28,7 +28,7 @@ tags:
   - Databases
 draft: false
 weight: 274
-lastmod: 2025-02-10T18:05:31.209Z
+lastmod: 2025-03-03T00:12:18.728Z
 ---
 <!--
 # Understanding OLTP and OLAP

@@ -20,11 +20,11 @@ tags:
   - API
   - Authentication
   - CSharp
-date: 2023-10-17
+date: 2017-10-17
 image: post/Articles/IMAGES/SharePoint.png
 draft: false
 weight: 234
-lastmod: 2025-02-28T20:47:16.513Z
+lastmod: 2025-03-03T00:10:29.520Z
 ---
 <!-- 
 # SharePoint in a Nutshell - For Software Developers

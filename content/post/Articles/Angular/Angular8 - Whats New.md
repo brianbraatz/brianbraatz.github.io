@@ -2,7 +2,7 @@
 title: Angular 8 - Whats New?
 description: Its like christmas for web UI devs...
 slug: whats-new-in-angular-8
-date: 2022-10-10
+date: 2019-10-10
 image: post/Articles/IMAGES/angular2.png
 categories:
   - HTML
@@ -17,7 +17,7 @@ tags:
   - Javascript
 draft: false
 weight: 400
-lastmod: 2025-02-20T22:24:46.725Z
+lastmod: 2025-03-03T00:12:39.945Z
 ---
 # Whats New in Angular 8?
 

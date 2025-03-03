@@ -3,7 +3,7 @@ title: Understanding How SSH Works
 description: and How to Set It Up on Windows vs Linux
 slug: understanding-sshx
 date: 2017-01-19
-image: post/Articles/IMAGES/39.jpg
+image: post/Articles/IMAGES/ssh.png
 categories:
   - SSH
   - Networking
@@ -20,7 +20,7 @@ tags:
   - Encryption
 draft: false
 weight: 339
-lastmod: 2025-02-24T15:34:54.764Z
+lastmod: 2025-03-03T02:19:57.338Z
 ---
 SSH (Secure Shell) is the magical spell that allows you to securely log into remote computers like a hacker in the movies (minus the dramatic typing and green text on black screens).
 

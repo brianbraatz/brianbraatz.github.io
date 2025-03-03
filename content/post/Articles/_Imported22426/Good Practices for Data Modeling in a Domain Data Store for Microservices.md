@@ -2,7 +2,7 @@
 title: Data Modeling for Microservices
 description: ""
 slug: data-modeling-for-microservices
-date: 2017-08-14
+date: 2019-08-14
 image: post/Articles/IMAGES/39.jpg
 categories:
   - Microservices
@@ -24,7 +24,7 @@ tags:
   - Architecture
 draft: false
 weight: 543
-lastmod: 2025-02-24T15:31:43.593Z
+lastmod: 2025-03-02T23:50:09.609Z
 ---
 # Good Practices for Data Modeling in a Domain Data Store for Microservices
 

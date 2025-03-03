@@ -9,6 +9,7 @@ categories:
   - Java
   - DevOps
   - Configuration
+  - Cloud
 tags:
   - Tomcat
   - Java
@@ -16,7 +17,7 @@ tags:
   - Configuration
 draft: "False"
 weight: "642"
-lastmod: 2025-02-27T14:25:41.213Z
+lastmod: 2025-03-02T22:47:17.620Z
 ---
 <!-- 
 ## 10 Apache Tomcat Code Snippets You Need in Your Life
@@ -234,13 +235,3 @@ Magic!
 * [Tomcat Memory Tuning](https://www.javacodegeeks.com/2013/03/tuning-jvm-tomcat-memory-settings.html)
 
 ***
-
-That's it!
-
-Hopefully, these snippets make your Tomcat experience a little less frustrating.
-
-If not, well...
-
-at least you got a laugh out of it.
-
-😆

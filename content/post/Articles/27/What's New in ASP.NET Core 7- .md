@@ -1,6 +1,6 @@
 ---
-title: What's New in ASP.NET Core 7- A Casual Dive into the Latest Features
-description: What's New in ASP.NET Core 7- A Casual Dive into the Latest Features
+title: What's New in ASP.NET Core 7
+description: Casual Dive into the Latest Features
 slug: whats-new-in-asp-net-core
 date: 2017-04-15
 image: post/Articles/IMAGES/ASP.NET_.png
@@ -9,24 +9,32 @@ categories:
   - Web Development
   - Software Updates
 tags:
-  - ASP.NET Core
-  - Web Development
+  - ASP.NET
+  - Core
+  - Web
+  - Development
   - Blazor
-  - Minimal APIs
+  - Minimal
+  - APIs
   - gRPC
   - SignalR
   - HTTP/3
-  - Output Caching
-  - Rate Limiting
+  - Output
+  - Caching
+  - Rate
+  - Limiting
 draft: "False"
 weight: "342"
-lastmod: 2025-02-27T17:57:38.074Z
+lastmod: 2025-03-03T02:22:48.446Z
 ---
+<!-- 
+
 # What's New in ASP.NET Core 7: A Casual Dive into the Latest Features
 
 Hey there, fellow code wranglers! 🎉 ASP.NET Core 7 has just dropped, and it's packed with goodies that'll make your developer heart sing.
 
 Let's take a laid-back stroll through the coolest new features, shall we?
+-->
 
 ## Servers and Runtime: Speed and Control, Baby!
 

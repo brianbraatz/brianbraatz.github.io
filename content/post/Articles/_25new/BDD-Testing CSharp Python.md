@@ -3,7 +3,7 @@ title: Testing C# and Python with Behavior-Driven Development (BDD)
 description: Quick Intro to BDD
 slug: bdd-cs-python
 date: 2019-06-22
-image: post/Articles/IMAGES/32.jpg
+image: post/Articles/IMAGES/trainbengal.png
 categories:
   - BDD
   - Testing
@@ -24,7 +24,7 @@ tags:
   - Gherkin
 draft: false
 weight: 529
-lastmod: 2025-02-25T12:52:22.388Z
+lastmod: 2025-03-03T02:38:14.077Z
 ---
 This is the C# and Python Version of this Article
 

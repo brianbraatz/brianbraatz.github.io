@@ -1,14 +1,15 @@
 ---
-title: Just-In-Time (JIT) Compilation - A Deep Dive with Humor
-description: Just-In-Time (JIT) Compilation - A Deep Dive with Humor
-slug: just-in-time-jit-compilat
+title: Understanding Just-In-Time (JIT) Compilation
+description: Includes Java, Python, .Net, V8
+slug: just-in-time-jit-compile
 date: 2018-07-14
-image: post/Articles/IMAGES/daliclock.png
+image: post/Articles/IMAGES/pizzasmadetoorder.png
 categories:
   - Jit
   - Compilation
   - Programming
   - Performance
+  - Java
 tags:
   - Jit
   - Compilation
@@ -16,31 +17,25 @@ tags:
   - Performance
 draft: "False"
 weight: "382"
-lastmod: 2025-02-27T17:18:05.239Z
+lastmod: 2025-03-03T02:05:59.627Z
 ---
-# Just-In-Time (JIT) Compilation - A Deep Dive with Humor
+<https://www.reddit.com/r/KitchenConfidential/comments/18o1i5o/was_greeted_to_all_of_this_immediately_after_we>
 
 If you've ever wondered why your code sometimes feels like it's being chased by a cheetah on steroids while other times it’s dragging like a snail through peanut butter, you might have JIT compilation to thank (or blame).
 
-Let’s dive into the world of Just-In-Time (JIT) compilation, how it works, its history, and how different platforms like Node.js, the Java Virtual Machine (JVM), and .NET handle it.
+In this post, I am going to  dive into the world of Just-In-Time (JIT) compilation, how it works, its history, and how different platforms like Node.js, the Java Virtual Machine (JVM), and .NET handle it.
 
-And yes, expect a few jokes along the way.
-
-## A Quick History Lesson (Don't Worry, It's Fun)
+## A Quick History
 
 Back in the prehistoric days of computing (okay, the 1960s and 70s), people had two main ways of running code:
 
-1.
-
-**Interpreted Languages**: Like reading a recipe while cooking.
+1. **Interpreted Languages**: Like reading a recipe while cooking.
 
 Each line is executed immediately.
 
 No waiting, but slow.
 
-2.
-
-**Compiled Languages**: Like prepping everything before cooking.
+2. **Compiled Languages**: Like prepping everything before cooking.
 
 It takes longer upfront, but execution is blazing fast.
 
@@ -218,7 +213,7 @@ Either way, knowing how JIT works helps you write better, faster code!
 | Concept         | Summary                                                                           |
 | --------------- | --------------------------------------------------------------------------------- |
 | JIT Compilation | Compiles frequently used code at runtime for faster execution.                    |
-| JVM HotSpot     | Java’s JIT dynamically optimizes running code                                     |
+| JVM HotSpot     | Java’s JIT dynamically optimizes running code.                                    |
 | .NET CLR JIT    | Similar to JVM but optimized for Windows.                                         |
 | V8 JIT          | Powers JavaScript in Node.js and Chrome.                                          |
 | PyPy            | JIT-compiled Python for better speed.                                             |

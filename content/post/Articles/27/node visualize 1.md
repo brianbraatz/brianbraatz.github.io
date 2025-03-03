@@ -18,8 +18,12 @@ tags:
   - Performance
 draft: "False"
 weight: "347"
-lastmod: 2025-02-27T17:19:37.833Z
+lastmod: 2025-03-03T00:37:06.681Z
 ---
+\*Note: This is Part One of our series.\
+Part Two is here\
+[Visualizing Node.js Scaling - Part 2](/post/Articles/27/node%20visualize%202.md)
+
 # Visualizing Node.js Scaling - Part 1 🚀
 
 ## Intro: The "Oh No, My Server Died" Problem
@@ -210,3 +214,6 @@ That’s all coming in **Part 2**.
 
   Stay tuned for **Part 2**, where we take this to the **next level** with **horizontal scaling, Kubernetes, and cloud magic!** 🚀
   ``` -->
+
+**Part Two is here**\
+[Visualizing Node.js Scaling - Part 2](/post/Articles/27/node%20visualize%202.md)

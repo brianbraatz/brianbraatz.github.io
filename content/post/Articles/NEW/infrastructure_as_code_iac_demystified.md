@@ -2,7 +2,7 @@
 title: Infrastructure as Code (IaC) Demystified
 description: Infrastructure as Code (IaC) Demystified
 slug: infrastructure-as-code-iac-demystified
-date: 2023-11-18
+date: 2020-11-18
 image: post/Articles/IMAGES/50.jpg
 categories:
   - DevOps
@@ -25,7 +25,7 @@ tags:
   - DevOps
 draft: false
 weight: 500
-lastmod: 2025-02-09T22:26:54.474Z
+lastmod: 2025-03-03T00:14:22.498Z
 ---
 # Infrastructure as Code (IaC) Demystified
 

@@ -1,7 +1,7 @@
 ---
-title: Google V8 Engine- How It Works
+title: Google V8 Engine In a Nutshell
 description: 
-slug: google-v8-engine-how-it-w
+slug: google-v8-engine-nutshell
 date: 2018-06-17
 image: post/Articles/IMAGES/v8google.png
 categories:
@@ -21,9 +21,12 @@ tags:
   - Compilation
 draft: "False"
 weight: "483"
-lastmod: 2025-02-27T17:03:26.919Z
+lastmod: 2025-03-02T22:55:30.829Z
 ---
-## What the Heck is Google V8?
+<!-- 
+# Google V8 Engine: How It Works, Pros and Cons, History & Timeline
+
+## What the Heck is Google V8? -->
 
 Ever wondered how your JavaScript code turns into lightning-fast web experiences?
 
@@ -36,8 +39,6 @@ The **Google V8 Engine** is the secret sauce behind Chrome’s snappy performanc
 Developed by Google, V8 is an **open-source JavaScript engine** that takes your lovely JavaScript code and compiles it down to machine code so your computer can actually understand and execute it at blazing speeds.
 
 ## How Does V8 Work?
-
-(A Magic Trick in 4 Steps)
 
 1. **Parsing** – First, V8 reads your JavaScript code and converts it into an Abstract Syntax Tree (AST).
 
@@ -79,7 +80,7 @@ If you’re running a lightweight device, it can be a bit of a hog.
 
 ## History & Timeline of V8
 
-Google V8 has been around for a while, and here’s a quick trip down memory lane:
+Google V8 has been around for a while, and here’s a quick trip ist history:
 
 * **2008** – Google releases Chrome, introducing the world to the V8 JavaScript engine.
 
@@ -103,16 +104,20 @@ Whether you're building a complex **React app**, working with **Node.js**, or ju
 
 It's also why JavaScript has managed to go from "meh" to "wow" in performance, making it a legit competitor to traditionally faster languages.
 
+<!-- 
 ## Key Ideas
 
-| Topic                                       | Summary                                                                |
-| ------------------------------------------- | ---------------------------------------------------------------------- |
-| Google’s high-performance JavaScript engine |                                                                        |
-| How it Works                                | Parses JS, converts to bytecode, optimizes via JIT, and manages memory |
-| Pros                                        | Fast, used in Node.js, efficient memory, constantly improving          |
-| Cons                                        | High memory usage, JIT warm-up time, GC pauses                         |
-| History                                     | Launched in 2008 with Chrome, improved with TurboFan and Orinoco       |
-| Why It Matters                              | Powers modern web apps and makes JavaScript insanely fast              |
+| Topic | Summary |
+|---|---|
+| What is V8?
+
+| Google’s high-performance JavaScript engine |
+| How it Works | Parses JS, converts to bytecode, optimizes via JIT, and manages memory |
+| Pros | Fast, used in Node.js, efficient memory, constantly improving |
+| Cons | High memory usage, JIT warm-up time, GC pauses |
+| History | Launched in 2008 with Chrome, improved with TurboFan and Orinoco |
+| Why It Matters | Powers modern web apps and makes JavaScript insanely fast |
+-->
 
 ## References
 

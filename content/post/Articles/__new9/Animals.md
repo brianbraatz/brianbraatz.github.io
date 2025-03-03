@@ -2,7 +2,7 @@
 title: "The Animals Program on the Apple ][: "
 description: Early Machine Learning and AI Insights
 slug: the-animals-program-on-the-apple-ii
-date: 2024-11-30
+date: 2012-11-30
 image: post/Articles/IMAGES/Apple_II_Plus.jpg
 categories: 
 tags:
@@ -26,7 +26,7 @@ tags:
   - Computing
 draft: false
 weight: 421
-lastmod: 2025-02-17T12:52:37.302Z
+lastmod: 2025-03-02T23:48:35.972Z
 ---
 ## The Origins of the Animals Program: A Digital Guessing Game with a Brain
 

@@ -1,7 +1,7 @@
 ---
 title: The BurgerMaster in the Windows OS- A Tasty Slice of History
 date: 2025-02-23
-description: 386 Enhanced Mode, its 16-bit preemptive multitasking, and how DOS compatibility was brilliantly achieved.
+description: How a Burgermaster was built into the Windows Kernel
 tags:
   - Windows
   - DOS
@@ -23,7 +23,7 @@ slug: 386-enh-burger
 draft: false
 image: post/Articles/IMAGES/theBurgerMaster.png
 weight: 324
-lastmod: 2025-02-24T16:20:44.790Z
+lastmod: 2025-03-02T23:57:43.073Z
 ---
 ![](/post/Articles/IMAGES/burgermaster348s.jpg)
 

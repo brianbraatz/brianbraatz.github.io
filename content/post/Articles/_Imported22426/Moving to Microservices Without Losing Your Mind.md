@@ -2,7 +2,7 @@
 title: Moving to Microservices Without Losing Your Mind
 description: Breaking Up With Your Monolithic SQL
 slug: breaking-up-with-your-monolithic-sql-moving-to-microservices
-date: 2017-06-22
+date: 2019-06-22
 image: post/Articles/IMAGES/35.jpg
 categories:
   - Microservices
@@ -16,11 +16,12 @@ tags:
   - Architecture
   - SQL
   - Performance
-  - Legacy Systems
+  - Legacy
+  - Systems
   - Normalization
 draft: false
 weight: 489
-lastmod: 2025-02-24T15:11:58.663Z
+lastmod: 2025-03-02T23:50:25.150Z
 ---
 \
 So, you've got this gigantic, monstrous, interrelated, join-heavy, super-normalized SQL database powering your legacy monolith. And now, some wise soul has decided it's time to go all-in on microservices.

@@ -1,9 +1,9 @@
 ---
-title: Low-Code Platforms
-description: Options in 2023
-slug: low-code-platforms-guide-
+title: Low-Code Platforms In a Nutshell
+description: The Free, the Paid, and the Self-Hosted
+slug: low-code-platforms-guide
 date: 2023-07-15
-image: post/Articles/IMAGES/42.jpg
+image: post/Articles/IMAGES/lowcodeimage.png
 categories:
   - Low-Code
   - No-Code
@@ -20,8 +20,10 @@ tags:
   - Cloud
 draft: "False"
 weight: "312"
-lastmod: 2025-02-27T14:40:17.703Z
+lastmod: 2025-03-02T23:00:32.888Z
 ---
+<https://www.offgridweb.com/preparation/carrying-dragging-techniques-lets-get-carried-away/>
+
 # Low-Code Platforms: A No-Nonsense Guide to the Best Free, Paid, and Self-Hosted Options in 2023
 
 ## A Brief, Totally Serious History of Low-Code

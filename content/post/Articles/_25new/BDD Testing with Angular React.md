@@ -3,7 +3,7 @@ title: Testing Angular and React with Behavior-Driven Development (BDD)
 description: ""
 slug: bdd-angular-react
 date: 2019-05-10
-image: post/Articles/IMAGES/48.jpg
+image: post/Articles/IMAGES/cheetahtraining.png
 categories:
   - Behavior Driven Design
   - Bdd
@@ -28,8 +28,10 @@ tags:
   - Testing
 draft: false
 weight: 444
-lastmod: 2025-02-25T12:52:16.048Z
+lastmod: 2025-03-03T02:31:45.170Z
 ---
+[Animal training - Wikipedia](https://en.wikipedia.org/wiki/Animal_training)
+
 This is the Angular and React Version of this Article
 
 The C#- Python version is here:\

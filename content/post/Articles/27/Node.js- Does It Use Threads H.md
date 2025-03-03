@@ -17,7 +17,7 @@ tags:
   - Multithreading
 draft: "False"
 weight: "362"
-lastmod: 2025-02-27T17:21:06.262Z
+lastmod: 2025-03-02T23:03:03.054Z
 ---
 ## Node.js: Does It Use Threads?
 
@@ -128,7 +128,7 @@ It’s like assembling a squad of event-loop-powered superheroes to tackle incom
 
 ***
 
-### Key Ideas
+### Basically
 
 * Node.js **runs JavaScript** on a **single thread**.
 

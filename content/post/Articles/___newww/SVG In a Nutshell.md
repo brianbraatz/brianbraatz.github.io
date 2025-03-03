@@ -2,7 +2,7 @@
 title: SVG in A Nutshell
 description: Compared to PostScript and Others- Python Examples
 slug: svg-in-a-nustshell
-date: 2022-12-14
+date: 2008-12-14
 image: post/Articles/IMAGES/35.jpg
 categories:
   - Svg
@@ -19,7 +19,7 @@ tags:
   - Comparison
 draft: false
 weight: 425
-lastmod: 2025-02-20T14:48:27.284Z
+lastmod: 2025-03-02T23:43:41.203Z
 ---
 <!--
 # SVG in Depth - Compared to PostScript and Others (with Python Code!)

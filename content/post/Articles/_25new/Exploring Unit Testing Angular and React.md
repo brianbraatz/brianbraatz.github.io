@@ -3,7 +3,7 @@ title: Exploring Unit Testing Angular and React
 description: ""
 slug: unittesting-angular-react
 date: 2019-06-14
-image: post/Articles/IMAGES/34.jpg
+image: post/Articles/IMAGES/girlstesting.png
 categories:
   - Unit Testing
   - Angular
@@ -25,9 +25,11 @@ tags:
   - Practices
 draft: false
 weight: 541
-lastmod: 2025-02-25T12:34:05.143Z
+lastmod: 2025-03-03T03:48:41.944Z
 ---
+<!-- 
 # Strategies for Unit Testing Angular and React (Without Losing Your Sanity)
+-->
 
 Unit testing. Just hearing those words might send a shiver down your spine.
 

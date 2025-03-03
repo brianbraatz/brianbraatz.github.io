@@ -2,7 +2,7 @@
 title: Use WinDbg to Troubleshoot Memory Exhaustion in Cloud Apps
 description: Yes. even C#!
 slug: windbg-memory-fix
-date: 2023-12-15
+date: 2017-12-15
 image: post/Articles/IMAGES/windbg.webp
 categories:
   - DevOps
@@ -21,7 +21,7 @@ tags:
   - Windbg
 draft: false
 weight: 317
-lastmod: 2025-02-20T14:25:08.883Z
+lastmod: 2025-03-03T00:10:18.780Z
 ---
 <!--
 # How to Use WinDbg to Troubleshoot Memory Usage Problems in Cloud Applications

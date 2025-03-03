@@ -2,7 +2,7 @@
 title: Vue.JS  Code Snippet Collection
 description: Collected Bits of Vue JS Wisdom
 slug: vue-code-snippets
-date: 2023-12-15
+date: 2020-12-15
 image: post/Articles/IMAGES/vuejs.png
 categories:
   - VueJs
@@ -18,7 +18,7 @@ tags:
   - Examples
 draft: false
 weight: 700
-lastmod: 2025-02-24T14:24:17.765Z
+lastmod: 2025-03-03T00:15:14.256Z
 ---
 ## A Brief History of Vue.js (How It All Began)
 

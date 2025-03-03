@@ -2,7 +2,7 @@
 title: Generate Test Data with the Bogus Library for C#
 description: Code Examples in C#
 slug: in-depth-introduction-to-the-bogus-library
-date: 2023-12-30
+date: 2020-12-30
 image: post/Articles/IMAGES/csharpblue.png
 categories:
   - Unit Testing
@@ -28,7 +28,7 @@ tags:
   - Testing
 draft: false
 weight: 471
-lastmod: 2025-02-25T12:54:27.207Z
+lastmod: 2025-03-03T00:11:52.886Z
 ---
 <!--
 # In-Depth Introduction to the Bogus Library for Sample Data Generation and Unit Testing Data

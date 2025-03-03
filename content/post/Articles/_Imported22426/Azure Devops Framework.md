@@ -3,7 +3,7 @@ title: Azure DevOps Operational Framework
 description: Azure DevOps Operational Framework
 slug: azure-devops-operational-framework
 date: 2017-06-14
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/azure.png
 categories:
   - DevOps
   - Azure
@@ -21,7 +21,7 @@ tags:
   - Monitoring
 draft: false
 weight: 456
-lastmod: 2025-02-28T04:02:07.328Z
+lastmod: 2025-03-03T02:50:02.654Z
 ---
 # Azure DevOps Operational Framework: The Secret Sauce to a Smooth Pipeline
 

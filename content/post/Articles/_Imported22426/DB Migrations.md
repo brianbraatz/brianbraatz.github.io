@@ -1,7 +1,7 @@
 ---
-title: How to Use Database Migrations (Flyway, Liquibase, Entity Framework Migrations, and Custom Scripts) to Evolve Schemas Smoothly
-description: How to Use Database Migrations (Flyway, Liquibase, Entity Framework Migrations, and Custom Scripts) to Evolve Schemas Smoothly
-slug: how-to-use-database-migrations-flyway-liquibase-entity-framework-migrations-and-custom-scripts-to-evolve-schemas-smoothly
+title: How to Use Database Migrations to Evolve Schemas Smoothly
+description: Flyway, Liquibase, Entity Framework Migrations, and Custom Scripts
+slug: database-migrations-flyway-liquibase-ef
 date: 2015-11-27
 image: post/Articles/IMAGES/birdsmigrating.png
 categories:
@@ -18,23 +18,29 @@ tags:
   - Migrations
   - Flyway
   - Liquibase
-  - Entity Framework
+  - Entity
+  - Framework
   - SQL
-  - Schema Evolution
+  - Schema
+  - Evolution
   - DevOps
 draft: false
 weight: 368
-lastmod: 2025-02-27T18:24:55.742Z
+lastmod: 2025-03-03T02:03:18.921Z
 ---
+<!-- 
 # How to Use Database Migrations (Flyway, Liquibase, Entity Framework Migrations, and Custom Scripts) to Evolve Schemas Smoothly
 
 ### Introduction
+-->
 
 Ah, database migrations. The art of changing your database schema without breaking everything like a Jenga tower on a wobbly table.
 
-If you've ever been tasked with modifying a database structure in a live application, you know the fear that comes with it. But fear not! Tools like **Flyway**, **Liquibase**, **Entity Framework Migrations**, and even custom scripts can help us evolve database schemas smoothly.
+If you've ever been tasked with modifying a database structure in a live application, you know the fear that comes with it.
 
-In this article, we'll look at how each of these tools works, with some code examples to make you feel like a migration wizard.
+But fear not!
+
+Tools like **Flyway**, **Liquibase**, **Entity Framework Migrations**, and even custom scripts can help us evolve database schemas smoothly.
 
 ***
 

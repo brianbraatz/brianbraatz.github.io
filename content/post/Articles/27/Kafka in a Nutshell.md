@@ -3,13 +3,14 @@ title: Kafka in a Nutshell
 description: Kafka in a Nutshell
 slug: kafka-in-a-nutshell
 date: 2017-06-18
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/kafkalogo.png
 categories:
   - Messaging
   - Streaming
   - Big Data
   - Distributed Systems
   - Event-driven
+  - Cloud
 tags:
   - Messaging
   - Streaming
@@ -18,9 +19,9 @@ tags:
   - Event-driven
 draft: "False"
 weight: "327"
-lastmod: 2025-02-27T14:39:42.762Z
+lastmod: 2025-03-02T22:59:51.943Z
 ---
-<!-- # Kafka in a Nutshell 🥜
+# Kafka in a Nutshell 🥜
 
 Alright, let’s talk about Kafka.
 
@@ -30,7 +31,7 @@ I mean **Apache Kafka**—the distributed event streaming platform that’s basi
 
 If you’ve ever wondered how big companies handle an ungodly amount of real-time data without their servers melting into a puddle, Kafka is the answer.
 
-It’s like the postal service of data, except way faster, infinitely scalable, and it doesn’t lose your packages. -->
+It’s like the postal service of data, except way faster, infinitely scalable, and it doesn’t lose your packages.
 
 ***
 
@@ -163,13 +164,29 @@ That said, if you need **real-time data processing**, Kafka is **one of the best
 
 ***
 
-## 🔥 Final Thoughts
+## 🔥 Caution
+
+While you **CAN** run Kafka directly on windows.. It sucks.\
+It randomly crashes alot..\
+This can be fixed by constantly deleting the .\tmp dir with the journals and re-creating the topics..
+
+For development this is workable.. usually about 2-3 times a week I do this.
+
+The other option- argubaly better option- is to run Kafka and Zookeep out of Docker..
+
+thats much more stable.. but now your dev machine is running slower..
+
+Some of us have had to work in corporate environments where we are silly limits on getting test servers etc....
+
+In any case, Kafka is good for what it does.. just don't **EVER** think of using it in a production situation on Windows...
+
+<!-- ## 🔥 Final Thoughts
 
 Kafka is the backbone of **real-time data processing**, helping companies handle **massive** streams of information efficiently.
 
 It’s **fast, reliable, scalable, and incredibly powerful**—basically the Chuck Norris of event streaming.
 
-If you’re working on an application that needs real-time data streaming, **Kafka should definitely be on your radar**. 🚀
+If you’re working on an application that needs real-time data streaming, **Kafka should definitely be on your radar**. 🚀 -->
 
 ***
 
@@ -193,8 +210,3 @@ If you’re working on an application that needs real-time data streaming, **Kaf
 * [Understanding Kafka Internals](https://developer.confluent.io/)
 
 ***
-
-```
-
-
-```

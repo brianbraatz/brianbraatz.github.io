@@ -2,7 +2,7 @@
 title: Using the Python Faker Library for Sample Data Generation and Unit Testing
 description: In-Depth Introduction to the Faker Library for Sample Data Generation and Unit Testing in Python
 slug: in-depth-introduction-to-the-faker-library-for-sample-data-generation-and-unit-testing-in-python
-date: 2022-09-22
+date: 2018-09-22
 image: post/Articles/IMAGES/pythonlogo.png
 categories:
   - Python
@@ -26,7 +26,7 @@ tags:
   - Testing
 draft: false
 weight: 164
-lastmod: 2025-02-10T17:58:33.557Z
+lastmod: 2025-03-02T23:50:00.240Z
 ---
 # In-Depth Introduction to the Faker Library for Sample Data Generation and Unit Testing in Python
 

@@ -2,7 +2,7 @@
 title: 8051 Assembly Language in a nutshell
 description: 8051 Assembly Language in a nutshell
 slug: 8051-assembly-language-in-a-nutshell
-date: 2023-11-06
+date: 2012-11-06
 image: post/Articles/IMAGES/8051wide.jpg
 categories:
   - Assembly Language
@@ -22,7 +22,7 @@ tags:
   - 8051CPU
 draft: false
 weight: 438
-lastmod: 2025-02-20T12:19:25.576Z
+lastmod: 2025-03-03T00:13:02.399Z
 ---
 # 8051 Assembly Language in a Nutshell
 

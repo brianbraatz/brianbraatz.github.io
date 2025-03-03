@@ -2,7 +2,7 @@
 title: Mobile Apps with -Cordova, Ionic, PhoneGap Compared
 description: Which One Should You Choose?
 slug: cordova-ionic-phonegap-compared:-which-one-should-you-choose
-date: 2023-12-08
+date: 2019-12-08
 image: post/Articles/IMAGES/mobileapps.jpg
 categories:
   - Cordova
@@ -34,7 +34,7 @@ tags:
   - Development
 draft: false
 weight: 499
-lastmod: 2025-02-19T13:48:14.145Z
+lastmod: 2025-03-03T00:12:00.432Z
 ---
 # Cordova, Ionic, PhoneGap Compared: Which One Should You Choose?
 

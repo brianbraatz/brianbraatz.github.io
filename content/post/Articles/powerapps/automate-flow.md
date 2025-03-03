@@ -10,15 +10,20 @@ categories:
   - Low-Code
   - Workflow Automation
   - Business Apps
+  - PowerApps
 tags:
-  - Microsoft Flow
-  - Lotus Notes
+  - Microsoft
+  - Flow
+  - Lotus
+  - Notes
   - Low-Code
-  - Workflow Automation
-  - Business Apps
+  - Workflow
+  - Automation
+  - Business
+  - Apps
 draft: false
 weight: 226
-lastmod: 2025-02-28T18:10:57.332Z
+lastmod: 2025-03-03T00:29:06.833Z
 ---
 # Microsoft Flow in a Nutshell
 

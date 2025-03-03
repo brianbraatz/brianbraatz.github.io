@@ -2,7 +2,7 @@
 title: PyQt and PySide Compared
 description: PyQt and PySide Compared
 slug: pyqt-and-pyside-compared
-date: 2023-05-18
+date: 2018-05-18
 image: post/Articles/IMAGES/27.jpg
 categories:
   - Python
@@ -20,7 +20,7 @@ tags:
   - PythonGuI
 draft: true
 weight: 30
-lastmod: 2025-02-09T22:27:14.939Z
+lastmod: 2025-03-03T00:14:38.931Z
 ---
 # PyQt and PySide Compared
 

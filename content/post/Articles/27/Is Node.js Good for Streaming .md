@@ -1,5 +1,5 @@
 ---
-title: Node.js - Good for Streaming Applications?
+title: Is Node.js Good for Streaming Applications?
 description: 
 slug: is-nodejs-good-for-stream
 date: 2017-06-22
@@ -19,13 +19,13 @@ tags:
   - Streaming
 draft: "False"
 weight: "426"
-lastmod: 2025-02-27T17:13:23.308Z
+lastmod: 2025-03-03T02:26:58.597Z
 ---
-# Is Node.js Good for Streaming Applications?
+**Is Node.js Good for Streaming Applications?**
 
 Short answer: Yes.
 
-Long answer: Oh boy, buckle up!
+Long answer is a little more complex...
 
 ## Why Node.js is Great for Streaming Applications
 
@@ -135,22 +135,14 @@ Now, go forth and build your next live-streaming empire!
 
 ***
 
-<!-- 
 ## Key Ideas
 
-| Concept | Summary |
-|---------|---------|
-| **Event-Driven Architecture** | Node.js uses an event loop, making it non-blocking and efficient for streaming.
-|
-| **Streaming Data Handling** | Streams data in chunks rather than loading it all at once.
-
-|
-| **Threading Comparison** | Threads are heavy and blocking, whereas Node.js handles concurrent connections better.
-
-|
-| **When Not to Use Node.js** | CPU-intensive tasks might require a different approach.
-
-| -->
+| Concept                       | Summary                                                                                |
+| ----------------------------- | -------------------------------------------------------------------------------------- |
+| **Event-Driven Architecture** | Node.js uses an event loop, making it non-blocking and efficient for streaming.        |
+| **Streaming Data Handling**   | Streams data in chunks rather than loading it all at once.                             |
+| **Threading Comparison**      | Threads are heavy and blocking, whereas Node.js handles concurrent connections better. |
+| **When Not to Use Node.js**   | CPU-intensive tasks might require a different approach.                                |
 
 ***
 

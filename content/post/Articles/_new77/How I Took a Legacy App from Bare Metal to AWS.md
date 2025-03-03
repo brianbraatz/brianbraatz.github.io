@@ -2,7 +2,7 @@
 title: How I Took a Legacy App from Bare Metal to AWS
 description: A journey of refactoring a messy ASP.NET app
 slug: legacy-app-from-bare-metal-to-aws
-date: 2023-10-05
+date: 2022-10-05
 image: post/Articles/IMAGES/awsdatacenter.jpg
 categories:
   - DevOps
@@ -33,7 +33,7 @@ tags:
   - Code
 draft: false
 weight: 250
-lastmod: 2025-02-11T13:18:45.924Z
+lastmod: 2025-03-03T00:12:26.259Z
 ---
 # How I Took a Legacy App from Bare Metal to AWS
 

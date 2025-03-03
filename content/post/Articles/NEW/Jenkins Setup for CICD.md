@@ -2,7 +2,7 @@
 title: Jenkins Setup-Continuous Integration and Deployment CICD
 description: Includes C# sample with unit tests and docker deployment and setup
 slug: jenkins-cicd
-date: 2023-01-05
+date: 2020-01-05
 image: post/Articles/IMAGES/jenkinsloho.png
 categories:
   - Jenkins
@@ -27,7 +27,7 @@ tags:
   - DevOps
 draft: false
 weight: 181
-lastmod: 2025-02-25T12:55:49.314Z
+lastmod: 2025-03-03T00:14:28.097Z
 ---
 ## A Brief History of Jenkins
 

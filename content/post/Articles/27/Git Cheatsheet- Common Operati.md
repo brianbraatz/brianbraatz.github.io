@@ -15,7 +15,7 @@ tags:
   - Cheatsheet
 draft: "False"
 weight: "423"
-lastmod: 2025-02-27T18:31:54.099Z
+lastmod: 2025-03-02T22:55:52.552Z
 ---
 ***
 
@@ -269,8 +269,6 @@ git reset --hard origin/main
 Use it with caution.
 
 It’s the "Ctrl+Z" of Git, but it erases your local changes.
-
-Happy coding! 🚀
 
 ***
 

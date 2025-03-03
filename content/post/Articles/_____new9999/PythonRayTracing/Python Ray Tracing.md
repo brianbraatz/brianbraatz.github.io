@@ -2,7 +2,7 @@
 title: Python Ray Tracing Explored...
 description: Amazing Ray Tracing Imaging with Python
 slug: python-ray-tracing
-date: 2023-12-05
+date: 2017-12-05
 image: post/Articles/IMAGES/python-raytracing.png
 categories:
   - Python
@@ -11,7 +11,7 @@ tags:
   - Python
 draft: false
 weight: 312
-lastmod: 2025-02-17T12:09:16.684Z
+lastmod: 2025-03-03T00:10:06.877Z
 ---
 ![](/post/Articles/_____new9999/PythonRayTracing/animation.gif)
 

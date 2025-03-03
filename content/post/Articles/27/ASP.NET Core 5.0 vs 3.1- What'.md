@@ -1,19 +1,18 @@
 ---
-title: ASP.NET Core 5.0 vs 3.1- What's New?
-description: ASP.NET Core 5.0 vs 3.1- What's New?
-slug: aspnet-core-5-vs-3-whats-
+title: ASP.NET Core 5.0 vs 3.1
+description: What's New?
+slug: aspnet-core-5-vs-3
 date: 2021-01-10
-image: post/Articles/IMAGES/ASP.NET_.png
+image: post/Articles/IMAGES/aspnetold.png
 categories:
   - Asp.net Core
   - Dotnet
   - Web Development
-  - ASP.NET
+  - Cloud
 tags:
-  - Core
+  - Asp.net Core
   - Dotnet
-  - Web
-  - Development
+  - Web Development
   - Performance
   - Upgrades
   - Csharp
@@ -21,7 +20,7 @@ tags:
   - Middleware
 draft: "False"
 weight: "378"
-lastmod: 2025-02-28T01:54:55.716Z
+lastmod: 2025-03-02T22:48:39.679Z
 ---
 # ASP.NET Core 5.0 vs 3.1: What’s New?
 
@@ -131,7 +130,9 @@ Plus, **.NET 6 is the next LTS**, so you’ll want to be ready for that upgrade.
 
 ## 🎯 Final Thoughts
 
-ASP.NET Core 5.0 isn’t **just a minor update**—it’s Microsoft laying the foundation for a faster, more efficient .NET ecosystem.
+ASP.NET Core 5.0 isn’t **just a minor update**—it’s Microsoft laying the foundation for the future.
+
+<!-- faster, more efficient .NET ecosystem.
 
 If you love speed, better APIs, and simpler deployments, **5.0 is calling your name**.
 
@@ -139,7 +140,7 @@ And if you’re still on ASP.NET Core 3.1?
 
 No rush—but start planning for that move to .NET 6.
 
-Happy coding! 🚀
+Happy coding! 🚀 -->
 
 ***
 
@@ -164,4 +165,6 @@ Happy coding! 🚀
 * [gRPC in .NET 5](https://docs.microsoft.com/en-us/aspnet/core/grpc/aspnetcore)
 
 ```
+
+
 ```

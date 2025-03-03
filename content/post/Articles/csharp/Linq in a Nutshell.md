@@ -2,7 +2,7 @@
 title: LINQ in a Nutshell
 description: LINQ in a Nutshell
 slug: linq-in-a-nutshell
-date: 2024-12-15
+date: 2018-12-15
 image: post/Articles/IMAGES/linq.webp
 categories:
   - Windows
@@ -22,7 +22,7 @@ tags:
   - MultiThreading
 draft: false
 weight: 30
-lastmod: 2025-02-28T03:25:38.492Z
+lastmod: 2025-03-03T00:27:10.311Z
 ---
 ![LINQ Logo](https://seeklogo.com/images/L/linq-logo-8B9C0C6C6A-seeklogo.com.png)
 

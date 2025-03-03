@@ -1,13 +1,15 @@
 ---
-title: ASP.NET Core 2.1 vs ASP.NET Framework – Key Differences and What Changed?
-description: ASP.NET Core 2.1 vs ASP.NET Framework – Key Differences and What Changed?
+title: "ASP.NET Core 2.1 vs ASP.NET "
+description: ""
 slug: aspnet-core-2-1-vs-aspnet
 date: 2018-11-20
-image: post/Articles/IMAGES/aspnetold.png
+image: post/Articles/IMAGES/aspnetoldlogo.png
 categories:
   - ASP.NET
   - .NET
   - Web Development
+  - Cloud
+  - Asp.Net
 tags:
   - Core
   - Framework
@@ -17,8 +19,9 @@ tags:
   - Asp-Net
 draft: "False"
 weight: "289"
-lastmod: 2025-02-28T01:54:40.174Z
+lastmod: 2025-03-03T01:51:47.572Z
 ---
+<!-- 
 # ASP.NET Core 2.1 vs ASP.NET Framework – Key Differences and What Changed?
 
 Ah, the eternal battle: ASP.NET Core vs.
@@ -27,9 +30,11 @@ ASP.NET Framework.
 
 Kind of like Batman vs.
 
-Superman, but with more semicolons and fewer capes.
+Superman, but with more semicolons and fewer capes. -->
 
-If you're still clinging to the classic ASP.NET Framework like it’s an old Windows XP install you refuse to format, you might be wondering: *Is the new ASP.NET Core 2.1 worth it?* Or is Microsoft just throwing another shiny toy at developers to keep us busy?
+If you're still clinging to the classic ASP.NET Framework like it’s an old Windows XP install you refuse to format, you might be wondering: *Is the new ASP.NET Core 2.1 worth it?*
+
+Or is Microsoft just throwing another shiny toy at developers to keep us busy?
 
 Let's break it down.
 
@@ -118,10 +123,7 @@ But if you're stuck maintaining a decade-old ASP.NET Framework app, well… mayb
 
 * [Microsoft ASP.NET Core Documentation](https://docs.microsoft.com/en-us/aspnet/core/)
 * [ASP.NET Framework Overview](https://docs.microsoft.com/en-us/aspnet/overview)
-* \[ASP.NET Core vs.
-
-ASP.NET Framework (Official)]\(https://devblogs.microsoft.com/dotnet/)
-
+* [ASP.NET Core vs.ASP.NET Framework (Official)](https://devblogs.microsoft.com/dotnet/)
 * [Benchmarks for ASP.NET Core Performance](https://benchmarksgame.alioth.debian.org/)
 
 ***

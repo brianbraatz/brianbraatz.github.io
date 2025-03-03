@@ -3,7 +3,7 @@ title: Intro to Cross-Process IPC Communication in Linux
 description: Just a quick overview of the options...
 slug: IPC-in-linux
 date: 2020-07-04
-image: post/Articles/IMAGES/linuxipc.png
+image: post/Articles/IMAGES/linuxipcwide.jpg
 categories:
   - Linux
   - Inter-Process Communications
@@ -23,7 +23,7 @@ tags:
   - SharedMemoryIPC
 draft: false
 weight: 160
-lastmod: 2025-02-09T20:18:37.181Z
+lastmod: 2025-03-02T23:35:26.975Z
 ---
 ## Introduction
 

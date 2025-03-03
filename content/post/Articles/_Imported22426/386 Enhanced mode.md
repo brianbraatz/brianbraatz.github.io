@@ -1,6 +1,6 @@
 ---
 title: "How Windows 386 Enhanced Mode Worked: The Genius Behind 16-Bit Preemptive Multitasking and DOS Compatibility"
-date: 2025-02-23
+date: 2014-02-23
 description: 386 Enhanced Mode, its 16-bit preemptive multitasking, and how DOS compatibility was brilliantly achieved.
 tags:
   - Windows
@@ -20,7 +20,7 @@ slug: 386-enh
 draft: false
 image: post/Articles/IMAGES/386enh.png
 weight: 324
-lastmod: 2025-02-24T14:39:14.792Z
+lastmod: 2025-03-03T00:25:13.906Z
 ---
 ## Introduction
 

@@ -2,7 +2,7 @@
 title: Markdown Auto-Tag Algorithm Comparison
 description: Comparing Auto-Tag Algorithm in SED, AWK, Python, Go, C# and C++
 slug: how-to-auto-tag-words-in-a-markdown-file-using-sed-and-awk
-date: 2023-02-19
+date: 2020-02-19
 image: post/Articles/IMAGES/markdownlogo.png
 categories:
   - Markdown
@@ -25,7 +25,7 @@ tags:
   - Tagging
 draft: false
 weight: 485
-lastmod: 2025-02-09T20:56:10.896Z
+lastmod: 2025-03-03T00:11:47.966Z
 ---
 # How to Auto-Tag Words in a Markdown File Using SED and AWK
 

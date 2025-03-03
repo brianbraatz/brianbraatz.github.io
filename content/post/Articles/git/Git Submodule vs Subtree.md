@@ -2,7 +2,7 @@
 title: Git Submodules vs. Git Subtrees
 description: comparison between Git Submodules and Git Subtrees
 slug: git-submodules-vs-subtrees
-date: 2024-12-15
+date: 2017-12-15
 image: post/Articles/IMAGES/git.png
 categories:
   - GIT
@@ -15,7 +15,7 @@ tags:
   - Control
 draft: false
 weight: 30
-lastmod: 2025-02-17T12:52:32.022Z
+lastmod: 2025-03-02T23:46:54.822Z
 ---
 # Git Submodules vs. Git Subtrees
 

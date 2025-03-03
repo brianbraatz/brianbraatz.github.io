@@ -2,7 +2,7 @@
 title: React In a Nutshell + Code Snippet Collection
 description: Collected Bits of React Wisdom
 slug: react-code-snippets
-date: 2023-12-15
+date: 2018-12-15
 image: post/Articles/IMAGES/reactlogolong.png
 categories:
   - React
@@ -18,7 +18,7 @@ tags:
   - Examples
 draft: false
 weight: 12
-lastmod: 2025-02-25T12:25:27.798Z
+lastmod: 2025-03-03T00:15:09.022Z
 ---
 ## 1. What is React?
 

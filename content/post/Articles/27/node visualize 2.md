@@ -17,9 +17,11 @@ tags:
   - Clustering
 draft: "False"
 weight: "342"
-lastmod: 2025-02-27T17:19:43.522Z
+lastmod: 2025-03-03T00:35:58.185Z
 ---
-\*Note: This is Part Two of our series.
+\*Note: This is Part Two of our series.\
+Part one is here\
+[Visualizing Node.js Scaling - Part 1](/post/Articles/27/node%20visualize%201.md)
 
 <!-- 
 If you missed the first part, where we dived into Kubernetes load balancing and monitoring, check it out [here](https://brianbraatz.github.io/p/testing-kubernetes-load-balancing-and-monitoring-orderbot-output/). -->

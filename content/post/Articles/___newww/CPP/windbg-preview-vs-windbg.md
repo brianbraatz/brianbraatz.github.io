@@ -2,7 +2,7 @@
 title: "WinDbg (Preview) vs. WinDbg: Key Differences"
 description: Comparing the new WinDbg (Preview) vs. Old WinDbg
 slug: windbg-preview-vs-windbg
-date: 2023-10-17
+date: 2017-10-17
 image: post/Articles/IMAGES/windbg.webp
 categories:
   - C++ Debugging
@@ -25,7 +25,7 @@ tags:
   - Model
 draft: false
 weight: 921
-lastmod: 2025-02-20T23:06:55.350Z
+lastmod: 2025-03-03T00:10:13.348Z
 ---
 <!-- 
 # WinDbg (Preview) vs. WinDbg: Key Differences

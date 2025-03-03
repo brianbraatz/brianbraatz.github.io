@@ -2,7 +2,7 @@
 title: Is WinDbg Still Useful in 2024?
 description: 
 slug: windbg-2024
-date: 2018-12-03
+date: 2024-12-03
 image: post/Articles/IMAGES/windbg.webp
 categories:
   - C++ Debugging
@@ -23,7 +23,7 @@ tags:
   - Analysis
 draft: false
 weight: 528
-lastmod: 2025-02-20T23:35:41.109Z
+lastmod: 2025-03-03T00:23:35.872Z
 ---
 # **WinDbg in 2024??**
 

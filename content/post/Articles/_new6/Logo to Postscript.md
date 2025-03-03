@@ -2,7 +2,7 @@
 title: Comparing Logo to PostScript
 description: A comparison of Logo and PostScript
 slug: logo-postscript
-date: 2020-01-25
+date: 2008-01-25
 image: post/Articles/IMAGES/postscriptlogo.png
 categories:
   - Postscript
@@ -21,7 +21,7 @@ tags:
   - Drawing
 draft: false
 weight: 439
-lastmod: 2025-02-10T17:42:45.807Z
+lastmod: 2025-03-02T23:43:18.991Z
 ---
 <!--
 See 

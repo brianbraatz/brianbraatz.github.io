@@ -2,7 +2,7 @@
 title: Azure- Tracing, Debugging, Troubleshooting, and Monitoring
 description: Azure Monitor, Application Insights, Kusto Query Language (KQL)
 slug: azure-logging-tracing
-date: 2023-12-05
+date: 2022-12-05
 image: post/Articles/IMAGES/azureblack.png
 categories:
   - Azure Cosmos DB
@@ -31,7 +31,7 @@ tags:
   - Examples
 draft: false
 weight: 312
-lastmod: 2025-02-17T13:28:09.966Z
+lastmod: 2025-03-03T00:09:56.703Z
 ---
 ***
 

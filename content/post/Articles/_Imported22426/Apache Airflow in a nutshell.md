@@ -1,6 +1,6 @@
 ---
 title: Airflow in a Nutshell
-date: 2025-02-23
+date: 2018-02-23
 description: Exploring Apache Airflow
 tags:
   - Apache
@@ -17,7 +17,7 @@ slug: apache-airflow
 draft: false
 image: post/Articles/IMAGES/apacheairflow.png
 weight: 324
-lastmod: 2025-02-24T14:39:27.939Z
+lastmod: 2025-03-03T00:25:38.309Z
 ---
 # Apache Airflow in a Nutshell: A Guide to Workflow Automation & Testing
 

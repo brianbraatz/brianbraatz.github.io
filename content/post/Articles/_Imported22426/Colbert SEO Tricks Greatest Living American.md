@@ -1,5 +1,5 @@
 ---
-title: Crowdsourced SEO-How Stephen Colbert (Briefly) became the Greatest Living American
+title: Crowdsourced SEO-How Stephen Colbert (Briefly) became the Greatest Living American, In Google Search
 description: 
 slug: how-stephen-colbert-crowdsourced-seo
 date: 2017-06-14
@@ -20,7 +20,7 @@ tags:
   - Cloud
 draft: false
 weight: 547
-lastmod: 2025-02-24T16:39:12.883Z
+lastmod: 2025-03-03T03:03:38.748Z
 ---
 ## The SEO Power of Large Crowd -> The Colbert Nation
 

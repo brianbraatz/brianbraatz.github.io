@@ -2,7 +2,7 @@
 title: Understanding Lock-Free Programming
 slug: cs-lockfreeprog
 date: 2015-12-15
-image: post/Articles/IMAGES/lockfreesmall.png
+image: post/Articles/IMAGES/lockfreewide.jpg
 categories:
   - C
   - CPP
@@ -22,7 +22,7 @@ tags:
 draft: false
 weight: 30
 description: Dive into a Multi-Threading world with NO LOCKS!
-lastmod: 2025-02-20T11:38:07.067Z
+lastmod: 2025-03-02T23:38:41.999Z
 ---
 # Understanding Lock-Free Programming
 

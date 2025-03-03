@@ -1,7 +1,7 @@
 ---
-title: Bootstrap in a Nutshell
-description: 
-slug: bootstrap-in-a-nutshell
+title: Bootstrap in a Nutshell- Spice Up Your Web Design with Some Sass!
+description: Bootstrap in a Nutshell- Spice Up Your Web Design with Some Sass!
+slug: bootstrap-in-a-nutshell-s
 date: 2018-07-14
 image: post/Articles/IMAGES/bootstrap.png
 categories:
@@ -9,16 +9,10 @@ categories:
   - Frontend
 tags:
   - Bootstrap
-  - CSS
-  - Framework
-  - Responsive
-  - Design
-  - Web
-  - Development
-  - Frontend
+  - CSS Framework - Responsive - Design - Web - Development - Frontend
 draft: "False"
 weight: "342"
-lastmod: 2025-02-27T18:15:34.649Z
+lastmod: 2025-03-02T22:52:10.034Z
 ---
 # Bootstrap in a Nutshell: Spice Up Your Web Design with Some Sass!
 

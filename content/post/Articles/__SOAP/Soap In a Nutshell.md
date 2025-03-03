@@ -1,22 +1,35 @@
 ---
 title: SOAP In a Nutshell
-description: "Code Examples in "
+description: With Code Examples
 slug: soap-nutshell
 date: 2018-12-07
 image: post/Articles/IMAGES/soap1.png
-categories: []
+categories:
+  - Cloud
+  - Python
+  - GoLang
+  - CSharp
+  - CPP
+  - Java
+  - GraphQL
+  - Soap
 tags:
   - SOAP
-  - Web Services
+  - Web
+  - Services
   - API
   - History
-  - SOAP vs REST
-  - Modern Web Development
+  - SOAP
+  - vs
+  - REST
+  - Modern
+  - Web
+  - Development
   - XML
   - Protocol
 draft: false
 weight: 387
-lastmod: 2025-02-15T12:27:02.873Z
+lastmod: 2025-03-03T00:05:34.600Z
 ---
 <!-- 
 

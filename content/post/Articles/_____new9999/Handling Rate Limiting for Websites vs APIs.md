@@ -2,7 +2,7 @@
 title: Rate Limiting for Websites vs APIs
 description: Techniques Explored
 slug: handling-rate-limiting-websites-vs-apis
-date: 2023-01-15
+date: 2022-01-15
 image: post/Articles/IMAGES/waterfall.png
 categories:
   - Web Development
@@ -25,7 +25,7 @@ tags:
   - Kubernetes
 draft: false
 weight: 1020
-lastmod: 2025-02-20T12:21:02.710Z
+lastmod: 2025-03-03T00:10:00.493Z
 ---
 <!--
 # Handling Rate Limiting for Websites vs APIs: Best Practices and Code Examples

@@ -1,7 +1,7 @@
 ---
-title: Building a Realtime Chat App with Node.js and Socket.IO
+title: Build a Chat App with Node.js + Socket.IO
 description: 
-slug: building-realtime-chat-no
+slug: building-realtime-chat-nodejs
 date: 2018-07-22
 image: post/Articles/IMAGES/nodejs.png
 categories:
@@ -14,11 +14,10 @@ tags:
   - Socket.io
   - Websockets
   - Chat
-  - Real-time
-  - Communication
+  - Real-time Communication
 draft: "False"
 weight: "386"
-lastmod: 2025-02-27T17:00:25.373Z
+lastmod: 2025-03-03T02:08:13.702Z
 ---
 ## 🚀 Let's Build a Realtime Chat App with Node.js and Socket.IO
 
@@ -48,9 +47,7 @@ Socket.IO is a library that makes using WebSockets **ridiculously** easy.
 
 It provides an abstraction over raw WebSockets and handles reconnections, fallbacks, and other nightmares you’d rather avoid.
 
-### 🆚 WebSockets vs.
-
-SignalR
+### 🆚 WebSockets vs. SignalR
 
 * **WebSockets**: The raw, unfiltered real-time magic.
 

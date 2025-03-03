@@ -2,7 +2,7 @@
 title: Logo In a Nutshell
 description: "The Logo Programming Language: History, Motivation, Apple II, Drawing Robots, and Its Connection to PostScript"
 slug: the-logo-programming-language:-history-motivation-apple-ii-drawing-robots-and-its-connection-to-postscript
-date: 2024-03-31
+date: 2005-03-31
 image: post/Articles/IMAGES/logologo.png
 categories:
   - Postscript
@@ -27,7 +27,7 @@ tags:
   - Robots
 draft: false
 weight: 263
-lastmod: 2025-02-10T17:48:37.960Z
+lastmod: 2025-03-02T23:43:10.757Z
 ---
 <!-- 
 See

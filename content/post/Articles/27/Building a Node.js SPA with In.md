@@ -1,6 +1,6 @@
 ---
 title: Building a Node.js SPA with Infinite Scroll
-description: 
+description: Node.Js Tutorial
 slug: nodejs-spa-infinite-scrol
 date: 2018-06-14
 image: post/Articles/IMAGES/nodejs.png
@@ -10,6 +10,8 @@ categories:
   - Web Development
   - Infinite Scroll
   - Async
+  - VueJs
+  - Python
 tags:
   - Node.js
   - Spa
@@ -22,11 +24,14 @@ tags:
   - Backend
 draft: "False"
 weight: "386"
-lastmod: 2025-02-28T03:17:49.226Z
+lastmod: 2025-03-03T02:25:39.123Z
 ---
+<!-- 
+
 # Building a Node.js SPA with Infinite Scroll for Fake Emails 📩
 
 ## Introduction
+-->
 
 Ever wondered how Gmail manages to show a bazillion emails without crashing your browser?
 
@@ -39,8 +44,6 @@ We’ll build a **Node.js-powered Single Page Application (SPA)** that **pretend
 The goal?
 
 To create an **infinite scrolling email list**, where new emails are fetched as the user scrolls down.
-
-No, we’re not loading a million emails at once—because we actually like our users.
 
 ***
 
@@ -208,13 +211,14 @@ How does this compare to **Server-Side Rendering (SSR)?**
 
 ***
 
+<!-- 
 ## Conclusion 🎉
 
 We just built a **Gmail-like email viewer** with **infinite scroll** using **Node.js, Vue.js, and a fake email generator**.
 
 It’s fast, fun, and won’t set your server on fire. 🔥
 
-Now go forth and spam yourself with Lorem Ipsum emails!
+Now go forth and spam yourself with Lorem Ipsum emails! -->
 
 ***
 

@@ -1,7 +1,7 @@
 ---
-title: Node.js with Docker
+title: Node.js  Docker Set Up
 description: 
-slug: how-to-set-up-nodejs-docker
+slug: how-to-set-up-nodejs-with
 date: 2018-06-23
 image: post/Articles/IMAGES/nodejs.png
 categories:
@@ -17,7 +17,7 @@ tags:
   - Containers
 draft: "False"
 weight: "432"
-lastmod: 2025-02-27T17:13:11.987Z
+lastmod: 2025-03-02T22:56:46.927Z
 ---
 ***
 
@@ -159,6 +159,7 @@ docker stop <container_id>
 
 ***
 
+<!-- 
 ## 🎉 Conclusion
 
 You did it!
@@ -167,15 +168,15 @@ You successfully dockerized a Node.js app.
 
 Now you can:
 
-* Share your app easily with others
-* Deploy it anywhere Docker is supported
-* Pretend you’re a DevOps guru 😎
+- Share your app easily with others
+- Deploy it anywhere Docker is supported
+- Pretend you’re a DevOps guru 😎
 
 Docker makes development cleaner, more consistent, and way less painful than "it works on my machine."
 
 Go forth and containerize everything! 🚀
 
-***
+--- -->
 
 ## 📌 Key Ideas
 

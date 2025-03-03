@@ -17,7 +17,7 @@ tags:
   - DesignPatterns
 draft: false
 weight: 378
-lastmod: 2025-02-17T15:41:10.103Z
+lastmod: 2025-03-03T02:21:56.200Z
 ---
 # Generics vs Templates: Java vs C# vs C++
 
@@ -200,7 +200,7 @@ This means:
 | **Java** | Backward compatible, works everywhere            | Type erasure, can be slow due to boxing                |
 | **C#**   | Preserves types, better performance than Java    | Needs .NET ecosystem                                   |
 
-### **TL;DR**
+### **Concepts**
 
 * **If you care about performance** → **C++**
 * **If you need Java compatibility** → **Java**

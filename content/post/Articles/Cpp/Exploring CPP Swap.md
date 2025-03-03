@@ -1,8 +1,8 @@
 ---
-title: The Wondrous World of C++'s swap() Function
+title: Understanding C++'s swap() Function
 description: C++ Performance will be NEGATIVELY affected if Swap() is not done right
 slug: cpp-swap-function
-date: 2024-12-15
+date: 2014-12-15
 image: post/Articles/IMAGES/ancientalientsguy.jpg
 categories:
   - CPP
@@ -14,7 +14,7 @@ tags:
   - Performance
 draft: false
 weight: 30
-lastmod: 2025-02-09T23:36:20.072Z
+lastmod: 2025-03-02T23:45:47.557Z
 ---
 # The Wondrous World of C++'s swap() Function
 

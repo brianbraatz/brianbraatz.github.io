@@ -1,7 +1,7 @@
 ---
 title: How Memory Paging Worked on Older Computers
 slug: Paging
-date: 2025-02-23
+date: 2014-02-23
 description: A deep dive into how early computers managed memory using paging, overcoming hardware limitations and paving the way for modern virtual memory systems.
 tags:
   - Linker
@@ -26,7 +26,7 @@ categories:
   - CPP
 draft: false
 weight: 562
-lastmod: 2025-02-24T15:47:42.698Z
+lastmod: 2025-03-03T00:25:06.295Z
 ---
 ## Introduction
 

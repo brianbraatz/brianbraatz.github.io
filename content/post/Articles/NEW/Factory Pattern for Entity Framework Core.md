@@ -2,7 +2,7 @@
 title: Factory Pattern for C# Entity Framework Core
 description: Switching SQL Database Engines with Ease
 slug: factory-pattern-for-entity-framework-core-switching-database-engines-with-ease
-date: 2022-12-05
+date: 2025-12-05
 image: post/Articles/IMAGES/factory.png
 categories:
   - SQL
@@ -32,7 +32,7 @@ tags:
   - DotNet
 draft: false
 weight: 321
-lastmod: 2025-02-28T03:24:44.825Z
+lastmod: 2025-03-03T00:26:52.932Z
 ---
 # Factory Pattern for Entity Framework Core: Switching Database Engines with Ease
 

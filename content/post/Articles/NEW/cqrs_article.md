@@ -2,7 +2,7 @@
 title: Dive into The CQRS Messaging Pattern
 description: CQRS (Command Query Responsibility Segregation)
 slug: cqrs-command-query-responsibility-segregation
-date: 2024-12-15
+date: 2019-12-15
 image: post/Articles/IMAGES/jollypostman.png
 categories:
   - Cloud
@@ -23,7 +23,7 @@ tags:
   - Java
 draft: false
 weight: 347
-lastmod: 2025-02-17T13:59:18.445Z
+lastmod: 2025-03-02T23:40:43.236Z
 ---
 [Norman Rockwell - Wikipedia](https://en.wikipedia.org/wiki/Norman_Rockwell)
 

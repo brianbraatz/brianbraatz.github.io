@@ -2,7 +2,7 @@
 title: Entity Framework In Depth
 description: With Code Examples
 slug: entity-framework-in-depth
-date: 2023-12-03
+date: 2016-12-03
 image: post/Articles/IMAGES/csharpblue.png
 categories:
   - SQL
@@ -30,7 +30,7 @@ tags:
   - CSharp
 draft: false
 weight: 382
-lastmod: 2025-02-28T03:24:35.735Z
+lastmod: 2025-03-02T23:46:16.593Z
 ---
 <!-- 
 # Entity Framework In Depth: 20 Code Examples, LINQ, Pros, Cons, and Alternate ORMs Explained

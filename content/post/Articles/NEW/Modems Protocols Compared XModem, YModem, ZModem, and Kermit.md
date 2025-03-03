@@ -2,7 +2,7 @@
 title: "Modems & File Transfer Protocols: XModem, YModem, ZModem, and Kermit"
 description: Exploring the differences and evolution of these Serial Protocols
 slug: modems-and-file-transfer-protocols-xmodem-ymodem-zmodem-kermit
-date: 2023-11-15
+date: 2014-11-15
 image: post/Articles/IMAGES/kermit_small.png
 categories:
   - History
@@ -29,7 +29,7 @@ tags:
   - Protocol
 draft: false
 weight: 342
-lastmod: 2025-02-09T22:37:07.735Z
+lastmod: 2025-03-03T00:14:45.831Z
 ---
 # Modems & File Transfer Protocols: XModem, YModem, ZModem, and Kermit
 

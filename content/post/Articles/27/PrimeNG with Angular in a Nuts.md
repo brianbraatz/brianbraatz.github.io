@@ -1,6 +1,6 @@
 ---
-title: PrimeNG with Angular
-description: PrimeNG with Angular
+title: PrimeNG with Angular in a Nutshell
+description: 
 slug: primeng-with-angular
 date: 2017-08-14
 image: post/Articles/IMAGES/primeng.png
@@ -16,7 +16,7 @@ tags:
   - Frontend
 draft: "False"
 weight: "452"
-lastmod: 2025-02-27T17:29:04.038Z
+lastmod: 2025-03-02T23:05:12.006Z
 ---
 <!-- 
 # PrimeNG with Angular in a Nutshell 🚀
@@ -187,7 +187,7 @@ Example:
 
 Now your app looks sleek and modern. 😍
 
-<!-- ---
+***
 
 ## 🔥 Wrapping Up
 
@@ -195,7 +195,7 @@ PrimeNG **saves you tons of time** when building Angular apps.
 
 It gives you a **ton of components**, a **beautiful UI**, and **easy customization**.
 
-🚀 Want to make your Angular app look amazing? **Use PrimeNG!** -->
+🚀 Want to make your Angular app look amazing? **Use PrimeNG!**
 
 ***
 

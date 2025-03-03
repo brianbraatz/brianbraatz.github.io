@@ -2,7 +2,7 @@
 title: Postscript in a nutshell
 description: Intro to the PostScript Language
 slug: nutshell-ostscript-language
-date: 2022-12-03
+date: 2004-12-03
 image: post/Articles/IMAGES/postscriptlogo.png
 categories:
   - Postscript
@@ -19,7 +19,7 @@ tags:
   - Printing
 draft: false
 weight: 342
-lastmod: 2025-02-10T17:15:18.819Z
+lastmod: 2025-03-02T23:43:32.231Z
 ---
 # Deep Dive into the PostScript Language
 

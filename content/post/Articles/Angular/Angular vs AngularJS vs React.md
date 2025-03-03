@@ -25,7 +25,7 @@ tags:
   - Comparison
 draft: false
 weight: 50
-lastmod: 2025-02-20T22:24:37.527Z
+lastmod: 2025-03-03T00:38:34.820Z
 ---
 Ah, the ever-evolving world of web development frameworks!
 
@@ -73,7 +73,7 @@ It's like the minimalist cousin who only wears black but always looks chic.
 
 ### React's Claim to Fame
 
-* **Virtual DOM**: React uses a virtual representation of the DOM to optimize updates, making UI changes snappy. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Virtual_DOM?utm_source=chatgpt.com))
+* **Virtual DOM**: React uses a virtual representation of the DOM to optimize updates, making UI changes snappy. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Virtual_DOM))
 * **Component-Based Architecture**: Build encapsulated components that manage their own state, then compose them to make complex UIs.
 * **One-Way Data Binding**: Data flows in a single direction, making it easier to debug and understand.
 

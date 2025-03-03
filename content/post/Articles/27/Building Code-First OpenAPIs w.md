@@ -1,7 +1,7 @@
 ---
-title: Building Code-First OpenAPIs with Node.js
-description: 
-slug: building-code-first-openapi
+title: Code-First OpenAPIs with Node.js
+description: For Fun and Profit
+slug: building-code-first-openapi-nodejs
 date: 2017-08-14
 image: post/Articles/IMAGES/nodejs.png
 categories:
@@ -14,12 +14,11 @@ tags:
   - Openapi
   - Swagger
   - Rest
-  - Api
-  - Design
+  - Api Design
   - Express
 draft: "False"
 weight: "342"
-lastmod: 2025-02-27T17:00:44.411Z
+lastmod: 2025-03-02T22:54:28.669Z
 ---
 ***
 
