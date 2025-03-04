@@ -21,8 +21,8 @@ tags:
   - Code
   - Examples
 draft: false
-weight: 458
-lastmod: 2025-03-03T02:51:54.886Z
+weight: 158
+lastmod: 2025-03-04T11:11:25.216Z
 ---
 <!-- 
 # Why does C++ have a weak reference pointer? And why would you ever use it? Here are 10 examples

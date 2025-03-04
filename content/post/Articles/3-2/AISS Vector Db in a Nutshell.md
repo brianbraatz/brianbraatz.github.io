@@ -3,7 +3,7 @@ title: AISS Vector DBs In a Nutshell
 description: Cheat sheet compare of Milvus, Weaviate, Qdrant, Pinecone, and FAISS for AI or Machine Learning
 slug: aiss-vector-db-nutshell
 date: 2017-06-14
-image: post/Articles/IMAGES/39.jpg
+image: post/Articles/IMAGES/whatsyourvector.png
 categories:
   - Vector Databases
   - AI
@@ -19,8 +19,17 @@ tags:
   - Storage
 draft: false
 weight: 483
-lastmod: 2025-03-03T13:10:24.425Z
+lastmod: 2025-03-04T15:50:12.742Z
 ---
+{{< youtube fVq4\_HhBK8Y >}}\
+[Youtube Link-What's our vector, Victor?](https://www.youtube.com/watch?v=fVq4_HhBK8Y)
+
+[What's our vector, Victor? -Reddit](https://www.reddit.com/r/videos/comments/r38grp/whats_our_vector_victor/)
+
+["What's our vector, Victor?": What does this mean? ](https://aviation.stackexchange.com/questions/1562/whats-our-vector-victor-what-does-this-mean)
+
+***
+
 <!-- # AISS (Vector DB): In a Nutshell
 
 Alright, folks, let’s talk about AISS, the vector database that’s making waves in the AI and machine learning world. If you’re thinking, *“What in the binary hell is a vector database?”*—don’t worry. We’re about to break it down in the most digestible way possible. -->

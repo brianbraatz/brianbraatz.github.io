@@ -1,9 +1,9 @@
 ---
 title: "PHP is WEIRD: 10 Things That Are Weird About PHP"
 description: Weird PHP quirks that you won't find in most other programming languages.
-slug: php-weird-10-things-most-languages-dont-do
+slug: php-is-weird
 date: 2017-05-18
-image: post/Articles/IMAGES/29.jpg
+image: post/Articles/IMAGES/phpisweird.png
 categories:
   - PHP
   - Programming Humor
@@ -20,7 +20,7 @@ tags:
   - Behavior
 draft: false
 weight: 532
-lastmod: 2025-03-03T03:54:22.348Z
+lastmod: 2025-03-04T14:32:16.181Z
 ---
 PHP is the lovable, chaotic gremlin of programming languages.\
 It runs most of the web, powers countless CMSes, and yet—sometimes—it makes absolutely no sense.\

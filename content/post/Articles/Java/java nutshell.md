@@ -2,7 +2,7 @@
 title: Java in a Nutshell
 slug: java-in-a-nutshell
 date: 2013-12-15
-image: https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg
+image: post/Articles/IMAGES/java.png
 categories:
   - Java
   - Concurrency
@@ -21,7 +21,7 @@ tags:
   - UnitTest
 draft: false
 weight: 30
-lastmod: 2025-02-09T21:49:13.060Z
+lastmod: 2025-03-04T13:57:03.182Z
 ---
 ## History and Motivation
 

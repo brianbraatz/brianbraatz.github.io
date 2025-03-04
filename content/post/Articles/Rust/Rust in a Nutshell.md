@@ -4,21 +4,25 @@ description: Rust in a Nutshell
 slug: rust-in-a-nutshell
 date: 2021-05-18
 image: post/Articles/IMAGES/rust.png
-categories: []
+categories: 
 tags:
   - Rust
   - Programming
-  - Memory safety
+  - Memory
+  - safety
   - Concurrency
-  - Systems programming
+  - Systems
+  - programming
   - Performance
   - Webassembly
-  - Embedded development
-  - Cli tools
+  - Embedded
+  - development
+  - Cli
+  - tools
   - Networking
 draft: false
-weight: 455
-lastmod: 2025-02-16T15:29:07.599Z
+weight: 25
+lastmod: 2025-03-04T11:10:14.902Z
 ---
 Rust is a **statically typed, compiled programming language** designed to be **safe, concurrent, and blazingly fast** (yes, they actually say "blazingly fast" in their documentation). It has a reputation for **memory safety without garbage collection**, making it one of the most powerful and beloved modern programming languages.
 

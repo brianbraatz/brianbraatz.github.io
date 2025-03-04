@@ -3,7 +3,7 @@ title: AWS DevOps Operational Framework
 description: AWS DevOps Operational Framework
 slug: aws-devops-operational-framework
 date: 2018-09-22
-image: post/Articles/IMAGES/42.jpg
+image: post/Articles/IMAGES/roz.png
 categories:
   - DevOps
   - AWS
@@ -21,22 +21,40 @@ tags:
   - Monitoring
   - Testing
 draft: false
-weight: 682
-lastmod: 2025-02-28T04:02:02.199Z
+weight: 82
+lastmod: 2025-03-04T15:39:59.828Z
 ---
+<!--
 # AWS DevOps Operational Framework: The Secret Sauce to a Smooth Pipeline
+-->
+
+This is the AWS version of this article.\
+For Azure see here:\
+[Azure DevOps Operational Framework](https://brianbraatz.github.io/p/azure-devops-operational-framework/)
+
+***
 
 Ah, AWS DevOps. The mystical land where code flows, tests execute (sometimes successfully), and deployments happen—often at 4 AM when everything else is asleep except that one guy in ops who lives on coffee and anxiety.
 
-But let's be real. AWS DevOps isn't just about pushing code and hoping for the best. It needs a solid framework—a guiding principle, if you will—to make sure things don’t go up in digital flames. Enter the **AWS DevOps Operational Framework (ADOF)**, the unsung hero that keeps your software delivery running smoother than your favorite espresso machine.
+But let's be real.
+
+AWS DevOps isn't just about pushing code and hoping for the best. It needs a solid framework—a guiding principle, if you will—to make sure things don’t go up in digital flames.
+
+<!-- 
+Enter the **AWS DevOps Operational Framework (ADOF)**, the unsung hero that keeps your software delivery running smoother than your favorite espresso machine.
+-->
 
 ***
 
 ## What Is This Framework, and Why Should You Care?
 
-The AWS DevOps Operational Framework is essentially a structured approach to managing and optimizing your DevOps pipelines. It’s the difference between a well-organized kitchen and one where every drawer is a junk drawer.
+The AWS DevOps Operational Framework is essentially a structured approach to managing and optimizing your DevOps pipelines.
 
-It ensures that your development, testing, deployment, and monitoring processes are **repeatable, scalable, and secure**. In short, it stops your CI/CD pipeline from turning into a CI/CD dumpster fire.
+It’s the difference between a well-organized kitchen and one where every drawer is a junk drawer.
+
+It ensures that your development, testing, deployment, and monitoring processes are **repeatable, scalable, and secure**.
+
+In short, it stops your CI/CD pipeline from turning into a CI/CD dumpster fire.
 
 ***
 

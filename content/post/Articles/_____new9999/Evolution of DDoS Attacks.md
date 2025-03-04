@@ -23,13 +23,13 @@ tags:
   - Networking
 draft: false
 weight: 25
-lastmod: 2025-03-03T14:33:38.005Z
+lastmod: 2025-03-04T14:55:22.501Z
 ---
 <!-- 
 # The Evolution of DDoS Attacks: From 2000s Chaos to Modern Cloud Security
 -->
 
-If you were running **servers in the 2000s**, you probably remember the **constant struggle** against **worms, botnets, and denial-of-service (DDoS) attacks**.
+If you were running **servers in the 2000s**, you probably remember the **constant struggle** against **worms, botnets, and distributed-denial-of-service (DDoS) attacks**.
 
 It was a **wild, dangerous** time for anyone hosting applications online.
 

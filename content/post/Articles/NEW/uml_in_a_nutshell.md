@@ -18,8 +18,8 @@ tags:
   - Software
   - Engineering
 draft: false
-weight: 427
-lastmod: 2025-02-09T23:11:12.070Z
+weight: 127
+lastmod: 2025-03-04T13:28:31.481Z
 ---
 # UML In a Nutshell
 

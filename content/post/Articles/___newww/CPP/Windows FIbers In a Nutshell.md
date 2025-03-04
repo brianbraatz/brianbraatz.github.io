@@ -3,7 +3,7 @@ Title: Understanding Windows Fibers and How They Compare to Threads and Other Co
 Description: Windows Fibers and How They Compare to Threads and Other Concurrency APIs
 Slug: understanding-windows-fibers-and-how-they-compare-to-threads-and-other-concurrency-apis
 Date: 2019-12-07
-Image: post/Articles/IMAGES/fibers2.png
+Image: post/Articles/IMAGES/fiberonecereal.png
 Categories:
   - Windows
   - Fibers
@@ -23,7 +23,7 @@ Draft: false
 Weight: 289
 title: Windows FIbers In a Nutshell
 date: 2025-02-15T15:19:47.576Z
-lastmod: 2025-02-21T00:56:36.187Z
+lastmod: 2025-03-04T13:31:13.512Z
 ---
 # Understanding Windows Fibers and How They Compare to Threads and Other Concurrency APIs
 

@@ -3,7 +3,7 @@ title: Effective C++ Talk-Slides
 description: Slides for my talk on Effective C++
 slug: effective-cpp
 date: 2006-07-02
-image: ecppcover.png
+image: post/Articles/IMAGES/effectivecppcover.png
 categories:
   - CPP
   - Performance Optimization
@@ -14,7 +14,7 @@ tags:
   - Cross-Platform
   - DesignPatterns
 weight: 21
-lastmod: 2025-03-03T16:15:01.848Z
+lastmod: 2025-03-04T13:48:53.399Z
 ---
 <!--- 
 image embed

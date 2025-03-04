@@ -3,7 +3,7 @@ title: PHP - Language in a Nutshell
 description: PHP - Language in a Nutshell
 slug: php-language-in-a-nutshell
 date: 2017-06-15
-image: post/Articles/IMAGES/34.jpg
+image: post/Articles/IMAGES/php.png
 categories:
   - Php
   - Programming
@@ -15,16 +15,20 @@ categories:
 tags:
   - Php
   - Programming
-  - Web Development
+  - Web
+  - Development
   - Scripting
   - Backend
   - History
   - Comparison
-  - Code Examples
-  - Pros And Cons
+  - Code
+  - Examples
+  - Pros
+  - And
+  - Cons
 draft: false
 weight: 567
-lastmod: 2025-02-24T15:14:00.105Z
+lastmod: 2025-03-04T15:11:44.989Z
 ---
 # PHP - Language in a Nutshell
 

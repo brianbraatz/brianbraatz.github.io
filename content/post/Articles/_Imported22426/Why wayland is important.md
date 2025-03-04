@@ -3,7 +3,7 @@ title: Linux Wayland in a Nutshell
 description: ""
 slug: linux-wayland-in-a-nutshell-why-its-important-and-history-with-x-windows
 date: 2018-09-22
-image: post/Articles/IMAGES/42.jpg
+image: post/Articles/IMAGES/waylandlogo.png
 categories:
   - Linux
   - Wayland
@@ -13,11 +13,12 @@ tags:
   - Linux
   - Wayland
   - X11
-  - Display Server
+  - Display
+  - Server
   - GUI
 draft: false
 weight: 615
-lastmod: 2025-02-24T14:15:34.688Z
+lastmod: 2025-03-04T15:24:35.757Z
 ---
 ## A Brief History: X11 and Its Limitations
 
@@ -40,7 +41,9 @@ Enter Wayland: a **simpler, more efficient, and more secure** alternative.
 
 Wayland is a **protocol** (not a standalone program) designed to **replace** X11 by simplifying how display servers work.
 
-Unlike X11, which relies on a central X server to manage everything, **Wayland is compositor-driven.** In other words, the **compositor** (like Mutter, KWin, or Weston) takes over the role of both display server and window manager, cutting out the middleman.
+Unlike X11, which relies on a central X server to manage everything, **Wayland is compositor-driven.**
+
+In other words, the **compositor** (like Mutter, KWin, or Weston) takes over the role of both display server and window manager, cutting out the middleman.
 
 This means:
 
@@ -55,7 +58,9 @@ This means:
 
 In X11, every graphical action has to go through the X server, which then communicates with the compositor.
 
-Wayland **removes** this bottleneck. Instead, applications talk directly to the compositor using the Wayland protocol. The compositor then handles input, rendering, and output, making things **much more efficient.**
+Wayland **removes** this bottleneck. Instead, applications talk directly to the compositor using the Wayland protocol.
+
+The compositor then handles input, rendering, and output, making things **much more efficient.**
 
 ***
 
@@ -70,7 +75,9 @@ Well, it turns out that replacing a **30+ year-old system** is harder than it so
 * **Remote Desktop** – X11’s built-in network transparency doesn’t exist in Wayland (yet).
 * **XWayland Dependence** – Many applications still run on XWayland, a compatibility layer for X11 apps.
 
-Despite these challenges, **Wayland adoption is increasing**. GNOME, KDE, and even gaming platforms like Steam are improving their Wayland support. Major distros like Fedora already use Wayland as the default.
+Despite these challenges, **Wayland adoption is increasing**.
+
+GNOME, KDE, and even gaming platforms like Steam are improving their Wayland support. Major distros like Fedora already use Wayland as the default.
 
 ***
 

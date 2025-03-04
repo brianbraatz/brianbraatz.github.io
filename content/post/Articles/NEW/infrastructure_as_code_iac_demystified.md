@@ -1,9 +1,9 @@
 ---
 title: Infrastructure as Code (IaC) Demystified
-description: Infrastructure as Code (IaC) Demystified
+description: Thoughts on Infrastructure as Code..,,,
 slug: infrastructure-as-code-iac-demystified
 date: 2020-11-18
-image: post/Articles/IMAGES/50.jpg
+image: post/Articles/IMAGES/gustave_caillebotte_young_man_at_his_window_1876-Clipped.png
 categories:
   - DevOps
   - Infrastructure as Code-IAC
@@ -25,9 +25,23 @@ tags:
   - DevOps
 draft: false
 weight: 40
-lastmod: 2025-03-03T17:19:41.210Z
+lastmod: 2025-03-04T07:59:22.790Z
 ---
+<!-- 
+post/Articles/IMAGES/50.jpg
 # Infrastructure as Code (IaC) Demystified
+
+-->
+
+***
+
+![](/post/Articles/IMAGES/gustave_caillebotte_young_man_at_his_window_1876.jpeg)
+
+[Young Man at His Window - Gustave Caillebotte ](https://en.wikipedia.org/wiki/Young_Man_at_His_Window)
+
+[Gustave Caillebotte](https://en.wikipedia.org/wiki/Gustave_Caillebotte)
+
+***
 
 ## A Brief History of IaC
 

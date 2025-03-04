@@ -1,9 +1,9 @@
 ---
 title: Understanding Event-Driven Microservices
 description: Examples in C# and Python
-slug: understanding-event-driven-microservices
+slug: event-driven-microservices
 date: 2017-08-14
-image: post/Articles/IMAGES/37.jpg
+image: post/Articles/IMAGES/eventdriven.png
 categories:
   - Microservices
   - Event-driven Architecture
@@ -23,7 +23,7 @@ tags:
   - CSharp
 draft: false
 weight: 61
-lastmod: 2025-03-03T17:11:57.049Z
+lastmod: 2025-03-04T14:28:32.616Z
 ---
 # Understanding Event-Driven Microservices with C# and Python
 

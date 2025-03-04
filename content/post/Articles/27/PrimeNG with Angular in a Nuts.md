@@ -12,11 +12,12 @@ categories:
 tags:
   - Angular
   - Primeng
-  - Ui components
+  - Ui
+  - components
   - Frontend
 draft: "False"
-weight: "452"
-lastmod: 2025-03-02T23:05:12.006Z
+weight: "152"
+lastmod: 2025-03-04T13:26:16.159Z
 ---
 <!-- 
 # PrimeNG with Angular in a Nutshell 🚀

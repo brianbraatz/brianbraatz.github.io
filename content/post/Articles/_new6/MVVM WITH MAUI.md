@@ -1,7 +1,7 @@
 ---
 title: Should You Use MVVM with MAUI?
 description: Alternatives Explored and Compared with Code Examples
-slug: should-you-use-mvvm-with-maui-alternatives-explored-and-compared-with-code-examples
+slug: mvvm-with-maui
 date: 2022-06-15
 image: post/Articles/IMAGES/mvvm.png
 categories:
@@ -33,8 +33,8 @@ tags:
   - Ui
   - Patterns
 draft: false
-weight: 460
-lastmod: 2025-02-25T12:56:05.481Z
+weight: 60
+lastmod: 2025-03-04T11:13:29.122Z
 ---
 <!--
 # Should You Use MVVM with MAUI? Alternatives Explored and Compared with Code Examples

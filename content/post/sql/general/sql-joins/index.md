@@ -3,7 +3,7 @@ title: Sql Joins Explained with Diagrams
 description: Illustrated SQL Joins
 slug: sql-joins-illustrated
 date: 2012-03-06 00:00:00+0000
-image: cover-sql-joins.png
+image: post/Articles/IMAGES/sqljoinscover.png
 categories:
   - SQL
   - Performance Optimization
@@ -12,7 +12,7 @@ tags:
   - Mentoring
 weight: 25
 imag: cover.jpg
-lastmod: 2025-03-03T16:13:42.523Z
+lastmod: 2025-03-04T14:22:05.912Z
 ---
 Details
 
@@ -100,8 +100,7 @@ Looking at the data you will notice that only Amanda and Sally play both Soccer 
 
 ## 1.4 Dataset - Venn Diagram
 
-![post/sql/general/sql-joins/sqljoins1.png](/post/sql/general/sql-joins/sqljoins1.png)\
-![](/post/sql/general/sql-joins/sqljoins1.png)
+![post/sql/general/sql-joins/sqljoins1.png](/post/sql/general/sql-joins/sqljoins1.png)
 
 ## 1.5 Inner Join
 

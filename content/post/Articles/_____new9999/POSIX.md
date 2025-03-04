@@ -3,7 +3,7 @@ title: Understanding POSIX
 description: Driving features that many Unix-es have in common
 slug: posix-unix
 date: 2022-07-18
-image: post/Articles/IMAGES/42.jpg
+image: post/Articles/IMAGES/posix.png
 categories:
   - Kubernetes
   - Security
@@ -22,7 +22,7 @@ tags:
   - Unix
 draft: false
 weight: 960
-lastmod: 2025-02-16T22:08:44.486Z
+lastmod: 2025-03-04T15:43:54.728Z
 ---
 # Understanding POSIX: Security, Docker, Compliance, and Cloud Implications
 

@@ -17,8 +17,8 @@ tags:
   - Non-Blocking
   - Backend
 draft: "False"
-weight: "392"
-lastmod: 2025-03-03T02:59:48.821Z
+weight: "92"
+lastmod: 2025-03-04T13:28:18.706Z
 ---
 [Traffic jam in Moscow in the 50s](https://www.reddit.com/r/ussr/comments/18ej1yu/yes_this_is_a_traffic_jam_in_moscow_in_the_50s/)
 

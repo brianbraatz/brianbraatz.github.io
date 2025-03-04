@@ -3,7 +3,7 @@ title: Understanding Kinesis Streams
 description: Understanding Kinesis Streams
 slug: understanding-kinesis-streams
 date: 2021-09-14
-image: post/Articles/IMAGES/34.jpg
+image: post/Articles/IMAGES/KinesisStreams.png
 categories:
   - AWS
   - Streaming
@@ -18,7 +18,7 @@ tags:
   - Event-Driven
 draft: false
 weight: 578
-lastmod: 2025-03-02T23:51:19.709Z
+lastmod: 2025-03-04T15:11:04.918Z
 ---
 # Understanding Kinesis Streams
 

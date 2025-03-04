@@ -2,8 +2,8 @@
 title: Data Modeling for Microservices
 description: ""
 slug: data-modeling-for-microservices
-date: 2019-08-14
-image: post/Articles/IMAGES/39.jpg
+date: 2024-11-14
+image: post/Articles/IMAGES/parismodelling.png
 categories:
   - Microservices
   - Data Modeling
@@ -24,8 +24,10 @@ tags:
   - Architecture
 draft: false
 weight: 43
-lastmod: 2025-03-03T17:11:34.083Z
+lastmod: 2025-03-04T14:16:40.554Z
 ---
+[Paris Fashion Week](https://www.bbc.co.uk/newsround/articles/cprqjvpg71go)
+
 # Good Practices for Data Modeling in a Domain Data Store for Microservices
 
 So, you've jumped on the microservices train—congrats! Your app is now a beautiful mess of independent services, each doing its own thing, living its best life. But wait... your data model is an absolute disaster.

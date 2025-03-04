@@ -2,8 +2,8 @@
 title: Azure DevOps Operational Framework
 description: Azure DevOps Operational Framework
 slug: azure-devops-operational-framework
-date: 2017-06-14
-image: post/Articles/IMAGES/azure.png
+date: 2019-06-14
+image: post/Articles/IMAGES/roz2.png
 categories:
   - DevOps
   - Azure
@@ -20,14 +20,28 @@ tags:
   - Security
   - Monitoring
 draft: false
-weight: 456
-lastmod: 2025-03-03T02:50:02.654Z
+weight: 56
+lastmod: 2025-03-04T15:40:45.509Z
 ---
+<!-- 
 # Azure DevOps Operational Framework: The Secret Sauce to a Smooth Pipeline
+-->
 
-Ah, Azure DevOps. The mystical land where code flows, tests execute (sometimes successfully), and deployments happen—often at 4 AM when everything else is asleep except that one guy in ops who lives on coffee and anxiety.
+This is the Azure version of this article.\
+For AWS see here:\
+[Azure DevOps Operational Framework](https://brianbraatz.github.io/p/azure-devops-operational-framework/)
 
-But let's be real. Azure DevOps isn't just about pushing code and hoping for the best. It needs a solid framework—a guiding principle, if you will—to make sure things don’t go up in digital flames. Enter the **Azure DevOps Operational Framework (ADOF)**, the unsung hero that keeps your software delivery running smoother than your favorite espresso machine.
+***
+
+Ah, Azure DevOps.
+
+The mystical land where code flows, tests execute (sometimes successfully), and deployments happen—often at 4 AM when everything else is asleep except that one guy in ops who lives on coffee and anxiety.
+
+But let's be real.
+
+Azure DevOps isn't just about pushing code and hoping for the best. It needs a solid framework—a guiding principle, if you will—to make sure things don’t go up in digital flames.
+
+Enter the **Azure DevOps Operational Framework (ADOF)**, the unsung hero that keeps your software delivery running smoother than your favorite espresso machine.
 
 ***
 

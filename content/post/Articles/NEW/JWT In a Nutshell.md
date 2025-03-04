@@ -20,8 +20,8 @@ tags:
   - Javascript
   - Cloud
 draft: false
-weight: 378
-lastmod: 2025-03-02T23:41:49.938Z
+weight: 37
+lastmod: 2025-03-04T11:10:50.981Z
 ---
 # JWT in a Nutshell
 

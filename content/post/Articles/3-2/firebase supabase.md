@@ -22,8 +22,8 @@ tags:
   - PostgreSQL
   - NoSQL
 draft: false
-weight: 1357
-lastmod: 2025-03-02T23:11:51.480Z
+weight: 135
+lastmod: 2025-03-04T13:23:49.482Z
 ---
 <!-- # Supabase vs Firebase: The Ultimate Showdown of Backend Titans ⚔️🔥
 

@@ -3,7 +3,7 @@ title: Effective C# Talk-Slides
 description: Slides for my talk on Effective C#
 slug: effective-csharp-talk
 date: 2004-05-06
-image: post/Articles/IMAGES/csharpblue.png
+image: post/Articles/IMAGES/effectivecsharpcover.png
 categories:
   - CSharp
   - DotNet
@@ -16,9 +16,11 @@ tags:
   - WPF
 weight: 4
 published: 2001-01-01
-lastmod: 2025-02-16T19:07:52.182Z
+lastmod: 2025-03-04T13:41:41.955Z
 ---
-<!-- ecsharpcover.png --> 
+<!-- ecsharpcover.png 
+csharpblue.png
+--> 
 
 I have used this talk many times over the years.
 

@@ -16,8 +16,8 @@ tags:
   - Web
   - Development
 draft: "False"
-weight: "432"
-lastmod: 2025-03-02T22:56:20.881Z
+weight: "132"
+lastmod: 2025-03-04T13:27:14.088Z
 ---
 ## What the Heck is Electron?
 

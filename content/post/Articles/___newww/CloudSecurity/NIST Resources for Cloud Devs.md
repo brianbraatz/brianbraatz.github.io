@@ -15,14 +15,18 @@ categories:
 tags:
   - Nist
   - Cybersecurity
-  - Cloud security
-  - Zero trust
+  - Cloud
+  - security
+  - Zero
+  - trust
   - Compliance
-  - Web applications
-  - Risk management
+  - Web
+  - applications
+  - Risk
+  - management
 draft: false
-weight: 404
-lastmod: 2025-02-17T12:52:39.398Z
+weight: 104
+lastmod: 2025-03-04T13:29:38.075Z
 ---
 This is just a list of useful links.
 
