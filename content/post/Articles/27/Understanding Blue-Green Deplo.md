@@ -21,8 +21,8 @@ tags:
   - Automation
   - Performance
 draft: "False"
-weight: "512"
-lastmod: 2025-03-04T11:03:24.335Z
+weight: "112"
+lastmod: 2025-03-04T17:28:04.515Z
 ---
 # Understanding Blue-Green Deployments and Canary Releases
 

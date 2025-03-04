@@ -18,10 +18,13 @@ tags:
   - Data
   - Storage
 draft: false
-weight: 483
-lastmod: 2025-03-04T15:50:12.742Z
+weight: 183
+lastmod: 2025-03-04T17:37:07.646Z
 ---
-{{< youtube fVq4\_HhBK8Y >}}\
+<!-- 
+{{< youtube fVq4_HhBK8Y >}}
+-->
+
 [Youtube Link-What's our vector, Victor?](https://www.youtube.com/watch?v=fVq4_HhBK8Y)
 
 [What's our vector, Victor? -Reddit](https://www.reddit.com/r/videos/comments/r38grp/whats_our_vector_victor/)

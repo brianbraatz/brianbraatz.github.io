@@ -19,8 +19,8 @@ tags:
   - Strange
   - Behavior
 draft: false
-weight: 532
-lastmod: 2025-03-04T14:32:16.181Z
+weight: 132
+lastmod: 2025-03-04T17:37:54.966Z
 ---
 PHP is the lovable, chaotic gremlin of programming languages.\
 It runs most of the web, powers countless CMSes, and yet—sometimes—it makes absolutely no sense.\

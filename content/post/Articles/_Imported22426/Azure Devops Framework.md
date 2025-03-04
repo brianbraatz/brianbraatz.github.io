@@ -21,7 +21,7 @@ tags:
   - Monitoring
 draft: false
 weight: 56
-lastmod: 2025-03-04T15:40:45.509Z
+lastmod: 2025-03-04T16:13:06.684Z
 ---
 <!-- 
 # Azure DevOps Operational Framework: The Secret Sauce to a Smooth Pipeline
@@ -29,7 +29,7 @@ lastmod: 2025-03-04T15:40:45.509Z
 
 This is the Azure version of this article.\
 For AWS see here:\
-[Azure DevOps Operational Framework](https://brianbraatz.github.io/p/azure-devops-operational-framework/)
+[AWS DevOps Operational Framework](https://brianbraatz.github.io/p/aws-devops-operational-framework/)
 
 ***
 

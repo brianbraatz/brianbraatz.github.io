@@ -3,7 +3,7 @@ title: SSRS- SQL Server Reporting Services in a Nutshell
 description: 
 slug: ssrs-sql-server-reporting-services-explained
 date: 2021-01-10
-image: post/Articles/IMAGES/ssrs.png
+image: post/Articles/IMAGES/SSRS.jpg
 categories:
   - SSRS
   - SQL Server
@@ -20,7 +20,7 @@ tags:
   - visualization
 draft: false
 weight: 382
-lastmod: 2025-03-03T02:24:07.746Z
+lastmod: 2025-03-04T17:24:32.372Z
 ---
 <!-- 
 ## SSRS: SQL Server Reporting Services Explained (With Jokes!)
