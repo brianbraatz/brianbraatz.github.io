@@ -17,7 +17,7 @@ tags:
   - Indexing
 draft: false
 weight: 15
-lastmod: 2025-03-05T08:05:56.500Z
+lastmod: 2025-03-05T17:41:52.924Z
 ---
 **Yo, you writin' SQL, huh? That's cool, that's cool. But hold up...**
 
@@ -25,7 +25,7 @@ lastmod: 2025-03-05T08:05:56.500Z
 
 (yes... why WOULD you "DO ME" like that?.... so sayeth the SQL engine.. (if the SQL Engine were a character in West Side Story...))
 
-https://en.wikipedia.org/wiki/West\_Side\_Story
+[West Side Story](https://en.wikipedia.org/wiki/West_Side_Story)
 
 ***
 

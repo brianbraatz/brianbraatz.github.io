@@ -16,7 +16,7 @@ tags:
   - Internet
 draft: false
 weight: 212
-lastmod: 2025-03-05T16:09:15.534Z
+lastmod: 2025-03-05T17:33:17.120Z
 ---
 <!-- 
 osimodel.jpg 
@@ -28,6 +28,7 @@ osimodel.jpg
 <!-- 
 ## Introduction -->
 
+![](/post/Articles/IMAGES/osimodel.jpg)\
 Ah, the OSI model! The backbone of networking, the unsung hero of the internet, and the reason your cat videos load (or buffer endlessly, depending on your ISP).
 
 But what exactly is it?
