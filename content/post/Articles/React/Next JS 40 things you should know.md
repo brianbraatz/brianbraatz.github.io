@@ -10,6 +10,7 @@ categories:
   - Testing
   - Javascript
   - Typescript
+  - Unit Testing
 tags:
   - React
   - Interview
@@ -21,7 +22,7 @@ tags:
   - Examples
 draft: false
 weight: 370
-lastmod: 2025-02-26T17:32:59.844Z
+lastmod: 2025-03-05T21:14:17.133Z
 ---
 Next.js: the framework that turns React into a **supercharged**, **server-rendered**, **SEO-friendly** powerhouse.
 

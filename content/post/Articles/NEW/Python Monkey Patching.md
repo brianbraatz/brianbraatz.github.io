@@ -9,6 +9,8 @@ categories:
   - Python-Monkey Patching
   - Aspect Orientated Programming-AOP
   - Algorithms
+  - Testing
+  - Unit Testing
 tags:
   - Python
   - Monkey
@@ -21,7 +23,7 @@ tags:
   - Metaprogramming
 draft: false
 weight: 104
-lastmod: 2025-03-03T11:34:21.989Z
+lastmod: 2025-03-05T21:14:45.074Z
 ---
 <!-- 
 # Python Monkey Patching: Hacking Your Code Like a Pro

@@ -19,10 +19,14 @@ tags:
   - Framework
   - SQL
   - C#
-draft: "False"
+draft: "True"
 weight: "64"
-lastmod: 2025-03-05T16:59:43.464Z
+lastmod: 2025-03-05T20:48:56.283Z
 ---
+NOTE\_ this is a dupe of the other - or too simliar
+
+turning it off
+
 <!-- 
 # What Are ORMs and How Do They Work?
 ### Exploring Entity Framework and How It Generates SQL for You

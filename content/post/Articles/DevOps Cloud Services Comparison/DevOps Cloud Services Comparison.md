@@ -12,6 +12,8 @@ categories:
   - DevOps
   - Docker
   - Cheatsheet
+  - Azure Service Bus
+  - Azure Queue
 tags:
   - Cheatsheet
   - AWSCloud
@@ -23,7 +25,7 @@ tags:
   - Docker
 weight: 46
 draft: false
-lastmod: 2025-03-03T11:30:00.533Z
+lastmod: 2025-03-05T21:49:46.610Z
 ---
 <!-- 
 see also [Amazon AWS, Microsoft Azure, Google Cloud Cheat Sheet](post/Cloud/aws-azure-gcp-cheatsheet/index.md)

@@ -3,7 +3,7 @@ title: Hyperplanes and Support Vector Machines (SVMs)
 description: Brief Explanation
 slug: hyperplanes-support-vectors
 date: 2018-07-19
-image: post/Articles/IMAGESracingboats.png
+image: post/Articles/IMAGES/racingboats.png
 categories:
   - Machine Learning
   - Scikit-learn
@@ -18,7 +18,7 @@ tags:
   - Vectors
 draft: false
 weight: 78
-lastmod: 2025-03-05T16:36:37.422Z
+lastmod: 2025-03-05T22:17:21.623Z
 ---
 [Hydroplanes on Lake Washington](https://www.seattletimes.com/sports/other-sports/seafair-primer-what-you-need-to-know-about-hydroplanes-on-lake-washington/)
 

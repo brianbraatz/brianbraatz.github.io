@@ -1,9 +1,9 @@
 ---
-title: Entity Framework In Depth
-description: With Code Examples
-slug: entity-framework-in-depth
+title: Entity Framework In a Nutshell
+description: With Common Code Examples
+slug: entity-framework-nutshell
 date: 2016-12-03
-image: post/Articles/IMAGES/csharpblue.png
+image: post/Articles/IMAGES/entityframework.png
 categories:
   - SQL
   - MySql
@@ -30,7 +30,7 @@ tags:
   - CSharp
 draft: false
 weight: 82
-lastmod: 2025-03-03T15:04:09.752Z
+lastmod: 2025-03-05T20:51:38.162Z
 ---
 <!-- 
 # Entity Framework In Depth: 20 Code Examples, LINQ, Pros, Cons, and Alternate ORMs Explained
@@ -106,10 +106,6 @@ dotnet ef database update
 ```
 
 Boom! Database created with zero SQL writing.
-
-***
-
-## 20 Essential Entity Framework Code Examples
 
 ### 4. Add Data
 

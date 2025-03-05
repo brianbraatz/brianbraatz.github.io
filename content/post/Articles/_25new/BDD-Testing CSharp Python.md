@@ -11,6 +11,7 @@ categories:
   - Behavior Driven Design
   - CSharp
   - Python
+  - Unit Testing
 tags:
   - BDD
   - Testing
@@ -24,7 +25,7 @@ tags:
   - Gherkin
 draft: false
 weight: 129
-lastmod: 2025-03-03T17:15:59.876Z
+lastmod: 2025-03-05T21:12:26.184Z
 ---
 This is the C# and Python Version of this Article
 

@@ -11,6 +11,8 @@ categories:
   - Web Development
   - GUI
   - Cloud
+  - Testing
+  - Accessibility Testing
 tags:
   - Accessibility
   - UI
@@ -23,7 +25,7 @@ tags:
   - Development
 draft: false
 weight: 467
-lastmod: 2025-03-05T19:54:06.887Z
+lastmod: 2025-03-05T21:15:36.731Z
 ---
 **WCAG 2.1 AA requirements**\
 [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)

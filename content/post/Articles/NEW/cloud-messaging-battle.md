@@ -16,6 +16,7 @@ categories:
   - CSharp
   - DotNet
   - Python
+  - Azure Queue
 tags:
   - Cloud
   - Messaging
@@ -29,7 +30,7 @@ tags:
   - GCP
 draft: false
 weight: 378
-lastmod: 2025-02-11T16:55:42.476Z
+lastmod: 2025-03-05T21:39:01.657Z
 ---
 # Cloud Messaging Comparison: AWS vs Azure vs Google Cloud
 

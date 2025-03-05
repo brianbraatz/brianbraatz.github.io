@@ -9,6 +9,7 @@ categories:
   - Python-Playwright
   - Web Development
   - Testing
+  - Unit Testing
 tags:
   - WebScraping
   - Automation
@@ -22,7 +23,7 @@ tags:
   - Chrome
 draft: false
 weight: 33
-lastmod: 2025-03-03T14:24:18.525Z
+lastmod: 2025-03-05T21:11:13.092Z
 ---
 # How to Monitor Websites for Changes Like a Cyber Detective
 

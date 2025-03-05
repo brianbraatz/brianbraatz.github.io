@@ -11,6 +11,7 @@ categories:
   - Postgres Sql
   - SQLite
   - Testing
+  - Unit Testing
 tags:
   - Sql
   - Database
@@ -31,7 +32,7 @@ tags:
   - Seeding
 draft: false
 weight: 120
-lastmod: 2025-03-03T17:15:37.970Z
+lastmod: 2025-03-05T21:15:07.441Z
 ---
 <!--
 # In-Depth Introduction to Generating Sample Data for SQL Databases Using Faker, tSQLt, pgTAP, and More

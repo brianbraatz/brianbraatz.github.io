@@ -11,6 +11,7 @@ categories:
   - Unit Testing
   - CSharp
   - DotNet
+  - Testing
 tags:
   - Unit
   - Testing
@@ -30,7 +31,7 @@ tags:
   - Testing
 draft: false
 weight: 246
-lastmod: 2025-02-19T13:48:59.573Z
+lastmod: 2025-03-05T21:13:52.809Z
 ---
 <!--
 # Best Unit Testing Strategies for MAUI: Alternatives and How to Structure Your Project

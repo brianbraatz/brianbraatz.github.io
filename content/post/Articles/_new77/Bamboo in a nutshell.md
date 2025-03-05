@@ -10,11 +10,14 @@ categories:
   - Cloud
   - Bamboo
   - CI\CD
+  - Testing
+  - Unit Testing
+  - Container Registry
 tags:
   - CICD
 draft: false
 weight: 332
-lastmod: 2025-02-11T13:18:45.921Z
+lastmod: 2025-03-05T22:00:36.347Z
 ---
 <!-- 
 # Bamboo in a Nutshell

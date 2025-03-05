@@ -10,6 +10,9 @@ categories:
   - Microsoft Azure Cloud
   - Google Cloud-GCP
   - Cheatsheet
+  - Azure Queue
+  - Azure Service Bus
+  - Azure Storage
 tags:
   - AWSCloud
   - Azure
@@ -21,7 +24,7 @@ tags:
 weight: 76
 published: 2001-01-01
 draft: false
-lastmod: 2025-03-03T16:13:21.647Z
+lastmod: 2025-03-05T21:50:26.034Z
 ---
 <!-- 
 see also [DevOps Cloud Services Comparison](post/Articles/DevOps%20Cloud%20Services%20Comparison/DevOps%20Cloud%20Services%20Comparison.md)

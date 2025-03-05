@@ -12,10 +12,12 @@ categories:
   - Amazon App Runner
   - AWS Elastic Beanstalk
   - CI\CD
+  - AWS Elastic Container Registry
+  - Container Registry
 tags: 
 draft: false
 weight: 51
-lastmod: 2025-03-03T14:41:46.078Z
+lastmod: 2025-03-05T21:59:59.987Z
 ---
 <!-- 
 # How to Move a legacy IIS app to the AWS Cloud with Beanstalk, App runner and docker

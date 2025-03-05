@@ -1,6 +1,6 @@
 ---
 title: Exploring the RAII Pattern
-description: in C++, C#, Python, Go, Rust, JavaScript, and TypeScrip
+description: in C++, C#, Python, Go, Rust, JavaScript, and TypeScript
 slug: raii-pattern-comparison
 date: 2018-07-14
 image: post/Articles/IMAGES/squirelljumpingnuts.png
@@ -24,7 +24,7 @@ tags:
   - Programming
 draft: false
 weight: 42
-lastmod: 2025-03-03T17:25:47.139Z
+lastmod: 2025-03-05T22:18:39.598Z
 ---
 **Photographer Waits Hours To Capture The Autumn Idyll Of Squirrels Carrying A Nut Over A Lake**\
 <https://www.boredpanda.com/squirrel-animals-photography-dick-van-duijn/>

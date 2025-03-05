@@ -21,9 +21,11 @@ categories:
   - AWS
   - Microsoft Azure Cloud
   - Google Cloud
+  - Azure Service Bus
+  - Azure Queue
 draft: false
 weight: 6
-lastmod: 2025-02-24T14:40:16.297Z
+lastmod: 2025-03-05T21:48:56.162Z
 ---
 # Exploring Cloud Lock-In: Should I Take the Candy from the Stranger?
 

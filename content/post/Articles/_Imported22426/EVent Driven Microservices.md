@@ -10,6 +10,7 @@ categories:
   - C#
   - Python
   - Cloud
+  - Azure Queue
 tags:
   - Microservices
   - Event-driven
@@ -23,7 +24,7 @@ tags:
   - CSharp
 draft: false
 weight: 61
-lastmod: 2025-03-04T14:28:32.616Z
+lastmod: 2025-03-05T21:39:37.327Z
 ---
 # Understanding Event-Driven Microservices with C# and Python
 
