@@ -1,11 +1,11 @@
 ---
 title: |-
-  What Are ORMs and How Do They Work?
+  Entity Framework In a Nutshell
   Exploring Entity Framework and How It Generates SQL for You
 description: |-
   What Are ORMs and How Do They Work?
   Exploring Entity Framework and How It Generates SQL for You
-slug: what-are-orms-and-how-the
+slug: orms-nutshell
 date: 2021-06-14
 image: post/Articles/IMAGES/orms.png
 categories:
@@ -21,11 +21,12 @@ tags:
   - C#
 draft: "False"
 weight: "64"
-lastmod: 2025-03-03T15:03:44.538Z
+lastmod: 2025-03-05T16:59:43.464Z
 ---
+<!-- 
 # What Are ORMs and How Do They Work?
-
 ### Exploring Entity Framework and How It Generates SQL for You
+-->
 
 Ah, ORMs.
 
@@ -225,6 +226,3 @@ So, use ORMs wisely, **profile your queries**, and when in doubt, **write some S
 * [Entity Framework Docs](https://learn.microsoft.com/en-us/ef/)
 * [LINQ Query Syntax](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/query-syntax-and-method-syntax-in-linq)
 * [N+1 Query Problem Explained](https://www.thoughtco.com/n-plus-1-query-problem-4156619)
-
-```
-```

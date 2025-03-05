@@ -1,7 +1,7 @@
 ---
 title: Understanding RAII in C++
 description: 
-slug: understanding-raii-in-c++
+slug: understanding-raii-in-cpp
 date: 2016-02-17
 image: post/Articles/IMAGES/cppblue.png
 categories:
@@ -18,8 +18,8 @@ tags:
   - Smart
   - Pointers
 draft: false
-weight: 45
-lastmod: 2025-03-03T14:25:33.196Z
+weight: 345
+lastmod: 2025-03-05T17:02:53.440Z
 ---
 # Understanding RAII in C++
 

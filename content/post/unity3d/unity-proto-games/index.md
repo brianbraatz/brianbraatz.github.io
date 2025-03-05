@@ -1,5 +1,5 @@
 ---
-title: Prototype Games- Unity3D - Cloud - Multiplayer
+title: Prototype Games- Unity3D - Azure Cloud - Multiplayer
 description: Prototype C# Unity 3D Games and other musings...
 slug: unity-proto-games
 date: 2004-05-06
@@ -27,7 +27,7 @@ tags:
 weight: 3
 published: 2001-01-01
 draft: false
-lastmod: 2025-02-20T11:04:43.838Z
+lastmod: 2025-03-05T16:54:00.823Z
 ---
 <!-- 
 If you are interested in a tutorial on how to setup Multiplayer in Azure , Check out my tutorial:

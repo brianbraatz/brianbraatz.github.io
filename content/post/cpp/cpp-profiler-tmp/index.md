@@ -3,7 +3,7 @@ title: C++ Performance Profiler Library
 description: Peformance Profiler Libray- Implemented as a Template Metaprogram
 slug: cpp-profiler-tmp
 date: 2004-05-06
-image: cppprofilercover3.png
+image: post/Articles/IMAGES/porsche-963.png
 categories:
   - CPP
   - Algorithms
@@ -15,11 +15,13 @@ tags:
   - CPP
   - WeavePattern
   - StrategyPattern
-weight: 8
+weight: 80
 published: 2001-01-01
 draft: false
-lastmod: 2025-03-03T16:30:39.864Z
+lastmod: 2025-03-05T16:21:57.157Z
 ---
+[Porsche 963](https://www.porsche.com/stories/innovation/what-is-the-porsche-963-racecar/)
+
 [Template Metaprogramming-Wikipedia](https://en.wikipedia.org/wiki/Template_metaprogramming)
 
 # C++ Performance Profiler-Template Metaprogramming
