@@ -15,6 +15,7 @@ categories:
   - Python
   - AWS-Lambda
   - Azure-Functions
+  - DynamoDb
 tags:
   - AWS
   - GCP
@@ -31,7 +32,7 @@ tags:
   - Azure-Functions
 draft: false
 weight: 42
-lastmod: 2025-03-03T14:28:55.038Z
+lastmod: 2025-03-06T16:31:54.492Z
 ---
 <!-- 
 # Exploring Lambda and Cloud Functions in GCP, AWS, & Azure Cloud

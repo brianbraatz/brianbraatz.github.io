@@ -1,6 +1,6 @@
 ---
 title: SVMs, Decision Trees & Random Forests in Machine Learning
-description: ""
+description: "Intro to Support Vector Machines (SVMs), Decision Trees & Random Forests "
 slug: svm-decision-trees-random-forests
 date: 2019-11-12
 image: post/Articles/IMAGES/forest.png
@@ -19,7 +19,7 @@ tags:
   - Forests
 draft: false
 weight: 532
-lastmod: 2025-03-05T16:31:06.757Z
+lastmod: 2025-03-06T12:33:34.586Z
 ---
 [Seeing the forest for the trees](https://www.scienceintheclassroom.org/research-papers/seeing-forest-trees)
 

@@ -11,6 +11,7 @@ tags:
   - lock-in
   - cloud
   - strategy
+  - DynamoDb
 description: Thoughts on cloud lockin... and if it matters...
 image: post/Articles/IMAGES/cloudcandy.jpg
 categories:
@@ -25,7 +26,7 @@ categories:
   - Azure Queue
 draft: false
 weight: 6
-lastmod: 2025-03-05T21:48:56.162Z
+lastmod: 2025-03-06T16:31:26.057Z
 ---
 # Exploring Cloud Lock-In: Should I Take the Candy from the Stranger?
 

@@ -13,6 +13,7 @@ categories:
   - Microsoft Sql Server
   - Postgres Sql
   - Cloud
+  - ORM
 tags:
   - Sql
   - Stored
@@ -34,7 +35,7 @@ tags:
   - Schema
 draft: false
 weight: 22
-lastmod: 2025-03-03T11:32:22.390Z
+lastmod: 2025-03-06T01:14:30.962Z
 ---
 <!--
 

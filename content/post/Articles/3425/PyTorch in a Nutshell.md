@@ -1,6 +1,6 @@
 ---
 title: PyTorch in a Nutshell
-description: PyTorch in a Nutshell
+description: Python Machine Learning
 slug: pytorch-in-a-nutshell
 date: 2018-07-22
 image: post/Articles/IMAGES/pytorch.png
@@ -19,7 +19,7 @@ tags:
   - Pytorch
 draft: false
 weight: 453
-lastmod: 2025-03-05T16:09:18.370Z
+lastmod: 2025-03-06T12:30:06.729Z
 ---
 <!-- 
 # PyTorch in a Nutshell

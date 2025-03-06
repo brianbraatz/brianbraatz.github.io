@@ -8,6 +8,7 @@ categories:
   - AWS
   - Streaming
   - Data Processing
+  - DynamoDb
 tags:
   - Aws
   - Kinesis
@@ -18,7 +19,7 @@ tags:
   - Event-Driven
 draft: false
 weight: 578
-lastmod: 2025-03-04T15:11:04.918Z
+lastmod: 2025-03-06T16:31:41.690Z
 ---
 # Understanding Kinesis Streams
 

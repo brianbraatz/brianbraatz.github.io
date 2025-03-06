@@ -1,6 +1,6 @@
 ---
 title: Dapper in a Nutshell
-description: Dapper in a Nutshell
+description: .Net ORM- Entity Framrwork Alternative
 slug: dapper-in-a-nutshell
 date: 2016-08-14
 image: post/Articles/IMAGES/dapper.png
@@ -21,7 +21,7 @@ tags:
   - Performance
 draft: false
 weight: 523
-lastmod: 2025-03-05T21:02:37.469Z
+lastmod: 2025-03-06T12:31:04.027Z
 ---
 # Dapper in a Nutshell
 

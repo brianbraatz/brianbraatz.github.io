@@ -14,6 +14,7 @@ categories:
   - PHP
   - Python
   - Security
+  - ORM
 tags:
   - Web
   - Security
@@ -31,7 +32,7 @@ tags:
   - Dapper
 draft: false
 weight: 29
-lastmod: 2025-03-03T13:46:30.462Z
+lastmod: 2025-03-06T01:16:42.803Z
 ---
 <!-- 
 # Web Security: How SQL Injection Attacks Work

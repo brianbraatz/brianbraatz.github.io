@@ -18,7 +18,7 @@ tags:
   - /dev
 draft: false
 weight: 278
-lastmod: 2025-03-04T10:33:31.108Z
+lastmod: 2025-03-06T14:35:36.768Z
 ---
 ## Linux: Understanding /dev (And Why It’s Not Just a Folder)
 

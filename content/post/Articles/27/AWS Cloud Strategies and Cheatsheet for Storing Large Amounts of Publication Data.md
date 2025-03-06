@@ -8,6 +8,7 @@ categories:
   - AWS
   - Cloud Storage
   - Big Data
+  - DynamoDb
 tags:
   - Aws
   - Cloud
@@ -22,7 +23,7 @@ tags:
   - Aurora
 draft: false
 weight: 81
-lastmod: 2025-03-03T15:00:44.021Z
+lastmod: 2025-03-06T16:31:09.799Z
 ---
 # AWS Cloud Strategies and Cheatsheet for Storing Large Amounts of Publication Data 📚☁️
 

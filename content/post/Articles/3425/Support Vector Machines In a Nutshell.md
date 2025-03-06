@@ -1,6 +1,6 @@
 ---
-title: Support Vector Machines In a Nutshell
-description: ""
+title: Support Vector Machines(SVMs) In a Nutshell
+description: Understanding Supervised Learning algorithms for classification & regression
 slug: support-vector-machines-nutshell
 date: 2019-06-14
 image: post/Articles/IMAGES/47.jpg
@@ -18,7 +18,7 @@ tags:
   - Regression
 draft: false
 weight: 115
-lastmod: 2025-03-05T16:09:27.863Z
+lastmod: 2025-03-06T12:32:34.037Z
 ---
 <!-- 
 # Support Vector Machines In-Depth: Theory, Math, and Code
