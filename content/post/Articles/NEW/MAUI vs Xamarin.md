@@ -10,6 +10,7 @@ categories:
   - Xamarin
   - DotNet
   - CSharp
+  - Mobile
 tags:
   - Maui
   - Xamarin
@@ -19,7 +20,7 @@ tags:
   - CSharp
 draft: false
 weight: 284
-lastmod: 2025-02-19T13:49:33.598Z
+lastmod: 2025-03-07T00:55:32.974Z
 ---
 <!-- >
 

@@ -11,6 +11,7 @@ categories:
   - MAUI
   - Angular
   - React
+  - Mobile
 tags:
   - Material
   - Design
@@ -24,7 +25,7 @@ tags:
   - History
 draft: false
 weight: 461
-lastmod: 2025-03-03T12:47:59.579Z
+lastmod: 2025-03-07T00:53:38.160Z
 ---
 <!-- 
 # The Wild World of Material Design: From History to Modern Frameworks

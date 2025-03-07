@@ -11,6 +11,7 @@ categories:
   - iPhone
   - Android
   - React
+  - Mobile
 tags:
   - React Native
   - Mobile Development
@@ -20,7 +21,7 @@ tags:
   - React
 draft: false
 weight: 562
-lastmod: 2025-03-06T14:38:32.177Z
+lastmod: 2025-03-07T13:39:38.131Z
 ---
 <!-- 
 # React Native in a Nutshell

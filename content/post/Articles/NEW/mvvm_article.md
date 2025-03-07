@@ -26,10 +26,11 @@ tags:
   - Development
   - Dotnet
   - Maui
+  - Mobile
   - Xamarin
 draft: false
 weight: 425
-lastmod: 2025-02-09T22:40:18.626Z
+lastmod: 2025-03-07T00:55:41.009Z
 ---
 # The MVVM Pattern: History, Motivation, and Practical Examples
 

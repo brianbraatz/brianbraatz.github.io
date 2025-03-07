@@ -18,9 +18,10 @@ tags:
   - ClojureScript
 draft: "False"
 weight: "432"
-lastmod: 2025-02-27T17:19:49.399Z
+lastmod: 2025-03-07T02:32:30.872Z
 ---
-# Node.js - Alternate Languages: CoffeeScript, Dart, TypeScript, and ClojureScript
+<!-- 
+# Node.js - Alternate Languages: CoffeeScript, Dart, TypeScript, and ClojureScript -->
 
 So you love Node.js, but you’re tired of writing vanilla JavaScript?
 

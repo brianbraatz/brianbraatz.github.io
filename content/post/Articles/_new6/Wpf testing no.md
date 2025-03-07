@@ -10,6 +10,7 @@ categories:
   - CSharp
   - Maui
   - Testing
+  - Mobile
 tags:
   - Unit
   - Testing
@@ -32,7 +33,7 @@ tags:
   - Injection
 draft: true
 weight: 477
-lastmod: 2025-02-25T12:58:35.543Z
+lastmod: 2025-03-07T00:54:42.341Z
 ---
 <!--
 

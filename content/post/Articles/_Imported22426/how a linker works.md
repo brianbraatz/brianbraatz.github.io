@@ -1,6 +1,6 @@
 ---
-title: How a C and C++ Linker Works
-description: How a C and C++ Linker Works
+title: How a C\C++ Linker Works
+description: 
 slug: how-a-c-and-cpp-linker-works
 date: 2017-10-09
 image: post/Articles/IMAGES/chainlink.png
@@ -27,7 +27,7 @@ tags:
   - Errors
 draft: false
 weight: 4
-lastmod: 2025-03-04T13:35:49.906Z
+lastmod: 2025-03-07T13:26:11.970Z
 ---
 Ah, the linker!
 

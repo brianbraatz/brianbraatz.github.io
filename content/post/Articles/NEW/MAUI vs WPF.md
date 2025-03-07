@@ -10,6 +10,7 @@ categories:
   - Maui
   - WPF
   - XAML
+  - Mobile
 tags:
   - Maui
   - WPF
@@ -20,7 +21,7 @@ tags:
   - CSharp
 draft: false
 weight: 61
-lastmod: 2025-03-03T14:38:56.435Z
+lastmod: 2025-03-07T00:55:26.560Z
 ---
 # MAUI vs WPF
 

@@ -3,7 +3,7 @@ title: Reactive Extensions (Rx.NET) in a Nutshell
 description: Event-Driven and Asynchronous Programming
 slug: reactive-extensions-rx-net-nutshell
 date: 2016-07-15
-image: post/Articles/IMAGES/34.jpg
+image: post/Articles/IMAGES/RxNet.png
 categories:
   - Rx.NET
   - Event-Driven Programming
@@ -19,7 +19,7 @@ tags:
   - .NET
 draft: false
 weight: 343
-lastmod: 2025-03-06T16:02:36.022Z
+lastmod: 2025-03-07T14:36:32.027Z
 ---
 <!-- # Reactive Extensions (Rx.NET) for Event-Driven and Asynchronous Programming in a Nutshell
 

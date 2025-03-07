@@ -12,6 +12,7 @@ categories:
   - Postgres Sql
   - Testing
   - Unit Testing
+  - Mobile
 tags:
   - SQL
   - SqlLite
@@ -20,7 +21,7 @@ tags:
   - MSSQL
 weight: 30
 draft: false
-lastmod: 2025-03-05T21:16:09.141Z
+lastmod: 2025-03-07T00:56:23.831Z
 ---
 # Why I Love the SQLite Database Engine
 

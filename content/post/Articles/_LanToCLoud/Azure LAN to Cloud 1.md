@@ -25,6 +25,7 @@ categories:
   - Cloud
   - Redis
   - OWASP
+  - Mobile
   - WinAPI
 tags:
   - Azure
@@ -52,7 +53,7 @@ tags:
   - CICD
 draft: false
 weight: 78
-lastmod: 2025-03-03T16:14:01.285Z
+lastmod: 2025-03-07T00:53:48.676Z
 ---
 <!-- # Azure LAN to Cloud: Part 1 - Project Vision and Goals
 -->

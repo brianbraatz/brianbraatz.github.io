@@ -1,9 +1,9 @@
 ---
 title: Python Performance Optimization
 description: Fixing Common Python Performance Issues
-slug: common-performance-problems-in-python
+slug: ptyhon-performance
 date: 2017-11-30
-image: post/Articles/IMAGES/pythonlogo.png
+image: post/Articles/IMAGES/pythonoptimize.png
 categories:
   - Python
   - Performance Optimization
@@ -15,7 +15,7 @@ tags:
   - Programming
 draft: false
 weight: 21
-lastmod: 2025-03-03T16:31:36.784Z
+lastmod: 2025-03-07T13:37:28.010Z
 ---
 # Common Performance Problems in Python and How to Solve Them
 

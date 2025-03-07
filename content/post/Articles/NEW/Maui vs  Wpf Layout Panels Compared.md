@@ -9,6 +9,7 @@ categories:
   - WPF
   - XAML
   - GUI
+  - Mobile
 tags:
   - Maui
   - WPF
@@ -19,7 +20,7 @@ tags:
   - Mobile
 draft: false
 weight: 43
-lastmod: 2025-03-03T14:38:09.036Z
+lastmod: 2025-03-07T00:55:20.257Z
 ---
 Both WPF and .NET MAUI offer a variety of layout panels to help you organize and arrange UI elements, but there are some differences in the specific panels available and their usage.
 

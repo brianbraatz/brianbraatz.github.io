@@ -16,6 +16,7 @@ categories:
   - CSS
   - Javascript
   - Typescript
+  - Mobile
 tags:
   - Cordova
   - Ionic
@@ -34,7 +35,7 @@ tags:
   - Development
 draft: false
 weight: 99
-lastmod: 2025-03-03T17:20:34.863Z
+lastmod: 2025-03-07T00:52:06.815Z
 ---
 # Cordova, Ionic, PhoneGap Compared: Which One Should You Choose?
 

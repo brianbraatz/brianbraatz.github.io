@@ -10,6 +10,7 @@ categories:
   - Backend
   - Spring Boot
   - Docker
+  - Mobile
 tags:
   - Kotlin
   - Microservices
@@ -18,7 +19,7 @@ tags:
   - Boot
 draft: false
 weight: 2523
-lastmod: 2025-03-06T16:00:40.217Z
+lastmod: 2025-03-07T00:52:31.428Z
 ---
 Kotlin is primarily known as a **modern, concise, and expressive alternative to Java**, but it's not just for porting Java code.
 

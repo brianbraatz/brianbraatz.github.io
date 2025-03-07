@@ -32,6 +32,8 @@ categories:
   - Cobol
   - 8051 Embedded Processor
   - Pascal
+  - F#
+  - FSharp
 tags:
   - CSharp
   - CPP
@@ -69,7 +71,7 @@ tags:
   - 8051CPU
 weight: 1
 draft: false
-lastmod: 2025-02-24T12:17:42.543Z
+lastmod: 2025-03-07T02:30:02.125Z
 ---
 Updated Blog Image is from the amazing Dall-e\
 <https://openai.com/index/dall-e-2>
@@ -829,9 +831,11 @@ check out the F# implementation.
 it has a similiar feel to the C++ template code- because they are both functional languages
 -->
 
+<!-- 
 ## F# Language
 
-[F# Language](https://en.wikipedia.org/wiki/F_Sharp_\(programming_language\))
+[F# Language](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
+
 
 ```F#
 let bubbleSort (arr: int[]) =
@@ -854,7 +858,7 @@ let bubbleSort (arr: int[]) =
 let arrayToSort = [|5; 3; 8; 4; 2|]
 let sortedArray = bubbleSort arrayToSort
 printfn "Sorted Array: %A" sortedArray
-```
+``` -->
 
 <!-- This F# implementation of bubble sort defines a `bubbleSort` function that takes an array of integers and sorts it in ascending order. Here's a breakdown of the code:
 
@@ -1372,3 +1376,38 @@ Joe Armstrong, co-inventor of Erlang, summarized the principles of processes in 
 Joe Armstrong remarked in an interview with Rackspace in 2013: "If [Java](https://en.wikipedia.org/wiki/Java_\(programming_language\) "Java (programming language)") is '[write once, run anywhere](https://en.wikipedia.org/wiki/Write_once,_run_anywhere "Write once, run anywhere")', then Erlang is 'write once, run forever'."[\[19\]](https://en.wikipedia.org/wiki/Erlang_\(programming_language\)#cite_note-19)
 
 """
+
+## F\#
+
+Here's an implementation of Bubble Sort in F#:
+
+```fsharp
+let bubbleSort (arr: int array) =
+    let swap (a: int array) i j =
+        let temp = a.[i]
+        a.[i] <- a.[j]
+        a.[j] <- temp
+
+    let mutable swapped = true
+    let n = arr.Length
+
+    while swapped do
+        swapped <- false
+        for i in 0 .. n - 2 do
+            if arr.[i] > arr.[i + 1] then
+                swap arr i (i + 1)
+                swapped <- true
+    arr
+
+let numbers = [| 5; 3; 8; 4; 2 |]
+let sortedNumbers = bubbleSort numbers
+printfn \"%A\" sortedNumbers
+```
+
+This implementation:
+
+* Uses a `while` loop to keep sorting until no swaps are needed.
+* Iterates through the array, swapping adjacent elements if they're out of order.
+* Modifies the array in-place for simplicity.
+
+It's a simple and readable way to sort a list using the classic (but inefficient) Bubble Sort algorithm in F#.

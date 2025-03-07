@@ -3,7 +3,7 @@ title: Blazor In a Nutshell
 description: ""
 slug: blazor-nutshell
 date: 2024-11-14
-image: post/Articles/IMAGES/34.jpg
+image: post/Articles/IMAGES/blazor.png
 categories:
   - Blazor
   - .NET
@@ -12,6 +12,7 @@ categories:
   - CSharp
   - Web Development
   - Cloud
+  - Mobile
 tags:
   - Blazor
   - .NET
@@ -22,15 +23,16 @@ tags:
   - UI
 draft: false
 weight: 314
-lastmod: 2025-03-06T15:44:40.937Z
+lastmod: 2025-03-07T14:22:42.586Z
 ---
+<!-- 
 # Blazor Deep Dive: A Fun Look Into the Future of .NET Web Apps
 
 ## Once Upon a Time, in a World of JavaScript...
 
 Picture this: It's the early 2010s, and web developers are knee-deep in JavaScript frameworks. Every week, a new framework pops up like a new season of your favorite show (except sometimes they disappear just as fast). C# developers, meanwhile, are stuck with ASP.NET MVC and Razor Pages, looking over at the JavaScript ecosystem like it's a chaotic reality TV show.
 
-Enter **Blazor**—Microsoft’s answer to the question: "What if we could just write web apps in C# and ditch JavaScript for good?" Blazor leverages **WebAssembly (WASM)** to run C# in the browser, giving .NET developers a way to build interactive web apps without touching JavaScript. (Well, mostly—more on that later.)
+Enter **Blazor**—Microsoft’s answer to the question: "What if we could just write web apps in C# and ditch JavaScript for good?" Blazor leverages **WebAssembly (WASM)** to run C# in the browser, giving .NET developers a way to build interactive web apps without touching JavaScript. (Well, mostly—more on that later.) -->
 
 ## A Brief History of Blazor
 

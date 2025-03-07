@@ -16,9 +16,10 @@ tags:
   - Data Segregation
 draft: false
 weight: 4450
-lastmod: 2025-03-06T15:11:29.625Z
+lastmod: 2025-03-07T14:44:41.239Z
 ---
-# How to Implement Strategies to Allow a Single Codebase to Serve Multiple Tenants with Separate Databases
+<!-- 
+# How to Implement Strategies to Allow a Single Codebase to Serve Multiple Tenants with Separate Databases -->
 
 So, you’ve got a shiny single codebase, and now you want it to serve not just one tenant, but a whole bunch of tenants. And not just that, but you want each tenant to have their own separate database.
 
@@ -26,15 +27,31 @@ So, you’ve got a shiny single codebase, and now you want it to serve not just 
 
 ## The Dream: One Codebase, Many Tenants, Separate Databases
 
-Alright, let’s lay it out. You want to handle multiple tenants using a single codebase, and each of those tenants needs their own database. Why? Well, it’s mostly about keeping things nice and secure. You don’t want one tenant snooping around in another tenant’s business. And sure, you could just toss everyone into one big database, but that’s just asking for trouble. Separate databases are the way to go. It’s like having different houses on the same street. Everyone has their own space, but they’re still on the same block.
+Alright, let’s lay it out. You want to handle multiple tenants using a single codebase, and each of those tenants needs their own database.
+
+Why? Well, it’s mostly about keeping things nice and secure.
+
+You don’t want one tenant snooping around in another tenant’s business.
+
+And sure, you could just toss everyone into one big database, but that’s just asking for trouble.
+
+Separate databases are the way to go.
+
+It’s like having different houses on the same street.
+
+Everyone has their own space, but they’re still on the same block.
 
 ## Step 1: Tenant-Specific Configuration
 
 ### Configuration, Baby!
 
-First things first. You need to handle tenant-specific configuration. This means that each tenant has its own settings. These can include things like the database connection strings, themes, custom settings, and anything else that’s specific to that tenant’s environment.
+First things first. You need to handle tenant-specific configuration.
 
-To achieve this, you can store tenant-specific configurations in a central configuration file or a database. But a lot of times, it’s better to keep things in a key-value store like Redis or even a simple config table in your main database.
+This means that each tenant has its own settings. These can include things like the database connection strings, themes, custom settings, and anything else that’s specific to that tenant’s environment.
+
+To achieve this, you can store tenant-specific configurations in a central configuration file or a database.
+
+But a lot of times, it’s better to keep things in a key-value store like Redis or even a simple config table in your main database.
 
 Let’s say your application needs to know the database credentials for each tenant. You could have a table like this:
 
@@ -45,7 +62,11 @@ Let’s say your application needs to know the database credentials for each ten
 
 ### Dynamic Database Connections
 
-Next up, you need to dynamically switch between tenant databases. This isn’t as scary as it sounds. You can use a connection string resolver that checks the tenant’s ID and grabs the appropriate connection details from your config.
+Next up, you need to dynamically switch between tenant databases.
+
+This isn’t as scary as it sounds.
+
+You can use a connection string resolver that checks the tenant’s ID and grabs the appropriate connection details from your config.
 
 In a web application, this can be done in the request pipeline. For example, in a C# ASP.NET Core app, you can use middleware to resolve the tenant from the incoming request (usually from a subdomain, URL parameter, or even a header) and then load the appropriate database connection for that tenant.
 

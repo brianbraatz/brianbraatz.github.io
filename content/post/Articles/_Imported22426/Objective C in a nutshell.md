@@ -10,6 +10,7 @@ categories:
   - Code Examples
   - CPP
   - iPhone
+  - Mobile
 tags:
   - Programming
   - Objective-C
@@ -21,7 +22,7 @@ tags:
   - NeXT
 draft: false
 weight: 35
-lastmod: 2025-03-03T15:49:59.586Z
+lastmod: 2025-03-07T00:55:54.739Z
 ---
 Objective-C is an object-oriented programming language developed in the early 1980s.
 

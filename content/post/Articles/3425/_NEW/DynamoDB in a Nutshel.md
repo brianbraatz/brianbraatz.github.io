@@ -18,7 +18,7 @@ tags:
   - Scalability
 draft: false
 weight: 3461
-lastmod: 2025-03-06T16:31:00.270Z
+lastmod: 2025-03-07T13:25:47.478Z
 ---
 # DynamoDB in a Nutshell
 

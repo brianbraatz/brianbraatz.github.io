@@ -16,6 +16,7 @@ categories:
   - iPhone
   - Windows
   - Mac OS
+  - Mobile
 tags:
   - Xamarin
   - Mobile
@@ -31,7 +32,7 @@ tags:
   - Structure
 draft: false
 weight: 233
-lastmod: 2025-02-19T13:51:26.535Z
+lastmod: 2025-03-07T00:54:50.724Z
 ---
 <!--
 

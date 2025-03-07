@@ -17,6 +17,7 @@ categories:
   - Mac OS
   - IOS
   - Android
+  - Mobile
 tags:
   - Maui
   - WPF
@@ -29,7 +30,7 @@ tags:
   - XAML
 draft: false
 weight: 68
-lastmod: 2025-03-03T14:47:04.575Z
+lastmod: 2025-03-07T00:55:12.614Z
 ---
 <!-- 
 title: Evolution of MAUI From Mono to Xamarin to MAUI
