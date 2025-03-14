@@ -20,7 +20,12 @@ tags:
   - Collaboration
 draft: false
 weight: 7
-lastmod: 2025-03-03T03:35:06.741Z
+categories_ref:
+  - Git
+  - Version Control
+  - Offline Development
+  - Linux
+lastmod: 2025-03-14T15:45:05.309Z
 ---
 (\
 Really **GREAT** Movie:\

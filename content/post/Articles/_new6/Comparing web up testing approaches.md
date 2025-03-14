@@ -30,7 +30,16 @@ tags:
   - Applications
 draft: false
 weight: 335
-lastmod: 2025-02-25T12:54:52.107Z
+categories_ref:
+  - Web Development
+  - Unit Testing
+  - Selenium
+  - GUI
+  - Python
+  - Javascript
+  - Typescript
+  - Testing
+lastmod: 2025-03-14T15:45:21.780Z
 ---
 <!--
 

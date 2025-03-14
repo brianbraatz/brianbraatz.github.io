@@ -16,7 +16,12 @@ tags:
   - Machine Learning
 draft: false
 weight: 2568
-lastmod: 2025-03-06T15:44:28.351Z
+categories_ref:
+  - Computer Vision
+  - Python
+  - 3D Vision
+  - Machine Learning
+lastmod: 2025-03-14T15:45:06.455Z
 ---
 # 3D Computer Vision in Python: A Nutshell Guide with Code & History
 

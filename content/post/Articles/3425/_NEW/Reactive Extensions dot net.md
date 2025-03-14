@@ -19,7 +19,13 @@ tags:
   - .NET
 draft: false
 weight: 343
-lastmod: 2025-03-07T14:36:32.027Z
+categories_ref:
+  - Rx.NET
+  - Event-Driven Programming
+  - Asynchronous Programming
+  - Concurrency
+  - CSharp
+lastmod: 2025-03-14T15:45:07.241Z
 ---
 <!-- # Reactive Extensions (Rx.NET) for Event-Driven and Asynchronous Programming in a Nutshell
 

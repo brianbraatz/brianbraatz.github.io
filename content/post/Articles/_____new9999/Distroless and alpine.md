@@ -21,7 +21,13 @@ tags:
   - Practices
 draft: false
 weight: 940
-lastmod: 2025-02-16T22:08:44.575Z
+categories_ref:
+  - Kubernetes
+  - Security
+  - Containers
+  - DevOps
+  - Cloud
+lastmod: 2025-03-14T15:45:28.853Z
 ---
 # Distroless vs Alpine: Choosing Secure Container Images with Code Examples
 

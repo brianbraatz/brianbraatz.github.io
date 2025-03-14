@@ -21,7 +21,13 @@ tags:
   - Routing
 draft: "False"
 weight: "61"
-lastmod: 2025-03-03T14:55:09.457Z
+categories_ref:
+  - Laravel
+  - PHP
+  - Framework
+  - Web Development
+  - Low-code
+lastmod: 2025-03-14T15:45:04.167Z
 ---
 <!-- 
 

@@ -18,7 +18,12 @@ tags:
   - JavaScript
 draft: "False"
 weight: "472"
-lastmod: 2025-02-27T17:45:15.620Z
+categories_ref:
+  - Node.js
+  - Electron
+  - Obsidian
+  - Visual Studio Code
+lastmod: 2025-03-14T15:45:04.690Z
 ---
 <!-- ## Understanding Node.js Electron Connection
 

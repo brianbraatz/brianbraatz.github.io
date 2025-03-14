@@ -18,7 +18,10 @@ tags:
   - Examples
 draft: false
 weight: 9
-lastmod: 2025-03-03T16:29:23.259Z
+categories_ref:
+  - React
+  - Web Development
+lastmod: 2025-03-14T15:45:14.539Z
 ---
 ## 1. What is React?
 

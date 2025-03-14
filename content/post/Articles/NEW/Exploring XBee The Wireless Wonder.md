@@ -20,7 +20,10 @@ tags:
   - Handling
 draft: false
 weight: 287
-lastmod: 2025-02-09T22:12:50.829Z
+categories_ref:
+  - Networking
+  - XBee
+lastmod: 2025-03-14T15:45:10.957Z
 ---
 # Exploring XBee: The Wireless Wonder
 

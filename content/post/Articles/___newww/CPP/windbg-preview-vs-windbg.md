@@ -25,7 +25,13 @@ tags:
   - Model
 draft: false
 weight: 921
-lastmod: 2025-03-03T00:10:13.348Z
+categories_ref:
+  - C++ Debugging
+  - WinDbg
+  - Visual Studio
+  - Performance Analysis
+  - Memory Dump Analysis
+lastmod: 2025-03-14T15:45:27.898Z
 ---
 <!-- 
 # WinDbg (Preview) vs. WinDbg: Key Differences

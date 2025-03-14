@@ -18,7 +18,13 @@ tags:
   - Performance
 draft: "False"
 weight: "38"
-lastmod: 2025-03-03T14:59:01.966Z
+categories_ref:
+  - Ci/cd
+  - Devops
+  - Optimization
+  - Automation
+  - Performance
+lastmod: 2025-03-14T15:45:04.614Z
 ---
 So, you’ve got a CI/CD pipeline.
 

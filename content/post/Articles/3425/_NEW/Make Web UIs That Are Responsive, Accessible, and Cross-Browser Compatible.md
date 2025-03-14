@@ -21,7 +21,12 @@ tags:
   - Javascript
 draft: false
 weight: 563
-lastmod: 2025-03-06T14:41:19.427Z
+categories_ref:
+  - Web Development
+  - UI/UX
+  - Accessibility
+  - WAI-ARIA
+lastmod: 2025-03-14T15:45:06.749Z
 ---
 # How to Make Web UIs That Are Responsive, Accessible, and Cross-Browser Compatible
 

@@ -21,7 +21,11 @@ tags:
   - Encoding
 draft: false
 weight: 82
-lastmod: 2025-03-03T14:53:25.445Z
+categories_ref:
+  - History
+  - Algorithms
+  - Compression
+lastmod: 2025-03-14T15:45:10.506Z
 ---
 ![](/post/Articles/IMAGES/Hookes-law-springs.png)
 

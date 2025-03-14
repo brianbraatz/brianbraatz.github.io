@@ -20,7 +20,12 @@ tags:
   - Architecture
 draft: false
 weight: 160
-lastmod: 2025-03-03T17:18:10.392Z
+categories_ref:
+  - GraphQL
+  - APIs
+  - Orchestration
+  - Cloud
+lastmod: 2025-03-14T15:45:16.877Z
 ---
 <!-- 
 [The Orchestra](https://teachingkidsmusic.weebly.com/the-orchestra.html)

@@ -17,7 +17,11 @@ tags:
   - Npm
 draft: "False"
 weight: "472"
-lastmod: 2025-02-27T17:39:37.115Z
+categories_ref:
+  - JavaScript
+  - Node.js
+  - Web Development
+lastmod: 2025-03-14T15:45:04.642Z
 ---
 Ah, **Node.js**.
 

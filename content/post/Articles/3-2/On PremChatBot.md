@@ -19,7 +19,11 @@ tags:
   - Processing
 draft: false
 weight: 25
-lastmod: 2025-03-03T17:06:01.074Z
+categories_ref:
+  - AI
+  - Machine Learning
+  - PDF Search
+lastmod: 2025-03-14T15:45:05.044Z
 ---
 [Omnibot 2000 - Wikipedia](https://en.wikipedia.org/wiki/Omnibot)
 

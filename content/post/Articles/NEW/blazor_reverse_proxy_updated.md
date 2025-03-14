@@ -26,7 +26,18 @@ tags:
   - Kubernetes
 draft: false
 weight: 78
-lastmod: 2025-03-03T14:57:05.639Z
+categories_ref:
+  - CSharp
+  - DotNet
+  - Blazor
+  - Web Development
+  - Proxy Servers
+  - Firewalls
+  - NGINX
+  - Apache
+  - Microsoft Azure Cloud
+  - Cloud
+lastmod: 2025-03-14T15:45:09.918Z
 ---
 # C# Blazor Reverse Proxy Config - Apache, NGINX, Azure
 

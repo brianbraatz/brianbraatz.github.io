@@ -19,7 +19,12 @@ tags:
   - Remote Access Tools
 draft: false
 weight: 368
-lastmod: 2025-02-28T20:42:55.046Z
+categories_ref:
+  - Hacking
+  - Cybersecurity
+  - History
+  - Security
+lastmod: 2025-03-14T15:45:26.945Z
 ---
 # Cult of the Dead Cow and Back Orifice: History and How It Affected Computer Security
 

@@ -25,7 +25,15 @@ tags:
   - Windows
 draft: false
 weight: 456
-lastmod: 2025-02-25T12:25:48.486Z
+categories_ref:
+  - ActiveX
+  - Security
+  - MFC
+  - Programming
+  - WinAPI
+  - Visual Basic
+  - Visual Basic 6
+lastmod: 2025-03-14T15:45:08.464Z
 ---
 # What is ActiveX and Why It Was a Security Nightmare?
 

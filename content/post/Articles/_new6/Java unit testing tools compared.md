@@ -26,7 +26,11 @@ tags:
   - Testing
 draft: false
 weight: 466
-lastmod: 2025-02-25T12:55:40.708Z
+categories_ref:
+  - Java
+  - Unit Testing
+  - Testing
+lastmod: 2025-03-14T15:45:22.460Z
 ---
 <!-- 
 # History and In-Depth Comparison with Code Examples of JUnit, TestNG, Mockito, PowerMock, JMockit, Arquillian, and DbUnit for More Effective Unit Testing in Java

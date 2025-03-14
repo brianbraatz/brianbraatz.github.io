@@ -20,7 +20,11 @@ tags:
   - Loop
 draft: "False"
 weight: "22"
-lastmod: 2025-03-03T14:58:13.234Z
+categories_ref:
+  - Programming
+  - Async
+  - Concurrency
+lastmod: 2025-03-14T15:45:04.741Z
 ---
 # Understanding the Nature of Asynchronous Programming and Its Quirks and Workarounds
 

@@ -19,7 +19,12 @@ tags:
   - Practices
 draft: false
 weight: 58
-lastmod: 2025-03-03T15:08:03.447Z
+categories_ref:
+  - Kubernetes
+  - Security
+  - DevOps
+  - Cloud
+lastmod: 2025-03-14T15:45:29.396Z
 ---
 # Kubernetes Secrets: A Complete Guide with Code Examples
 

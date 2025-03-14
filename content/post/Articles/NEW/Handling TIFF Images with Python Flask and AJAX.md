@@ -24,7 +24,17 @@ tags:
   - MedicalImaging
 draft: false
 weight: 30
-lastmod: 2025-02-11T21:13:26.103Z
+categories_ref:
+  - CSharp
+  - Document Imaging
+  - SignalR
+  - DotNet
+  - TIFF Images
+  - Medical Images
+  - Microscope Images
+  - Python
+  - Python-Flask
+lastmod: 2025-03-14T15:45:11.520Z
 ---
 See C# version here for explanation\
 [Handling TIFF Images in Blazor with SignalR](/post/Articles/NEW/Handling%20TIFF%20Images%20in%20Blazor%20with%20SignalR.md)

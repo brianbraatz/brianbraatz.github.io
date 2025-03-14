@@ -15,7 +15,8 @@ tags:
   - Jakarta
 draft: false
 weight: 423
-lastmod: 2025-02-15T11:40:11.090Z
+categories_ref: []
+lastmod: 2025-03-14T15:45:26.322Z
 ---
 # JAX-WS in a Nutshell
 

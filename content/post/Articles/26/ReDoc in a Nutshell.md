@@ -16,7 +16,11 @@ tags:
   - Docs
 draft: false
 weight: 537
-lastmod: 2025-02-26T11:04:34.860Z
+categories_ref:
+  - API Documentation
+  - OpenAPI
+  - Web Development
+lastmod: 2025-03-14T15:45:03.820Z
 ---
 # ReDoc in a Nutshell
 

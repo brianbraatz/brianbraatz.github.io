@@ -26,7 +26,12 @@ tags:
   - Analytics
 draft: false
 weight: 370
-lastmod: 2025-02-10T18:10:04.208Z
+categories_ref:
+  - Denodo
+  - Cloud
+  - Data Virtualization
+  - SQL
+lastmod: 2025-03-14T15:45:21.873Z
 ---
 # Denodo In-Depth: Understanding Data Virtualization and Its Alternatives
 

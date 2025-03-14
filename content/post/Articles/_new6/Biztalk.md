@@ -26,7 +26,12 @@ tags:
   - Performance
 draft: false
 weight: 323
-lastmod: 2025-02-10T15:32:29.206Z
+categories_ref:
+  - Microsoft Azure Cloud
+  - Biztalk
+  - Cloud
+  - Apache Camel
+lastmod: 2025-03-14T15:45:21.436Z
 ---
 <!--
 

@@ -16,7 +16,11 @@ tags:
   - Database
 draft: false
 weight: 653
-lastmod: 2025-03-06T01:54:33.649Z
+categories_ref:
+  - Python
+  - ORM
+  - Tortoise
+lastmod: 2025-03-14T15:45:06.333Z
 ---
 # Python Tortoise ORM In a Nutshell
 

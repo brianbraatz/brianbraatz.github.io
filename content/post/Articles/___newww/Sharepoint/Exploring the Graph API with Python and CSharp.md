@@ -24,7 +24,16 @@ date: 2023-10-17
 image: post/Articles/IMAGES/SharePoint.png
 draft: false
 weight: 423
-lastmod: 2025-02-28T20:46:51.457Z
+categories_ref:
+  - Sharepoint
+  - Cloud
+  - Graph API
+  - Python
+  - C#
+  - CSharp
+  - Office 365
+  - Power Apps
+lastmod: 2025-03-14T15:45:28.271Z
 ---
 <!-- 
 # Exploring the Graph API (Sharepoint) with Python and C#: 10 Things You Can Do

@@ -24,7 +24,14 @@ tags:
   - Prevention
 draft: false
 weight: 523
-lastmod: 2025-03-03T13:33:33.575Z
+categories_ref:
+  - PHP
+  - Database
+  - Best Practices
+  - SQL Security
+  - Cloud
+  - SQL
+lastmod: 2025-03-14T15:45:18.169Z
 ---
 # Best Practices for PHP with Databases
 

@@ -23,7 +23,14 @@ tags:
   - Dial-up
 draft: false
 weight: 53
-lastmod: 2025-02-17T13:47:40.676Z
+categories_ref:
+  - Modems
+  - Technology
+  - Networking
+  - Computers
+  - History
+  - Embedded Systems
+lastmod: 2025-03-14T15:45:25.855Z
 ---
 # Inside the Hayes Command Set for Modems
 

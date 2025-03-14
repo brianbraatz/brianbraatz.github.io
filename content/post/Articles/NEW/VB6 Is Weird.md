@@ -21,7 +21,10 @@ tags:
   - History
 draft: false
 weight: 34
-lastmod: 2025-03-03T14:24:40.506Z
+categories_ref:
+  - Visual Basic
+  - Visual Basic 6
+lastmod: 2025-03-14T15:45:13.841Z
 ---
 # 10 Reasons Why Visual Basic 6 is Really Weird
 

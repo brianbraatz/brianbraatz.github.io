@@ -17,7 +17,12 @@ tags:
   - Compatibility
 draft: false
 weight: 452
-lastmod: 2025-02-24T14:40:44.293Z
+categories_ref:
+  - Programming
+  - C++
+  - History
+  - CPP
+lastmod: 2025-03-14T15:45:16.110Z
 ---
 # How the First Version of C++ Worked
 

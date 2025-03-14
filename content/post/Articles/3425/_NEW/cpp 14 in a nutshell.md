@@ -15,7 +15,12 @@ tags:
   - C++14
 draft: false
 weight: 529
-lastmod: 2025-03-06T15:46:07.239Z
+categories_ref:
+  - C++
+  - Programming
+  - C++14
+  - CPP
+lastmod: 2025-03-14T15:45:06.551Z
 ---
 # C++14 in a Nutshell
 

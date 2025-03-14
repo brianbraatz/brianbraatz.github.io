@@ -18,7 +18,11 @@ tags:
 draft: false
 weight: 30
 description: Query Plans for fun and profit...
-lastmod: 2025-02-11T11:04:37.823Z
+categories_ref:
+  - SQL
+  - Performance Optimization
+  - SQL-Query Plans
+lastmod: 2025-03-14T15:45:15.204Z
 ---
 <!--
 # Understanding SQL Query Plans for Performance Optimization

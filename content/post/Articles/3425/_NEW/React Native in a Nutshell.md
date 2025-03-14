@@ -21,7 +21,15 @@ tags:
   - React
 draft: false
 weight: 562
-lastmod: 2025-03-07T13:39:38.131Z
+categories_ref:
+  - React Native
+  - Mobile Development
+  - JavaScript
+  - iPhone
+  - Android
+  - React
+  - Mobile
+lastmod: 2025-03-14T15:45:07.155Z
 ---
 <!-- 
 # React Native in a Nutshell

@@ -35,7 +35,20 @@ tags:
   - Development
 draft: false
 weight: 99
-lastmod: 2025-03-07T00:52:06.815Z
+categories_ref:
+  - Cordova
+  - Ionic
+  - Apache
+  - Mobile
+  - Cross Platform
+  - iPhone
+  - Android
+  - HTML
+  - CSS
+  - Javascript
+  - Typescript
+  - Mobile
+lastmod: 2025-03-14T15:45:21.829Z
 ---
 # Cordova, Ionic, PhoneGap Compared: Which One Should You Choose?
 

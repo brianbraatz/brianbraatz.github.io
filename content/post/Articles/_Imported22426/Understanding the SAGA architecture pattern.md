@@ -19,7 +19,13 @@ tags:
   - Event-driven
 draft: false
 weight: 7
-lastmod: 2025-03-03T17:09:26.953Z
+categories_ref:
+  - Distributed Systems
+  - Microservices
+  - Architecture
+  - Cloud
+  - SAGA Pattern
+lastmod: 2025-03-14T15:45:18.989Z
 ---
 ## What the Heck is SAGA? 🤔
 

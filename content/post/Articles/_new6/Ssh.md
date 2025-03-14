@@ -30,7 +30,17 @@ tags:
   - Scripting
 draft: false
 weight: 391
-lastmod: 2025-02-14T16:23:57.521Z
+categories_ref:
+  - SSH
+  - Remote Shell
+  - Linux
+  - Unix
+  - Mac OS
+  - Scripting
+  - Cloud
+  - Docker
+  - Network Protocols
+lastmod: 2025-03-14T15:45:23.491Z
 ---
 <!--
 # How the SSH Protocol Works: History, Relationship to Alternatives, and 10 Code Examples

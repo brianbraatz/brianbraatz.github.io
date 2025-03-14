@@ -21,7 +21,15 @@ tags:
   - Frontend
 draft: false
 weight: 578
-lastmod: 2025-03-03T00:12:53.988Z
+categories_ref:
+  - HTML
+  - Angular
+  - Typescript
+  - Javascript
+  - Web Development
+  - NextJs
+  - React
+lastmod: 2025-03-14T15:45:08.280Z
 ---
 # Next.js vs React vs Angular Compared with Code Examples
 

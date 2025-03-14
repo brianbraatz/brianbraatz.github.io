@@ -30,7 +30,20 @@ tags:
   - GCP
 draft: false
 weight: 378
-lastmod: 2025-03-05T21:39:01.657Z
+categories_ref:
+  - Cloud
+  - Amazon Cloud-AWS
+  - Microsoft Azure Cloud
+  - Google Cloud-GCP
+  - Messaging
+  - Amazon Simple Queue Service-SQS
+  - Azure Service Bus
+  - Google Cloud Pub-Sub
+  - CSharp
+  - DotNet
+  - Python
+  - Azure Queue
+lastmod: 2025-03-14T15:45:10.164Z
 ---
 # Cloud Messaging Comparison: AWS vs Azure vs Google Cloud
 

@@ -22,7 +22,14 @@ tags:
   - Database
 draft: false
 weight: 639
-lastmod: 2025-02-24T15:30:38.712Z
+categories_ref:
+  - ETL
+  - Data Engineering
+  - Data Processing
+  - Big Data
+  - Database
+  - Cloud
+lastmod: 2025-03-14T15:45:16.505Z
 ---
 # ETL (Extract, Transform, Load) Pipelines in a Nutshell
 

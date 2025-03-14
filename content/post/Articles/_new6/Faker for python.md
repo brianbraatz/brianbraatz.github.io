@@ -29,7 +29,13 @@ tags:
   - Testing
 draft: false
 weight: 164
-lastmod: 2025-03-06T01:16:32.163Z
+categories_ref:
+  - Python
+  - Unit Testing
+  - Testing
+  - SQL
+  - ORM
+lastmod: 2025-03-14T15:45:21.977Z
 ---
 # In-Depth Introduction to the Faker Library for Sample Data Generation and Unit Testing in Python
 

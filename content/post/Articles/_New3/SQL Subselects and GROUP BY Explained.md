@@ -23,7 +23,12 @@ tags:
   - Optimization
 draft: false
 weight: 62
-lastmod: 2025-03-03T14:41:06.995Z
+categories_ref:
+  - SQL
+  - Microsoft Sql Server
+  - MySql
+  - Postgres Sql
+lastmod: 2025-03-14T15:45:20.185Z
 ---
 <!-- >
 # SQL Subselects and GROUP BY Explained: The History, Motivation, and How They Work

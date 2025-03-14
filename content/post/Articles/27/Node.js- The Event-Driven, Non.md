@@ -17,7 +17,11 @@ tags:
   - Performance Comparison
 draft: "False"
 weight: "342"
-lastmod: 2025-02-27T17:24:59.428Z
+categories_ref:
+  - JavaScript
+  - Node.js
+  - Programming
+lastmod: 2025-03-14T15:45:04.498Z
 ---
 <!-- # Node.js: The Event-Driven, Non-Blocking Champion of the Server World
 

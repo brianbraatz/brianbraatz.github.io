@@ -17,7 +17,12 @@ tags:
   - Real-time Communication
 draft: "False"
 weight: "386"
-lastmod: 2025-03-03T02:08:13.702Z
+categories_ref:
+  - Node.js
+  - Socket.IO
+  - WebSockets
+  - Chat Application
+lastmod: 2025-03-14T15:45:04.000Z
 ---
 ## 🚀 Let's Build a Realtime Chat App with Node.js and Socket.IO
 

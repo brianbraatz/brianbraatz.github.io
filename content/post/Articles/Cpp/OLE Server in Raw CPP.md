@@ -26,7 +26,13 @@ tags:
   - CPP
 draft: false
 weight: 39
-lastmod: 2025-03-03T14:41:27.907Z
+categories_ref:
+  - C++
+  - OLE
+  - COM
+  - MFC
+  - WinAPi
+lastmod: 2025-03-14T15:45:08.715Z
 ---
 <!-- 
 # Write an OLE Server in Raw C++

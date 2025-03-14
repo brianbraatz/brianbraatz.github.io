@@ -25,7 +25,17 @@ tags:
 weight: 76
 published: 2001-01-01
 draft: false
-lastmod: 2025-03-06T16:32:11.655Z
+categories_ref:
+  - Cloud
+  - Amazon Cloud-AWS
+  - Microsoft Azure Cloud
+  - Google Cloud-GCP
+  - Cheatsheet
+  - Azure Queue
+  - Azure Service Bus
+  - Azure Storage
+  - DynamoDb
+lastmod: 2025-03-14T15:45:30.037Z
 ---
 <!-- 
 see also [DevOps Cloud Services Comparison](post/Articles/DevOps%20Cloud%20Services%20Comparison/DevOps%20Cloud%20Services%20Comparison.md)

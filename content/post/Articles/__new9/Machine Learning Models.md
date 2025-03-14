@@ -26,7 +26,12 @@ tags:
   - Learning
 draft: false
 weight: 132
-lastmod: 2025-03-03T17:28:02.180Z
+categories_ref:
+  - Machine Learning
+  - Artificial Intellgence
+  - History
+  - Languages
+lastmod: 2025-03-14T15:45:25.629Z
 ---
 <!-- 
 # Machine Learning Models in Depth: What They Are, How They Work, and Their Relationship to Neural Networks and Expert Systems

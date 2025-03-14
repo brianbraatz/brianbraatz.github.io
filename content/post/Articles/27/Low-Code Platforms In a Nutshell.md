@@ -20,7 +20,12 @@ tags:
   - Cloud
 draft: "False"
 weight: "8"
-lastmod: 2025-03-03T14:18:59.440Z
+categories_ref:
+  - Low-Code
+  - No-Code
+  - Development
+  - Software
+lastmod: 2025-03-14T15:45:04.199Z
 ---
 [Carrying & Dragging Techniques](https://www.offgridweb.com/preparation/carrying-dragging-techniques-lets-get-carried-away/)
 

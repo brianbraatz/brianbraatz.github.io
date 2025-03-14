@@ -19,7 +19,13 @@ tags:
   - DevOps
 draft: false
 weight: 374
-lastmod: 2025-02-11T13:18:45.971Z
+categories_ref:
+  - DevOps
+  - Infrastructure as Code-IAC
+  - Cloud
+  - Terraform
+  - CI\CD
+lastmod: 2025-03-14T15:45:25.139Z
 ---
 <!-- 
 # Understanding AWS CloudFormation, Terraform, Pulumi, and Ansible

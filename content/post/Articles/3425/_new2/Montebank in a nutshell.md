@@ -15,7 +15,11 @@ tags:
   - Testing
 draft: false
 weight: 654
-lastmod: 2025-03-08T12:44:13.953Z
+categories_ref:
+  - Software Development
+  - Testing
+  - DevOps
+lastmod: 2025-03-14T15:45:07.780Z
 ---
 # Mountebank: The Swiss Army Knife of API Mocking
 

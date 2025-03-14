@@ -19,7 +19,11 @@ tags:
   - Streaming
 draft: "False"
 weight: "426"
-lastmod: 2025-03-03T02:26:58.597Z
+categories_ref:
+  - Node.js
+  - Streaming
+  - Web Development
+lastmod: 2025-03-14T15:45:04.115Z
 ---
 **Is Node.js Good for Streaming Applications?**
 

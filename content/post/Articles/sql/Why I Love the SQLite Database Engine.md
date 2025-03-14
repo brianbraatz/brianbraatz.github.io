@@ -21,7 +21,16 @@ tags:
   - MSSQL
 weight: 30
 draft: false
-lastmod: 2025-03-07T00:56:23.831Z
+categories_ref:
+  - SQL
+  - SQLite
+  - Microsoft Sql Server
+  - MySql
+  - Postgres Sql
+  - Testing
+  - Unit Testing
+  - Mobile
+lastmod: 2025-03-14T15:45:15.305Z
 ---
 # Why I Love the SQLite Database Engine
 

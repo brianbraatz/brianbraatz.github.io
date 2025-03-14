@@ -16,7 +16,12 @@ tags:
   - Web Development
 draft: false
 weight: 1563
-lastmod: 2025-03-06T16:03:20.183Z
+categories_ref:
+  - Svelte
+  - Frontend
+  - JavaScript
+  - Web Development
+lastmod: 2025-03-14T15:45:07.355Z
 ---
 # Svelte in a Nutshell
 

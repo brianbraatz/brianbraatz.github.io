@@ -35,7 +35,17 @@ tags:
   - Schema
 draft: false
 weight: 22
-lastmod: 2025-03-06T01:14:30.962Z
+categories_ref:
+  - SQL
+  - Python
+  - Scripting
+  - Unit Testing
+  - MySql
+  - Microsoft Sql Server
+  - Postgres Sql
+  - Cloud
+  - ORM
+lastmod: 2025-03-14T15:45:23.437Z
 ---
 <!--
 

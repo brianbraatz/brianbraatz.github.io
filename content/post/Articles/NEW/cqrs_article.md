@@ -23,7 +23,14 @@ tags:
   - Java
 draft: false
 weight: 58
-lastmod: 2025-03-03T14:55:27.838Z
+categories_ref:
+  - Cloud
+  - Docker
+  - Microservices
+  - Design Patterns
+  - CQRS Pattern
+  - MVC Pattern
+lastmod: 2025-03-14T15:45:10.604Z
 ---
 [Norman Rockwell - Wikipedia](https://en.wikipedia.org/wiki/Norman_Rockwell)
 

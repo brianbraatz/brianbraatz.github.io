@@ -27,7 +27,11 @@ tags:
   - Languages
 draft: false
 weight: 326
-lastmod: 2025-02-10T15:33:09.756Z
+categories_ref:
+  - Languages
+  - History
+  - ADA Language
+lastmod: 2025-03-14T15:45:21.334Z
 ---
 \*\* Ada Lovelace \*\*\
 \*\* The worlds first person to publish code \*\*\

@@ -19,7 +19,14 @@ tags:
   - Testing
 draft: false
 weight: 547
-lastmod: 2025-03-07T15:23:12.819Z
+categories_ref:
+  - Legacy Modernization
+  - Software Engineering
+  - QE Metrics
+  - ServiceNow
+  - Strangler Pattern
+  - Quality Engineering (QE) Metrics
+lastmod: 2025-03-14T15:50:11.897Z
 ---
 <!-- 
 # Lessons Learned from a Massive Legacy Conversion with the Strangler Pattern and QE Metrics

@@ -17,7 +17,11 @@ tags:
   - Intervals
 draft: false
 weight: 13
-lastmod: 2025-03-03T14:50:32.853Z
+categories_ref:
+  - Git
+  - Version Control
+  - Algorithms
+lastmod: 2025-03-14T15:45:04.941Z
 ---
 <!-- 
 # How Git Works Under the Hood: Intervals, Algorithms, and Code Examples -->

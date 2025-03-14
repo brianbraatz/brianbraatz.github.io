@@ -13,7 +13,10 @@ tags:
 draft: false
 weight: 106
 description: Regex Cheat Sheet
-lastmod: 2025-03-03T16:17:26.781Z
+categories_ref:
+  - RegEx
+  - Perl
+lastmod: 2025-03-14T15:45:13.993Z
 ---
 ![Perl Logo](https://cdn.perl.org/perlweb/images/icons/header_camel.png)
 

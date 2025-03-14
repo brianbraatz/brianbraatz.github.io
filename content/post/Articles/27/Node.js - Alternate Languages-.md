@@ -18,7 +18,13 @@ tags:
   - ClojureScript
 draft: "False"
 weight: "432"
-lastmod: 2025-03-07T02:32:30.872Z
+categories_ref:
+  - Node.js
+  - CoffeeScript
+  - Dart
+  - TypeScript
+  - ClojureScript
+lastmod: 2025-03-14T15:45:04.266Z
 ---
 <!-- 
 # Node.js - Alternate Languages: CoffeeScript, Dart, TypeScript, and ClojureScript -->

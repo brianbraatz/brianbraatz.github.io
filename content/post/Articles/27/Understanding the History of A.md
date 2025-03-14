@@ -23,7 +23,13 @@ tags:
   - Asp-Net
 draft: "False"
 weight: "359"
-lastmod: 2025-02-28T01:59:37.817Z
+categories_ref:
+  - Asp
+  - Asp.Net
+  - Asp.Net Mvc
+  - Asp.Net Core
+  - Asp.Net 8
+lastmod: 2025-03-14T15:45:04.727Z
 ---
 <!-- # Understanding the History of ASP vs ASP.NET vs ASP.NET MVC vs ASP.NET Core vs ASP.NET 8
 

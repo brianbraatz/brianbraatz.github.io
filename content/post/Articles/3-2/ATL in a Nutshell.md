@@ -17,7 +17,13 @@ tags:
   - Templates
 draft: false
 weight: 432
-lastmod: 2025-03-02T23:11:55.360Z
+categories_ref:
+  - C++
+  - Com
+  - Atl
+  - Templates
+  - WinApi
+lastmod: 2025-03-14T15:45:04.862Z
 ---
 <!-- 
 # ATL in a Nutshell

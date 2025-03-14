@@ -30,7 +30,20 @@ tags:
   - Bus
 draft: false
 weight: 378
-lastmod: 2025-02-09T22:10:08.751Z
+categories_ref:
+  - Cloud
+  - Microsoft Azure Cloud
+  - Amazon Cloud-AWS
+  - Google Cloud-GCP
+  - Azure Event Hub
+  - Azure Service Bus
+  - Amazon Simple Notification Service-SNS
+  - Google Cloud Pub-Sub
+  - Microservices
+  - Python
+  - CSharp
+  - DotNet
+lastmod: 2025-03-14T15:45:10.867Z
 ---
 # Event-Driven Madness: Azure Event Hub vs Azure Service Bus vs AWS SNS vs Google Pub/Sub
 

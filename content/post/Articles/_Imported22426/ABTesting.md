@@ -22,7 +22,13 @@ tags:
   - Experience
 draft: false
 weight: 110
-lastmod: 2025-03-03T17:15:20.415Z
+categories_ref:
+  - A/B Testing
+  - Cloud Applications
+  - Software Development
+  - Experimentation
+  - Testing
+lastmod: 2025-03-14T15:45:15.724Z
 ---
 <!-- 
 # Understanding A/B Testing and How to Implement It in Your Cloud Application  

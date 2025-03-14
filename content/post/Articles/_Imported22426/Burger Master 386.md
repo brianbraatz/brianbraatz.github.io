@@ -23,7 +23,16 @@ slug: 386-enh-burger
 draft: false
 image: post/Articles/IMAGES/theBurgerMaster.png
 weight: 22
-lastmod: 2025-03-03T16:21:55.740Z
+categories_ref:
+  - Technology
+  - Retro Computing
+  - History
+  - Assembly Language
+  - Windows
+  - WinAPI
+  - Operating Systems
+  - Device Drivers
+lastmod: 2025-03-14T15:45:15.967Z
 ---
 ![](/post/Articles/IMAGES/burgermaster348s.jpg)
 

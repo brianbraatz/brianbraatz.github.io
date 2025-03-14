@@ -16,7 +16,11 @@ tags:
   - Performance
 draft: false
 weight: 123
-lastmod: 2025-03-06T14:46:39.730Z
+categories_ref:
+  - Rust
+  - WebAssembly
+  - Web Development
+lastmod: 2025-03-14T15:45:07.297Z
 ---
 # How to Use Rust with WebAssembly
 

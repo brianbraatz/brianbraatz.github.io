@@ -20,7 +20,12 @@ tags:
   - Scalability
 draft: false
 weight: 2598
-lastmod: 2025-03-06T16:31:18.746Z
+categories_ref:
+  - Databases
+  - NoSQL
+  - Cassandra
+  - DynamoDb
+lastmod: 2025-03-14T15:45:06.519Z
 ---
 <!-- 
 # Cassandra Database in a Nutshell

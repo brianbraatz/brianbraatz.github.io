@@ -21,7 +21,13 @@ tags:
   - Sqlite
 draft: false
 weight: 482
-lastmod: 2025-03-06T01:52:45.838Z
+categories_ref:
+  - Python
+  - SQLAlchemy
+  - Database
+  - ORM
+  - SQL
+lastmod: 2025-03-14T15:45:06.229Z
 ---
 # Python SQLAlchemy In a Nutshell
 

@@ -20,7 +20,12 @@ tags:
   - AssemblyLanguage
 draft: false
 weight: 15
-lastmod: 2025-03-03T13:55:13.813Z
+categories_ref:
+  - Embedded
+  - 8051 Embedded Processor
+  - Concurrency
+  - Assembly Language
+lastmod: 2025-03-14T15:45:13.087Z
 ---
 # How to write a Preemptive multi-threaded OS in 8051 Assembly Language
 

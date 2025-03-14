@@ -20,7 +20,12 @@ tags:
   - Sqlite
 draft: false
 weight: 537
-lastmod: 2025-03-06T12:29:21.022Z
+categories_ref:
+  - Rust
+  - SeaORM
+  - Database
+  - ORM
+lastmod: 2025-03-14T15:45:06.110Z
 ---
 # Rust SeaORM: ORM in a Nutshell
 

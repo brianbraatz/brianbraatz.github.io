@@ -28,7 +28,16 @@ tags:
   - GCP
 draft: false
 weight: 378
-lastmod: 2025-03-02T23:48:14.229Z
+categories_ref:
+  - Cloud
+  - Microsoft Azure Cloud
+  - Amazon Cloud-AWS
+  - Google Cloud-GCP
+  - oAuth
+  - Web Development
+  - Security
+  - Identity and access management-IAM
+lastmod: 2025-03-14T15:45:10.092Z
 ---
 # Cloud Authentication Comparison: AWS vs Azure vs Google Cloud
 

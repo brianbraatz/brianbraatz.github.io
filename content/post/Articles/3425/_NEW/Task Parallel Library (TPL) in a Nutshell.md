@@ -17,7 +17,12 @@ tags:
   - Asynchronous Programming
 draft: false
 weight: 356
-lastmod: 2025-03-06T16:03:50.817Z
+categories_ref:
+  - Task Parallel Library
+  - TPL
+  - CSharp
+  - Concurrency
+lastmod: 2025-03-14T15:45:07.457Z
 ---
 <!-- 
 # Task Parallel Library (TPL) in a Nutshell

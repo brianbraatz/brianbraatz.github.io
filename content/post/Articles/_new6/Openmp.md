@@ -27,7 +27,13 @@ tags:
   - CPP
 draft: false
 weight: 320
-lastmod: 2025-02-21T01:10:14.557Z
+categories_ref:
+  - OpenMP
+  - Languages
+  - Concurrency
+  - Cloud
+  - WinApi
+lastmod: 2025-03-14T15:45:23.024Z
 ---
 <!--
 # OpenMP in Detail: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

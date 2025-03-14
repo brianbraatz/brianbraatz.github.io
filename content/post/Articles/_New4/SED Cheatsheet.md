@@ -22,7 +22,14 @@ tags:
   - Reference
 draft: false
 weight: 198
-lastmod: 2025-02-17T01:00:35.798Z
+categories_ref:
+  - SED
+  - AWK
+  - Unix
+  - Linux
+  - Mac OS
+  - Scripting
+lastmod: 2025-03-14T15:45:20.643Z
 ---
 # SED Reference Table
 

@@ -21,7 +21,12 @@ tags:
   - Internet
 draft: false
 weight: 287
-lastmod: 2025-02-09T22:36:24.881Z
+categories_ref:
+  - History
+  - Modems
+  - Networking
+  - Protocols
+lastmod: 2025-03-14T15:45:12.679Z
 ---
 # Modems: The Unsung Heroes of the Internet Age
 

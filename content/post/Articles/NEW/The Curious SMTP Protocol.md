@@ -21,7 +21,12 @@ tags:
   - Protocols
 draft: false
 weight: 52
-lastmod: 2025-03-03T14:47:24.646Z
+categories_ref:
+  - Internet standards
+  - Protocols
+  - Networking
+  - Network Protocols
+lastmod: 2025-03-14T15:45:13.734Z
 ---
 # The Curious SMTP Protocol
 

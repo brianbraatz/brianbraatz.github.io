@@ -16,7 +16,12 @@ tags:
   - Data Science
 draft: false
 weight: 489
-lastmod: 2025-03-05T16:09:19.888Z
+categories_ref:
+  - Machine Learning
+  - Python
+  - Scikit-learn
+  - Data Science
+lastmod: 2025-03-14T15:45:06.137Z
 ---
 # Scikit-Learn in a Nutshell: History, Motivation, and Code Examples
 

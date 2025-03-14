@@ -23,7 +23,14 @@ tags:
   - Apps
 draft: false
 weight: 226
-lastmod: 2025-03-03T00:29:06.833Z
+categories_ref:
+  - Microsoft Flow
+  - Lotus Notes
+  - Low-Code
+  - Workflow Automation
+  - Business Apps
+  - PowerApps
+lastmod: 2025-03-14T15:45:14.036Z
 ---
 # Microsoft Flow in a Nutshell
 

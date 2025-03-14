@@ -27,7 +27,15 @@ tags:
   - Linux
 draft: false
 weight: 297
-lastmod: 2025-02-10T18:07:46.262Z
+categories_ref:
+  - Docker
+  - Containers
+  - Hyper-V
+  - Hyper Visor
+  - Windows
+  - Virtual Machines
+  - Cloud
+lastmod: 2025-03-14T15:45:21.920Z
 ---
   <!--
 

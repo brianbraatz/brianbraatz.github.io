@@ -31,7 +31,17 @@ tags:
   - Cloud
 draft: false
 weight: 47
-lastmod: 2025-03-03T14:46:06.216Z
+categories_ref:
+  - ETL
+  - Data Processing
+  - Apache NiFi
+  - Talend
+  - Apache Spark
+  - AWS Glue
+  - dbt
+  - Big Data
+  - Cloud
+lastmod: 2025-03-14T15:45:16.557Z
 ---
 ## ETL Processing Roundup: Who Wins the Data Battle?
 

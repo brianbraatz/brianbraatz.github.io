@@ -21,7 +21,13 @@ tags:
   - Distroless
 draft: false
 weight: 950
-lastmod: 2025-02-16T22:08:44.472Z
+categories_ref:
+  - Kubernetes
+  - Security
+  - Containers
+  - Linux
+  - DevOps
+lastmod: 2025-03-14T15:45:29.447Z
 ---
 <!--
 # musl vs glibc and busybox: Why They Matter for Secure Containers

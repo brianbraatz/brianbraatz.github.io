@@ -20,7 +20,12 @@ tags:
   - TypeScript
 draft: false
 weight: 20
-lastmod: 2025-03-03T15:05:42.636Z
+categories_ref:
+  - Angular
+  - Typescript
+  - Javascript
+  - Web Development
+lastmod: 2025-03-14T15:45:09.793Z
 ---
 # Angular In a Nutshell
 

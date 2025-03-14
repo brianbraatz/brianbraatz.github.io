@@ -17,7 +17,11 @@ tags:
   - Migration
 draft: false
 weight: 257
-lastmod: 2025-02-17T00:54:27.220Z
+categories_ref:
+  - API
+  - Web Services
+  - Integration
+lastmod: 2025-03-14T15:45:26.845Z
 ---
 # SOAP vs REST Explained: History, Comparison, and Migration Tips
 

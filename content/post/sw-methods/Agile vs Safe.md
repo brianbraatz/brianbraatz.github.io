@@ -20,7 +20,12 @@ tags:
   - Agile
 draft: false
 weight: 30
-lastmod: 2025-02-28T03:32:42.548Z
+categories_ref:
+  - Agile
+  - Software Architecture
+  - Software Project Methods
+  - SAFEAgile
+lastmod: 2025-03-14T15:45:30.553Z
 ---
 Hey there, fellow Agile nerd!
 

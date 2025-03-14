@@ -19,7 +19,11 @@ tags:
   - Cybersecurity
 draft: false
 weight: 61
-lastmod: 2025-03-03T14:46:43.696Z
+categories_ref:
+  - Linux
+  - Security
+  - Device Drivers
+lastmod: 2025-03-14T15:45:25.906Z
 ---
 # How Hackers Used Memory Corruption to Break Into Systems
 

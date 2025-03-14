@@ -18,7 +18,11 @@ tags:
   - Javascript
 weight: 200
 draft: false
-lastmod: 2025-02-09T21:39:05.842Z
+categories_ref:
+  - Android
+  - Java
+  - Mobile
+lastmod: 2025-03-14T15:45:08.050Z
 ---
 | **Category**             | **Description**                                                        | **Important Classes/Components**                                       |
 | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |

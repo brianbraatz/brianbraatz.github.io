@@ -19,7 +19,13 @@ tags:
   - Asp-Net
 draft: "False"
 weight: "131"
-lastmod: 2025-03-03T20:58:53.690Z
+categories_ref:
+  - ASP.NET
+  - .NET
+  - Web Development
+  - Cloud
+  - Asp.Net
+lastmod: 2025-03-14T15:45:03.883Z
 ---
 <!-- 
 # ASP.NET Core 2.1 vs ASP.NET Framework – Key Differences and What Changed?

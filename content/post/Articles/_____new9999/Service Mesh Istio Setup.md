@@ -20,7 +20,13 @@ tags:
   - Consul
 draft: false
 weight: 845
-lastmod: 2025-02-17T14:23:35.304Z
+categories_ref:
+  - Kubernetes
+  - Networking
+  - Service Mesh
+  - Cloud
+  - DevOps
+lastmod: 2025-03-14T15:45:29.716Z
 ---
 <!-- 
 # Setting Up a Service Mesh Inside a Pod: A Complete Guide

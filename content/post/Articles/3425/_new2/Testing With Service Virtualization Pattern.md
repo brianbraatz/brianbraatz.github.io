@@ -15,7 +15,11 @@ tags:
   - DevOps
 draft: false
 weight: 564
-lastmod: 2025-03-08T02:26:04.648Z
+categories_ref:
+  - Software Development
+  - Testing
+  - DevOps
+lastmod: 2025-03-14T15:45:07.922Z
 ---
 # Service Virtualization: The Magic Trick for Devs and Testers
 

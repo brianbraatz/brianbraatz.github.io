@@ -31,7 +31,17 @@ tags:
   - Prevention
 draft: false
 weight: 22
-lastmod: 2025-03-03T14:20:53.382Z
+categories_ref:
+  - CDN Protection
+  - Cloudflare
+  - Akamai
+  - AWS Shield
+  - WAF
+  - Anomaly Detection
+  - Cybersecurity
+  - DDoS Protection
+  - Attack Prevention
+lastmod: 2025-03-14T15:45:26.267Z
 ---
 <!--
 # Defending Against Attacks: Comparing CDN Protection, WAFs, and Machine Learning-Based Anomaly Detection

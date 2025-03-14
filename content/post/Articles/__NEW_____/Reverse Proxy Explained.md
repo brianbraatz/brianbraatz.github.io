@@ -34,7 +34,19 @@ tags:
   - Proxy
 draft: false
 weight: 44
-lastmod: 2025-03-03T14:29:19.413Z
+categories_ref:
+  - Reverse Proxy
+  - Security
+  - Web Applications
+  - Performance
+  - Scalability
+  - Load Balancing
+  - Nginx
+  - Apache
+  - Docker
+  - Kubernetes
+  - Forward Proxy
+lastmod: 2025-03-14T15:45:26.163Z
 ---
 Phonebooth Stuffing:
 

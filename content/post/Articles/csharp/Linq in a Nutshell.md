@@ -22,7 +22,15 @@ tags:
   - MultiThreading
 draft: false
 weight: 40
-lastmod: 2025-03-03T15:03:26.149Z
+categories_ref:
+  - Windows
+  - CSharp
+  - DotNet
+  - LINQ
+  - Entity Framework
+  - SQL
+  - ORM
+lastmod: 2025-03-14T15:45:08.861Z
 ---
 ![LINQ Logo](https://seeklogo.com/images/L/linq-logo-8B9C0C6C6A-seeklogo.com.png)
 

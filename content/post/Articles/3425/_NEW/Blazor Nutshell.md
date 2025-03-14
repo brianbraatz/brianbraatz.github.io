@@ -23,7 +23,16 @@ tags:
   - UI
 draft: false
 weight: 314
-lastmod: 2025-03-07T14:22:42.586Z
+categories_ref:
+  - Blazor
+  - .NET
+  - WebAssembly
+  - C#
+  - CSharp
+  - Web Development
+  - Cloud
+  - Mobile
+lastmod: 2025-03-14T15:45:06.504Z
 ---
 <!-- 
 # Blazor Deep Dive: A Fun Look Into the Future of .NET Web Apps

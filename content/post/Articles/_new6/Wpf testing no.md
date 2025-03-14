@@ -33,7 +33,14 @@ tags:
   - Injection
 draft: true
 weight: 477
-lastmod: 2025-03-07T00:54:42.341Z
+categories_ref:
+  - WPF
+  - Unit Testing
+  - CSharp
+  - Maui
+  - Testing
+  - Mobile
+lastmod: 2025-03-14T15:45:23.978Z
 ---
 <!--
 

@@ -21,7 +21,14 @@ tags:
   - Networking
 draft: "False"
 weight: "482"
-lastmod: 2025-03-03T03:53:14.465Z
+categories_ref:
+  - Node.js
+  - IoT
+  - JavaScript
+  - Hardware
+  - Embedded
+  - Embedded Systems
+lastmod: 2025-03-14T15:45:04.318Z
 ---
 Alright, so you’ve heard of **Node.js**—the JavaScript runtime that refuses to quit.
 

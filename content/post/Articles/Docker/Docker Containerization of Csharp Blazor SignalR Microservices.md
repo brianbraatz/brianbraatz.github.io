@@ -26,7 +26,14 @@ tags:
   - DotNet
 draft: false
 weight: 30
-lastmod: 2025-02-09T21:46:13.080Z
+categories_ref:
+  - CSharp
+  - DotNet
+  - Docker
+  - Cloud
+  - Microservices
+  - SignalR
+lastmod: 2025-03-14T15:45:09.011Z
 ---
 # Docker Containerization of C# Blazor SignalR Microservice
 

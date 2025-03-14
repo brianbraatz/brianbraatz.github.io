@@ -26,7 +26,14 @@ tags:
   - Frameworks
 draft: false
 weight: 106
-lastmod: 2025-02-10T15:13:44.314Z
+categories_ref:
+  - Web Development
+  - Node JS
+  - Javascript
+  - Typescript
+  - Mobile
+  - Cross Platform
+lastmod: 2025-03-14T15:45:22.896Z
 ---
 <!--
 # Node.js: What It Is, History, Usage, and Alternatives

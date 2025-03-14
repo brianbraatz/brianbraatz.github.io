@@ -31,7 +31,19 @@ tags:
   - Examples
 draft: false
 weight: 312
-lastmod: 2025-03-05T21:48:00.028Z
+categories_ref:
+  - Azure Cosmos DB
+  - SQL
+  - MSSQl
+  - Cloud
+  - DevOps
+  - CI\CD
+  - CSharp
+  - DotNet
+  - Python
+  - Microsoft Azure Cloud
+  - Azure Storage
+lastmod: 2025-03-14T15:45:28.665Z
 ---
 So, you're diving into Azure and wondering, *"What's the best way to store my precious data?"*
 

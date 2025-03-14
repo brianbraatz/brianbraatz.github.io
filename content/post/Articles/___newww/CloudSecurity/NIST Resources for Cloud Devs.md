@@ -26,7 +26,15 @@ tags:
   - management
 draft: false
 weight: 104
-lastmod: 2025-03-04T13:29:38.075Z
+categories_ref:
+  - Nist
+  - Cybersecurity
+  - Cloud security
+  - Zero trust
+  - Compliance
+  - Web applications
+  - Risk management
+lastmod: 2025-03-14T15:45:27.056Z
 ---
 This is just a list of useful links.
 

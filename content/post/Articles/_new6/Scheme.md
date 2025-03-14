@@ -25,7 +25,11 @@ tags:
   - Comparison
 draft: false
 weight: 129
-lastmod: 2025-03-03T12:17:13.053Z
+categories_ref:
+  - Languages
+  - Scheme
+  - History
+lastmod: 2025-03-14T15:45:23.224Z
 ---
 <!-- 
 # The Scheme Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

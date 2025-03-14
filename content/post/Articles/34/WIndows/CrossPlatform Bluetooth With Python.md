@@ -20,7 +20,14 @@ tags:
   - Wireless
 draft: false
 weight: 231
-lastmod: 2025-03-04T10:29:57.729Z
+categories_ref:
+  - Bluetooth
+  - Python
+  - Windows
+  - Linux
+  - Programming
+  - Device Drivers
+lastmod: 2025-03-14T15:45:05.449Z
 ---
 # Cross-Platform Bluetooth Communication in Python for Windows and Linux
 

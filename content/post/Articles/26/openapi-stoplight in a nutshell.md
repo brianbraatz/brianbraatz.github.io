@@ -18,7 +18,11 @@ tags:
   - Design
 draft: false
 weight: 468
-lastmod: 2025-02-26T11:29:00.046Z
+categories_ref:
+  - API Documentation
+  - OpenAPI
+  - Web Development
+lastmod: 2025-03-14T15:45:03.673Z
 ---
 <!-- 
 # Using Stoplight for OpenAPI Documentation

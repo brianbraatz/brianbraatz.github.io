@@ -24,7 +24,15 @@ tags:
   - Backend
 draft: "False"
 weight: "386"
-lastmod: 2025-03-03T02:25:39.123Z
+categories_ref:
+  - Node.js
+  - SPA
+  - Web Development
+  - Infinite Scroll
+  - Async
+  - VueJs
+  - Python
+lastmod: 2025-03-14T15:45:03.983Z
 ---
 <!-- 
 

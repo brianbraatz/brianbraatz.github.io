@@ -21,7 +21,12 @@ tags:
   - History
 draft: false
 weight: 30
-lastmod: 2025-02-10T16:22:40.164Z
+categories_ref:
+  - History
+  - Windows
+  - Windows API
+  - GUI
+lastmod: 2025-03-14T15:45:21.052Z
 ---
 <!-- 
 {{< youtube "https://www.youtube.com/watch?v=wRdl1BjTG7c" >}}

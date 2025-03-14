@@ -26,7 +26,12 @@ tags:
   - Google
 draft: false
 weight: 395
-lastmod: 2025-02-10T18:11:49.282Z
+categories_ref:
+  - Power BI
+  - Business Intelligence Tools
+  - SQL
+  - Looker
+lastmod: 2025-03-14T15:45:23.126Z
 ---
 <!-- 
 # Power BI vs Looker: A Comprehensive Comparison of Business Intelligence Tools

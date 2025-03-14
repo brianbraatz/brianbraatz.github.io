@@ -23,7 +23,10 @@ tags:
   - SharedMemoryIPC
 draft: false
 weight: 49
-lastmod: 2025-03-03T14:37:15.785Z
+categories_ref:
+  - Linux
+  - Inter-Process Communications
+lastmod: 2025-03-14T15:45:19.528Z
 ---
 ## Introduction
 

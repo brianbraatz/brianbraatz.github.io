@@ -34,7 +34,20 @@ tags:
   - Security
 draft: false
 weight: 30
-lastmod: 2025-03-03T13:46:54.559Z
+categories_ref:
+  - Cloud
+  - Amazon Cloud-AWS
+  - Azure Cloud
+  - Google Cloud-GCP
+  - Python
+  - CSharp
+  - DotNet
+  - Microservices
+  - Docker
+  - Mobile
+  - IOS
+  - Android
+lastmod: 2025-03-14T15:45:21.667Z
 ---
 <!--
 # Experience Building a Hybrid On-Premise Cloud Application, and How to Do It with AWS, Azure, and Google Cloud  

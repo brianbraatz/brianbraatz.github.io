@@ -18,7 +18,13 @@ tags:
   - Scalability
 draft: false
 weight: 3461
-lastmod: 2025-03-07T13:25:47.478Z
+categories_ref:
+  - DynamoDb
+  - Aws
+  - Nosql
+  - Cloud
+  - Scalability
+lastmod: 2025-03-14T15:45:06.582Z
 ---
 # DynamoDB in a Nutshell
 

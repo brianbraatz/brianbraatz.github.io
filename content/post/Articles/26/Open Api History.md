@@ -26,7 +26,12 @@ keywords:
   - software history
 summary: Discover the journey of Swagger, from its creation to its transformation into OpenAPI, and how it revolutionized API documentation and development.
 weight: 482
-lastmod: 2025-02-26T11:43:05.086Z
+categories_ref:
+  - API
+  - Software Development
+  - OpenAPI
+  - Web Development
+lastmod: 2025-03-14T15:45:03.567Z
 ---
 ### **The Origins (2010)**
 

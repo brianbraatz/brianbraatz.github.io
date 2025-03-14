@@ -17,7 +17,13 @@ tags:
   - Edge Computing
 draft: false
 weight: 2572
-lastmod: 2025-03-06T13:13:50.130Z
+categories_ref:
+  - EVE-OS
+  - Cloud
+  - Virtualization
+  - Edge Computing
+  - Docker
+lastmod: 2025-03-14T15:45:06.627Z
 ---
 <!-- 
 # EVE-OS in a Nutshell

@@ -24,7 +24,16 @@ tags:
   - RPC
 draft: false
 weight: 412
-lastmod: 2025-02-21T01:11:03.583Z
+categories_ref:
+  - Networking
+  - Network Protocols
+  - gRPC
+  - Protobuf
+  - CSharp
+  - Python
+  - GoLang
+  - WinApi
+lastmod: 2025-03-14T15:45:24.381Z
 ---
 ## 🕰️ A Little Backstory (because context matters)
 

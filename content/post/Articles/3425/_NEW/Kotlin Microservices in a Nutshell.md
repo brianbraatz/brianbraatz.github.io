@@ -17,7 +17,13 @@ tags:
   - Spring Boot
 draft: false
 weight: 1523
-lastmod: 2025-03-06T16:00:37.225Z
+categories_ref:
+  - Kotlin
+  - Microservices
+  - Backend
+  - Spring Boot
+  - Docker
+lastmod: 2025-03-14T15:45:06.686Z
 ---
 <!-- 
 # Kotlin Microservices in a Nutshell

@@ -27,7 +27,14 @@ tags:
   - Client-Server
 draft: false
 weight: 213
-lastmod: 2025-02-14T16:24:18.545Z
+categories_ref:
+  - Networking
+  - Windows
+  - Windows API
+  - Protocols
+  - History
+  - Network Protocols
+lastmod: 2025-03-14T15:45:23.918Z
 ---
 <!--
 

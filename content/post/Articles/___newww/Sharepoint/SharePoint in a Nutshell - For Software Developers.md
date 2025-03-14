@@ -24,7 +24,16 @@ date: 2017-10-17
 image: post/Articles/IMAGES/SharePoint.png
 draft: false
 weight: 41
-lastmod: 2025-03-03T15:10:25.656Z
+categories_ref:
+  - Sharepoint
+  - Cloud
+  - Graph API
+  - Python
+  - C#
+  - CSharp
+  - Office 365
+  - Power Apps
+lastmod: 2025-03-14T15:45:28.487Z
 ---
 <!-- 
 # SharePoint in a Nutshell - For Software Developers

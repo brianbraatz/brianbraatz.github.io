@@ -19,7 +19,11 @@ tags:
   - Sqlalchemy
 draft: false
 weight: 592
-lastmod: 2025-03-06T12:31:18.374Z
+categories_ref:
+  - Django
+  - Python
+  - ORM
+lastmod: 2025-03-14T15:45:05.716Z
 ---
 # Python Django ORM In a Nutshell
 

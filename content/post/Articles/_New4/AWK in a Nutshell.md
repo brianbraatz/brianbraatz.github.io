@@ -24,7 +24,13 @@ tags:
   - Scripting
 draft: false
 weight: 414
-lastmod: 2025-02-17T13:18:27.599Z
+categories_ref:
+  - AWK
+  - Scripting
+  - Unix
+  - Linux
+  - Mac OS
+lastmod: 2025-03-14T15:45:20.319Z
 ---
 [Myrna Loy - Wikipedia](https://en.wikipedia.org/wiki/Myrna_Loy)
 

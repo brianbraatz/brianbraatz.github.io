@@ -18,7 +18,13 @@ tags:
   - Microservices
 draft: false
 weight: 33
-lastmod: 2025-03-03T13:47:58.669Z
+categories_ref:
+  - Architecture
+  - Software
+  - Development
+  - SOA
+  - Microservices
+lastmod: 2025-03-14T15:45:05.169Z
 ---
 Employees behind the counter serving a line of customers at a McDonald's\
 https://www.loc.gov/resource/ppmsca.56544/\

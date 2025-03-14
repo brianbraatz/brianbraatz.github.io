@@ -22,7 +22,11 @@ tags:
   - Memory
 draft: false
 weight: 157
-lastmod: 2025-02-11T13:18:45.957Z
+categories_ref:
+  - Cloud
+  - Redis
+  - SQL
+lastmod: 2025-03-14T15:45:24.984Z
 ---
 # Redis in a Nutshell 🥜
 

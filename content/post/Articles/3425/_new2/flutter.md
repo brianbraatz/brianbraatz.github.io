@@ -17,7 +17,13 @@ tags:
   - Mobile Development
 draft: false
 weight: 542
-lastmod: 2025-03-07T00:58:23.854Z
+categories_ref:
+  - Flutter
+  - Cross-platform
+  - Dart
+  - Mobile Development
+  - Mobile
+lastmod: 2025-03-14T15:45:07.622Z
 ---
 <!-- 
 # Flutter in a Nutshell: The Wild Ride of Cross-Platform App Development

@@ -19,7 +19,11 @@ tags:
   - Selenium
 draft: false
 weight: 624
-lastmod: 2025-03-07T23:19:43.935Z
+categories_ref:
+  - Testing
+  - Cucumber
+  - BDD
+lastmod: 2025-03-14T15:45:07.577Z
 ---
 <!-- # Cucumber: The BDD Testing Framework Explained
 

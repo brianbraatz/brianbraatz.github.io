@@ -19,7 +19,12 @@ tags:
   - Documentation
 draft: false
 weight: 621
-lastmod: 2025-02-26T11:04:13.218Z
+categories_ref:
+  - API
+  - Documentation
+  - OpenAPI
+  - Web Development
+lastmod: 2025-03-14T15:45:03.661Z
 ---
 So, you've got yourself an OpenAPI-compliant API, and now you need to manually add some documentation to it.
 

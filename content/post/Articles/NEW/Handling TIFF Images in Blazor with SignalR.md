@@ -23,7 +23,15 @@ tags:
   - WebDevelopment
 draft: false
 weight: 312
-lastmod: 2025-02-11T21:10:40.284Z
+categories_ref:
+  - CSharp
+  - Document Imaging
+  - SignalR
+  - DotNet
+  - TIFF Images
+  - Medical Images
+  - Microscope Images
+lastmod: 2025-03-14T15:45:11.393Z
 ---
 ![](/post/Articles/IMAGES/SEMMisc_pollen.jpg)
 

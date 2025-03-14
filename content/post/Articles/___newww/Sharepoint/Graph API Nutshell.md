@@ -24,7 +24,16 @@ date: 2023-10-17
 image: post/Articles/IMAGES/gollumonering.png
 draft: false
 weight: 31
-lastmod: 2025-03-03T15:11:00.893Z
+categories_ref:
+  - Sharepoint
+  - Cloud
+  - Graph API
+  - Python
+  - C#
+  - CSharp
+  - Office 365
+  - Power Apps
+lastmod: 2025-03-14T15:45:28.339Z
 ---
 <!-- 
 

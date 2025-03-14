@@ -21,7 +21,13 @@ tags:
   - Management
 draft: false
 weight: 28
-lastmod: 2025-03-03T14:31:52.197Z
+categories_ref:
+  - Kubernetes
+  - Security
+  - IAM
+  - DevOps
+  - Cloud
+lastmod: 2025-03-14T15:45:29.770Z
 ---
 (\
 props to :\

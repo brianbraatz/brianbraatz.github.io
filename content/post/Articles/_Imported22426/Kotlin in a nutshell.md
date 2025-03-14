@@ -17,7 +17,11 @@ tags:
   - Syntax
 draft: false
 weight: 678
-lastmod: 2025-03-03T15:43:01.144Z
+categories_ref:
+  - Programming
+  - Kotlin
+  - Code Examples
+lastmod: 2025-03-14T15:45:17.395Z
 ---
 Kotlin is a modern, programming language that runs on the Java Virtual Machine (JVM).
 

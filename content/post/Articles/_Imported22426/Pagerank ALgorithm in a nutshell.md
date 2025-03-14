@@ -20,7 +20,13 @@ tags:
   - Relevance
 draft: false
 weight: 583
-lastmod: 2025-03-04T15:21:05.051Z
+categories_ref:
+  - SEO
+  - Google
+  - Search Engines
+  - Algorithms
+  - Cloud
+lastmod: 2025-03-14T15:45:17.637Z
 ---
 <!-- 
 # The PageRank Algorithm and Is It Still Relevant?

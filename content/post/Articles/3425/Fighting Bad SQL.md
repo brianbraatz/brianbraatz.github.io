@@ -17,7 +17,10 @@ tags:
   - Indexing
 draft: false
 weight: 15
-lastmod: 2025-03-05T17:41:52.924Z
+categories_ref:
+  - SQL
+  - Performance Optimization
+lastmod: 2025-03-14T15:45:05.730Z
 ---
 **Yo, you writin' SQL, huh? That's cool, that's cool. But hold up...**
 

@@ -16,7 +16,11 @@ tags:
   - Assistive Technology
 draft: false
 weight: 680
-lastmod: 2025-03-05T20:23:36.204Z
+categories_ref:
+  - Accessibility
+  - Web Development
+  - WAI-ARIA
+lastmod: 2025-03-14T15:45:06.358Z
 ---
 ## Why Should You Care About WAI-ARIA?
 

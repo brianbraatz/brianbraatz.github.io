@@ -18,7 +18,11 @@ tags:
   - Sites
 draft: false
 weight: 529
-lastmod: 2025-02-26T11:36:56.615Z
+categories_ref:
+  - Documentation
+  - OpenAPI
+  - Web Development
+lastmod: 2025-03-14T15:45:03.833Z
 ---
 ## Introduction
 

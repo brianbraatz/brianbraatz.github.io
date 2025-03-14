@@ -12,7 +12,10 @@ tags:
   - CPP
 weight: 400
 draft: false
-lastmod: 2025-03-03T16:20:41.578Z
+categories_ref:
+  - CPP
+  - Cheatsheet
+lastmod: 2025-03-14T15:45:08.516Z
 ---
 ## C++ Cheatsheet
 

@@ -17,7 +17,12 @@ tags:
   - DNS
 draft: false
 weight: 110
-lastmod: 2025-03-03T17:23:45.683Z
+categories_ref:
+  - Firewalls
+  - GoLang
+  - Networking
+  - Network Protocols
+lastmod: 2025-03-14T15:45:11.908Z
 ---
 ## A Brief History of Go (Because Why Not?)
 

@@ -14,7 +14,9 @@ tags:
   - First Bug
 draft: false
 weight: 328
-lastmod: 2025-02-15T23:04:27.602Z
+categories_ref:
+  - History
+lastmod: 2025-03-14T15:45:25.799Z
 ---
 # The Very FIRST Computer BUG... Seriously... It Was a Real Bug... Read On...
 

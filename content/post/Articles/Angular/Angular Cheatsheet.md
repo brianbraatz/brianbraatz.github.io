@@ -19,7 +19,13 @@ tags:
   - Javascript
 weight: 290
 draft: false
-lastmod: 2025-02-09T21:39:39.129Z
+categories_ref:
+  - HTML
+  - Angular
+  - Typescript
+  - Javascript
+  - Web Development
+lastmod: 2025-03-14T15:45:08.150Z
 ---
 ### Angular Cheatsheet
 

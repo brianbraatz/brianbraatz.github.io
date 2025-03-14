@@ -25,7 +25,17 @@ date: 2020-10-17
 image: post/Articles/IMAGES/SharePoint.png
 draft: false
 weight: 122
-lastmod: 2025-03-02T23:50:19.797Z
+categories_ref:
+  - Sharepoint
+  - Cloud
+  - Graph API
+  - Python
+  - C#
+  - CSharp
+  - Office 365
+  - ASP.NET
+  - Power Apps
+lastmod: 2025-03-14T15:45:28.426Z
 ---
 <!-- 
 ---

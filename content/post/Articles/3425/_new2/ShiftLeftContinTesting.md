@@ -16,7 +16,11 @@ tags:
   - Software Quality
 draft: false
 weight: 523
-lastmod: 2025-03-08T02:13:58.323Z
+categories_ref:
+  - Software Testing
+  - DevOps
+  - Automation
+lastmod: 2025-03-14T15:45:07.832Z
 ---
 <!-- 
 # **Modern Testing Strategies: Shift Left and Continuous Testing** -->

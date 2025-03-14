@@ -18,7 +18,11 @@ tags:
   - Vectors
 draft: false
 weight: 78
-lastmod: 2025-03-05T22:17:21.623Z
+categories_ref:
+  - Machine Learning
+  - Scikit-learn
+  - Data Science
+lastmod: 2025-03-14T15:45:05.901Z
 ---
 [Hydroplanes on Lake Washington](https://www.seattletimes.com/sports/other-sports/seafair-primer-what-you-need-to-know-about-hydroplanes-on-lake-washington/)
 

@@ -20,7 +20,13 @@ tags:
   - Automation
 draft: false
 weight: 328
-lastmod: 2025-02-25T12:26:29.484Z
+categories_ref:
+  - DevOps
+  - Infrastructure as Code-IAC
+  - Cloud
+  - Pulumi
+  - CI\CD
+lastmod: 2025-03-14T15:45:24.861Z
 ---
 <!-- 
 # Pulumi in a Nutshell

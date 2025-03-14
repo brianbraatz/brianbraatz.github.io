@@ -18,7 +18,12 @@ tags:
   - Cpp
 draft: false
 weight: 572
-lastmod: 2025-03-06T02:37:44.974Z
+categories_ref:
+  - C++
+  - SQL
+  - ORM
+  - Database
+lastmod: 2025-03-14T15:45:06.261Z
 ---
 # SQL++11 ORM In a Nutshell
 

@@ -25,7 +25,12 @@ tags:
   - Practices
 draft: false
 weight: 81
-lastmod: 2025-03-03T17:14:14.555Z
+categories_ref:
+  - Unit Testing
+  - Angular
+  - React
+  - Testing Strategies
+lastmod: 2025-03-14T15:45:15.477Z
 ---
 <!-- 
 # Strategies for Unit Testing Angular and React (Without Losing Your Sanity)

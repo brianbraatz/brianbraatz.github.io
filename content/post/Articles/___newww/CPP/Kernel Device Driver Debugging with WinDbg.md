@@ -19,7 +19,11 @@ tags:
   - Analysis
 draft: false
 weight: 39
-lastmod: 2025-03-03T17:28:24.784Z
+categories_ref:
+  - C++ Debugging
+  - WinDbg
+  - Device Drivers
+lastmod: 2025-03-14T15:45:27.522Z
 ---
 # How to Use WinDbg to Debug Kernel Device Drivers in Windows
 

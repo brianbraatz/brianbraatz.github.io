@@ -33,7 +33,26 @@ tags:
   - Code
 draft: false
 weight: 31
-lastmod: 2025-03-03T14:43:31.082Z
+categories_ref:
+  - DevOps
+  - Infrastructure as Code-IAC
+  - Cloud
+  - Redis
+  - Route 53
+  - Cloudfront
+  - AWS Elastic Beanstalk
+  - Elastic Load Balancer-ELB
+  - Amazon Auto Scaling Group-ASG
+  - Amazon RDS
+  - AWS CodePipeline
+  - SQL
+  - Microsoft Sql Server
+  - Docker
+  - Microservices
+  - Amazon App Runner
+  - IIS
+  - CI\CD
+lastmod: 2025-03-14T15:45:24.541Z
 ---
 # How I Took a Legacy App from Bare Metal to AWS
 

@@ -15,7 +15,10 @@ tags:
   - Frontend
 draft: false
 weight: 335
-lastmod: 2025-03-06T16:02:47.655Z
+categories_ref:
+  - Remix
+  - React Router
+lastmod: 2025-03-14T15:45:07.274Z
 ---
 # Remix/React Router in a Nutshell
 

@@ -20,7 +20,14 @@ tags:
   - Cross-platform
 draft: false
 weight: 52
-lastmod: 2025-03-07T02:34:22.556Z
+categories_ref:
+  - C++
+  - Docker
+  - Kubernetes
+  - Microservices
+  - Cloud
+  - CPP
+lastmod: 2025-03-14T15:45:07.563Z
 ---
 <!-- # Building a Modern C++ Microservice with Docker and Kubernetes -->
 

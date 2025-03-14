@@ -20,7 +20,12 @@ tags:
   - Comparison
 draft: false
 weight: 108
-lastmod: 2025-02-09T22:04:31.609Z
+categories_ref:
+  - SQL
+  - Microsoft Sql Server
+  - MySql
+  - Postgres Sql
+lastmod: 2025-03-14T15:45:10.387Z
 ---
 <https://en.wikipedia.org/wiki/Trigger_(horse)>
 

@@ -28,7 +28,17 @@ tags:
   - Testing
 draft: false
 weight: 31
-lastmod: 2025-03-03T13:47:15.316Z
+categories_ref:
+  - Behavior Driven Design
+  - Bdd
+  - Testing
+  - Angular
+  - React
+  - Software Development
+  - Unit Testing
+  - Javascript
+  - Typescript
+lastmod: 2025-03-14T15:45:15.367Z
 ---
 [Animal training - Wikipedia](https://en.wikipedia.org/wiki/Animal_training)
 

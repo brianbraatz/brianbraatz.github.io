@@ -23,7 +23,15 @@ tags:
   - Protobuf
 draft: false
 weight: 65
-lastmod: 2025-03-03T14:48:10.086Z
+categories_ref:
+  - Networking
+  - Network Protocols
+  - gRPC
+  - Protobuf
+  - CSharp
+  - Python
+  - GoLang
+lastmod: 2025-03-14T15:45:24.432Z
 ---
 ## 📜 A Quick History Lesson
 

@@ -29,7 +29,16 @@ tags:
   - Protocol
 draft: false
 weight: 80
-lastmod: 2025-03-03T14:52:49.066Z
+categories_ref:
+  - History
+  - Networking
+  - Protocols
+  - Modems
+  - XModem
+  - YModem
+  - ZModem
+  - Kermit
+lastmod: 2025-03-14T15:45:12.740Z
 ---
 # Modems & File Transfer Protocols: XModem, YModem, ZModem, and Kermit
 

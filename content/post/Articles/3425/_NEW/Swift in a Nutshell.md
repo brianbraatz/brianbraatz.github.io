@@ -17,7 +17,11 @@ tags:
   - MacOS
 draft: false
 weight: 1627
-lastmod: 2025-03-06T16:03:28.473Z
+categories_ref:
+  - Swift
+  - Programming
+  - Apple
+lastmod: 2025-03-14T15:45:07.369Z
 ---
 <!-- 
 # Swift in a Nutshell: A Fun and Fast-Paced Guide

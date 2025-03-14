@@ -25,7 +25,14 @@ tags:
   - Scripting
 draft: false
 weight: 269
-lastmod: 2025-02-17T13:11:19.423Z
+categories_ref:
+  - Scripting
+  - AWK
+  - SED
+  - Unix
+  - Linux
+  - Mac OS
+lastmod: 2025-03-14T15:45:20.277Z
 ---
 [Manhattan Melodrama - Wikipedia](https://en.wikipedia.org/wiki/Manhattan_Melodrama)
 

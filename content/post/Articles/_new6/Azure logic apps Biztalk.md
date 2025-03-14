@@ -28,7 +28,13 @@ tags:
   - Architecture
 draft: false
 weight: 491
-lastmod: 2025-02-28T03:17:35.845Z
+categories_ref:
+  - Azure Active Directory
+  - Microsoft Azure Cloud
+  - Biztalk
+  - Cloud
+  - Async
+lastmod: 2025-03-14T15:45:21.390Z
 ---
 <!--
 # Understanding Azure Logic Apps and How It Evolved from BizTalk Server with Example Uses Explained

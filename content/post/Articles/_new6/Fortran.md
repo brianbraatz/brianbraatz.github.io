@@ -27,7 +27,11 @@ tags:
   - Comparison
 draft: false
 weight: 327
-lastmod: 2025-02-10T15:34:10.617Z
+categories_ref:
+  - Fortran
+  - Languages
+  - History
+lastmod: 2025-03-14T15:45:22.033Z
 ---
 <!--
 # The Fortran Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

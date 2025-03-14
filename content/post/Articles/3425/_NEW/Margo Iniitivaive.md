@@ -20,7 +20,14 @@ tags:
   - Linux Foundation
 draft: false
 weight: 2543
-lastmod: 2025-03-06T16:01:00.790Z
+categories_ref:
+  - Technology
+  - Industry
+  - Edge Computing
+  - Python
+  - Cloud
+  - Margo Initiative
+lastmod: 2025-03-14T15:45:06.766Z
 ---
 ![](/post/Articles/3425/_NEW/margodiagram.png)
 

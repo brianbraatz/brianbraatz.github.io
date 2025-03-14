@@ -21,7 +21,15 @@ tags:
   - MVVM
 weight: 121
 draft: false
-lastmod: 2025-03-07T00:52:51.512Z
+categories_ref:
+  - HTML
+  - Angular
+  - Typescript
+  - Javascript
+  - Web Development
+  - Async
+  - Mobile
+lastmod: 2025-03-14T15:45:08.247Z
 ---
 ### 1. Why were client-side frameworks like Angular introduced?
 

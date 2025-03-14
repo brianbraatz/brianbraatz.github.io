@@ -29,7 +29,16 @@ tags:
   - Services
 draft: false
 weight: 464
-lastmod: 2025-02-28T04:16:08.488Z
+categories_ref:
+  - Cloud
+  - Azure Active Directory
+  - CSharp
+  - Powershell
+  - Scripting
+  - Biztalk
+  - Microsoft Azure Cloud
+  - Active Directory
+lastmod: 2025-03-14T15:45:21.284Z
 ---
 <!--
 

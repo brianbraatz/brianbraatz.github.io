@@ -22,7 +22,15 @@ tags:
   - Vulnerability scanning
 draft: false
 weight: 306
-lastmod: 2025-02-25T12:26:21.873Z
+categories_ref:
+  - Nist 800-190
+  - Container security
+  - Docker
+  - Kubernetes
+  - Cybersecurity
+  - Best practices
+  - Vulnerability scanning
+lastmod: 2025-03-14T15:45:27.000Z
 ---
 # NIST 800-190: Keeping Your Containers from Becoming Security Dumpster Fires
 

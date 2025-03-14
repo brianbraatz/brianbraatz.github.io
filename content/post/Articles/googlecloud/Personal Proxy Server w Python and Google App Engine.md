@@ -20,7 +20,12 @@ tags:
   - GoogleCloud
 draft: false
 weight: 30
-lastmod: 2025-02-09T22:19:57.047Z
+categories_ref:
+  - Google Cloud-GCP
+  - Python
+  - Google App Engine
+  - Python-Flask
+lastmod: 2025-03-14T15:45:09.331Z
 ---
 # How to Build Your Own Personal Proxy Server Using Google App Engine (Because VPNs Are Overrated)
 

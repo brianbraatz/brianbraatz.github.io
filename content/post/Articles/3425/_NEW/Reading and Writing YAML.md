@@ -22,7 +22,15 @@ tags:
   - Rust
 draft: false
 weight: 172
-lastmod: 2025-03-06T16:02:41.334Z
+categories_ref:
+  - Yaml
+  - Programming
+  - CPP
+  - CSharp
+  - Go
+  - Python
+  - Rust
+lastmod: 2025-03-14T15:45:07.258Z
 ---
 <!-- # Reading and Writing YAML in C++, C#, Go, Python, and Rust -->
 

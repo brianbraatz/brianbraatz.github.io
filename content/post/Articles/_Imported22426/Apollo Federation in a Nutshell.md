@@ -18,7 +18,13 @@ tags:
   - Api Gateway
 draft: false
 weight: 475
-lastmod: 2025-02-24T14:38:31.248Z
+categories_ref:
+  - Apollo
+  - Graphql
+  - Federation
+  - Microservices
+  - Api Gateway
+lastmod: 2025-03-14T15:45:15.817Z
 ---
 # Apollo Federation in a Nutshell
 

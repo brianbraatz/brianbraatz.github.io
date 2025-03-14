@@ -22,7 +22,13 @@ tags:
   - Windbg
 draft: false
 weight: 817
-lastmod: 2025-02-21T00:56:15.934Z
+categories_ref:
+  - DevOps
+  - C++ Debugging
+  - WinDbg
+  - Assembly Language
+  - WinApi
+lastmod: 2025-03-14T15:45:27.836Z
 ---
 <!-- 
 ---

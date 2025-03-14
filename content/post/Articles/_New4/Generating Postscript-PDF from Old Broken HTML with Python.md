@@ -21,7 +21,11 @@ tags:
   - Python
 draft: false
 weight: 276
-lastmod: 2025-03-02T23:43:05.473Z
+categories_ref:
+  - Postscript
+  - PDF
+  - Document Imaging
+lastmod: 2025-03-14T15:45:20.492Z
 ---
 ## The Nightmare: A Horde of Ancient HTML Files
 

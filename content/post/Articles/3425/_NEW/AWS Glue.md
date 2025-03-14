@@ -23,7 +23,16 @@ tags:
   - Cloud
 draft: false
 weight: 2432
-lastmod: 2025-03-06T15:44:33.047Z
+categories_ref:
+  - AWS
+  - Glue
+  - Big Data
+  - ETL
+  - Amazon Simple Queue Service-SQS
+  - Amazon Simple Notification Service-SNS
+  - Amazon Glue
+  - Cloud
+lastmod: 2025-03-14T15:45:06.474Z
 ---
 # AWS Glue Functions in a Nutshell
 

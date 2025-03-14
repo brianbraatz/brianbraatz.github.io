@@ -16,7 +16,11 @@ tags:
   - Data Segregation
 draft: false
 weight: 4450
-lastmod: 2025-03-07T14:44:41.239Z
+categories_ref:
+  - Multi-Tenant
+  - Database
+  - Software Architecture
+lastmod: 2025-03-14T15:45:06.869Z
 ---
 <!-- 
 # How to Implement Strategies to Allow a Single Codebase to Serve Multiple Tenants with Separate Databases -->

@@ -19,7 +19,13 @@ tags:
   - Automation
 draft: true
 weight: 333
-lastmod: 2025-02-28T02:24:25.457Z
+categories_ref:
+  - Python
+  - SQLite
+  - SQL
+  - Python-Click
+  - Python-Gui
+lastmod: 2025-03-14T15:45:19.689Z
 ---
 # How to Build a Full CLI App with Click and SQLite
 

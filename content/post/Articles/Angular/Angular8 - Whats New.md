@@ -17,7 +17,13 @@ tags:
   - Javascript
 draft: false
 weight: 400
-lastmod: 2025-03-03T00:12:39.945Z
+categories_ref:
+  - HTML
+  - Angular
+  - Typescript
+  - Javascript
+  - Web Development
+lastmod: 2025-03-14T15:45:08.263Z
 ---
 # Whats New in Angular 8?
 

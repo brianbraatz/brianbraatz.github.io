@@ -13,7 +13,13 @@ categories:
 tags: 
 draft: true
 weight: 219
-lastmod: 2025-02-17T12:52:25.143Z
+categories_ref:
+  - DevOps
+  - Infrastructure as Code-IAC
+  - Cloud
+  - Ansible
+  - CI\CD
+lastmod: 2025-03-14T15:45:25.224Z
 ---
 in tex i want a box in the middle of the page. I want the box to take 30% of the width of the page, and inside the box I want a heading that is bold and has a line below it and the heading is centered. Bellow that I want a heriarchial bullet list which is left justified
 

@@ -17,7 +17,11 @@ tags:
   - Code Examples
 draft: false
 weight: 1842
-lastmod: 2025-03-06T16:03:07.738Z
+categories_ref:
+  - Programming
+  - Ruby
+  - Scripting
+lastmod: 2025-03-14T15:45:07.284Z
 ---
 # Ruby in a Nutshell: A Fun and Informal Guide
 

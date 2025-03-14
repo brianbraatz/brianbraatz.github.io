@@ -19,7 +19,12 @@ tags:
   - CLoud
 draft: false
 weight: 101
-lastmod: 2025-02-09T22:30:25.803Z
+categories_ref:
+  - Cloud
+  - Amazon Cloud-AWS
+  - Security
+  - SAML
+lastmod: 2025-03-14T15:45:12.343Z
 ---
 # Mastering SAML2AWS: The Best Way to Authenticate to AWS
 

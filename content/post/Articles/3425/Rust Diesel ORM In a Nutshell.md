@@ -17,7 +17,13 @@ tags:
   - Orm
 draft: false
 weight: 547
-lastmod: 2025-03-06T02:38:55.278Z
+categories_ref:
+  - Rust
+  - Diesel
+  - Database
+  - ORM
+  - SQL
+lastmod: 2025-03-14T15:45:06.064Z
 ---
 # Rust Diesel ORM In a Nutshell
 

@@ -15,7 +15,9 @@ tags:
   - Paradigms
 draft: false
 weight: 589
-lastmod: 2025-03-03T12:40:57.487Z
+categories_ref:
+  - Design Patterns
+lastmod: 2025-03-14T15:45:25.968Z
 ---
 ## The Procedural Predicament
 

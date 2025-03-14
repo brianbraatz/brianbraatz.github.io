@@ -21,7 +21,13 @@ tags:
   - Alternatives
 draft: false
 weight: 29
-lastmod: 2025-03-03T16:22:16.500Z
+categories_ref:
+  - PowerApps
+  - Microsoft
+  - Low-Code
+  - Development
+  - Cloud
+lastmod: 2025-03-14T15:45:05.086Z
 ---
 <!-- 
 ## Microsoft Power Apps: The No-Code Superhero You Didn't Know You Needed -->

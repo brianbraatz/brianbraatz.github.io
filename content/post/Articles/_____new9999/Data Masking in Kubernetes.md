@@ -24,7 +24,14 @@ tags:
   - Docker
 draft: false
 weight: 28
-lastmod: 2025-03-03T14:33:13.858Z
+categories_ref:
+  - Kubernetes
+  - Security
+  - Data Privacy
+  - Compliance
+  - DevOps
+  - Cloud
+lastmod: 2025-03-14T15:45:28.730Z
 ---
 <!-- 
 # Data Masking in Kubernetes: A Complete Guide with Code Examples

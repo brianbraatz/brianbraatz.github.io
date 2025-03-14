@@ -28,7 +28,14 @@ tags:
   - JSX
 draft: false
 weight: 231
-lastmod: 2025-02-09T23:08:19.818Z
+categories_ref:
+  - React
+  - Web Development
+  - Javascript
+  - Next.js
+  - Remix
+  - Document Object Model-DOM
+lastmod: 2025-03-14T15:45:13.429Z
 ---
 # React In a Nutshell
 

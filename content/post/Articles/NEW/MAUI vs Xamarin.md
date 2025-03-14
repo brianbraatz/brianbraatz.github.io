@@ -20,7 +20,14 @@ tags:
   - CSharp
 draft: false
 weight: 284
-lastmod: 2025-03-07T00:55:32.974Z
+categories_ref:
+  - Maui
+  - XAML
+  - Xamarin
+  - DotNet
+  - CSharp
+  - Mobile
+lastmod: 2025-03-14T15:45:12.567Z
 ---
 <!-- >
 

@@ -36,7 +36,19 @@ tags:
   - Maui
 draft: false
 weight: 18
-lastmod: 2025-03-03T14:22:07.690Z
+categories_ref:
+  - Algorithms
+  - Windows
+  - Windows API
+  - C
+  - CPP
+  - Qt GUI Framework
+  - MFC
+  - OWL
+  - DotNet
+  - History
+  - Concurrency
+lastmod: 2025-03-14T15:45:21.008Z
 ---
 ## AND WE WOULD HAVE GOTTEN AWAY WITH TOO!! IF IT HADNT BEEN FOR YOU KIDS!!!!!
 

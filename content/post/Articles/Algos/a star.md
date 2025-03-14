@@ -35,7 +35,19 @@ tags:
   - Optimization
 draft: false
 weight: 123
-lastmod: 2025-03-03T17:16:52.288Z
+categories_ref:
+  - Astar Algorithm
+  - Pathfinding
+  - Artificial Intelligence
+  - Graph Search
+  - CSharp
+  - Python
+  - Algorithms
+  - Game Development
+  - Optimization
+  - Mobile
+  - Cloud
+lastmod: 2025-03-14T15:45:08.034Z
 ---
 <!-- 
 # A* Search Algorithm Explained in Detail (With Code in C# and Python)

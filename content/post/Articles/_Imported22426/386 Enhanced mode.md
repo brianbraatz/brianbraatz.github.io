@@ -20,7 +20,13 @@ slug: 386-enh
 draft: false
 image: post/Articles/IMAGES/386enh.png
 weight: 324
-lastmod: 2025-03-03T00:25:13.906Z
+categories_ref:
+  - Technology
+  - Retro Computing
+  - History
+  - Assembly Language
+  - WinAPI
+lastmod: 2025-03-14T15:45:15.679Z
 ---
 ## Introduction
 

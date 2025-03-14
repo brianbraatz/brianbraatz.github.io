@@ -19,7 +19,13 @@ tags:
   - ORM
 draft: false
 weight: 534
-lastmod: 2025-03-06T12:30:28.432Z
+categories_ref:
+  - Go
+  - Beego
+  - Web Framework
+  - MVC
+  - ORM
+lastmod: 2025-03-14T15:45:05.673Z
 ---
 # Beego In a Nutshell
 

@@ -20,7 +20,13 @@ tags:
   - Bugs
 draft: false
 weight: 56
-lastmod: 2025-03-03T14:57:53.337Z
+categories_ref:
+  - C++
+  - Memory Management
+  - Virtual Destructors
+  - Polymorphism
+  - CPP
+lastmod: 2025-03-14T15:45:16.306Z
 ---
 # In C++, Virtual Destructors (or Lack Thereof) Can Kill You
 

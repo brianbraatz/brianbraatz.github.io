@@ -29,7 +29,21 @@ tags:
 weight: 21
 published: 2001-01-01
 draft: false
-lastmod: 2025-02-20T14:33:07.123Z
+categories_ref:
+  - Unity 3D Engine
+  - CSharp
+  - Cross Platform
+  - Web Development
+  - Mobile
+  - IOS
+  - iPhone
+  - Android
+  - Cloud
+  - Cloud-Real Time Multi User
+  - Azure
+  - Azure Functions
+  - Azure App Services
+lastmod: 2025-03-14T15:45:30.654Z
 ---
 <!-- 
 Article Image is from my Proto game "Babblewar" - more on that here [Unity 3D Multiplayer Game Experiments](post/unity3d/unity-proto-games/index.md) 

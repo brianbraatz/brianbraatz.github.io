@@ -21,7 +21,12 @@ tags:
   - C#
 draft: "True"
 weight: "64"
-lastmod: 2025-03-05T20:48:56.283Z
+categories_ref:
+  - ORM
+  - Entity Framework
+  - SQL
+  - C#
+lastmod: 2025-03-14T15:45:04.767Z
 ---
 NOTE\_ this is a dupe of the other - or too simliar
 

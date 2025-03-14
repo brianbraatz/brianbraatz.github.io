@@ -14,7 +14,8 @@ tags:
   - DotNet
 draft: true
 weight: 370
-lastmod: 2025-02-09T15:21:32.208Z
+categories_ref: []
+lastmod: 2025-03-14T15:45:21.216Z
 ---
 <http://www.charlespetzold.com/wpf/>
 

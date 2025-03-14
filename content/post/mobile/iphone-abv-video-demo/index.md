@@ -31,7 +31,23 @@ tags:
   - iPhone
   - CPP
 weight: 9
-lastmod: 2025-02-14T16:55:16.803Z
+categories_ref:
+  - Cloud
+  - VIdeo Streaming
+  - Algorithms
+  - Adaptive Bitrate Video Streaming
+  - Mobile
+  - IOS
+  - iPhone
+  - Objective C
+  - Mac OS
+  - Apple TV
+  - Android
+  - Xamarin
+  - CSharp
+  - Java
+  - Network Protocols
+lastmod: 2025-03-14T15:45:30.476Z
 ---
 # Adaptive Video Bitrate Streaming
 

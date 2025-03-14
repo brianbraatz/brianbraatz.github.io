@@ -20,7 +20,11 @@ tags:
   - Communication
 draft: "False"
 weight: "228"
-lastmod: 2025-03-03T17:29:25.105Z
+categories_ref:
+  - Node.js
+  - Worker Threads
+  - Concurrency
+lastmod: 2025-03-14T15:45:04.283Z
 ---
 <!-- ## Worker Threads: How They Communicate with Messages
 

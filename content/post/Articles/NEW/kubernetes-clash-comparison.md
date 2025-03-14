@@ -26,7 +26,17 @@ tags:
   - Containers
 draft: false
 weight: 276
-lastmod: 2025-02-10T16:42:48.438Z
+categories_ref:
+  - Kubernetes
+  - Cloud
+  - Amazon Cloud-AWS
+  - Amazon Elastic Kubernetes Service-EKS
+  - Azure Kubernetes Service-AKS
+  - Google Kubernetes Engine-GKE
+  - Google-GKE-Autopilot
+  - Google Cloud-GCP
+  - Microsoft Azure Cloud
+lastmod: 2025-03-14T15:45:12.294Z
 ---
 # Kubernetes Comparison: Amazon EKS vs Azure AKS vs Google GKE
 

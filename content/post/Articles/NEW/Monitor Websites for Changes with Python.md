@@ -23,7 +23,13 @@ tags:
   - Chrome
 draft: false
 weight: 33
-lastmod: 2025-03-05T21:11:13.092Z
+categories_ref:
+  - Python
+  - Python-Playwright
+  - Web Development
+  - Testing
+  - Unit Testing
+lastmod: 2025-03-14T15:45:12.807Z
 ---
 # How to Monitor Websites for Changes Like a Cyber Detective
 

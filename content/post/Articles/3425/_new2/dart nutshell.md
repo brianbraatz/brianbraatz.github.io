@@ -16,7 +16,12 @@ tags:
   - Cross-platform
 draft: false
 weight: 483
-lastmod: 2025-03-07T02:33:27.499Z
+categories_ref:
+  - Dart
+  - Programming
+  - Flutter
+  - Mobile
+lastmod: 2025-03-14T15:45:07.591Z
 ---
 <!-- # Dart in a Nutshell: The Language That Powers Flutter
 

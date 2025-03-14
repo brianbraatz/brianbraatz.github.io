@@ -20,7 +20,13 @@ tags:
   - Drivers
 draft: false
 weight: 236
-lastmod: 2025-03-04T11:04:44.961Z
+categories_ref:
+  - Linux
+  - C++
+  - Plug and Play
+  - Device Drivers
+  - CPP
+lastmod: 2025-03-14T15:45:05.415Z
 ---
 ![](/post/Articles/IMAGES/plugnplaysmall.jpg)\
 [Plug & Play on Steam](https://store.steampowered.com/app/353560/Plug__Play/)

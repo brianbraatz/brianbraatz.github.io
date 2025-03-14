@@ -19,7 +19,11 @@ tags:
   - Serverless Computing
 draft: "False"
 weight: "342"
-lastmod: 2025-02-27T17:20:07.120Z
+categories_ref:
+  - Web Development
+  - JavaScript
+  - Technology
+lastmod: 2025-03-14T15:45:04.335Z
 ---
 <!-- 
 

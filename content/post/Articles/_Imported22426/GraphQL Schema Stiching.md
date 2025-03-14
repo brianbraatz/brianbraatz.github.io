@@ -18,7 +18,12 @@ tags:
   - Microservices
 draft: false
 weight: 190
-lastmod: 2025-03-03T17:18:52.050Z
+categories_ref:
+  - GraphQL
+  - API
+  - Development
+  - Cloud
+lastmod: 2025-03-14T15:45:16.927Z
 ---
 [How make a patchwork quilt](https://www.diaryofaquilter.com/how-to-make-a-quilt/)
 

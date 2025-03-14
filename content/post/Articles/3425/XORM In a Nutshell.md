@@ -16,7 +16,12 @@ tags:
   - Database
 draft: false
 weight: 482
-lastmod: 2025-03-06T01:50:16.336Z
+categories_ref:
+  - Go
+  - Xorm
+  - ORM
+  - Database
+lastmod: 2025-03-14T15:45:06.426Z
 ---
 <!-- 
 # XORM In a Nutshell

@@ -18,7 +18,11 @@ tags:
   - SAFe
 draft: false
 weight: 30
-lastmod: 2025-02-17T01:40:46.472Z
+categories_ref:
+  - CSharp
+  - DotNet
+  - Concurrency
+lastmod: 2025-03-14T15:45:08.878Z
 ---
 ## What Is Lock-Free Programming?
 

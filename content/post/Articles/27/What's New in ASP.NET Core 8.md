@@ -19,7 +19,11 @@ tags:
   - Performance
 draft: false
 weight: 35
-lastmod: 2025-03-03T22:03:18.930Z
+categories_ref:
+  - ASP.NET Core
+  - Web Development
+  - .NET 8
+lastmod: 2025-03-14T15:45:04.799Z
 ---
 <!-- 
 If you thought ASP.NET Core 7 was a game-changer, buckle up—because ASP.NET Core 8 is here with even more cool stuff. Microsoft keeps pushing the boundaries, making web development faster, easier, and more efficient. Let’s dive into the juicy updates! -->

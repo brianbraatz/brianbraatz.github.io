@@ -20,7 +20,13 @@ tags:
   - Cloud
 draft: false
 weight: 276
-lastmod: 2025-02-25T12:26:35.402Z
+categories_ref:
+  - DevOps
+  - Infrastructure as Code-IAC
+  - Cloud
+  - Terraform
+  - CI\CD
+lastmod: 2025-03-14T15:45:25.094Z
 ---
 # Terraform in a Nutshell
 

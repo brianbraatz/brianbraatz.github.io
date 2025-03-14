@@ -21,7 +21,13 @@ tags:
   - HammerDB
 weight: 30
 draft: false
-lastmod: 2025-03-03T15:13:51.759Z
+categories_ref:
+  - SQL
+  - Microsoft Sql Server
+  - MySql
+  - Postgres Sql
+  - Cheatsheet
+lastmod: 2025-03-14T15:45:15.256Z
 ---
 ["The Faster I Run, the More Inhuman I Become"](https://screenrant.com/flash-speed-force-secret-dark-power-transforms-speedsters/)
 

@@ -30,7 +30,16 @@ tags:
   - Control
 draft: false
 weight: 101
-lastmod: 2025-03-03T17:19:16.496Z
+categories_ref:
+  - Rate Limiting
+  - Security
+  - Aws
+  - Azure
+  - Google Cloud
+  - Denial Of Service
+  - Abuse Prevention
+  - Traffic Control
+lastmod: 2025-03-14T15:45:26.367Z
 ---
 # Rate Limiting 101: Keeping Your App from Exploding (Metaphorically)
 

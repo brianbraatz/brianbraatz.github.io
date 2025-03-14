@@ -22,7 +22,12 @@ tags:
   - Cloud
 draft: false
 weight: 342
-lastmod: 2025-02-14T16:23:15.746Z
+categories_ref:
+  - History
+  - Algorithms
+  - Networking
+  - Network Protocols
+lastmod: 2025-03-14T15:45:10.808Z
 ---
 # Ethernet Unplugged: A Journey Through the Wires
 

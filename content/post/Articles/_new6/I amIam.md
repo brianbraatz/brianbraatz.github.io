@@ -25,7 +25,11 @@ tags:
   - Sso
 draft: false
 weight: 284
-lastmod: 2025-02-10T18:05:55.847Z
+categories_ref:
+  - Networking
+  - Identity and access management-IAM
+  - Security
+lastmod: 2025-03-14T15:45:22.356Z
 ---
 <!--
 # How the IAM Protocol Works: History, Relationship to Alternatives, and 10 Code Examples

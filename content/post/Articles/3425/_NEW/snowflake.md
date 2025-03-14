@@ -19,7 +19,12 @@ tags:
   - Analytics
 draft: false
 weight: 472
-lastmod: 2025-03-07T14:19:51.490Z
+categories_ref:
+  - Data Warehousing
+  - Cloud
+  - Snowflake
+  - Big Data
+lastmod: 2025-03-14T15:45:07.344Z
 ---
 [Snowflake Structure Still Mystifies Physicists](https://www.scientificamerican.com/article/snowflake-structure-still-mystifies-physicists/)
 

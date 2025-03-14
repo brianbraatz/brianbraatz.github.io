@@ -13,7 +13,13 @@ categories:
 tags: 
 draft: false
 weight: 219
-lastmod: 2025-02-11T13:18:45.901Z
+categories_ref:
+  - DevOps
+  - Infrastructure as Code-IAC
+  - Cloud
+  - Ansible
+  - CI\CD
+lastmod: 2025-03-14T15:45:24.147Z
 ---
 # Ansible in a Nutshell
 

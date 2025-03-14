@@ -25,7 +25,15 @@ tags:
   - Comparison
 draft: false
 weight: 50
-lastmod: 2025-03-03T00:38:34.820Z
+categories_ref:
+  - HTML
+  - Angular
+  - AngularJS
+  - React
+  - Typescript
+  - Javascript
+  - Web Development
+lastmod: 2025-03-14T15:45:08.169Z
 ---
 Ah, the ever-evolving world of web development frameworks!
 

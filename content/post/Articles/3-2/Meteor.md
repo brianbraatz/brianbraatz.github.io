@@ -21,7 +21,13 @@ tags:
   - Backend
 draft: false
 weight: 1482
-lastmod: 2025-03-02T23:11:51.501Z
+categories_ref:
+  - JavaScript
+  - Web Development
+  - Full-Stack
+  - Cloud
+  - Low-Code
+lastmod: 2025-03-14T15:45:04.961Z
 ---
 <!-- # Meteor.js: The Full-Stack JavaScript Magic Trick 🎩✨ -->
 

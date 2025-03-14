@@ -24,7 +24,11 @@ tags:
   - Virtualization
 draft: false
 weight: 376
-lastmod: 2025-03-03T15:00:20.601Z
+categories_ref:
+  - VNC
+  - RDP
+  - Networking
+lastmod: 2025-03-14T15:45:23.691Z
 ---
 <!--
 # How the VNC Protocol Works: History, Relationship to Alternatives, and 10 Code Examples

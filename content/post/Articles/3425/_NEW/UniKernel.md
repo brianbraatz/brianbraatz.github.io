@@ -18,7 +18,12 @@ tags:
   - Edge Computing
 draft: false
 weight: 438
-lastmod: 2025-03-06T15:47:44.785Z
+categories_ref:
+  - Unikernels
+  - Cloud
+  - Virtualization
+  - Security
+lastmod: 2025-03-14T15:45:07.475Z
 ---
 <!-- # Unikernel in a Nutshell
 

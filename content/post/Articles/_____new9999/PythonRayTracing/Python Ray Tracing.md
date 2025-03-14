@@ -11,7 +11,10 @@ tags:
   - Python
 draft: false
 weight: 312
-lastmod: 2025-03-03T00:10:06.877Z
+categories_ref:
+  - Python
+  - Document Imaging
+lastmod: 2025-03-14T15:45:29.984Z
 ---
 ![](/post/Articles/_____new9999/PythonRayTracing/animation.gif)
 

@@ -24,7 +24,14 @@ tags:
   - Principles
 draft: false
 weight: 547
-lastmod: 2025-02-24T15:35:12.078Z
+categories_ref:
+  - PHP
+  - Object-Oriented Programming
+  - Best Practices
+  - Code Organization
+  - SQL
+  - Cloud
+lastmod: 2025-03-14T15:45:17.259Z
 ---
 w
 

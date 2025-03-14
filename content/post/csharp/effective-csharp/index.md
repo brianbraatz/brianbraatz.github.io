@@ -16,7 +16,11 @@ tags:
   - WPF
 weight: 4
 published: 2001-01-01
-lastmod: 2025-03-04T13:41:41.955Z
+categories_ref:
+  - CSharp
+  - DotNet
+  - Performance Optimization
+lastmod: 2025-03-14T15:45:30.321Z
 ---
 <!-- ecsharpcover.png 
 csharpblue.png

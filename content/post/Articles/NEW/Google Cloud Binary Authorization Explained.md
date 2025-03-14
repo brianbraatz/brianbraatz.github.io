@@ -23,7 +23,12 @@ tags:
   - Kubernetes
 draft: false
 weight: 342
-lastmod: 2025-02-09T22:17:34.564Z
+categories_ref:
+  - Google Cloud-GCP
+  - Cloud
+  - Docker
+  - Security
+lastmod: 2025-03-14T15:45:11.272Z
 ---
 # Google's Binary Authorization: Keeping Your Containers in Check
 

@@ -22,7 +22,12 @@ tags:
   - Conversion
 draft: false
 weight: 58
-lastmod: 2025-03-03T14:42:44.732Z
+categories_ref:
+  - XML
+  - Transformation
+  - XSLT
+  - Data Conversion
+lastmod: 2025-03-14T15:45:19.276Z
 ---
 # XSLT - Advanced XML Transformations
 

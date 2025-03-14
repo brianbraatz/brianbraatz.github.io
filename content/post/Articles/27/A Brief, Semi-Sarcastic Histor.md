@@ -22,7 +22,11 @@ tags:
   - SourceSafe
 draft: "False"
 weight: "75"
-lastmod: 2025-03-03T14:56:25.815Z
+categories_ref:
+  - Version Control
+  - Programming History
+  - Software Development
+lastmod: 2025-03-14T15:45:03.855Z
 ---
 # A Brief, Semi-Sarcastic History of Revision Control: From SourceSafe to Git
 

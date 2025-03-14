@@ -27,7 +27,15 @@ tags:
   - Networking
 draft: false
 weight: 422
-lastmod: 2025-02-10T18:12:34.050Z
+categories_ref:
+  - XWIndows
+  - RDP
+  - SSH
+  - Linux
+  - Unix
+  - Protocols
+  - Cloud
+lastmod: 2025-03-14T15:45:24.101Z
 ---
 <!--
 # How the X Windows Protocol Works: History, Relationship to Alternatives, and 10 Code Examples

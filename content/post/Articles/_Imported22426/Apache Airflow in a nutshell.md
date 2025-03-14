@@ -17,7 +17,9 @@ slug: apache-airflow
 draft: false
 image: post/Articles/IMAGES/apacheairflow.png
 weight: 324
-lastmod: 2025-03-03T00:25:38.309Z
+categories_ref:
+  - Cloud
+lastmod: 2025-03-14T15:45:15.773Z
 ---
 # Apache Airflow in a Nutshell: A Guide to Workflow Automation & Testing
 

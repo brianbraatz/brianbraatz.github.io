@@ -19,7 +19,13 @@ tags:
   - Low-Level Debugging
 draft: false
 weight: 306
-lastmod: 2025-02-20T23:07:02.826Z
+categories_ref:
+  - C++ Debugging
+  - WinDbg
+  - Visual Studio
+  - Performance Analysis
+  - Memory Dump Analysis
+lastmod: 2025-03-14T15:45:27.991Z
 ---
 # Why Do We Use WinDbg Instead of Visual Studio?
 

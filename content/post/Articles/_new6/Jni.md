@@ -28,7 +28,14 @@ tags:
   - CPP
 draft: false
 weight: 490
-lastmod: 2025-02-20T22:05:53.921Z
+categories_ref:
+  - Java
+  - CPP
+  - Assembly Language
+  - MFC
+  - WinAPI
+  - OLE
+lastmod: 2025-03-14T15:45:22.520Z
 ---
 # Java JNI in Detail: History, Motivation, Relationship to Modern Languages, and 10 Code Examples
 

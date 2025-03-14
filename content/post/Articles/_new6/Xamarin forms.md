@@ -32,7 +32,20 @@ tags:
   - Structure
 draft: false
 weight: 233
-lastmod: 2025-03-07T00:54:50.724Z
+categories_ref:
+  - XAML
+  - Xamarin
+  - WPF
+  - Xamarin Forms
+  - Xamarin Native
+  - Cross Platform
+  - Android
+  - IOS
+  - iPhone
+  - Windows
+  - Mac OS
+  - Mobile
+lastmod: 2025-03-14T15:45:24.046Z
 ---
 <!--
 

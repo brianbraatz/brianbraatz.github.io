@@ -16,7 +16,11 @@ tags:
   - MicroServices
 weight: 40
 draft: false
-lastmod: 2025-02-14T16:07:21.060Z
+categories_ref:
+  - GoLang
+  - Microservices
+  - Docker
+lastmod: 2025-03-14T15:45:09.226Z
 ---
 # Microservices with Go
 

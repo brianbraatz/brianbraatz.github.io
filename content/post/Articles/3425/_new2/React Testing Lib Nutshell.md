@@ -15,7 +15,12 @@ tags:
   - Javascript
 draft: false
 weight: 523
-lastmod: 2025-03-07T22:42:58.303Z
+categories_ref:
+  - React
+  - Testing
+  - Javascript
+  - Unit Testing
+lastmod: 2025-03-14T15:45:07.798Z
 ---
 <!-- 
 # React Testing Library in a Nutshell

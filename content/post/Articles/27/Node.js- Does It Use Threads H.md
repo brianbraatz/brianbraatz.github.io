@@ -17,7 +17,11 @@ tags:
   - Multithreading
 draft: "False"
 weight: "362"
-lastmod: 2025-03-02T23:03:03.054Z
+categories_ref:
+  - Node.js
+  - Threads
+  - Scaling
+lastmod: 2025-03-14T15:45:04.455Z
 ---
 ## Node.js: Does It Use Threads?
 

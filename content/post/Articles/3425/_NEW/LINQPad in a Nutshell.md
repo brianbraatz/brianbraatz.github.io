@@ -16,7 +16,12 @@ tags:
   - Tools
 draft: false
 weight: 182
-lastmod: 2025-03-06T12:20:53.831Z
+categories_ref:
+  - LINQ
+  - C#
+  - Development
+  - Tools
+lastmod: 2025-03-14T15:45:06.718Z
 ---
 ![](/post/Articles/3425/_NEW/linqpad.png)
 

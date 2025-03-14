@@ -27,7 +27,17 @@ tags:
 draft: false
 weight: 63
 description: Old Skool Guis Explained with comparison to MFC, OWL and Qt
-lastmod: 2025-03-03T14:42:02.730Z
+categories_ref:
+  - Windows
+  - C
+  - CPP
+  - MFC
+  - OWL
+  - GUI
+  - Qt GUI Framework
+  - Windows API
+  - WinApi
+lastmod: 2025-03-14T15:45:20.952Z
 ---
 <!-- 
 How to Write a Windows App in C

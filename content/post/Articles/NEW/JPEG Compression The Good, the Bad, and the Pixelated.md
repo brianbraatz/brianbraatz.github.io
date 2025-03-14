@@ -19,7 +19,11 @@ tags:
   - Formats
 draft: false
 weight: 46
-lastmod: 2025-03-03T14:25:53.588Z
+categories_ref:
+  - Algorithms
+  - Image Compression
+  - JPEG
+lastmod: 2025-03-14T15:45:12.183Z
 ---
 Check out:\
 **Blocking effect after re-constructuring the image.  - Jpeg compression**\

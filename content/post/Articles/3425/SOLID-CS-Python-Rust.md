@@ -25,7 +25,16 @@ tags:
   - Python
 draft: false
 weight: 203
-lastmod: 2025-03-05T22:16:34.121Z
+categories_ref:
+  - Programming
+  - Software Design
+  - SOLID
+  - Clean Code
+  - CPP
+  - Design Patterns
+  - CSHarp
+  - Python
+lastmod: 2025-03-14T15:45:06.212Z
 ---
 # SOLID in a Nutshell: A Fun Dive into Clean Code
 

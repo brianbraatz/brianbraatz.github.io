@@ -19,7 +19,13 @@ tags:
   - Pipeline
 draft: false
 weight: 389
-lastmod: 2025-02-11T13:18:45.946Z
+categories_ref:
+  - DevOps
+  - Infrastructure as Code-IAC
+  - Cloud
+  - Jenkins
+  - CI\CD
+lastmod: 2025-03-14T15:45:24.688Z
 ---
 <!--
 # Bamboo vs Jenkins In Depth

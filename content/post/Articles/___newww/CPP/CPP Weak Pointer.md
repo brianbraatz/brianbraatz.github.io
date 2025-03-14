@@ -22,7 +22,11 @@ tags:
   - Examples
 draft: false
 weight: 158
-lastmod: 2025-03-04T11:11:25.216Z
+categories_ref:
+  - C++
+  - CPP
+  - Design Patterns
+lastmod: 2025-03-14T15:45:27.432Z
 ---
 <!-- 
 # Why does C++ have a weak reference pointer? And why would you ever use it? Here are 10 examples

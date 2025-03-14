@@ -22,7 +22,12 @@ tags:
   - Comparison
 draft: false
 weight: 285
-lastmod: 2025-02-11T12:37:54.502Z
+categories_ref:
+  - CPP
+  - Template Programming
+  - CPP-STL
+  - CPP 11
+lastmod: 2025-03-14T15:45:23.589Z
 ---
 <!--
 ## IMPORTANT

@@ -19,7 +19,14 @@ tags:
   - Event-driven
 draft: "False"
 weight: "327"
-lastmod: 2025-03-02T22:59:51.943Z
+categories_ref:
+  - Messaging
+  - Streaming
+  - Big Data
+  - Distributed Systems
+  - Event-driven
+  - Cloud
+lastmod: 2025-03-14T15:45:04.148Z
 ---
 # Kafka in a Nutshell 🥜
 

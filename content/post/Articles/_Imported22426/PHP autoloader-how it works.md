@@ -19,7 +19,12 @@ tags:
   - Structure
 draft: false
 weight: 678
-lastmod: 2025-03-03T14:13:57.890Z
+categories_ref:
+  - PHP
+  - Code Organization
+  - Best Practices
+  - Cloud
+lastmod: 2025-03-14T15:45:18.091Z
 ---
 # How Autoloader Works in PHP
 

@@ -16,7 +16,12 @@ tags:
   - Ponyorm
 draft: false
 weight: 572
-lastmod: 2025-03-06T12:29:45.684Z
+categories_ref:
+  - Python
+  - ORM
+  - Database
+  - PonyORM
+lastmod: 2025-03-14T15:45:06.023Z
 ---
 # Python PonyORM ORM In a Nutshell
 

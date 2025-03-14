@@ -18,7 +18,13 @@ tags:
   - Linux
 draft: false
 weight: 472
-lastmod: 2025-02-27T17:56:17.107Z
+categories_ref:
+  - Node.js
+  - JavaScript
+  - Web Development
+  - NPM
+  - Linux
+lastmod: 2025-03-14T15:45:04.227Z
 ---
 <!-- 
 # What is Node.js? Is It a Web Server? Let's Set the Record Straight!

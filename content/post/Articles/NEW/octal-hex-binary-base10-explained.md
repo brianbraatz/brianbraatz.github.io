@@ -17,7 +17,10 @@ tags:
   - History
 draft: false
 weight: 477
-lastmod: 2025-02-09T23:01:40.012Z
+categories_ref:
+  - Algorithms
+  - History
+lastmod: 2025-03-14T15:45:12.972Z
 ---
 # Octal-Hex-Binary-Base10? Numbering Systems Explained
 

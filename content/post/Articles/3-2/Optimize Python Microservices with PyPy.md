@@ -18,7 +18,13 @@ tags:
   - Performance
 draft: false
 weight: 123
-lastmod: 2025-03-03T17:17:31.747Z
+categories_ref:
+  - Python
+  - Microservices
+  - Performance
+  - Cloud
+  - Performance Optimization
+lastmod: 2025-03-14T15:45:05.062Z
 ---
 <!-- 
 See this article for an Explanation of JIT:

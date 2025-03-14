@@ -25,7 +25,15 @@ tags:
   - History
 draft: false
 weight: 461
-lastmod: 2025-03-07T00:53:38.160Z
+categories_ref:
+  - Material Design
+  - Web Frameworks
+  - WPF
+  - MAUI
+  - Angular
+  - React
+  - Mobile
+lastmod: 2025-03-14T15:45:17.457Z
 ---
 <!-- 
 # The Wild World of Material Design: From History to Modern Frameworks

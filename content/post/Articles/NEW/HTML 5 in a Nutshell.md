@@ -19,7 +19,11 @@ tags:
   - Syntax
 draft: false
 weight: 16
-lastmod: 2025-03-03T13:55:46.165Z
+categories_ref:
+  - HTML
+  - HTML 5
+  - Web Development
+lastmod: 2025-03-14T15:45:11.636Z
 ---
 ## A Brief History of HTML5
 

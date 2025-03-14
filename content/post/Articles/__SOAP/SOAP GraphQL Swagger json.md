@@ -19,7 +19,13 @@ tags:
   - API Proxy
 draft: false
 weight: 330
-lastmod: 2025-02-17T00:44:28.466Z
+categories_ref:
+  - API
+  - Web Services
+  - GraphQL
+  - Swagger
+  - Migration
+lastmod: 2025-03-14T15:45:26.480Z
 ---
 # Adding Swagger.json to GraphQL Middleware for Migrating SOAP to REST with NSwagStudio
 

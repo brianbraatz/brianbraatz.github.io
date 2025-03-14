@@ -19,7 +19,12 @@ tags:
   - Backend
 draft: false
 weight: 4635
-lastmod: 2025-03-06T16:04:15.470Z
+categories_ref:
+  - ASP.NET
+  - WebForms
+  - History
+  - Code Examples
+lastmod: 2025-03-14T15:45:07.517Z
 ---
 <!-- # WebForms in a Nutshell
 

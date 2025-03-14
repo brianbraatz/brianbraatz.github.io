@@ -22,7 +22,13 @@ tags:
   - CSharp
 draft: false
 weight: 32
-lastmod: 2025-03-03T14:22:35.469Z
+categories_ref:
+  - Concurrency
+  - Multithreading
+  - C++
+  - C#
+  - WinAPI
+lastmod: 2025-03-14T15:45:28.083Z
 ---
 # Understanding Deadlocks and Race Conditions in C++ and C\#
 

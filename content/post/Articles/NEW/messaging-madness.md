@@ -31,7 +31,18 @@ tags:
   - Microservices
 draft: false
 weight: 203
-lastmod: 2025-02-09T23:29:19.078Z
+categories_ref:
+  - Cloud
+  - Messaging
+  - Apache ActiveMQ
+  - Amazon Kinesis
+  - Google Cloud Pub-Sub
+  - Apache Pulsar
+  - IBM MQ
+  - Redpanda
+  - Microservices
+  - Cheatsheet
+lastmod: 2025-03-14T15:45:12.619Z
 ---
 # Messaging Madness: ActiveMQ vs Kinesis vs Pub/Sub vs Pulsar vs IBM MQ vs Redpanda vs NATS
 

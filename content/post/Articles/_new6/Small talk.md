@@ -27,7 +27,11 @@ tags:
   - Comparison
 draft: false
 weight: 248
-lastmod: 2025-02-10T18:03:57.558Z
+categories_ref:
+  - Languages
+  - Smalltalk
+  - History
+lastmod: 2025-03-14T15:45:23.284Z
 ---
 <!--
 # The Smalltalk Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

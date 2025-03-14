@@ -21,7 +21,14 @@ tags:
   - Encryption
 draft: false
 weight: 89
-lastmod: 2025-03-03T15:07:38.497Z
+categories_ref:
+  - Kubernetes
+  - Security
+  - mTLS
+  - Encryption
+  - Cloud
+  - DevOps
+lastmod: 2025-03-14T15:45:29.491Z
 ---
 <!--
 # Mutual TLS (mTLS) Explained in Detail: A Complete Guide with Code Samples

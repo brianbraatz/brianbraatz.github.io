@@ -33,7 +33,14 @@ tags:
   - Multithreading
 draft: false
 weight: 120
-lastmod: 2025-03-02T23:44:25.130Z
+categories_ref:
+  - Windows
+  - Windows API
+  - Inter-Process Communications
+  - C
+  - CPP
+  - WinApi
+lastmod: 2025-03-14T15:45:10.913Z
 ---
 **Design Evolution of the Microsoft Windows Welcome Screen**\
 <https://www.versionmuseum.com/history-of/all-microsoft-windows-splash-title-screens>

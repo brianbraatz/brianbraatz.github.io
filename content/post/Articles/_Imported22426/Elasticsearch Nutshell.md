@@ -26,7 +26,14 @@ tags:
   - Analysis
 draft: false
 weight: 21
-lastmod: 2025-03-03T16:21:36.362Z
+categories_ref:
+  - Search
+  - Databases
+  - Elasticsearch
+  - Cloud
+  - Apache
+  - Apache Lucene
+lastmod: 2025-03-14T15:45:16.458Z
 ---
 [Elastigirl](https://en.wikipedia.org/wiki/Elastigirl)
 

@@ -14,7 +14,10 @@ tags:
   - WebDevelopment
 weight: 300
 draft: false
-lastmod: 2025-03-03T14:35:57.069Z
+categories_ref:
+  - Python
+  - Python-Standard Library
+lastmod: 2025-03-14T15:45:14.224Z
 ---
 ![](/post/Articles/IMAGES/pythonstandardlibrary.png)
 

@@ -23,7 +23,14 @@ tags:
   - Metaprogramming
 draft: false
 weight: 104
-lastmod: 2025-03-05T21:14:45.074Z
+categories_ref:
+  - Python
+  - Python-Monkey Patching
+  - Aspect Orientated Programming-AOP
+  - Algorithms
+  - Testing
+  - Unit Testing
+lastmod: 2025-03-14T15:45:13.274Z
 ---
 <!-- 
 # Python Monkey Patching: Hacking Your Code Like a Pro

@@ -24,7 +24,12 @@ tags:
   - CPP
 draft: false
 weight: 18
-lastmod: 2025-02-09T23:06:09.066Z
+categories_ref:
+  - Qt GUI Framework
+  - Python
+  - Python-PyQt
+  - CPP
+lastmod: 2025-03-14T15:45:13.330Z
 ---
 ## Qt
 

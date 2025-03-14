@@ -22,7 +22,16 @@ tags:
   - Automation
 draft: false
 weight: 552
-lastmod: 2025-02-26T11:19:31.993Z
+categories_ref:
+  - API Documentation
+  - CI/CD
+  - Jenkins
+  - OpenAPI
+  - Web Development
+  - CI\CD
+  - Cloud
+  - DevOps
+lastmod: 2025-03-14T15:45:03.804Z
 ---
 So, you’re maintaining **manual API documentation**, but how do you know **when** to update it?
 

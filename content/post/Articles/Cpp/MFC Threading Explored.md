@@ -21,7 +21,12 @@ tags:
   - Api
 draft: false
 weight: 412
-lastmod: 2025-02-21T00:57:19.968Z
+categories_ref:
+  - Windows
+  - MFC
+  - Multithreading
+  - WinApi
+lastmod: 2025-03-14T15:45:08.674Z
 ---
 # MFC Worker Threads Explored
 

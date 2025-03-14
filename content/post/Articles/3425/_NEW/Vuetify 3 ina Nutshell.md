@@ -22,7 +22,14 @@ tags:
   - design
 draft: false
 weight: 478
-lastmod: 2025-03-06T16:04:10.017Z
+categories_ref:
+  - Vuetify
+  - Vue
+  - UI Frameworks
+  - Frontend Development
+  - Javascript
+  - VueJs
+lastmod: 2025-03-14T15:45:07.502Z
 ---
 [# 15 Vuetify Examples GitHub](https://themeselection.com/vuetify-examples/)
 

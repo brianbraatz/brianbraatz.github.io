@@ -23,7 +23,13 @@ tags:
   - "11"
 draft: false
 weight: 282
-lastmod: 2025-03-04T10:57:50.678Z
+categories_ref:
+  - WinApi
+  - Development
+  - VxD
+  - CPP
+  - Device Drivers
+lastmod: 2025-03-14T15:45:05.617Z
 ---
 # Virtual Device Drivers (VxDs)
 

@@ -17,7 +17,11 @@ tags:
   - Microservices
 draft: "False"
 weight: "472"
-lastmod: 2025-02-27T17:31:11.658Z
+categories_ref:
+  - Node.js
+  - Scaling
+  - Performance
+lastmod: 2025-03-14T15:45:04.580Z
 ---
 # Scaling Node.js: How to Keep Your App from Melting
 

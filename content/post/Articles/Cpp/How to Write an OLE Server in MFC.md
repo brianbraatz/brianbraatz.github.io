@@ -21,7 +21,12 @@ tags:
   - Legacy code
 draft: false
 weight: 665
-lastmod: 2025-02-20T22:01:30.166Z
+categories_ref:
+  - Windows
+  - WinAPI
+  - MFC
+  - OLE
+lastmod: 2025-03-14T15:45:08.597Z
 ---
 # How We Used to Write an Out-of-Process OLE Server in MFC, Back in the Old Days
 

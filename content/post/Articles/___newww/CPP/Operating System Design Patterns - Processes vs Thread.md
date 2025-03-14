@@ -24,7 +24,16 @@ tags:
   - Systems
 draft: false
 weight: 387
-lastmod: 2025-03-05T17:28:52.861Z
+categories_ref:
+  - Unix
+  - Linux
+  - Windows
+  - Processes
+  - Threads
+  - Concurrency
+  - Operating Systems
+  - WinApi
+lastmod: 2025-03-14T15:45:27.683Z
 ---
 # Operating System Design Patterns - Processes vs Threads
 

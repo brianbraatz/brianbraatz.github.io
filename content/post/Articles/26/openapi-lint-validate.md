@@ -18,7 +18,11 @@ tags:
   - Governance
 draft: false
 weight: 731
-lastmod: 2025-02-26T11:08:23.597Z
+categories_ref:
+  - API Design
+  - OpenAPI
+  - Web Development
+lastmod: 2025-03-14T15:45:03.646Z
 ---
 <!-- 
 # How to Lint and Validate Your API

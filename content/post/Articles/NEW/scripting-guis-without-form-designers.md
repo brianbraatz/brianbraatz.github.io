@@ -20,7 +20,13 @@ tags:
   - CPP
 draft: false
 weight: 150
-lastmod: 2025-03-03T17:26:06.466Z
+categories_ref:
+  - Scripting
+  - WPF
+  - Maui
+  - CSharp
+  - DotNet
+lastmod: 2025-03-14T15:45:13.593Z
 ---
 # Scripting GUIs Without Form Designers in C\#
 

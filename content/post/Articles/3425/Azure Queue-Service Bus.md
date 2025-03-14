@@ -18,7 +18,13 @@ tags:
   - Scalability
 draft: false
 weight: 485
-lastmod: 2025-03-05T22:04:40.935Z
+categories_ref:
+  - Azure
+  - Cloud
+  - Messaging
+  - Azure Queue
+  - Azure Service Bus
+lastmod: 2025-03-14T15:45:05.655Z
 ---
 ## Azure Queue vs. Azure Service Bus: Which One Should You Use?
 

@@ -20,7 +20,12 @@ tags:
   - Open Source
 draft: false
 weight: 641
-lastmod: 2025-03-05T16:09:29.743Z
+categories_ref:
+  - Tensorflow
+  - Machine Learning
+  - Deep Learning
+  - AI
+lastmod: 2025-03-14T15:45:06.319Z
 ---
 # TensorFlow in a Nutshell: History, Motivation, and Code Examples
 

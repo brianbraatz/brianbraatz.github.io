@@ -31,7 +31,23 @@ tags:
   - SAFeAgile
   - Cheatsheet
 weight: 245
-lastmod: 2025-03-03T14:36:25.418Z
+categories_ref:
+  - Project Management
+  - Project Methodologies
+  - Agile
+  - Scrum
+  - Kanban
+  - Extreme Programming-XP
+  - Lean Method
+  - Crystal Method
+  - Dynamic Systems Development Method-DSDM
+  - Feature-Driven Development-FDD
+  - Agile Unified Process-AUP
+  - Scaled Agile Framework-SAFe
+  - Hybrid Agile
+  - Cheatsheet
+  - SAFEAgile
+lastmod: 2025-03-14T15:45:30.603Z
 ---
 | **Type**                                      | **Description**                                                                 | **Best For**                                                      | **Homepage**                                                                 |
 | --------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------- |

@@ -16,7 +16,12 @@ tags:
   - Lotus Notes
 draft: "False"
 weight: "368"
-lastmod: 2025-02-27T18:22:49.597Z
+categories_ref:
+  - Low-code
+  - History
+  - Software
+  - Lotus Notes
+lastmod: 2025-03-14T15:45:04.184Z
 ---
 # Lotus Notes in a Nutshell: The Original Low-Code Pioneer
 

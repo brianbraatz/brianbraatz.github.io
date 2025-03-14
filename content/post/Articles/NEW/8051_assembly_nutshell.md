@@ -22,7 +22,13 @@ tags:
   - 8051CPU
 draft: false
 weight: 210
-lastmod: 2025-03-03T17:26:55.169Z
+categories_ref:
+  - Assembly Language
+  - Embedded
+  - 8051 Embedded Processor
+  - Languages
+  - History
+lastmod: 2025-03-14T15:45:09.683Z
 ---
 # 8051 Assembly Language in a Nutshell
 

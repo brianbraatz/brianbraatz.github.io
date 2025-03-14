@@ -20,7 +20,13 @@ tags:
   - Traefik
 draft: false
 weight: 821
-lastmod: 2025-02-16T22:08:44.553Z
+categories_ref:
+  - Kubernetes
+  - Networking
+  - Proxy
+  - Cloud
+  - DevOps
+lastmod: 2025-03-14T15:45:29.882Z
 ---
 <!-- 
 # Setting Up a Squid Proxy Inside a Pod: A Complete Guide

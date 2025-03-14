@@ -26,7 +26,12 @@ tags:
   - Csharp
 draft: false
 weight: 35
-lastmod: 2025-03-03T13:57:46.759Z
+categories_ref:
+  - Unit Testing
+  - DotNet
+  - CSharp
+  - Testing
+lastmod: 2025-03-14T15:45:23.076Z
 ---
 [Moles](https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals/Moles)
 

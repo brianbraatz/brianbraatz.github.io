@@ -21,7 +21,12 @@ tags:
   - Safety
 draft: false
 weight: 417
-lastmod: 2025-02-17T14:47:40.897Z
+categories_ref:
+  - Concurrency
+  - Multithreading
+  - Golang
+  - Python
+lastmod: 2025-03-14T15:45:28.147Z
 ---
 # Understanding Deadlocks and Race Conditions in Golang and Python
 

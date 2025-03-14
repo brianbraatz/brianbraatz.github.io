@@ -25,7 +25,13 @@ tags:
   - Communication
 draft: false
 weight: 165
-lastmod: 2025-03-03T13:56:26.819Z
+categories_ref:
+  - Web Development
+  - Networking
+  - Security
+  - Protocols
+  - Network Protocols
+lastmod: 2025-03-14T15:45:22.252Z
 ---
 <!--
 

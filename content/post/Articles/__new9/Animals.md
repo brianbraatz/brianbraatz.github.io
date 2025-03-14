@@ -26,7 +26,8 @@ tags:
   - Computing
 draft: false
 weight: 421
-lastmod: 2025-03-02T23:48:35.972Z
+categories_ref: []
+lastmod: 2025-03-14T15:45:25.263Z
 ---
 ## The Origins of the Animals Program: A Digital Guessing Game with a Brain
 

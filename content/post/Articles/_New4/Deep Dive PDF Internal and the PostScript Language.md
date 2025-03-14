@@ -19,7 +19,11 @@ tags:
   - Programming
 draft: false
 weight: 314
-lastmod: 2025-03-02T23:42:49.996Z
+categories_ref:
+  - Postscript
+  - PDF
+  - Document Imaging
+lastmod: 2025-03-14T15:45:20.404Z
 ---
 # Deep Dive into PDF Internals and the PostScript Language
 

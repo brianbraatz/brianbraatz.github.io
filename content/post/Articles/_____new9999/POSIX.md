@@ -22,7 +22,14 @@ tags:
   - Unix
 draft: false
 weight: 960
-lastmod: 2025-03-04T15:43:54.728Z
+categories_ref:
+  - Kubernetes
+  - Security
+  - POSIX
+  - Docker
+  - Cloud
+  - Compliance
+lastmod: 2025-03-14T15:45:29.541Z
 ---
 # Understanding POSIX: Security, Docker, Compliance, and Cloud Implications
 

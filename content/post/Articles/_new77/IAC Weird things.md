@@ -20,7 +20,12 @@ tags:
   - DevOps
 draft: false
 weight: 31
-lastmod: 2025-03-03T14:47:43.210Z
+categories_ref:
+  - DevOps
+  - Infrastructure as Code-IAC
+  - Cloud
+  - CI\CD
+lastmod: 2025-03-14T15:45:24.631Z
 ---
 # 8 Unusual Things You COULD Do with Infrastructure as Code
 

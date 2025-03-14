@@ -17,7 +17,12 @@ tags:
   - Containers
 draft: "False"
 weight: "170"
-lastmod: 2025-03-03T17:27:41.010Z
+categories_ref:
+  - Node.js
+  - Docker
+  - Web Development
+  - Containers
+lastmod: 2025-03-14T15:45:04.098Z
 ---
 ***
 

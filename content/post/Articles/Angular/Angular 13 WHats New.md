@@ -19,7 +19,13 @@ tags:
   - Javascript
 draft: false
 weight: 300
-lastmod: 2025-02-20T22:24:14.018Z
+categories_ref:
+  - HTML
+  - Angular
+  - Typescript
+  - Javascript
+  - Web Development
+lastmod: 2025-03-14T15:45:08.069Z
 ---
 Ah, Angular 13—the version where the Angular team decided to go full throttle on performance, developer experience, and saying goodbye to things that were holding us back.
 

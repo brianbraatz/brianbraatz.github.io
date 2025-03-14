@@ -18,7 +18,12 @@ tags:
   - GUI
 draft: false
 weight: 615
-lastmod: 2025-03-04T15:24:35.757Z
+categories_ref:
+  - Linux
+  - Wayland
+  - X11
+  - Display Servers
+lastmod: 2025-03-14T15:45:19.154Z
 ---
 ## A Brief History: X11 and Its Limitations
 

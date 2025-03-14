@@ -19,7 +19,13 @@ tags:
   - SignalR
 draft: false
 weight: 64
-lastmod: 2025-03-03T14:42:22.051Z
+categories_ref:
+  - Web Development
+  - MQTT Pattern
+  - Messaging
+  - Cloud
+  - Microservices
+lastmod: 2025-03-14T15:45:13.472Z
 ---
 # REST and MQTT: The Dynamic Duo of Microservice APIs
 

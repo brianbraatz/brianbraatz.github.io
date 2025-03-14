@@ -19,7 +19,13 @@ tags:
   - Preprocessor
 draft: "False"
 weight: "37"
-lastmod: 2025-03-03T17:25:11.338Z
+categories_ref:
+  - CSS
+  - SASS
+  - Web Development
+  - SCSS
+  - Preprocessor
+lastmod: 2025-03-14T15:45:04.567Z
 ---
 # SASS in a Nutshell
 

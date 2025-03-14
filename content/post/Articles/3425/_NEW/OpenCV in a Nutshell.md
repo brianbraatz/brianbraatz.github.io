@@ -17,7 +17,12 @@ tags:
   - Python
 draft: false
 weight: 523
-lastmod: 2025-03-06T16:01:34.309Z
+categories_ref:
+  - OpenCV
+  - Computer Vision
+  - Programming
+  - CPP
+lastmod: 2025-03-14T15:45:06.982Z
 ---
 <!-- 
 

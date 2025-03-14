@@ -16,7 +16,9 @@ tags:
   - Files
 draft: false
 weight: 49
-lastmod: 2025-03-03T15:01:43.443Z
+categories_ref:
+  - Java
+lastmod: 2025-03-14T15:45:10.024Z
 ---
 # CAFEBABE - The Hidden Message in Java Class Files
 

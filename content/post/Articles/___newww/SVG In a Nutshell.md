@@ -19,7 +19,12 @@ tags:
   - Comparison
 draft: false
 weight: 825
-lastmod: 2025-03-03T17:29:47.988Z
+categories_ref:
+  - Svg
+  - Postscript
+  - Python
+  - Document Imaging
+lastmod: 2025-03-14T15:45:26.890Z
 ---
 <!--
 # SVG in Depth - Compared to PostScript and Others (with Python Code!)

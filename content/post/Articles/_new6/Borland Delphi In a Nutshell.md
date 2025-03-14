@@ -27,7 +27,12 @@ tags:
   - Comparison
 draft: false
 weight: 465
-lastmod: 2025-02-10T15:48:32.482Z
+categories_ref:
+  - Pascal
+  - Delphi Language
+  - Languages
+  - History
+lastmod: 2025-03-14T15:45:21.613Z
 ---
 <!--
 

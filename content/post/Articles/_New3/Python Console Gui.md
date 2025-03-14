@@ -22,7 +22,16 @@ tags:
   - Automation
 draft: false
 weight: 312
-lastmod: 2025-02-17T01:54:45.434Z
+categories_ref:
+  - Python
+  - Python-Curses
+  - GUI
+  - Python-Prompt Toolkit
+  - Python-PyInquirer
+  - Python-Questionary
+  - Python-Rich
+  - Python-Click
+lastmod: 2025-03-14T15:45:20.080Z
 ---
 If you're tired of writing boring `input()` prompts and want to build **interactive command-line menus** that don’t feel like they're from 1995, you’re in the right place.
 

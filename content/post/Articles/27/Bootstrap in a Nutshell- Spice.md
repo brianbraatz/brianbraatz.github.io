@@ -23,7 +23,10 @@ tags:
   - Frontend
 draft: "False"
 weight: "49"
-lastmod: 2025-03-03T14:51:40.898Z
+categories_ref:
+  - Web Development
+  - Frontend
+lastmod: 2025-03-14T15:45:03.965Z
 ---
 <!-- 
 # Bootstrap in a Nutshell: Spice Up Your Web Design with Some Sass!

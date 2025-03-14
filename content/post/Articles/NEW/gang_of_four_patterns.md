@@ -23,7 +23,11 @@ tags:
   - DesignPatterns
 draft: false
 weight: 33
-lastmod: 2025-03-03T14:43:09.212Z
+categories_ref:
+  - Design Patterns
+  - Algorithms
+  - Java
+lastmod: 2025-03-14T15:45:11.187Z
 ---
 # The Gang of Four Patterns Explained
 

@@ -21,7 +21,14 @@ tags:
   - Stored Procedures
 draft: false
 weight: 587
-lastmod: 2025-03-06T12:36:22.459Z
+categories_ref:
+  - Database
+  - Oracle
+  - SQL
+  - History
+  - PL/SQL
+  - Cloud
+lastmod: 2025-03-14T15:45:07.041Z
 ---
 # Oracle DB Deep Dive: History, Features, and Code Examples
 

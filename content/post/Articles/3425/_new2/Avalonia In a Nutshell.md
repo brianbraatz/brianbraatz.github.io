@@ -19,7 +19,13 @@ tags:
   - Maui
 draft: false
 weight: 562
-lastmod: 2025-03-07T02:33:43.488Z
+categories_ref:
+  - Avalonia
+  - UI Frameworks
+  - Cross-Platform
+  - Maui
+  - Mobile
+lastmod: 2025-03-14T15:45:07.536Z
 ---
 <!-- 
 # Avalonia in a Nutshell: A Friendly Guide -->

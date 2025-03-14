@@ -24,7 +24,14 @@ tags:
   - Coding
 draft: false
 weight: 35
-lastmod: 2025-03-03T17:26:33.794Z
+categories_ref:
+  - OWASP
+  - Web Security
+  - Cybersecurity
+  - Open Source
+  - Penetration Testing
+  - Secure Coding
+lastmod: 2025-03-14T15:45:27.149Z
 ---
 # OWASP: The Guardians of Web Application Security (and Your Sanity)
 

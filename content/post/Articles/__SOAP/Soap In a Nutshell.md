@@ -29,7 +29,16 @@ tags:
   - Protocol
 draft: false
 weight: 387
-lastmod: 2025-03-03T00:05:34.600Z
+categories_ref:
+  - Cloud
+  - Python
+  - GoLang
+  - CSharp
+  - CPP
+  - Java
+  - GraphQL
+  - Soap
+lastmod: 2025-03-14T15:45:26.608Z
 ---
 <!-- 
 

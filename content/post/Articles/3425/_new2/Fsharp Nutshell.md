@@ -18,7 +18,14 @@ tags:
   - Programming
 draft: false
 weight: 64
-lastmod: 2025-03-07T02:31:31.144Z
+categories_ref:
+  - F#
+  - Functional Programming
+  - .NET
+  - Programming
+  - DotNet
+  - FSharp
+lastmod: 2025-03-14T15:45:07.641Z
 ---
 <!-- # F# in a Nutshell: The Functional Side of .NET
 

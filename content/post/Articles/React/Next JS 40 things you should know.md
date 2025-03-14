@@ -22,7 +22,14 @@ tags:
   - Examples
 draft: false
 weight: 370
-lastmod: 2025-03-05T21:14:17.133Z
+categories_ref:
+  - NextJs
+  - Web Development
+  - Testing
+  - Javascript
+  - Typescript
+  - Unit Testing
+lastmod: 2025-03-14T15:45:14.439Z
 ---
 Next.js: the framework that turns React into a **supercharged**, **server-rendered**, **SEO-friendly** powerhouse.
 

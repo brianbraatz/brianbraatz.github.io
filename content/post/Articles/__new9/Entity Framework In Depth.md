@@ -30,7 +30,18 @@ tags:
   - CSharp
 draft: false
 weight: 82
-lastmod: 2025-03-05T20:51:38.162Z
+categories_ref:
+  - SQL
+  - MySql
+  - Microsoft Sql Server
+  - Postgres Sql
+  - CSharp
+  - DotNet
+  - Performance Optimization
+  - Cloud
+  - Entity Framework
+  - ORM
+lastmod: 2025-03-14T15:45:25.473Z
 ---
 <!-- 
 # Entity Framework In Depth: 20 Code Examples, LINQ, Pros, Cons, and Alternate ORMs Explained

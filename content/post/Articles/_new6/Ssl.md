@@ -22,7 +22,11 @@ tags:
   - Certificates
 draft: false
 weight: 126
-lastmod: 2025-02-14T17:02:22.379Z
+categories_ref:
+  - Web Development
+  - Security
+  - Network Protocols
+lastmod: 2025-03-14T15:45:23.542Z
 ---
 <!--
 

@@ -32,7 +32,18 @@ tags:
   - Dapper
 draft: false
 weight: 29
-lastmod: 2025-03-06T01:16:42.803Z
+categories_ref:
+  - Web Development
+  - SQL
+  - MySql
+  - SQLite
+  - Microsoft Sql Server
+  - Postgres Sql
+  - PHP
+  - Python
+  - Security
+  - ORM
+lastmod: 2025-03-14T15:45:22.195Z
 ---
 <!-- 
 # Web Security: How SQL Injection Attacks Work

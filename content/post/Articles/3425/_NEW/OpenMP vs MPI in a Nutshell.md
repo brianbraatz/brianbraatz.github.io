@@ -17,7 +17,13 @@ tags:
   - C++
 draft: false
 weight: 2430
-lastmod: 2025-03-06T15:00:44.187Z
+categories_ref:
+  - OpenMP
+  - MPI
+  - C++
+  - CPP
+  - Concurrency
+lastmod: 2025-03-14T15:45:06.997Z
 ---
 <!-- 
 # OpenMP vs MPI in a Nutshell: C++ Edition

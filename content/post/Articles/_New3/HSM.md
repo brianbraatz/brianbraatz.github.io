@@ -30,7 +30,14 @@ tags:
   - Examples
 draft: false
 weight: 180
-lastmod: 2025-03-03T17:22:47.775Z
+categories_ref:
+  - Design Patterns
+  - Hierarchical State Machine
+  - GoLang
+  - CSharp
+  - CPP
+  - Python
+lastmod: 2025-03-14T15:45:19.950Z
 ---
 <!-- 
 # Hierarchical State Machines, History, Understanding How They Work, Comparison to Finite State Machines with Code Examples in Go, Python, C#, and C++

@@ -33,7 +33,17 @@ tags:
   - Optimization
 draft: false
 weight: 28
-lastmod: 2025-03-03T13:45:59.675Z
+categories_ref:
+  - Cloud
+  - Microsoft Azure Cloud
+  - Amazon Cloud-AWS
+  - Google Cloud-GCP
+  - Performance Optimization
+  - Apache
+  - MySql
+  - Microsoft Sql Server
+  - Postgres Sql
+lastmod: 2025-03-14T15:45:22.982Z
 ---
 <!--
 # How We Used to Scale Websites and App Services: A Deep Dive into Pre-Cloud Scaling Methods

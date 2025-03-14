@@ -19,7 +19,13 @@ tags:
   - Management
 draft: false
 weight: 26
-lastmod: 2025-03-03T17:06:27.508Z
+categories_ref:
+  - Kubernetes
+  - Security
+  - Authentication
+  - Cloud
+  - DevOps
+lastmod: 2025-03-14T15:45:29.054Z
 ---
 <!-- 
 # Setting Up Authentication and Identity Management Inside a Pod

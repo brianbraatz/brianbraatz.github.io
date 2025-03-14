@@ -17,7 +17,13 @@ tags:
   - Configuration
 draft: "False"
 weight: "642"
-lastmod: 2025-03-03T14:10:37.785Z
+categories_ref:
+  - Tomcat
+  - Java
+  - DevOps
+  - Configuration
+  - Cloud
+lastmod: 2025-03-14T15:45:03.871Z
 ---
 <!-- 
 ## 10 Apache Tomcat Code Snippets You Need in Your Life

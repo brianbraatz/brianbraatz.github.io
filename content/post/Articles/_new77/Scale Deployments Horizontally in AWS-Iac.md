@@ -22,7 +22,14 @@ tags:
   - Automation
 draft: false
 weight: 312
-lastmod: 2025-03-04T14:47:21.325Z
+categories_ref:
+  - DevOps
+  - Infrastructure as Code-IAC
+  - Cloud
+  - Amazon Cloud-AWS
+  - Terraform
+  - CI\CD
+lastmod: 2025-03-14T15:45:25.039Z
 ---
 <!--
 # How to Deploy and Manage Applications in AWS with Infrastructure as Code

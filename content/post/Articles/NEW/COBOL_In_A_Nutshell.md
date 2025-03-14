@@ -18,7 +18,9 @@ tags:
   - Examples
 draft: false
 weight: 422
-lastmod: 2025-02-09T22:04:08.858Z
+categories_ref:
+  - Cobol
+lastmod: 2025-03-14T15:45:10.321Z
 ---
 # COBOL In a Nutshell
 

@@ -24,7 +24,18 @@ tags:
   - Generation
 draft: false
 weight: 104
-lastmod: 2025-03-03T17:23:09.253Z
+categories_ref:
+  - API Documentation
+  - Python
+  - LaTeX
+  - PDF
+  - Document Imaging
+  - OpenAPI
+  - CI/CD
+  - CI\CD
+  - DevOps
+  - Cloud
+lastmod: 2025-03-14T15:45:03.759Z
 ---
 Swagger UI is **great** for interactive API docs, but sometimes you need a **professional PDF document**.
 

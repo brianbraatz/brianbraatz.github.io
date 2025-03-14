@@ -24,7 +24,12 @@ tags:
   - Windows
 draft: false
 weight: 151
-lastmod: 2025-03-03T00:12:05.690Z
+categories_ref:
+  - Docker
+  - Cloud
+  - Virtual Machines
+  - Containers
+lastmod: 2025-03-14T15:45:22.297Z
 ---
 # What's a Hypervisor? And Why Does My Docker Need One???  
 

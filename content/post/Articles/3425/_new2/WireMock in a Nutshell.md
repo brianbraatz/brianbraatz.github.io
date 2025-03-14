@@ -15,7 +15,11 @@ tags:
   - Testing
 draft: false
 weight: 712
-lastmod: 2025-03-08T02:29:47.286Z
+categories_ref:
+  - Software Development
+  - Testing
+  - DevOps
+lastmod: 2025-03-14T15:45:07.944Z
 ---
 # WireMock in a Nutshell: Mock APIs Like a Pro
 

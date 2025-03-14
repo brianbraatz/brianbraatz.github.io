@@ -22,7 +22,12 @@ tags:
   - Comparison
 draft: false
 weight: 85
-lastmod: 2025-02-11T13:18:45.909Z
+categories_ref:
+  - CPP
+  - Template Programming
+  - CPP-STL
+  - CPP 11
+lastmod: 2025-03-14T15:45:24.280Z
 ---
 # Comparing Lambdas and `std::bind` in Modern C++
 

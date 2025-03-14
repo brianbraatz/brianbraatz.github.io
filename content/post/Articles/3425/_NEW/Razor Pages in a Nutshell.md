@@ -17,7 +17,11 @@ tags:
   - Mvc
 draft: false
 weight: 482
-lastmod: 2025-03-06T12:43:08.822Z
+categories_ref:
+  - ASP.NET
+  - Web Development
+  - Razor Pages
+lastmod: 2025-03-14T15:45:07.109Z
 ---
 [The Ottoman](https://barbarossabrothers.com/products/the-ottoman)
 

@@ -25,7 +25,18 @@ tags:
   - Tagging
 draft: false
 weight: 120
-lastmod: 2025-03-03T17:21:58.027Z
+categories_ref:
+  - Markdown
+  - SED
+  - AWK
+  - Unix
+  - Linux
+  - Mac OS
+  - Python
+  - GoLang
+  - CSharp
+  - CPP
+lastmod: 2025-03-14T15:45:20.549Z
 ---
 # How to Auto-Tag Words in a Markdown File Using SED and AWK
 

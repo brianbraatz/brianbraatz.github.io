@@ -21,7 +21,14 @@ tags:
   - CSharp
 draft: false
 weight: 61
-lastmod: 2025-03-07T00:55:26.560Z
+categories_ref:
+  - CSharp
+  - DotNet
+  - Maui
+  - WPF
+  - XAML
+  - Mobile
+lastmod: 2025-03-14T15:45:12.522Z
 ---
 # MAUI vs WPF
 

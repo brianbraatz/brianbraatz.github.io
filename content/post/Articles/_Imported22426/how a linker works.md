@@ -27,7 +27,17 @@ tags:
   - Errors
 draft: false
 weight: 4
-lastmod: 2025-03-07T13:26:11.970Z
+categories_ref:
+  - Linker
+  - C
+  - C++
+  - Compilers
+  - Debugging
+  - Static Libraries
+  - Dynamic Libraries
+  - Linker Errors
+  - CPP
+lastmod: 2025-03-14T15:45:16.995Z
 ---
 Ah, the linker!
 

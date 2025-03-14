@@ -30,7 +30,14 @@ tags:
   - Xamarin
 draft: false
 weight: 425
-lastmod: 2025-03-07T00:55:41.009Z
+categories_ref:
+  - WPF
+  - Maui
+  - XAML
+  - Xamarin
+  - Design Patterns
+  - Model-View-View Model Pattern-MVVM
+lastmod: 2025-03-14T15:45:12.873Z
 ---
 # The MVVM Pattern: History, Motivation, and Practical Examples
 

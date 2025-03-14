@@ -21,7 +21,13 @@ tags:
   - Practices
 draft: false
 weight: 68
-lastmod: 2025-03-03T15:08:24.147Z
+categories_ref:
+  - Kubernetes
+  - Security
+  - RBAC
+  - DevOps
+  - Cloud
+lastmod: 2025-03-14T15:45:29.656Z
 ---
 <!-- 
 # Enforcing Role-Based Access Control (RBAC) in Kubernetes: A Complete Guide

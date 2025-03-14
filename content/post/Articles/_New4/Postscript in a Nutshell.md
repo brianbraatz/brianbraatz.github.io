@@ -19,7 +19,12 @@ tags:
   - Printing
 draft: false
 weight: 81
-lastmod: 2025-03-03T14:53:06.707Z
+categories_ref:
+  - Postscript
+  - PDF
+  - Document Imaging
+  - Languages
+lastmod: 2025-03-14T15:45:20.597Z
 ---
 # Deep Dive into the PostScript Language
 

@@ -25,7 +25,14 @@ tags:
   - Automation
 draft: false
 weight: 52
-lastmod: 2025-03-03T15:43:33.096Z
+categories_ref:
+  - Power Apps
+  - Microsoft Flow
+  - Power Automate
+  - Low-Code
+  - Business Apps
+  - Workflow Automation
+lastmod: 2025-03-14T15:45:14.082Z
 ---
 I've been using **Microsoft Flow** for a few years now, and it's been a good ride...
 

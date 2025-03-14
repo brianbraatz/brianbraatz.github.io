@@ -18,7 +18,11 @@ tags:
   - EDI
 draft: "False"
 weight: "324"
-lastmod: 2025-02-27T17:44:31.396Z
+categories_ref:
+  - Healthcare
+  - Software Development
+  - Standards
+lastmod: 2025-03-14T15:45:04.675Z
 ---
 <!-- 
 

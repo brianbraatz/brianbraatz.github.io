@@ -20,7 +20,12 @@ tags:
   - DotNet
 draft: false
 weight: 230
-lastmod: 2025-03-03T14:35:35.766Z
+categories_ref:
+  - WPF Flow Documents
+  - PDF
+  - Postscript
+  - Document Imaging
+lastmod: 2025-03-14T15:45:21.175Z
 ---
 ![](/post/Articles/IMAGES/FlowDocument-floater.png)\
 From\

@@ -20,7 +20,15 @@ tags:
   - Interoperability
 draft: false
 weight: 563
-lastmod: 2025-03-07T21:48:52.601Z
+categories_ref:
+  - Healthcare
+  - Interoperability
+  - Technology
+  - DICOM
+  - HL7
+  - IHE
+  - Healthcare
+lastmod: 2025-03-14T15:45:07.607Z
 ---
 ## **DICOM, HL7, and IHE in a Nutshell**
 

@@ -26,7 +26,18 @@ tags:
   - Docker
 weight: 46
 draft: false
-lastmod: 2025-03-06T16:31:49.194Z
+categories_ref:
+  - Cloud
+  - Amazon Cloud-AWS
+  - Google Cloud-GCP
+  - Microsoft Azure Cloud
+  - DevOps
+  - Docker
+  - Cheatsheet
+  - Azure Service Bus
+  - Azure Queue
+  - DynamoDb
+lastmod: 2025-03-14T15:45:08.946Z
 ---
 <!-- 
 see also [Amazon AWS, Microsoft Azure, Google Cloud Cheat Sheet](post/Cloud/aws-azure-gcp-cheatsheet/index.md)

@@ -19,7 +19,13 @@ tags:
   - Javascript
 draft: true
 weight: 300
-lastmod: 2025-03-04T08:03:58.507Z
+categories_ref:
+  - HTML
+  - Angular
+  - Typescript
+  - Javascript
+  - Web Development
+lastmod: 2025-03-14T15:45:08.331Z
 ---
 [GitHub - otya128/winevdm: 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
 

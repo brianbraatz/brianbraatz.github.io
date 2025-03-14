@@ -21,7 +21,13 @@ tags:
   - Deployment
 draft: false
 weight: 214
-lastmod: 2025-02-11T13:18:45.960Z
+categories_ref:
+  - DevOps
+  - Infrastructure as Code-IAC
+  - Cloud
+  - Terraform
+  - CI\CD
+lastmod: 2025-03-14T15:45:25.191Z
 ---
 <!-- 
 # Understanding Bitbucket + Bamboo + Octopus, Their History and How They Relate to Each Other with Example Code

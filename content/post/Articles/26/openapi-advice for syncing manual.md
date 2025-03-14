@@ -19,7 +19,11 @@ tags:
   - Redoc
 draft: false
 weight: 694
-lastmod: 2025-02-26T11:52:22.885Z
+categories_ref:
+  - API Documentation
+  - OpenAPI
+  - Web Development
+lastmod: 2025-03-14T15:45:03.614Z
 ---
 # How to Keep OpenAPI Documents Up to Date with Manual Documentation
 

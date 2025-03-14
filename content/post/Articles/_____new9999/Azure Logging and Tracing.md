@@ -31,7 +31,19 @@ tags:
   - Examples
 draft: false
 weight: 312
-lastmod: 2025-03-03T00:09:56.703Z
+categories_ref:
+  - Azure Cosmos DB
+  - SQL
+  - MSSQl
+  - Cloud
+  - DevOps
+  - CI\CD
+  - CSharp
+  - DotNet
+  - Python
+  - Microsoft Azure Cloud
+  - Kusto Query Language (KQL)
+lastmod: 2025-03-14T15:45:28.597Z
 ---
 ***
 

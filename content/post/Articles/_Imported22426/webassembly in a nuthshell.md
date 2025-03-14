@@ -16,7 +16,9 @@ tags:
   - Programming
 draft: false
 weight: 38
-lastmod: 2025-02-24T10:47:56.010Z
+lastmod: 2025-02-24 10:47:56.010000
+categories_ref:
+  - Web Development
 ---
 # Deep Dive into WebAssembly
 

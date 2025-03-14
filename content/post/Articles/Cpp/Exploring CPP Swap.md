@@ -14,7 +14,10 @@ tags:
   - Performance
 draft: false
 weight: 30
-lastmod: 2025-03-02T23:45:47.557Z
+categories_ref:
+  - CPP
+  - CPP-STL
+lastmod: 2025-03-14T15:45:08.531Z
 ---
 # The Wondrous World of C++'s swap() Function
 

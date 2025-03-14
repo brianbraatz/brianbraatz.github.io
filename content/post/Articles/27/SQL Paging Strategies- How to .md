@@ -20,7 +20,14 @@ tags:
   - Postgres
 draft: "False"
 weight: "132"
-lastmod: 2025-03-03T17:27:18.236Z
+categories_ref:
+  - Sql
+  - Paging
+  - Database
+  - Mssql
+  - Mysql
+  - Postgres
+lastmod: 2025-03-14T15:45:04.592Z
 ---
 # SQL Paging Strategies: How to Load Only What You Need
 

@@ -14,7 +14,10 @@ tags:
   - WebDevelopment
 weight: 150
 draft: false
-lastmod: 2025-03-03T16:18:40.610Z
+categories_ref:
+  - Docker
+  - Cloud
+lastmod: 2025-03-14T15:45:09.056Z
 ---
 ### Dockerfile Cheatsheet
 

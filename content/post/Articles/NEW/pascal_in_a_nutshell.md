@@ -19,7 +19,10 @@ tags:
   - II
 draft: false
 weight: 430
-lastmod: 2025-02-09T23:01:49.088Z
+categories_ref:
+  - Pascal
+  - History
+lastmod: 2025-03-14T15:45:13.041Z
 ---
 # PASCAL In a Nutshell
 

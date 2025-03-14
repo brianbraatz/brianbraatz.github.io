@@ -17,7 +17,11 @@ tags:
   - DesignPatterns
 draft: false
 weight: 26
-lastmod: 2025-03-03T13:44:26.657Z
+categories_ref:
+  - CSharp
+  - DotNet
+  - Java
+lastmod: 2025-03-14T15:45:11.237Z
 ---
 # Generics vs Templates: Java vs C# vs C++
 

@@ -25,7 +25,13 @@ tags:
   - Architecture
 draft: false
 weight: 43
-lastmod: 2025-03-06T16:31:32.118Z
+categories_ref:
+  - Microservices
+  - Data Modeling
+  - Best Practices
+  - Cloud
+  - DynamoDb
+lastmod: 2025-03-14T15:45:16.707Z
 ---
 [Paris Fashion Week](https://www.bbc.co.uk/newsround/articles/cprqjvpg71go)
 

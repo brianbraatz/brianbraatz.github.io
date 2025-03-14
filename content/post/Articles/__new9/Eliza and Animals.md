@@ -30,7 +30,12 @@ tags:
   - Systems
 draft: false
 weight: 358
-lastmod: 2025-02-13T16:12:56.024Z
+categories_ref:
+  - Artificial Intellgence
+  - Machine Learning
+  - Languages
+  - History
+lastmod: 2025-03-14T15:45:25.406Z
 ---
 ## The Origins of Eliza: The Chatbot That Fooled the World
 

@@ -15,7 +15,8 @@ tags:
   - Challenges
 draft: false
 weight: 426
-lastmod: 2025-02-15T01:04:43.345Z
+categories_ref: []
+lastmod: 2025-03-14T15:45:26.784Z
 ---
 # Migrating and Upgrading an Old SOAP Application: The Challenges, What Went Well, What Didn't, What I Learned, and How I Did It – Plus 10 Other People Who Did It Too
 

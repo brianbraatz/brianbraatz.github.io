@@ -21,7 +21,14 @@ tags:
   - New ML Frameworks
 draft: false
 weight: 621
-lastmod: 2025-03-05T16:18:30.666Z
+categories_ref:
+  - Machine Learning
+  - Deep Learning
+  - Python
+  - Scikit-learn
+  - TensorFlow
+  - PyTorch
+lastmod: 2025-03-14T15:45:05.930Z
 ---
 <!-- 
 # The 2020 Machine Learning Landscape: Comparing Scikit-Learn, TensorFlow, PyTorch, and New Alternatives

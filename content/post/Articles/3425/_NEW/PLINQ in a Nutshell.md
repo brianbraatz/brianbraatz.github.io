@@ -17,7 +17,12 @@ tags:
   - Multithreading
 draft: false
 weight: 243
-lastmod: 2025-03-06T16:13:31.585Z
+categories_ref:
+  - PLINQ
+  - Parallel Programming
+  - Concurrency
+  - C#
+lastmod: 2025-03-14T15:45:07.080Z
 ---
 # PLINQ in a Nutshell
 

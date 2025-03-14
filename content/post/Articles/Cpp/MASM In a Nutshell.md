@@ -19,7 +19,13 @@ tags:
   - GUI
 draft: false
 weight: 787
-lastmod: 2025-02-20T21:10:14.575Z
+categories_ref:
+  - Windows
+  - Assembly
+  - WinAPI
+  - Assembly Language
+  - MASM
+lastmod: 2025-03-14T15:45:08.615Z
 ---
 # MASM in a Nutshell
 

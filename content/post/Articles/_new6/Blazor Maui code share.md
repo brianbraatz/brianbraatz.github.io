@@ -34,7 +34,20 @@ tags:
   - Webassembly
 draft: false
 weight: 145
-lastmod: 2025-03-07T00:54:17.349Z
+categories_ref:
+  - Cloud
+  - Maui
+  - WPF
+  - Blazor
+  - Web Development
+  - Mobile
+  - IOS
+  - Android
+  - Cross Platform
+  - ASP.NET
+  - Asp.Net
+  - Mobile
+lastmod: 2025-03-14T15:45:21.488Z
 ---
 <!--
 # Advantages and Disadvantages of Blazor Hybrid with MAUI. Can You Share Code with Your Website? Should You? How to Structure Your MAUI Project to Share Code with Your Blazor Website. Alternative Approaches Pros and Cons

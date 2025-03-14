@@ -27,7 +27,13 @@ tags:
   - Cloud
 draft: false
 weight: 59
-lastmod: 2025-03-03T14:37:40.342Z
+categories_ref:
+  - Firewalls
+  - Proxy Servers
+  - Networking
+  - Linux
+  - Unix
+lastmod: 2025-03-14T15:45:11.137Z
 ---
 # Firewalls and Proxy Servers Demystified
 

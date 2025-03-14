@@ -26,7 +26,13 @@ tags:
   - Cloud
 draft: false
 weight: 99
-lastmod: 2025-03-03T15:08:45.093Z
+categories_ref:
+  - Kubernetes
+  - Security
+  - API Gateway
+  - Networking
+  - DevOps
+lastmod: 2025-03-14T15:45:29.615Z
 ---
 # API Rate Limiting and Request Filtering in Kubernetes: A Complete Guide
 

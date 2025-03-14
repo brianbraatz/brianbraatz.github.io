@@ -18,7 +18,13 @@ tags:
   - Package Management
 draft: "False"
 weight: "476"
-lastmod: 2025-02-27T17:27:20.626Z
+categories_ref:
+  - Node.js
+  - Npm
+  - JavaScript
+  - Modules
+  - Package Management
+lastmod: 2025-03-14T15:45:04.542Z
 ---
 # NPM and Node Modules in a Nutshell
 

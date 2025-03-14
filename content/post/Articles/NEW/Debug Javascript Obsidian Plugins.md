@@ -18,7 +18,11 @@ tags:
   - Typescript
 draft: false
 weight: 70
-lastmod: 2025-03-03T16:18:11.698Z
+categories_ref:
+  - Javascript
+  - Obsidian
+  - PlugIn Development
+lastmod: 2025-03-14T15:45:10.647Z
 ---
 # Debugging Obsidian Plugins Like a Pro (Or At Least Like Someone Who Knows Where the Console Is)
 

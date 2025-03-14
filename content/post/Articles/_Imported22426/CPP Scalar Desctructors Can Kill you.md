@@ -19,7 +19,13 @@ tags:
   - Bugs
 draft: false
 weight: 242
-lastmod: 2025-02-24T14:42:32.362Z
+categories_ref:
+  - C++
+  - Memory Management
+  - Delete
+  - Destructors
+  - CPP
+lastmod: 2025-03-14T15:45:16.157Z
 ---
 # In C++, Scalar Destructors Can Kill You...
 

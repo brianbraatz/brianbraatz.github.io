@@ -19,7 +19,13 @@ tags:
   - Communication
 draft: false
 weight: 30
-lastmod: 2025-02-17T00:56:48.645Z
+categories_ref:
+  - Python
+  - Python-Websockets
+  - Websockets
+  - Networking
+  - Network Protocols
+lastmod: 2025-03-14T15:45:14.364Z
 ---
 <!--
 # WebSockets, Sockets, and SignalR: A Fun Dive into Real-Time Communication with Python

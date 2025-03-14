@@ -30,7 +30,14 @@ tags:
   - Systems
   - Python
   - CPP
-lastmod: 2025-02-16T23:24:04.615Z
+categories_ref:
+  - Artificial Intellgence
+  - History
+  - Languages
+  - Machine Learning
+  - Python
+  - CPP
+lastmod: 2025-03-14T15:45:25.306Z
 ---
 # Gun Shooting Neural Network Coach with OpenCV
 

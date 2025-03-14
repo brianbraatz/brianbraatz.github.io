@@ -27,7 +27,12 @@ tags:
   - Robots
 draft: false
 weight: 263
-lastmod: 2025-03-02T23:43:10.757Z
+categories_ref:
+  - Postscript
+  - Document Imaging
+  - PDF
+  - Logo Language
+lastmod: 2025-03-14T15:45:22.666Z
 ---
 <!-- 
 See

@@ -19,7 +19,14 @@ tags:
   - Pytorch
 draft: false
 weight: 453
-lastmod: 2025-03-06T12:30:06.729Z
+categories_ref:
+  - Deep Learning
+  - Machine Learning
+  - AI
+  - Python
+  - Pytorch
+  - Lua
+lastmod: 2025-03-14T15:45:06.039Z
 ---
 <!-- 
 # PyTorch in a Nutshell

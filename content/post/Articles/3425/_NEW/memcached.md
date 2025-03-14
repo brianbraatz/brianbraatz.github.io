@@ -16,7 +16,12 @@ tags:
   - Memcached
 draft: false
 weight: 3547
-lastmod: 2025-03-06T16:01:06.102Z
+categories_ref:
+  - Caching
+  - Performance
+  - Scalability
+  - Memcached
+lastmod: 2025-03-14T15:45:06.781Z
 ---
 # Memcached in a Nutshell
 

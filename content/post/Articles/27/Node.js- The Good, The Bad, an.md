@@ -18,7 +18,13 @@ tags:
   - Event Loop
 draft: "False"
 weight: "427"
-lastmod: 2025-02-27T17:25:08.075Z
+categories_ref:
+  - Node.js
+  - Async
+  - JavaScript
+  - Best Practices
+  - Event Loop
+lastmod: 2025-03-14T15:45:04.515Z
 ---
 <!-- 
 # Node.js: The Good, The Bad, and The Best Practices of Async

@@ -18,7 +18,12 @@ tags:
   - Protocols
 draft: false
 weight: 243
-lastmod: 2025-03-03T00:14:54.058Z
+categories_ref:
+  - Internet standards
+  - Protocols
+  - Networking
+  - Network Protocols
+lastmod: 2025-03-14T15:45:13.683Z
 ---
 # TCP/IP-UDP Explained
 

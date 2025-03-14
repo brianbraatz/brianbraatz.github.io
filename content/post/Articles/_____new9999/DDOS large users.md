@@ -23,7 +23,13 @@ tags:
   - Firewall
 draft: false
 weight: 101
-lastmod: 2025-03-04T13:23:33.660Z
+categories_ref:
+  - Kubernetes
+  - Security
+  - API Rate Limiting
+  - Networking
+  - Cloud Computing
+lastmod: 2025-03-14T15:45:28.776Z
 ---
 [Swimmers  in crowded China pool](https://www.nbcnews.com/news/photo/swimmers-look-bowl-fruit-loops-crowded-china-pool-flna953892)
 

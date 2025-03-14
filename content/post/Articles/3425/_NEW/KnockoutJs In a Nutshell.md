@@ -20,7 +20,13 @@ tags:
   - Observables
 draft: false
 weight: 252
-lastmod: 2025-03-06T16:00:32.784Z
+categories_ref:
+  - JavaScript
+  - Frontend
+  - Web Development
+  - Knockout.js
+  - MVVM
+lastmod: 2025-03-14T15:45:06.670Z
 ---
 <!-- # Knockout.js: The Underdog of JavaScript Frameworks
 

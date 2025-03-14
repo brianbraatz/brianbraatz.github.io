@@ -18,7 +18,12 @@ tags:
   - Automation
 draft: false
 weight: 86
-lastmod: 2025-03-03T14:54:12.871Z
+categories_ref:
+  - Python
+  - Python-Click
+  - SQL
+  - SQLite
+lastmod: 2025-03-14T15:45:19.742Z
 ---
 # Building a CLI Password Manager with Click and SQLite
 

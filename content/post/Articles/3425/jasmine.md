@@ -22,7 +22,16 @@ tags:
   - BDD
 draft: false
 weight: 673
-lastmod: 2025-03-05T21:13:36.845Z
+categories_ref:
+  - Testing
+  - JavaScript
+  - Jasmine
+  - BDD
+  - Behavior Driven Design
+  - Node.js
+  - Web Development
+  - Unit Testing
+lastmod: 2025-03-14T15:45:05.917Z
 ---
 # Jasmine in a Nutshell: The Friendly JavaScript Testing Framework
 

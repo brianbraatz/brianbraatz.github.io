@@ -16,7 +16,11 @@ tags:
   - JavaScript
 draft: "False"
 weight: "342"
-lastmod: 2025-03-02T22:53:43.982Z
+categories_ref:
+  - Node.js
+  - Video Streaming
+  - Web Development
+lastmod: 2025-03-14T15:45:04.014Z
 ---
 <!-- # Building a Simple Video Streaming App with Node.js: A Fun and Informal Guide
 

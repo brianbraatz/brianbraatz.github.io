@@ -17,7 +17,12 @@ tags:
   - Scalability
 draft: false
 weight: 723
-lastmod: 2025-03-06T16:01:49.034Z
+categories_ref:
+  - Performance
+  - Web Development
+  - Performance Optimization
+  - Frontend
+lastmod: 2025-03-14T15:45:07.029Z
 ---
 [Boston- Marathon](https://www.therunningchannel.com/whats-it-really-like-to-run-the-boston-marathon/)
 

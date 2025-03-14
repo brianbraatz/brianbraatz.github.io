@@ -16,7 +16,12 @@ tags:
   - Persistence
 draft: false
 weight: 453
-lastmod: 2025-03-06T02:35:56.117Z
+categories_ref:
+  - Cpp
+  - Orm
+  - Database
+  - Persistence
+lastmod: 2025-03-14T15:45:05.984Z
 ---
 # ODB C++ ORM In a Nutshell
 

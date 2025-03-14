@@ -18,7 +18,12 @@ tags:
   - Unix
 draft: false
 weight: 30
-lastmod: 2025-02-09T20:15:26.906Z
+categories_ref:
+  - Bash
+  - Scripting
+  - Linux
+  - Unix
+lastmod: 2025-03-14T15:45:19.374Z
 ---
 # BASH in a Nutshell
 

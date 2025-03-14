@@ -34,7 +34,20 @@ tags:
 weight: 3
 published: 2001-01-01
 draft: false
-lastmod: 2025-02-20T22:09:32.988Z
+categories_ref:
+  - Embedded
+  - Mobile
+  - Windows
+  - Linux
+  - Python
+  - CPP
+  - WPF
+  - DotNet
+  - Assembly Language
+  - Embedded Image Procesing
+  - Biometrics Algorithms
+  - WinApi
+lastmod: 2025-03-14T15:45:30.371Z
 ---
 We used to like to say "You can RUN , but you cannot HIIDE!".\
 Which is proof that software engineers are FUNNY.. hahaha

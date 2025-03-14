@@ -26,7 +26,13 @@ tags:
   - DBT
 draft: false
 weight: 543
-lastmod: 2025-03-03T14:01:02.955Z
+categories_ref:
+  - ETL
+  - Data Engineering
+  - Big Data
+  - Data Pipelines
+  - Cloud
+lastmod: 2025-03-14T15:45:16.611Z
 ---
 # ETL Pipeline from Scratch - Should You Roll Your Own?
 

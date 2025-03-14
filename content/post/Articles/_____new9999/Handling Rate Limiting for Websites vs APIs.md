@@ -25,7 +25,13 @@ tags:
   - Kubernetes
 draft: false
 weight: 44
-lastmod: 2025-03-03T14:32:18.337Z
+categories_ref:
+  - Web Development
+  - Security
+  - API Rate Limiting
+  - DevOps
+  - Cloud
+lastmod: 2025-03-14T15:45:29.190Z
 ---
 <!--
 # Handling Rate Limiting for Websites vs APIs: Best Practices and Code Examples

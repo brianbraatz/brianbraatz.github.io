@@ -21,7 +21,11 @@ tags:
   - Cloud
 draft: false
 weight: 37
-lastmod: 2025-03-04T11:10:50.981Z
+categories_ref:
+  - Cloud
+  - Security
+  - JWT
+lastmod: 2025-03-14T15:45:12.245Z
 ---
 # JWT in a Nutshell
 

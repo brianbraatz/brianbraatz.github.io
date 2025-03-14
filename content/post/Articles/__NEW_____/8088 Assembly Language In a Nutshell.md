@@ -25,7 +25,15 @@ tags:
   - AssemblyLanguage
 draft: false
 weight: 22
-lastmod: 2025-03-03T14:29:58.825Z
+categories_ref:
+  - Assembly
+  - Embedded Systems
+  - Retro Computing
+  - Assembly Language
+  - 8088 Processor
+  - Languages
+  - History
+lastmod: 2025-03-14T15:45:25.710Z
 ---
 # 8088 Assembly Language in a Nutshell
 

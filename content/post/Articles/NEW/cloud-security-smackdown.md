@@ -34,7 +34,24 @@ tags:
   - GCP
 draft: false
 weight: 378
-lastmod: 2025-02-09T22:03:45.691Z
+categories_ref:
+  - Cloud
+  - Amazon Cloud-AWS
+  - Microsoft Azure Cloud
+  - Google Cloud-GCP
+  - Messaging
+  - Amazon Simple Queue Service-SQS
+  - Azure Service Bus
+  - Google Cloud Pub-Sub
+  - CSharp
+  - DotNet
+  - Python
+  - oAuth
+  - Web Development
+  - Security
+  - Identity and access management-IAM
+  - Azure Active Directory
+lastmod: 2025-03-14T15:45:10.231Z
 ---
 # Cloud Security Smackdown: AWS vs Azure vs Google Cloud
 

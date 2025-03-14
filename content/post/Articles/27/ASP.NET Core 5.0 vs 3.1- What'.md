@@ -22,7 +22,12 @@ tags:
   - Middleware
 draft: "False"
 weight: "161"
-lastmod: 2025-03-03T20:59:00.443Z
+categories_ref:
+  - Asp.net Core
+  - Dotnet
+  - Web Development
+  - Cloud
+lastmod: 2025-03-14T15:45:03.901Z
 ---
 # ASP.NET Core 5.0 vs 3.1: What’s New?
 

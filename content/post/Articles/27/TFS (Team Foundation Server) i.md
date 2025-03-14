@@ -21,7 +21,12 @@ tags:
   - Source Control
 draft: "False"
 weight: "392"
-lastmod: 2025-02-27T17:39:19.077Z
+categories_ref:
+  - Version Control
+  - Microsoft
+  - DevOps
+  - CI/CD
+lastmod: 2025-03-14T15:45:04.629Z
 ---
 # TFS (Team Foundation Server) in a Nutshell: What It Includes and How It Compares
 

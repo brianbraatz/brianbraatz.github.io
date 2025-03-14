@@ -20,7 +20,13 @@ tags:
   - Encryption
 draft: false
 weight: 339
-lastmod: 2025-03-03T02:19:57.338Z
+categories_ref:
+  - SSH
+  - Networking
+  - Linux
+  - Windows
+  - Security
+lastmod: 2025-03-14T15:45:17.117Z
 ---
 SSH (Secure Shell) is the magical spell that allows you to securely log into remote computers like a hacker in the movies (minus the dramatic typing and green text on black screens).
 

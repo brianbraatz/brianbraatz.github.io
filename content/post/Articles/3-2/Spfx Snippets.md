@@ -19,7 +19,11 @@ tags:
   - Automate
 draft: false
 weight: 11
-lastmod: 2025-03-03T16:21:15.664Z
+categories_ref:
+  - SharePoint
+  - Development
+  - SPFx
+lastmod: 2025-03-14T15:45:05.234Z
 ---
 <!-- 
 # **10 Useful Code Examples for SPFx Development** 🚀  

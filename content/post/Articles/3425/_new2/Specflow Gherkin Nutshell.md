@@ -22,7 +22,16 @@ tags:
   - Automation
 draft: false
 weight: 232
-lastmod: 2025-03-07T21:17:29.133Z
+categories_ref:
+  - Testing
+  - SpecFlow
+  - Gherkin
+  - BDD
+  - Behavior Driven Design
+  - BDD
+  - Unit Testing
+  - CSharp
+lastmod: 2025-03-14T15:45:07.880Z
 ---
 [WESTMONT PICKLES](https://www.westmontpickles.com/)
 

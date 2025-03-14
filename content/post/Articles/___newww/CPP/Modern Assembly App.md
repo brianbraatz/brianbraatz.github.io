@@ -19,7 +19,13 @@ tags:
   - GUI
 draft: false
 weight: 567
-lastmod: 2025-02-21T00:55:54.514Z
+categories_ref:
+  - Windows
+  - Assembly
+  - WinAPI
+  - Assembly Language
+  - WinApi
+lastmod: 2025-03-14T15:45:27.585Z
 ---
 # Can you write a Windows API Hello World In Assembly in 2019?
 

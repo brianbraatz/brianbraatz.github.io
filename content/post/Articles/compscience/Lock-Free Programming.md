@@ -22,7 +22,16 @@ tags:
 draft: false
 weight: 30
 description: Dive into a Multi-Threading world with NO LOCKS!
-lastmod: 2025-03-02T23:38:41.999Z
+categories_ref:
+  - C
+  - CPP
+  - Windows
+  - Linux
+  - Unix
+  - Mac OS
+  - Concurrency
+  - Assembly Language
+lastmod: 2025-03-14T15:45:08.402Z
 ---
 # Understanding Lock-Free Programming
 

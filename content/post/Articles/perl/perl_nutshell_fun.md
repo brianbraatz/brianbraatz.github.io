@@ -16,7 +16,11 @@ categories:
   - Languages
 weight: 30
 draft: false
-lastmod: 2025-02-24T12:21:09.916Z
+categories_ref:
+  - Perl
+  - RegEx
+  - Languages
+lastmod: 2025-03-14T15:45:13.943Z
 ---
 Updated Blog Image is from the amazing Dall-e\
 <https://openai.com/index/dall-e-2>

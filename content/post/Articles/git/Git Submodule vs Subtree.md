@@ -15,7 +15,10 @@ tags:
   - Control
 draft: false
 weight: 30
-lastmod: 2025-03-02T23:46:54.822Z
+categories_ref:
+  - GIT
+  - DevOps
+lastmod: 2025-03-14T15:45:09.107Z
 ---
 # Git Submodules vs. Git Subtrees
 

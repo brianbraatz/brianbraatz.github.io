@@ -71,7 +71,37 @@ tags:
   - 8051CPU
 weight: 1
 draft: false
-lastmod: 2025-03-07T02:30:02.125Z
+categories_ref:
+  - Algorithms
+  - Design Patterns
+  - Python
+  - Technology
+  - CSharp
+  - DotNet
+  - Languages
+  - Embedded
+  - Swift
+  - Rust
+  - GoLang
+  - Foxpro
+  - Perl
+  - Assembly Language
+  - Forth
+  - Eiffel
+  - Unix
+  - Linux
+  - Bash
+  - Powershell
+  - Scripting
+  - TCL
+  - CPP
+  - Processing Language
+  - Cobol
+  - 8051 Embedded Processor
+  - Pascal
+  - F#
+  - FSharp
+lastmod: 2025-03-14T15:45:30.424Z
 ---
 Updated Blog Image is from the amazing Dall-e\
 <https://openai.com/index/dall-e-2>

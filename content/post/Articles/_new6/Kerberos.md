@@ -24,7 +24,12 @@ tags:
   - Ldap
 draft: false
 weight: 126
-lastmod: 2025-02-10T17:56:31.150Z
+categories_ref:
+  - Web Development
+  - Networking
+  - Security
+  - Kerberos
+lastmod: 2025-03-14T15:45:22.564Z
 ---
 <!-- 
 # Kerberos in Detail: Relationship to Active Directory, History, Alternatives, and 10 Code Examples

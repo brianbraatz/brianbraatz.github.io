@@ -23,7 +23,15 @@ tags:
   - WebDevelopment
 draft: false
 weight: 342
-lastmod: 2025-03-03T00:13:33.343Z
+categories_ref:
+  - Cloud
+  - HTTP
+  - HTTP-Patch
+  - GoLang
+  - Python
+  - CSharp
+  - DotNet
+lastmod: 2025-03-14T15:45:11.799Z
 ---
 <!-- 
 ## Introduction

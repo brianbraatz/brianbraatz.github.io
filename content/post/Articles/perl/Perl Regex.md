@@ -14,7 +14,11 @@ tags:
 draft: false
 weight: 98
 description: Perl And Regex Explained
-lastmod: 2025-03-03T16:17:47.524Z
+categories_ref:
+  - Perl
+  - RegEx
+  - Languages
+lastmod: 2025-03-14T15:45:13.891Z
 ---
 ![Perl Logo](https://cdn.perl.org/perlweb/images/icons/header_camel.png)
 

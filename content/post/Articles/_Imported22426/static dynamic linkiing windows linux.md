@@ -33,7 +33,18 @@ tags:
   - Systems
 draft: false
 weight: 48
-lastmod: 2025-03-03T14:43:50.343Z
+categories_ref:
+  - C++
+  - Static Linking
+  - Dynamic Linking
+  - Windows
+  - Linux
+  - DLL Hell
+  - Shared Libraries
+  - GPL
+  - Versioning
+  - Build Systems
+lastmod: 2025-03-14T15:45:18.898Z
 ---
 [How To prevent Static Cling :) ](https://downy.com/en-us/fabric-softener-tips/how-to-use-downy/how-to-use-dryer-sheets)
 

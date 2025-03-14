@@ -19,7 +19,12 @@ tags:
   - Unix
 draft: false
 weight: 190
-lastmod: 2025-03-03T22:01:05.594Z
+categories_ref:
+  - Linux
+  - Device Drivers
+  - C
+  - CPP
+lastmod: 2025-03-14T15:45:19.479Z
 ---
 # History of Device Drivers in Linux
 

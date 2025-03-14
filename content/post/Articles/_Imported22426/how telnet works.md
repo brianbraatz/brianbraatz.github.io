@@ -22,7 +22,15 @@ tags:
   - Protocol
 draft: false
 weight: 583
-lastmod: 2025-03-04T15:17:27.599Z
+categories_ref:
+  - Telnet
+  - Security
+  - Networking
+  - SSH
+  - Encryption
+  - Cybersecurity
+  - Protocol
+lastmod: 2025-03-14T15:45:17.175Z
 ---
 <!--
 # How the Telnet Protocol Works and Why It's Not Secure

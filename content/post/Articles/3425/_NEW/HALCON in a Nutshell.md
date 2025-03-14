@@ -16,7 +16,11 @@ tags:
   - Software
 draft: false
 weight: 2507
-lastmod: 2025-03-06T16:00:18.617Z
+categories_ref:
+  - HALCON
+  - Machine Vision
+  - Computer Vision
+lastmod: 2025-03-14T15:45:06.640Z
 ---
 <!-- # HALCON in a Nutshell
 

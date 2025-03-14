@@ -26,7 +26,20 @@ tags:
   - Automation
 draft: false
 weight: 2472
-lastmod: 2025-03-06T15:44:37.331Z
+categories_ref:
+  - AWS
+  - Step Functions
+  - Serverless
+  - Cloud
+  - Automation
+  - Cloud
+  - Amazon Step Functions
+  - State Machines
+  - Concurrency
+  - ETL
+  - Amazon Simple Notification Service-SNS
+  - Amazon Simple Queue Service-SQS
+lastmod: 2025-03-14T15:45:06.488Z
 ---
 <!-- 
 # AWS Step Functions in a Nutshell

@@ -21,7 +21,11 @@ tags:
   - Cloud
 draft: false
 weight: 456
-lastmod: 2025-02-09T22:55:13.090Z
+categories_ref:
+  - Web Development
+  - Security
+  - oAuth
+lastmod: 2025-03-14T15:45:12.930Z
 ---
 # OAuth in a Nutshell
 

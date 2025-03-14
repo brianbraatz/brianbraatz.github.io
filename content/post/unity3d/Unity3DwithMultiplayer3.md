@@ -29,7 +29,21 @@ tags:
 weight: 41
 published: 2001-01-01
 draft: false
-lastmod: 2025-03-03T12:24:03.066Z
+categories_ref:
+  - Unity 3D Engine
+  - CSharp
+  - Cross Platform
+  - Web Development
+  - Mobile
+  - IOS
+  - iPhone
+  - Android
+  - Cloud
+  - Cloud-Real Time Multi User
+  - Azure
+  - Azure Functions
+  - Azure App Services
+lastmod: 2025-03-14T15:45:30.752Z
 ---
 # Multiplayer Unity 3D With Azure: Hooking It All Up and Making It Work
 

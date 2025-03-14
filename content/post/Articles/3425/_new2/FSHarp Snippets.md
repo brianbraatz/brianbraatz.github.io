@@ -18,7 +18,14 @@ tags:
   - Programming
 draft: false
 weight: 564
-lastmod: 2025-03-07T02:30:47.562Z
+categories_ref:
+  - F#
+  - Functional Programming
+  - .NET
+  - Programming
+  - DotNet
+  - FSharp
+lastmod: 2025-03-14T15:45:07.700Z
 ---
 # Common F# Code Snippets
 

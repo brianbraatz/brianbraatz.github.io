@@ -16,7 +16,12 @@ tags:
   - Soci
 draft: false
 weight: 654
-lastmod: 2025-03-06T02:36:46.716Z
+categories_ref:
+  - C++
+  - ORM
+  - Database
+  - SOCI
+lastmod: 2025-03-14T15:45:06.153Z
 ---
 # SOCI ORM In a Nutshell
 

@@ -16,7 +16,11 @@ tags:
   - MicroServices
 weight: 10
 draft: false
-lastmod: 2025-02-16T15:05:55.012Z
+categories_ref:
+  - GoLang
+  - Concurrency
+  - Docker
+lastmod: 2025-03-14T15:45:09.161Z
 ---
 ## GO OUT AND LEARN THIIS LANGUAGE NOW!
 

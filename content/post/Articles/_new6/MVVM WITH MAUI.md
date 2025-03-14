@@ -35,7 +35,19 @@ tags:
   - Patterns
 draft: false
 weight: 60
-lastmod: 2025-03-07T00:54:32.795Z
+categories_ref:
+  - CSharp
+  - WPF
+  - Maui
+  - Design Patterns
+  - Model-View-View Model Pattern-MVVM
+  - Model View Controller-MVC
+  - Model View Presenter-MVP
+  - DotNet
+  - GUI
+  - Mobile
+  - Testing
+lastmod: 2025-03-14T15:45:22.846Z
 ---
 <!--
 # Should You Use MVVM with MAUI? Alternatives Explored and Compared with Code Examples

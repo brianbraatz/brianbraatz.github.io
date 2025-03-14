@@ -18,7 +18,12 @@ tags:
   - Development
 draft: false
 weight: 480
-lastmod: 2025-02-28T02:23:46.871Z
+categories_ref:
+  - Python
+  - Python-Click
+  - GUI
+  - Python-Gui
+lastmod: 2025-03-14T15:45:19.895Z
 ---
 # How to Add Auto-Completion to Click CLI Apps
 

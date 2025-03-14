@@ -12,7 +12,10 @@ tags:
   - Cheatsheet
   - WebDevelopment
 weight: 135
-lastmod: 2025-03-03T16:19:50.719Z
+categories_ref:
+  - Python
+  - Cheatsheet
+lastmod: 2025-03-14T15:45:14.126Z
 ---
 ### Python Cheatsheet
 

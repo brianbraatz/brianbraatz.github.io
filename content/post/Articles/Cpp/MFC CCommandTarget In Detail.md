@@ -21,7 +21,14 @@ tags:
   - CPP
 draft: false
 weight: 239
-lastmod: 2025-02-21T00:41:11.925Z
+categories_ref:
+  - MFC
+  - C++
+  - Windows Programming
+  - COM
+  - Message Handling
+  - WinAPI
+lastmod: 2025-03-14T15:45:08.637Z
 ---
 # MFC CCommandTarget In Detail
 

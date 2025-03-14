@@ -27,7 +27,18 @@ tags:
   - Octopus
 draft: false
 weight: 20
-lastmod: 2025-03-03T11:31:58.643Z
+categories_ref:
+  - DevOps
+  - Infrastructure as Code-IAC
+  - Cloud
+  - Pulumi
+  - Microservice
+  - CSharp
+  - Bitbucket
+  - Bamboo
+  - Octopus
+  - CI\CD
+lastmod: 2025-03-14T15:45:24.940Z
 ---
 <!-- 
 # Full Example of Python and C# Microservice that Has a Method That Divides Numbers

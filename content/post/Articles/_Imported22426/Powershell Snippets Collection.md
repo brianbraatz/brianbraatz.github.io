@@ -17,7 +17,11 @@ tags:
   - Samples
 draft: false
 weight: 49
-lastmod: 2025-03-03T17:10:25.583Z
+categories_ref:
+  - PowerShell
+  - Scripting
+  - Automation
+lastmod: 2025-03-14T15:45:18.798Z
 ---
 ## The Birth of PowerShell
 

@@ -23,7 +23,16 @@ tags:
   - Security Practices
 draft: false
 weight: 89
-lastmod: 2025-02-20T22:57:58.336Z
+categories_ref:
+  - Cybersecurity
+  - Programming
+  - Python
+  - C#
+  - Go
+  - Security
+  - Assembly Language
+  - WinApi
+lastmod: 2025-03-14T15:45:26.906Z
 ---
 # History of Buffer Overrun Attacks and How to Prevent Them in Python, C#, and Go
 

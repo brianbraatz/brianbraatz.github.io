@@ -32,7 +32,19 @@ tags:
   - Azure-Functions
 draft: false
 weight: 42
-lastmod: 2025-03-06T16:31:54.492Z
+categories_ref:
+  - Cloud
+  - Amazon Cloud-AWS
+  - Amazon Lambda
+  - Google Cloud Functions
+  - Azure Functions
+  - CSharp
+  - DotNet
+  - Python
+  - AWS-Lambda
+  - Azure-Functions
+  - DynamoDb
+lastmod: 2025-03-14T15:45:11.036Z
 ---
 <!-- 
 # Exploring Lambda and Cloud Functions in GCP, AWS, & Azure Cloud

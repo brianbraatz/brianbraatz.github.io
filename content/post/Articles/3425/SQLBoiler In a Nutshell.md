@@ -17,7 +17,12 @@ tags:
   - Database
 draft: false
 weight: 457
-lastmod: 2025-03-06T01:59:47.493Z
+categories_ref:
+  - Go
+  - SQLBoiler
+  - ORM
+  - Code Generation
+lastmod: 2025-03-14T15:45:06.242Z
 ---
 # SQLBoiler In a Nutshell
 

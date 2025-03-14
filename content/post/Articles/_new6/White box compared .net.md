@@ -36,7 +36,12 @@ tags:
   - Moles
 draft: false
 weight: 124
-lastmod: 2025-02-25T12:58:02.632Z
+categories_ref:
+  - Unit Testing
+  - CSharp
+  - DotNet
+  - Testing
+lastmod: 2025-03-14T15:45:23.758Z
 ---
 <!--
 

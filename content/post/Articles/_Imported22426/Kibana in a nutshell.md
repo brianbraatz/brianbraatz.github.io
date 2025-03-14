@@ -22,7 +22,12 @@ tags:
   - Dashboards
 draft: false
 weight: 482
-lastmod: 2025-03-03T12:55:26.152Z
+categories_ref:
+  - Elasticsearch
+  - Logging
+  - Data Visualization
+  - Technology
+lastmod: 2025-03-14T15:45:17.315Z
 ---
 Kibana! If you've ever dealt with logs and dashboards, you've probably heard of it.\
 Or at least, you've been forced to use it while trying to impress your boss with fancy graphs.

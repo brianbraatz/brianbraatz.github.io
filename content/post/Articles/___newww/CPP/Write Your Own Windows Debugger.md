@@ -25,7 +25,15 @@ tags:
   - Projects
 draft: false
 weight: 637
-lastmod: 2025-02-24T15:57:13.546Z
+categories_ref:
+  - C++ Debugging
+  - WinDbg
+  - Visual Studio
+  - Performance Analysis
+  - Memory Dump Analysis
+  - WinApi
+  - CPP
+lastmod: 2025-03-14T15:45:28.039Z
 ---
 # Who Needs Visual Studio?? Write Your OWN Debugger Using the Windows API for Fun and Profit 🎯
 

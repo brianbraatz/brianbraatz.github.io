@@ -21,7 +21,13 @@ tags:
   - WinAPI
 weight: 180
 draft: false
-lastmod: 2025-02-20T22:01:06.943Z
+categories_ref:
+  - Windows
+  - MFC
+  - C
+  - CPP
+  - Cheatsheet
+lastmod: 2025-03-14T15:45:08.480Z
 ---
 ## MFC Cheatsheet
 

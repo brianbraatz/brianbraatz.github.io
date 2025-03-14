@@ -21,7 +21,13 @@ tags:
   - Drawing
 draft: false
 weight: 439
-lastmod: 2025-03-02T23:43:18.991Z
+categories_ref:
+  - Postscript
+  - Document Imaging
+  - PDF
+  - Logo Language
+  - Languages
+lastmod: 2025-03-14T15:45:22.716Z
 ---
 <!--
 See 

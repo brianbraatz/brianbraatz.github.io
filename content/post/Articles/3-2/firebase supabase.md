@@ -23,7 +23,15 @@ tags:
   - NoSQL
 draft: false
 weight: 135
-lastmod: 2025-03-04T13:23:49.482Z
+categories_ref:
+  - Backend
+  - Database
+  - Realtime
+  - Cloud
+  - SQL
+  - Supabase
+  - Firebase
+lastmod: 2025-03-14T15:45:04.897Z
 ---
 <!-- # Supabase vs Firebase: The Ultimate Showdown of Backend Titans ⚔️🔥
 

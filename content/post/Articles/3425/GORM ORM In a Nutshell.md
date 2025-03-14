@@ -18,7 +18,11 @@ tags:
   - Sqlite
 draft: false
 weight: 523
-lastmod: 2025-03-06T01:56:41.545Z
+categories_ref:
+  - Golang
+  - Database
+  - ORM
+lastmod: 2025-03-14T15:45:05.785Z
 ---
 # GORM ORM In a Nutshell
 

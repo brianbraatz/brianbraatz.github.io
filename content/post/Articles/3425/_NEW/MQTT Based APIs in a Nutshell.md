@@ -18,7 +18,13 @@ tags:
   - Connectivity
 draft: false
 weight: 2573
-lastmod: 2025-03-06T16:01:10.685Z
+categories_ref:
+  - MQTT
+  - APIs
+  - IoT
+  - Messaging
+  - Cloud
+lastmod: 2025-03-14T15:45:06.803Z
 ---
 <!-- 
 # MQTT Based APIs in a Nutshell

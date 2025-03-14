@@ -25,7 +25,17 @@ tags:
   - DevOps
 draft: false
 weight: 40
-lastmod: 2025-03-04T07:59:22.790Z
+categories_ref:
+  - DevOps
+  - Infrastructure as Code-IAC
+  - Terraform
+  - AWS CloudFormation
+  - Google Cloud Deployment Manager
+  - Azure Bicep
+  - Ansible
+  - Pulumi
+  - Virtual Machines
+lastmod: 2025-03-14T15:45:11.953Z
 ---
 <!-- 
 post/Articles/IMAGES/50.jpg

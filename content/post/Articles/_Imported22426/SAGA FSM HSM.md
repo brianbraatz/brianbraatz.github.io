@@ -28,7 +28,14 @@ tags:
   - Management
 draft: false
 weight: 17
-lastmod: 2025-03-03T17:10:05.444Z
+categories_ref:
+  - Distributed Systems
+  - Microservices
+  - Architecture
+  - State Machines
+  - Cloud
+  - SAGA Pattern
+lastmod: 2025-03-14T15:45:18.849Z
 ---
 Used with Saga, **Finite State Machines (FSMs)** and **Hierarchical State Machines (HSMs)**—two powerful tools that can help structure SAGA workflows. 🚀
 

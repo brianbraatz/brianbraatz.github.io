@@ -20,7 +20,11 @@ tags:
   - Express.js
 draft: "False"
 weight: "342"
-lastmod: 2025-02-27T17:20:43.250Z
+categories_ref:
+  - Performance
+  - Benchmarking
+  - JavaScript
+lastmod: 2025-03-14T15:45:04.383Z
 ---
 <!-- 
 # Node.js Performance Showdown: How Does It Stack Up Against the Rest?

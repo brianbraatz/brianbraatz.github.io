@@ -19,7 +19,10 @@ tags:
   - Engineering
 draft: false
 weight: 127
-lastmod: 2025-03-04T13:28:31.481Z
+categories_ref:
+  - UML
+  - Software Architecture
+lastmod: 2025-03-14T15:45:13.783Z
 ---
 # UML In a Nutshell
 

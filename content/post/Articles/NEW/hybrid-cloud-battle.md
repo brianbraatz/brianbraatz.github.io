@@ -32,7 +32,18 @@ tags:
   - Cloud-Hybrid
 draft: false
 weight: 388
-lastmod: 2025-02-17T00:03:42.569Z
+categories_ref:
+  - Cloud
+  - Amazon Cloud-AWS
+  - Microsoft Azure Cloud
+  - Google Cloud-GCP
+  - AWS Outposts
+  - AWS Local Zones
+  - Azure Arc
+  - Azure Stack
+  - Google Anthos
+  - Kubernetes
+lastmod: 2025-03-14T15:45:11.683Z
 ---
 # Hybrid Cloud Battle: AWS Outposts vs Azure Arc vs Azure Stack vs Google Anthos
 

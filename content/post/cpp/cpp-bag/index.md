@@ -21,7 +21,11 @@ tags:
   - WinAPI
 weight: 36
 draft: false
-lastmod: 2025-02-20T22:01:40.413Z
+categories_ref:
+  - CPP
+  - Algorithms
+  - CPP-Meta Programming
+lastmod: 2025-03-14T15:45:30.090Z
 ---
 [Template Metaprogramming-Wikipedia](https://en.wikipedia.org/wiki/Template_metaprogramming)
 

@@ -20,7 +20,12 @@ tags:
   - visualization
 draft: false
 weight: 382
-lastmod: 2025-03-04T17:24:32.372Z
+categories_ref:
+  - SSRS
+  - SQL Server
+  - Reporting
+  - Microsoft
+lastmod: 2025-03-14T15:45:05.270Z
 ---
 <!-- 
 ## SSRS: SQL Server Reporting Services Explained (With Jokes!)

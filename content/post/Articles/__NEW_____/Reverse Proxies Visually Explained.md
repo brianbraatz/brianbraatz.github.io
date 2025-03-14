@@ -25,7 +25,9 @@ tags:
   - Balancing
 draft: false
 weight: 114
-lastmod: 2025-02-19T13:51:03.982Z
+categories_ref:
+  - Foobar Examples
+lastmod: 2025-03-14T15:45:26.103Z
 ---
 See Part 2 here:
 

@@ -32,7 +32,20 @@ tags:
   - DotNet
 draft: false
 weight: 321
-lastmod: 2025-03-03T00:26:52.932Z
+categories_ref:
+  - SQL
+  - Algorithms
+  - Design Patterns
+  - DotNet
+  - Entity Framework
+  - CSharp
+  - Unit Testing
+  - MySql
+  - Microsoft Sql Server
+  - Postgres Sql
+  - Testing
+  - ORM
+lastmod: 2025-03-14T15:45:11.093Z
 ---
 # Factory Pattern for Entity Framework Core: Switching Database Engines with Ease
 

@@ -23,7 +23,13 @@ tags:
   - Cloud
 draft: false
 weight: 294
-lastmod: 2025-02-17T15:09:18.983Z
+categories_ref:
+  - Cloud
+  - Amazon Cloud-AWS
+  - Google Cloud-GCP
+  - Microsoft Azure Cloud
+  - Cloud Storage
+lastmod: 2025-03-14T15:45:10.458Z
 ---
 ![](/post/Articles/IMAGES/theblogposter.jpg)
 

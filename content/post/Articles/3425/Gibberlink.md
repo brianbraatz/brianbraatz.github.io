@@ -18,7 +18,13 @@ tags:
   - ggwave
 draft: false
 weight: 12
-lastmod: 2025-03-05T17:13:26.763Z
+categories_ref:
+  - AI
+  - Tech
+  - Programming
+  - Machine Learning
+  - Artificial Intellgence
+lastmod: 2025-03-14T15:45:05.775Z
 ---
 ![](/post/Articles/3425/Pasted%20image%2020250305080311.png)
 

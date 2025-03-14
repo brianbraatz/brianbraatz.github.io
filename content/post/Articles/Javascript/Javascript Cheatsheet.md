@@ -15,7 +15,11 @@ tags:
   - WebDevelopment
 weight: 80
 draft: false
-lastmod: 2025-02-17T01:23:41.532Z
+categories_ref:
+  - Javascript
+  - Web Development
+  - Cheatsheet
+lastmod: 2025-03-14T15:45:09.484Z
 ---
 ## Javascript Cheatsheet
 

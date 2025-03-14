@@ -18,7 +18,13 @@ tags:
   - GraphQL
 draft: "False"
 weight: "368"
-lastmod: 2025-03-03T02:01:39.531Z
+categories_ref:
+  - MongoDB
+  - Mongoose
+  - Database
+  - SQL
+  - GraphQL
+lastmod: 2025-03-14T15:45:04.215Z
 ---
 <!-- 
 

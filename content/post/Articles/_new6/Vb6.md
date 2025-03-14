@@ -29,7 +29,12 @@ tags:
   - Comparison
 draft: false
 weight: 370
-lastmod: 2025-03-03T12:21:20.599Z
+categories_ref:
+  - Visual Basic 6
+  - Languages
+  - History
+  - Windows
+lastmod: 2025-03-14T15:45:23.644Z
 ---
 <!--
 # The Visual Basic 6 Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

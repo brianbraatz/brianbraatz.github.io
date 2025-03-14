@@ -28,7 +28,14 @@ tags:
   - Databases
 draft: false
 weight: 274
-lastmod: 2025-03-03T00:12:18.728Z
+categories_ref:
+  - OLTP
+  - OLAP
+  - SQL
+  - MySql
+  - Microsoft Sql Server
+  - Postgres Sql
+lastmod: 2025-03-14T15:45:22.941Z
 ---
 <!--
 # Understanding OLTP and OLAP

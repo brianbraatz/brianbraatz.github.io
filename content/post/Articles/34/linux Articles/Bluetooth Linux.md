@@ -21,7 +21,15 @@ tags:
   - Development
 draft: false
 weight: 247
-lastmod: 2025-03-04T10:32:49.857Z
+categories_ref:
+  - Bluetooth
+  - Linux
+  - C++
+  - Device Drivers
+  - Kernel
+  - Development
+  - CPP
+lastmod: 2025-03-14T15:45:05.389Z
 ---
 <!-- 
 # [How to Write a Bluetooth Driver in C++ on Linux (Without Losing Your Sanity)]()

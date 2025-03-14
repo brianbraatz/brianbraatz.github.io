@@ -21,7 +21,14 @@ tags:
   - Source
 draft: false
 weight: 572
-lastmod: 2025-03-05T20:22:16.302Z
+categories_ref:
+  - Automation
+  - Low-Code
+  - Self-Hosting
+  - JavaScript
+  - Node JS
+  - Node.js
+lastmod: 2025-03-14T15:45:05.968Z
 ---
 # 🚀 n8n in a Nutshell: Your Private Workflow Automation Platform
 

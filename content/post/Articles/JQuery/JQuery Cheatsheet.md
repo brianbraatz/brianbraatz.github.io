@@ -18,7 +18,11 @@ tags:
   - Ajax
 weight: 180
 draft: false
-lastmod: 2025-02-17T00:58:55.588Z
+categories_ref:
+  - JQuery
+  - Web Development
+  - Cheatsheet
+lastmod: 2025-03-14T15:45:09.529Z
 ---
 ## jQuery Cheatsheet
 

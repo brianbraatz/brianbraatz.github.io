@@ -23,7 +23,13 @@ tags:
   - "11"
 draft: false
 weight: 237
-lastmod: 2025-03-04T11:05:24.833Z
+categories_ref:
+  - Windows
+  - Drivers
+  - Development
+  - WDM
+  - Device Drivers
+lastmod: 2025-03-14T15:45:05.560Z
 ---
 <!-- 
 # Windows Driver Model (WDM): Evolution and Best Practices

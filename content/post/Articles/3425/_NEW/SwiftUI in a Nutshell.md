@@ -18,7 +18,12 @@ tags:
   - Declarative programming
 draft: false
 weight: 1472
-lastmod: 2025-03-06T16:03:37.083Z
+categories_ref:
+  - Swift
+  - SwiftUI
+  - iOS Development
+  - Apple
+lastmod: 2025-03-14T15:45:07.382Z
 ---
 # SwiftUI in a Nutshell: The Future of iOS Development
 

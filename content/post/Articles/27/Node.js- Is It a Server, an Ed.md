@@ -18,7 +18,13 @@ tags:
   - Scalability
 draft: "True"
 weight: "439"
-lastmod: 2025-03-02T23:03:34.164Z
+categories_ref:
+  - Node.js
+  - JavaScript
+  - Web Development
+  - Servers
+  - Scalability
+lastmod: 2025-03-14T15:45:04.482Z
 ---
 # Node.js: Is It a Server, an Editor, or a Web-Serving Magic Trick?
 

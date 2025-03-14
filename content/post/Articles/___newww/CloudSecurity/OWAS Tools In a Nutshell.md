@@ -25,7 +25,15 @@ tags:
   - Coding
 draft: false
 weight: 248
-lastmod: 2025-02-25T12:57:23.318Z
+categories_ref:
+  - OWASP
+  - Web Security
+  - Cybersecurity
+  - Open Source
+  - Penetration Testing
+  - Secure Coding
+  - Testing
+lastmod: 2025-03-14T15:45:27.107Z
 ---
 # So, What’s OWASP? 🤔
 

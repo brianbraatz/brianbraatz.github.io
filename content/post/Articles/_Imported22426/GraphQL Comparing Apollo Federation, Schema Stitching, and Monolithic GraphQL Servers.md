@@ -23,7 +23,14 @@ tags:
   - Design
 draft: false
 weight: 573
-lastmod: 2025-02-24T15:31:57.329Z
+categories_ref:
+  - GraphQL
+  - Apollo Federation
+  - Schema Stitching
+  - Monolithic GraphQL
+  - API Design
+  - Cloud
+lastmod: 2025-03-14T15:45:16.815Z
 ---
 # GraphQL: Comparing Apollo Federation, Schema Stitching, and Monolithic GraphQL Servers
 

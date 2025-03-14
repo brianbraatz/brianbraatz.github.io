@@ -25,7 +25,15 @@ tags:
   - Kubernetes
 draft: false
 weight: 621
-lastmod: 2025-03-05T22:02:43.566Z
+categories_ref:
+  - Cloud Computing
+  - DevOps
+  - Containers
+  - Azure Container Registry
+  - AWS Elastic Container Registry
+  - GCP Artifact Registry
+  - Container Registry
+lastmod: 2025-03-14T15:45:05.688Z
 ---
 Container registries are essential for modern cloud-native applications.
 

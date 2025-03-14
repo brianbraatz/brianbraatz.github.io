@@ -17,7 +17,12 @@ tags:
   - Cloud
 draft: false
 weight: 54
-lastmod: 2025-03-03T17:08:13.938Z
+categories_ref:
+  - AWS
+  - Docker
+  - Kubernetes
+  - Linux
+lastmod: 2025-03-14T15:45:04.878Z
 ---
 # **Which Linux Should You Use for Docker Containers on AWS?**
 

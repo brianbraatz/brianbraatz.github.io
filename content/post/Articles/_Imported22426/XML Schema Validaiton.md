@@ -24,7 +24,16 @@ tags:
   - Programming
 draft: false
 weight: 71
-lastmod: 2025-03-03T14:58:31.383Z
+categories_ref:
+  - Xml
+  - Schema
+  - Validation
+  - History
+  - Advantages
+  - Disadvantages
+  - Examples
+  - Programming
+lastmod: 2025-03-14T15:45:19.224Z
 ---
 # Advanced XML Schema Validation
 

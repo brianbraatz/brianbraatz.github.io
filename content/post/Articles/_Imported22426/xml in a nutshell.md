@@ -19,7 +19,11 @@ tags:
   - Protobuf
 draft: false
 weight: 543
-lastmod: 2025-02-27T18:09:13.047Z
+categories_ref:
+  - XML
+  - Data Formats
+  - Technology History
+lastmod: 2025-03-14T15:45:19.170Z
 ---
 ## The History of XML
 

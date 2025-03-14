@@ -19,7 +19,11 @@ tags:
   - Meteor
 draft: "False"
 weight: "400"
-lastmod: 2025-03-02T23:02:44.613Z
+categories_ref:
+  - Node.js
+  - Web Frameworks
+  - JavaScript
+lastmod: 2025-03-14T15:45:04.441Z
 ---
 # Node.js Web Frameworks: Pros, Cons, and Code Examples
 

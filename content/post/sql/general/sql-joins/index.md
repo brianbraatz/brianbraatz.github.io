@@ -12,7 +12,10 @@ tags:
   - Mentoring
 weight: 25
 imag: cover.jpg
-lastmod: 2025-03-04T14:22:05.912Z
+categories_ref:
+  - SQL
+  - Performance Optimization
+lastmod: 2025-03-14T15:45:30.514Z
 ---
 Details
 

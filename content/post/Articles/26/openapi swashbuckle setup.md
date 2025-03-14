@@ -19,7 +19,13 @@ tags:
   - API
 draft: false
 weight: 629
-lastmod: 2025-02-26T11:46:43.192Z
+categories_ref:
+  - ASP.NET Core
+  - API Documentation
+  - Swagger
+  - OpenAPI
+  - Web Development
+lastmod: 2025-03-14T15:45:03.580Z
 ---
 <!-- 
 # Tutorial: How to Set Up Swashbuckle with ASP.NET Core

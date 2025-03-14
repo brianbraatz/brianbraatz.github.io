@@ -20,7 +20,12 @@ tags:
   - History
 draft: false
 weight: 389
-lastmod: 2025-02-09T20:21:18.120Z
+categories_ref:
+  - Unix
+  - Linux
+  - BSD Unix
+  - Mac OS
+lastmod: 2025-03-14T15:45:19.633Z
 ---
 # BSD Unix: History, Linux Comparison, and Mac OS Connection
 

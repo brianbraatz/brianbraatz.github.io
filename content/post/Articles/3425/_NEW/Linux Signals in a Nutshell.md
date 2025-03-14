@@ -18,7 +18,11 @@ tags:
   - SIGKILL
 draft: false
 weight: 323
-lastmod: 2025-03-06T16:00:48.436Z
+categories_ref:
+  - Linux
+  - Signals
+  - Process Management
+lastmod: 2025-03-14T15:45:06.731Z
 ---
 # Linux Signals in a Nutshell
 

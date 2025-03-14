@@ -20,7 +20,13 @@ tags:
   - Behavior
 draft: false
 weight: 132
-lastmod: 2025-03-04T17:37:54.966Z
+categories_ref:
+  - PHP
+  - Programming Humor
+  - Coding Oddities
+  - SQL
+  - Cloud
+lastmod: 2025-03-14T15:45:17.927Z
 ---
 PHP is the lovable, chaotic gremlin of programming languages.\
 It runs most of the web, powers countless CMSes, and yet—sometimes—it makes absolutely no sense.\

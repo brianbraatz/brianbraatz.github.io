@@ -28,7 +28,13 @@ tags:
   - Comparison
 draft: false
 weight: 308
-lastmod: 2025-02-13T15:50:26.518Z
+categories_ref:
+  - LISP
+  - Languages
+  - History
+  - Artificial Intellgence
+  - Machine Learning
+lastmod: 2025-03-14T15:45:22.612Z
 ---
 <!--
 # The Lisp Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

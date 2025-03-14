@@ -33,7 +33,18 @@ tags:
   - Infrastructure
 draft: false
 weight: 375
-lastmod: 2025-02-13T16:05:44.269Z
+categories_ref:
+  - Artificial Intellgence
+  - History
+  - Languages
+  - Machine Learning
+  - Python
+  - CPP
+  - Cloud
+  - Microsoft Azure Cloud
+  - Amazon Cloud-AWS
+  - Azure Cloud
+lastmod: 2025-03-14T15:45:25.589Z
 ---
 ## The Cloud ML Showdown: Azure vs. AWS vs. Google Cloud
 

@@ -27,7 +27,13 @@ tags:
   - DevOps
 draft: false
 weight: 61
-lastmod: 2025-03-03T14:40:23.662Z
+categories_ref:
+  - Jenkins
+  - CI\CD
+  - Cloud
+  - DevOps
+  - Testing
+lastmod: 2025-03-14T15:45:12.133Z
 ---
 ## A Brief History of Jenkins
 

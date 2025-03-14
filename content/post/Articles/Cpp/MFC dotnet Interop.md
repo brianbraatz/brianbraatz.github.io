@@ -23,7 +23,15 @@ tags:
   - Windows
 draft: false
 weight: 404
-lastmod: 2025-02-28T20:41:20.079Z
+categories_ref:
+  - Interop
+  - MFC
+  - DotNet
+  - Win32
+  - CSharp
+  - CPP
+  - WinApi
+lastmod: 2025-03-14T15:45:08.652Z
 ---
 # MFC Dot Net Interop Options in 2022
 

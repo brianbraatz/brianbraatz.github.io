@@ -15,7 +15,10 @@ tags:
   - Programming
 draft: false
 weight: 21
-lastmod: 2025-03-07T13:37:28.010Z
+categories_ref:
+  - Python
+  - Performance Optimization
+lastmod: 2025-03-14T15:45:14.177Z
 ---
 # Common Performance Problems in Python and How to Solve Them
 

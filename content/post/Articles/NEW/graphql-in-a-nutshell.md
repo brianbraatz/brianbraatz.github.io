@@ -27,7 +27,11 @@ tags:
   - Resolvers
 draft: false
 weight: 721
-lastmod: 2025-02-21T16:16:09.342Z
+categories_ref:
+  - SQL
+  - NOSQL
+  - GraphQL
+lastmod: 2025-03-14T15:45:11.324Z
 ---
 # GraphQL In a Nutshell
 

@@ -21,7 +21,15 @@ tags:
   - Performance
 draft: false
 weight: 523
-lastmod: 2025-03-06T12:31:04.027Z
+categories_ref:
+  - Dapper
+  - ORM
+  - Entity Framework
+  - C#
+  - Performance
+  - CSHarp
+  - SQL
+lastmod: 2025-03-14T15:45:05.705Z
 ---
 # Dapper in a Nutshell
 

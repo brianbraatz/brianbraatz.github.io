@@ -23,7 +23,15 @@ tags:
   - Analysis
 draft: false
 weight: 528
-lastmod: 2025-03-03T00:23:35.872Z
+categories_ref:
+  - C++ Debugging
+  - WinDbg
+  - Device Drivers
+  - Development
+  - Debugging
+  - Security
+  - WinAPI
+lastmod: 2025-03-14T15:45:27.636Z
 ---
 # **WinDbg in 2024??**
 

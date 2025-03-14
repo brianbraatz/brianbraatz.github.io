@@ -23,7 +23,14 @@ tags:
   - Traefik
 draft: false
 weight: 72
-lastmod: 2025-03-03T15:07:18.851Z
+categories_ref:
+  - Kubernetes
+  - Networking
+  - Service Mesh
+  - API Gateway
+  - Cloud
+  - DevOps
+lastmod: 2025-03-14T15:45:29.349Z
 ---
 <!-- 
 # Kong vs Istio vs Traefik: A Complete Comparison with Code Samples Inside a Pod

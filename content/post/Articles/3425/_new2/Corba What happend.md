@@ -19,7 +19,14 @@ tags:
   - Software architecture
 draft: false
 weight: 576
-lastmod: 2025-03-07T21:46:31.699Z
+categories_ref:
+  - Corba
+  - Software
+  - History
+  - Cloud
+  - Java
+  - CPP
+lastmod: 2025-03-14T15:45:07.549Z
 ---
 <!-- Alright, tech nerds and curious souls, let’s take a trip back in time to talk about CORBA—y’know, that thing you vaguely remember hearing about but never actually used.  -->
 

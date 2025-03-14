@@ -17,7 +17,12 @@ tags:
   - Development
 draft: "False"
 weight: "132"
-lastmod: 2025-03-04T13:27:14.088Z
+categories_ref:
+  - Electron
+  - Node.js
+  - JavaScript
+  - Web Development
+lastmod: 2025-03-14T15:45:04.075Z
 ---
 ## What the Heck is Electron?
 

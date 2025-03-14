@@ -20,7 +20,13 @@ tags:
   - Serialization
 draft: false
 weight: 534
-lastmod: 2025-03-06T02:34:57.309Z
+categories_ref:
+  - C++
+  - ORM
+  - Database
+  - QxOrm
+  - SQL
+lastmod: 2025-03-14T15:45:06.053Z
 ---
 # QxOrm In a Nutshell
 

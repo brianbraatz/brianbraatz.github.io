@@ -18,7 +18,12 @@ tags:
   - CIDR
 draft: false
 weight: 45
-lastmod: 2025-03-03T14:32:49.267Z
+categories_ref:
+  - Internet standards
+  - Networking
+  - Protocols
+  - Network Protocols
+lastmod: 2025-03-14T15:45:13.639Z
 ---
 The Venetian carnival tradition is most famous for its distinctive masks. Photograph by [Frank Kovalchek](https://en.wikipedia.org/wiki/File:Venice_Carnival_-_Masked_Lovers_\(2010\).jpg) via Wikimedia Commons (CC BY 2.0).
 

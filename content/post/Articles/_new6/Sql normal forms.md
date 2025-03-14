@@ -32,7 +32,11 @@ tags:
   - Optimization
 draft: false
 weight: 21
-lastmod: 2025-03-03T11:32:14.095Z
+categories_ref:
+  - SQL
+  - Design Patterns
+  - Software Architecture
+lastmod: 2025-03-14T15:45:23.387Z
 ---
 <!--
 

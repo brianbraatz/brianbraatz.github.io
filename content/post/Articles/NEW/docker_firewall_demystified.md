@@ -24,7 +24,10 @@ tags:
   - Cloud
 draft: false
 weight: 209
-lastmod: 2025-02-09T22:13:18.923Z
+categories_ref:
+  - Docker
+  - Firewalls
+lastmod: 2025-03-14T15:45:10.749Z
 ---
 # Docker Firewall Demystified: Ingress & Egress
 

@@ -22,7 +22,14 @@ tags:
   - Pods
 draft: false
 weight: 910
-lastmod: 2025-02-16T22:08:44.606Z
+categories_ref:
+  - Kubernetes
+  - Security
+  - Compliance
+  - GDPR
+  - HIPAA
+  - PCI
+lastmod: 2025-03-14T15:45:29.104Z
 ---
 <!-- 
 # GDPR vs HIPAA vs PCI Compliance in Kubernetes: A Complete Guide

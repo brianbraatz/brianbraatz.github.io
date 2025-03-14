@@ -26,7 +26,17 @@ tags:
   - Transactions
 draft: "False"
 weight: "347"
-lastmod: 2025-03-03T01:57:51.010Z
+categories_ref:
+  - EDI
+  - NCPDP
+  - HIPAA
+  - X12
+  - C#
+  - Python
+  - Node.js
+  - TypeScript
+  - JavaScript
+lastmod: 2025-03-14T15:45:03.946Z
 ---
 ## So, You Have to Parse NCPDP or HIPAA X12 EDI?
 

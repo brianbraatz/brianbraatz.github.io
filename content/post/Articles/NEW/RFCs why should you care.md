@@ -19,7 +19,13 @@ tags:
   - Protocols
 draft: false
 weight: 342
-lastmod: 2025-02-14T16:23:48.785Z
+categories_ref:
+  - Internet standards
+  - Request for Comments-RFC
+  - Web Development
+  - Cloud
+  - Network Protocols
+lastmod: 2025-03-14T15:45:13.523Z
 ---
 # What Are RFCs and Why Should I Care?
 

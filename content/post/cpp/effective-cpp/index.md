@@ -14,7 +14,11 @@ tags:
   - Cross-Platform
   - DesignPatterns
 weight: 21
-lastmod: 2025-03-04T13:48:53.399Z
+categories_ref:
+  - CPP
+  - Performance Optimization
+  - CPP-Meta Programming
+lastmod: 2025-03-14T15:45:30.282Z
 ---
 <!--- 
 image embed

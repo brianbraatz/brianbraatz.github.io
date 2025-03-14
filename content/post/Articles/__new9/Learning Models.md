@@ -28,7 +28,13 @@ tags:
   - Algorithms
 draft: false
 weight: 99
-lastmod: 2025-03-04T13:28:00.479Z
+categories_ref:
+  - Artificial Intellgence
+  - History
+  - Languages
+  - Machine Learning
+  - Python
+lastmod: 2025-03-14T15:45:25.528Z
 ---
 # Understanding Supervised Learning, Unsupervised Learning, Reinforcement Learning: In-Depth with Code Examples
 

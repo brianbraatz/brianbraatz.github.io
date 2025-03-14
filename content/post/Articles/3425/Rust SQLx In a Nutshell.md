@@ -18,7 +18,11 @@ tags:
   - Async
 draft: false
 weight: 513
-lastmod: 2025-03-06T02:40:47.747Z
+categories_ref:
+  - Rust
+  - Database
+  - SQLx
+lastmod: 2025-03-14T15:45:06.123Z
 ---
 # Rust SQLx In a Nutshell
 

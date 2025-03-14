@@ -21,7 +21,13 @@ tags:
   - Trust
 draft: false
 weight: 789
-lastmod: 2025-02-17T00:30:20.360Z
+categories_ref:
+  - Kubernetes
+  - Security
+  - SPIFFE
+  - Cloud
+  - DevOps
+lastmod: 2025-03-14T15:45:29.822Z
 ---
 <!-- 
 # Setting Up a SPIRE Agent Inside a Pod: A Complete Guide

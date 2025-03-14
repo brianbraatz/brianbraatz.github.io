@@ -23,7 +23,18 @@ tags:
   - Performance
 draft: "False"
 weight: "112"
-lastmod: 2025-03-05T21:15:16.815Z
+categories_ref:
+  - Ci/cd
+  - Devops
+  - Deployment
+  - Automation
+  - Performance
+  - Testing
+  - Testing Strategies
+  - A/B Testing
+  - Web Development
+  - Unit Testing
+lastmod: 2025-03-14T15:45:04.659Z
 ---
 # Understanding Blue-Green Deployments and Canary Releases
 

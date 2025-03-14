@@ -18,7 +18,14 @@ tags:
   - Database
 draft: false
 weight: 3293
-lastmod: 2025-03-06T13:43:32.809Z
+categories_ref:
+  - Opensearch
+  - Elasticsearch
+  - Search
+  - Database
+  - SQL
+  - Cloud
+lastmod: 2025-03-14T15:45:07.011Z
 ---
 # OpenSearch in a Nutshell: A Fun and Informal Guide
 

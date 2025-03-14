@@ -22,7 +22,11 @@ tags:
   - Caching
 draft: false
 weight: 44
-lastmod: 2025-03-03T14:31:15.731Z
+categories_ref:
+  - Python
+  - Python-Decorators
+  - Aspect Orientated Programming-AOP
+lastmod: 2025-03-14T15:45:03.506Z
 ---
 # Python Decorators Explored
 

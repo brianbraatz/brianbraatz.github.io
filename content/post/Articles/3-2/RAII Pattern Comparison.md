@@ -24,7 +24,18 @@ tags:
   - Programming
 draft: false
 weight: 42
-lastmod: 2025-03-05T22:18:39.598Z
+categories_ref:
+  - C++
+  - C#
+  - Python
+  - Go
+  - Rust
+  - JavaScript
+  - TypeScript
+  - CSHarp
+  - CPP
+  - Design Patterns
+lastmod: 2025-03-14T15:45:05.106Z
 ---
 **Photographer Waits Hours To Capture The Autumn Idyll Of Squirrels Carrying A Nut Over A Lake**\
 <https://www.boredpanda.com/squirrel-animals-photography-dick-van-duijn/>

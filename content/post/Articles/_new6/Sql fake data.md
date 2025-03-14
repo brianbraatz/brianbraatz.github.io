@@ -33,7 +33,16 @@ tags:
   - Seeding
 draft: false
 weight: 120
-lastmod: 2025-03-06T01:16:51.696Z
+categories_ref:
+  - SQL
+  - MySql
+  - Microsoft Sql Server
+  - Postgres Sql
+  - SQLite
+  - Testing
+  - Unit Testing
+  - ORM
+lastmod: 2025-03-14T15:45:23.344Z
 ---
 <!--
 # In-Depth Introduction to Generating Sample Data for SQL Databases Using Faker, tSQLt, pgTAP, and More

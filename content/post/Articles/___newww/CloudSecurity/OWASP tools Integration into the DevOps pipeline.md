@@ -25,7 +25,15 @@ tags:
   - Coding
 draft: false
 weight: 148
-lastmod: 2025-02-25T12:57:33.720Z
+categories_ref:
+  - OWASP
+  - Web Security
+  - Cybersecurity
+  - Open Source
+  - Penetration Testing
+  - Secure Coding
+  - Testing
+lastmod: 2025-03-14T15:45:27.312Z
 ---
 # How to Integrate All OWASP Tools into Your DevOps Pipeline
 

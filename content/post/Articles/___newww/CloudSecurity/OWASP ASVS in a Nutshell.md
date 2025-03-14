@@ -26,7 +26,17 @@ tags:
   - Api Security
 draft: false
 weight: 333
-lastmod: 2025-02-17T12:52:43.326Z
+categories_ref:
+  - Owasp
+  - Security
+  - Application Security
+  - Verification
+  - Cybersecurity
+  - Data Protection
+  - Authentication
+  - Access Control
+  - Api Security
+lastmod: 2025-03-14T15:45:27.199Z
 ---
 <https://owasp.org/www-project-application-security-verification-standard/>
 

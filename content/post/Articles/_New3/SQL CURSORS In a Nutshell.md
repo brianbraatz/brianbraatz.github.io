@@ -20,7 +20,12 @@ tags:
   - PostgreSQL
 draft: false
 weight: 72
-lastmod: 2025-03-03T14:56:43.639Z
+categories_ref:
+  - SQL
+  - Microsoft Sql Server
+  - MySql
+  - Postgres Sql
+lastmod: 2025-03-14T15:45:20.132Z
 ---
 # SQL CURSORS: The History and Motivation, Understanding How They Work
 

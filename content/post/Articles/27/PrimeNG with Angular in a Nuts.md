@@ -17,7 +17,12 @@ tags:
   - Frontend
 draft: "False"
 weight: "152"
-lastmod: 2025-03-04T13:26:16.159Z
+categories_ref:
+  - Angular
+  - PrimeNG
+  - UI Components
+  - Frontend
+lastmod: 2025-03-14T15:45:04.553Z
 ---
 <!-- 
 # PrimeNG with Angular in a Nutshell 🚀

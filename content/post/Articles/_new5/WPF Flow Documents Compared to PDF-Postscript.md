@@ -23,7 +23,16 @@ tags:
   - PostScript
 draft: false
 weight: 200
-lastmod: 2025-02-09T21:38:23.183Z
+categories_ref:
+  - WPF Flow Documents
+  - Postscript
+  - PDF
+  - WPF
+  - XAML
+  - Windows
+  - Document Imaging
+  - DotNet
+lastmod: 2025-03-14T15:45:21.117Z
 ---
 ![](/post/Articles/IMAGES/flowdocumentexample.png)\
 From\

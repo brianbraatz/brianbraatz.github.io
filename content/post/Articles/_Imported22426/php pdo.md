@@ -20,7 +20,13 @@ tags:
   - Statements
 draft: false
 weight: 437
-lastmod: 2025-03-03T03:11:19.403Z
+categories_ref:
+  - PHP
+  - Database
+  - PDO
+  - SQL
+  - Cloud
+lastmod: 2025-03-14T15:45:18.548Z
 ---
 <!-- 
 # PHP PDO in a Nutshell

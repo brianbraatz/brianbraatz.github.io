@@ -20,7 +20,15 @@ tags:
   - Web Development
 draft: false
 weight: 473
-lastmod: 2025-03-06T12:16:49.049Z
+categories_ref:
+  - OData
+  - Api
+  - Rest
+  - Entity Framework
+  - Web Development
+  - SQL
+  - LINQ
+lastmod: 2025-03-14T15:45:06.881Z
 ---
 # OData in a Nutshell
 

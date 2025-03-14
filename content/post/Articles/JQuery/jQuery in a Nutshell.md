@@ -13,7 +13,10 @@ tags:
   - Javascript
 weight: 4
 draft: false
-lastmod: 2025-02-09T21:50:12.385Z
+categories_ref:
+  - JQuery
+  - Web Development
+lastmod: 2025-03-14T15:45:09.584Z
 ---
 # jQuery in a Nutshell
 

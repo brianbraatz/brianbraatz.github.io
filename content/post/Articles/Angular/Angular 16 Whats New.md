@@ -19,7 +19,13 @@ tags:
   - Javascript
 draft: false
 weight: 100
-lastmod: 2025-02-20T22:24:23.907Z
+categories_ref:
+  - HTML
+  - Angular
+  - Typescript
+  - Javascript
+  - Web Development
+lastmod: 2025-03-14T15:45:08.134Z
 ---
 <!-- 
 # WHats New in Angular 16?

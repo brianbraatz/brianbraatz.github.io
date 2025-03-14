@@ -19,7 +19,12 @@ tags:
   - Event-Driven
 draft: false
 weight: 578
-lastmod: 2025-03-06T16:31:41.690Z
+categories_ref:
+  - AWS
+  - Streaming
+  - Data Processing
+  - DynamoDb
+lastmod: 2025-03-14T15:45:18.944Z
 ---
 # Understanding Kinesis Streams
 

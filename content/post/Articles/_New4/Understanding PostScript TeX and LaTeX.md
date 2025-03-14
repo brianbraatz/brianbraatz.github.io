@@ -23,7 +23,14 @@ tags:
   - Printing
 draft: false
 weight: 76
-lastmod: 2025-02-10T16:23:12.217Z
+categories_ref:
+  - Postscript
+  - PDF
+  - Printer Control Language-PCL
+  - Document Imaging
+  - Tex Language
+  - Latex Language
+lastmod: 2025-03-14T15:45:20.903Z
 ---
 # PostScript, TeX and LaTeX: Understanding Their Differences and Interactions
 

@@ -11,7 +11,8 @@ tags:
   - WebDevelopment
 weight: 30
 draft: true
-lastmod: 2025-01-31T17:35:50.057Z
+categories_ref: []
+lastmod: 2025-03-14T15:45:08.887Z
 ---
 5 Crazy, Weird, Unusual, and Strange Things You Can Do in Pure CSS
 

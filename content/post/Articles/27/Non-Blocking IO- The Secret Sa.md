@@ -17,7 +17,10 @@ tags:
   - Python
 draft: "False"
 weight: "34"
-lastmod: 2025-03-03T14:51:04.454Z
+categories_ref:
+  - Programming
+  - Technology
+lastmod: 2025-03-14T15:45:04.529Z
 ---
 <!-- # Non-Blocking I/O: The Secret Sauce Behind Snappy Applications
 

@@ -16,7 +16,11 @@ tags:
   - Javascript
 draft: false
 weight: 130
-lastmod: 2025-03-03T16:19:00.818Z
+categories_ref:
+  - GoLang
+  - Web Development
+  - Hugo Framework
+lastmod: 2025-03-14T15:45:09.274Z
 ---
 [Hugo](https://gohugo.io/)
 

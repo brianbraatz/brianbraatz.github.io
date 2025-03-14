@@ -17,7 +17,10 @@ tags:
   - Modeling
 draft: false
 weight: 342
-lastmod: 2025-02-09T23:19:41.806Z
+categories_ref:
+  - Python
+  - Python-SimPy
+lastmod: 2025-03-14T15:45:03.519Z
 ---
 Ever wondered how to simulate real-world processes without leaving the comfort of your Python environment?
 

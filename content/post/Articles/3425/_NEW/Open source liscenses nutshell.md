@@ -16,7 +16,11 @@ tags:
   - Closed Source
 draft: false
 weight: 627
-lastmod: 2025-03-07T16:01:18.389Z
+categories_ref:
+  - Open Source
+  - Licensing
+  - Software Development
+lastmod: 2025-03-14T15:45:06.931Z
 ---
 <!-- 
 ## Open Source and Contributor License Agreements in a Nutshell -->

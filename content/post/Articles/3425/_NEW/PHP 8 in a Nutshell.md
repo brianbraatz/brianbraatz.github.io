@@ -17,7 +17,12 @@ tags:
   - Performance
 draft: false
 weight: 2639
-lastmod: 2025-03-06T16:13:49.550Z
+categories_ref:
+  - Programming
+  - Web Development
+  - PHP
+  - Cloud
+lastmod: 2025-03-14T15:45:07.054Z
 ---
 ## **PHP 8 in a Nutshell**
 

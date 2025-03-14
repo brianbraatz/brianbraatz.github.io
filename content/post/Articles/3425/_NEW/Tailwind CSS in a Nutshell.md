@@ -17,7 +17,12 @@ tags:
   - Responsive design
 draft: false
 weight: 1459
-lastmod: 2025-03-06T16:03:42.822Z
+categories_ref:
+  - CSS
+  - Tailwind
+  - Web Development
+  - Frontend
+lastmod: 2025-03-14T15:45:07.402Z
 ---
 # Tailwind CSS in a Nutshell
 

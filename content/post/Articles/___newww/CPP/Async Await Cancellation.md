@@ -17,7 +17,12 @@ tags:
   - Concurrency
 draft: false
 weight: 327
-lastmod: 2025-03-03T00:27:38.620Z
+categories_ref:
+  - Concurrency
+  - Multithreading
+  - ASP.NET
+  - Async
+lastmod: 2025-03-14T15:45:27.380Z
 ---
 ## Why Do We Even Need Cancellation?
 

@@ -28,7 +28,19 @@ tags:
   - ALU
 draft: false
 weight: 637
-lastmod: 2025-02-24T15:47:54.877Z
+categories_ref:
+  - CPU
+  - Binary
+  - Bitshifting
+  - Division
+  - Programming
+  - C++
+  - Python
+  - Computing
+  - ALU
+  - Assembly Language
+  - History
+lastmod: 2025-03-14T15:45:16.355Z
 ---
 # Your CPU Cannot Divide! At Least the Old Ones
 

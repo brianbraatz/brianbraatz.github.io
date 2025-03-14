@@ -21,7 +21,13 @@ tags:
   - API
 draft: false
 weight: 37
-lastmod: 2025-03-03T15:09:59.457Z
+categories_ref:
+  - SharePoint
+  - Development
+  - SPFx
+  - Microsoft 365
+  - Power Apps
+lastmod: 2025-03-14T15:45:28.539Z
 ---
 # **What is SPFx (SharePoint Framework)?**
 

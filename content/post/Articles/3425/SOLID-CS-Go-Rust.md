@@ -19,7 +19,13 @@ tags:
   - Clean code
 draft: false
 weight: 612
-lastmod: 2025-03-05T21:33:52.659Z
+categories_ref:
+  - Programming
+  - Software Design
+  - SOLID
+  - Go
+  - Rust
+lastmod: 2025-03-14T15:45:06.169Z
 ---
 # SOLID in Go and Rust: A Pragmatic Approach to Clean Code
 

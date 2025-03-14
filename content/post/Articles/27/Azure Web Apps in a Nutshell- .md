@@ -19,7 +19,13 @@ tags:
   - Node.js
 draft: "False"
 weight: "70"
-lastmod: 2025-03-03T14:52:07.207Z
+categories_ref:
+  - Azure
+  - Cloud
+  - Web Apps
+  - ASP.NET
+  - Node.js
+lastmod: 2025-03-14T15:45:03.931Z
 ---
 <!-- 
 # Azure Web Apps in a Nutshell: The Good, The Bad, and The Cloudy

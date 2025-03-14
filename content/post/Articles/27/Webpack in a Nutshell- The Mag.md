@@ -18,7 +18,13 @@ tags:
   - Development
 draft: "False"
 weight: "56"
-lastmod: 2025-03-03T14:54:43.628Z
+categories_ref:
+  - JavaScript
+  - Webpack
+  - Bundlers
+  - Frontend
+  - Development
+lastmod: 2025-03-14T15:45:04.753Z
 ---
 # Webpack in a Nutshell: The Magic Behind Modern JavaScript Bundling
 

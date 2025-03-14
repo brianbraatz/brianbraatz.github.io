@@ -17,7 +17,13 @@ tags:
   - Performance
 draft: "False"
 weight: "382"
-lastmod: 2025-03-03T02:05:59.627Z
+categories_ref:
+  - Jit
+  - Compilation
+  - Programming
+  - Performance
+  - Java
+lastmod: 2025-03-14T15:45:04.133Z
 ---
 <https://www.reddit.com/r/KitchenConfidential/comments/18o1i5o/was_greeted_to_all_of_this_immediately_after_we>
 

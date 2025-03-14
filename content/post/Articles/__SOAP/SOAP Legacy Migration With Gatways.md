@@ -21,7 +21,13 @@ tags:
   - Migration
 draft: false
 weight: 355
-lastmod: 2025-02-17T02:17:47.894Z
+categories_ref:
+  - API
+  - Web Services
+  - GraphQL
+  - API Gateway
+  - Migration
+lastmod: 2025-03-14T15:45:26.734Z
 ---
 # Comparing SOAP Migration Strategies: API Gateways vs. GraphQL Middleware vs. Simple Code Approaches
 

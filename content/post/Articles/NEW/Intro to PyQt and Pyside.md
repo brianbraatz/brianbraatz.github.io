@@ -20,7 +20,12 @@ tags:
   - PythonGuI
 draft: true
 weight: 30
-lastmod: 2025-03-03T00:14:38.931Z
+categories_ref:
+  - Python
+  - Python-PyQt
+  - Python-PySide
+  - GUI
+lastmod: 2025-03-14T15:45:12.001Z
 ---
 # PyQt and PySide Compared
 

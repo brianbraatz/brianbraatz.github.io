@@ -16,7 +16,11 @@ tags:
   - Internet
 draft: false
 weight: 212
-lastmod: 2025-03-05T17:33:17.120Z
+categories_ref:
+  - Networking
+  - Technology
+  - OSI Model
+lastmod: 2025-03-14T15:45:05.995Z
 ---
 <!-- 
 osimodel.jpg 

@@ -20,7 +20,14 @@ tags:
   - Secure Coding
 draft: false
 weight: 648
-lastmod: 2025-02-20T22:57:39.101Z
+categories_ref:
+  - OWASP
+  - Web Security
+  - Cybersecurity
+  - Open Source
+  - Penetration Testing
+  - Secure Coding
+lastmod: 2025-03-14T15:45:27.243Z
 ---
 # OWASP Tools Compatibility: A Cross-Language and Database Comparison
 

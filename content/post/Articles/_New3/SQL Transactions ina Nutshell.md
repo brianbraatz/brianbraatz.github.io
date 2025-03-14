@@ -24,7 +24,12 @@ tags:
   - Transactions
 draft: false
 weight: 72
-lastmod: 2025-03-03T15:02:52.253Z
+categories_ref:
+  - SQL
+  - Microsoft Sql Server
+  - MySql
+  - Postgres Sql
+lastmod: 2025-03-14T15:45:20.232Z
 ---
 # SQL Transactions: The History, How They Work, and Why You Should Care
 

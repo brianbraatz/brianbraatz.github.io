@@ -27,7 +27,11 @@ tags:
   - Testing
 draft: false
 weight: 329
-lastmod: 2025-02-25T12:55:22.903Z
+categories_ref:
+  - GoLang
+  - Unit Testing
+  - Testing
+lastmod: 2025-03-14T15:45:22.103Z
 ---
 # In-Depth Introduction to the GoFakeIt Library for Sample Data Generation and Unit Testing in Go
 

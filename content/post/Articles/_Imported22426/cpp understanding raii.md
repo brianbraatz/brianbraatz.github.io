@@ -19,7 +19,12 @@ tags:
   - Pointers
 draft: false
 weight: 345
-lastmod: 2025-03-05T17:02:53.440Z
+categories_ref:
+  - C++
+  - Memory Management
+  - RAII
+  - CPP
+lastmod: 2025-03-14T15:45:16.228Z
 ---
 # Understanding RAII in C++
 

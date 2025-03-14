@@ -15,7 +15,10 @@ tags:
   - Meta
 draft: false
 weight: 2453
-lastmod: 2025-03-06T13:16:58.339Z
+categories_ref:
+  - Programming
+  - Web Development
+lastmod: 2025-03-14T15:45:07.064Z
 ---
 https://engineering.fb.com/2014/03/20/developer-tools/hack-a-new-programming-language-for-hhvm/
 

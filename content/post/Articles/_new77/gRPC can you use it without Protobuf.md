@@ -24,7 +24,15 @@ tags:
   - Serialization
 draft: false
 weight: 134
-lastmod: 2025-02-14T16:53:17.805Z
+categories_ref:
+  - Networking
+  - Network Protocols
+  - gRPC
+  - Protobuf
+  - CSharp
+  - Python
+  - GoLang
+lastmod: 2025-03-14T15:45:24.329Z
 ---
 <!-- 
 # 🚀 Using gRPC with and without Protobuf: 10 Code Examples in Python, C#, and Go

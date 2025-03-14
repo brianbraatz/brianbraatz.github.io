@@ -21,7 +21,12 @@ tags:
   - RxJS
 draft: false
 weight: 45
-lastmod: 2025-03-03T16:23:41.439Z
+categories_ref:
+  - JavaScript
+  - Performance Optimization
+  - Frontend Development
+  - Lodash
+lastmod: 2025-03-14T15:45:29.301Z
 ---
 # JavaScript Throttling and Debouncing with Lodash and Other Methods
 

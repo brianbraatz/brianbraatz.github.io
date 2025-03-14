@@ -22,7 +22,12 @@ tags:
   - PDF
 draft: false
 weight: 31
-lastmod: 2025-03-03T14:30:19.750Z
+categories_ref:
+  - Postscript
+  - PDF
+  - Printer Control Language-PCL
+  - Document Imaging
+lastmod: 2025-03-14T15:45:20.856Z
 ---
 # Deep Dive into HP's PCL Language
 

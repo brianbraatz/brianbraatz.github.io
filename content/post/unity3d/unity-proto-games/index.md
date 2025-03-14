@@ -27,7 +27,20 @@ tags:
 weight: 3
 published: 2001-01-01
 draft: false
-lastmod: 2025-03-05T16:54:00.823Z
+categories_ref:
+  - Unity 3D Engine
+  - CSharp
+  - Cross Platform
+  - Web Development
+  - Mobile
+  - IOS
+  - iPhone
+  - Android
+  - Cloud
+  - Cloud-Real Time Multi User
+  - Web Assembly
+  - Azure
+lastmod: 2025-03-14T15:45:30.891Z
 ---
 <!-- 
 If you are interested in a tutorial on how to setup Multiplayer in Azure , Check out my tutorial:

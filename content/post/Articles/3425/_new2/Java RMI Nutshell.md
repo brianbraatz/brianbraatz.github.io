@@ -19,7 +19,13 @@ tags:
   - Rpc
 draft: false
 weight: 4543
-lastmod: 2025-03-07T21:54:53.316Z
+categories_ref:
+  - Java
+  - RMI
+  - Networking
+  - Distributed Systems
+  - Cloud
+lastmod: 2025-03-14T15:45:07.741Z
 ---
 # Java RMI in a Nutshell
 

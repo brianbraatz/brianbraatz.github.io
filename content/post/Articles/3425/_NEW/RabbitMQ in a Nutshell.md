@@ -16,7 +16,12 @@ tags:
   - Message Broker
 draft: false
 weight: 2452
-lastmod: 2025-03-06T16:02:13.537Z
+categories_ref:
+  - Messaging
+  - Rabbitmq
+  - Distributed Systems
+  - Message Broker
+lastmod: 2025-03-14T15:45:07.095Z
 ---
 # RabbitMQ in a Nutshell: The Bouncer of Your Messages
 

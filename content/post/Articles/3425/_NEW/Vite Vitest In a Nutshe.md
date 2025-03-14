@@ -21,7 +21,14 @@ tags:
   - Testing
 draft: false
 weight: 450
-lastmod: 2025-03-06T15:41:34.127Z
+categories_ref:
+  - Vite
+  - Vitest
+  - JavaScript
+  - Web Development
+  - VueJs
+  - Vue
+lastmod: 2025-03-14T15:45:07.488Z
 ---
 <!-- # Vite, Vitest, In a Nutshell
 

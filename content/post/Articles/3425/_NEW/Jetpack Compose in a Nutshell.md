@@ -16,7 +16,12 @@ tags:
   - Kotlin
 draft: false
 weight: 2462
-lastmod: 2025-03-06T16:00:25.425Z
+categories_ref:
+  - Jetpack Compose
+  - Android
+  - UI
+  - Kotlin
+lastmod: 2025-03-14T15:45:06.654Z
 ---
 <!-- # Jetpack Compose in a Nutshell
 

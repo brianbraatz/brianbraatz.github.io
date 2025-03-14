@@ -12,12 +12,13 @@ tags:
   - Ownership
   - Borrowing
   - Concurrency
-  - No
+  - false
   - Garbage
   - Collection
 draft: false
 weight: 22
-lastmod: 2025-03-03T16:37:35.094Z
+categories_ref: []
+lastmod: 2025-03-14T15:45:15.093Z
 ---
 https://en.wikipedia.org/wiki/300\_(film)
 

@@ -32,7 +32,16 @@ tags:
   - Testing
 draft: false
 weight: 246
-lastmod: 2025-03-07T00:54:25.040Z
+categories_ref:
+  - WPF
+  - XAML
+  - Maui
+  - Unit Testing
+  - CSharp
+  - DotNet
+  - Testing
+  - Mobile
+lastmod: 2025-03-14T15:45:22.783Z
 ---
 <!--
 # Best Unit Testing Strategies for MAUI: Alternatives and How to Structure Your Project

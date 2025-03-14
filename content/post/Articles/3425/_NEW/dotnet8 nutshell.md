@@ -19,7 +19,13 @@ tags:
   - Blazor
 draft: false
 weight: 523
-lastmod: 2025-03-06T12:25:44.752Z
+categories_ref:
+  - Dotnet
+  - Programming
+  - Csharp
+  - CSharp
+  - DotNet 8
+lastmod: 2025-03-14T15:45:06.568Z
 ---
 <!-- # .NET 8.0 Deep Dive: A Journey Through Time and Code
 

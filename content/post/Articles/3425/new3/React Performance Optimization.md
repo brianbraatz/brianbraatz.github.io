@@ -19,8 +19,16 @@ tags:
   - Frontend
   - Backend
 draft: false
-weight: 42
-lastmod: 2025-03-08T12:35:20.009Z
+weight: 452
+categories_ref:
+  - React
+  - Csharp
+  - Performance
+  - Performance Optimization
+  - Web Development
+  - Frontend
+  - Backend
+lastmod: 2025-03-14T15:45:06.443Z
 ---
 <!-- Front-end performance directly impacts user satisfaction.  
 

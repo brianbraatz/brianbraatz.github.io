@@ -21,7 +21,12 @@ tags:
   - Systems
 draft: false
 weight: 68
-lastmod: 2025-03-03T14:48:34.449Z
+categories_ref:
+  - API
+  - Web Services
+  - GraphQL
+  - Migration
+lastmod: 2025-03-14T15:45:26.547Z
 ---
 # Deep Dive: Using GraphQL as a Middleware for Migrating SOAP to REST
 

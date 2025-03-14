@@ -30,7 +30,14 @@ tags:
   - DotNet
 draft: false
 weight: 55
-lastmod: 2025-03-03T14:53:45.072Z
+categories_ref:
+  - Cloud
+  - Azure Cloud
+  - DevOps
+  - CI\CD
+  - CSharp
+  - DotNet
+lastmod: 2025-03-14T15:45:19.574Z
 ---
 # Setting up CI/CD in Azure DevOps
 

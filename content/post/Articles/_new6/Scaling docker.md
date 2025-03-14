@@ -29,7 +29,14 @@ tags:
   - Native
 draft: false
 weight: 56
-lastmod: 2025-03-03T14:39:52.740Z
+categories_ref:
+  - Docker
+  - Microservices
+  - Cloud
+  - Microsoft Azure Cloud
+  - Amazon Cloud-AWS
+  - Google Cloud-GCP
+lastmod: 2025-03-14T15:45:23.174Z
 ---
 <!--
 # How to Horizontally Scale Docker Microservices in AWS, Azure, and Google Cloud: Techniques and Comparisons

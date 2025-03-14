@@ -29,7 +29,18 @@ tags:
   - Performance
 draft: false
 weight: 30
-lastmod: 2025-03-07T00:55:04.462Z
+categories_ref:
+  - Windows
+  - CSharp
+  - DotNet
+  - Concurrency
+  - Winforms
+  - WPF
+  - Maui
+  - Xamarin
+  - Async
+  - Mobile
+lastmod: 2025-03-14T15:45:08.796Z
 ---
 # Updating User Interfaces in WPF and WinForms with Threading Techniques
 

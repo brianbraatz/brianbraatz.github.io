@@ -53,7 +53,30 @@ tags:
   - CICD
 draft: false
 weight: 78
-lastmod: 2025-03-07T00:53:48.676Z
+categories_ref:
+  - Azure Lan To Cloud Project
+  - Lan To Cloud Project
+  - CSharp
+  - CSS
+  - Microsoft Azure Cloud
+  - Amazon Cloud-AWS
+  - Google Cloud-GCP
+  - Artificial Intellgence
+  - Machine Learning
+  - SQL
+  - SQLite
+  - Python
+  - Websockets
+  - CI\CD
+  - Infrastructure as Code-IAC
+  - Qt GUI Framework
+  - Maui
+  - Cloud
+  - Redis
+  - OWASP
+  - Mobile
+  - WinAPI
+lastmod: 2025-03-14T15:45:19.334Z
 ---
 <!-- # Azure LAN to Cloud: Part 1 - Project Vision and Goals
 -->

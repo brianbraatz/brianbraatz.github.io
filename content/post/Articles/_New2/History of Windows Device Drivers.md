@@ -23,7 +23,14 @@ tags:
   - UserModeDriverFramework
 draft: false
 weight: 30
-lastmod: 2025-02-21T00:55:39.279Z
+categories_ref:
+  - Windows
+  - Device Drivers
+  - C
+  - CPP
+  - Assembly Language
+  - WinAPI
+lastmod: 2025-03-14T15:45:19.436Z
 ---
 ![](/post/Articles/_New2/Pasted%20image%2020250205091148.png)\
 **Blue screen of death**\

@@ -18,7 +18,12 @@ tags:
   - Express
 draft: "False"
 weight: "342"
-lastmod: 2025-03-02T22:54:28.669Z
+categories_ref:
+  - Node.js
+  - OpenAPI
+  - Swagger
+  - API Design
+lastmod: 2025-03-14T15:45:04.027Z
 ---
 ***
 

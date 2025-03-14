@@ -22,7 +22,13 @@ tags:
   - Regex
 draft: false
 weight: 273
-lastmod: 2025-03-03T00:11:39.799Z
+categories_ref:
+  - SED
+  - Unix
+  - Linux
+  - Mac OS
+  - Scripting
+lastmod: 2025-03-14T15:45:20.688Z
 ---
 # SED in a Nutshell
 

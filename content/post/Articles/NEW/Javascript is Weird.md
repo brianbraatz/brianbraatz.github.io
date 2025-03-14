@@ -15,7 +15,10 @@ tags:
   - WebDevelopment
 draft: false
 weight: 27
-lastmod: 2025-03-03T13:56:44.128Z
+categories_ref:
+  - Javascript
+  - Web Development
+lastmod: 2025-03-14T15:45:12.067Z
 ---
 # 10 Reasons JavaScript is Weird
 

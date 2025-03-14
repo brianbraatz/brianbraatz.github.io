@@ -18,7 +18,13 @@ tags:
   - Scalability
 draft: false
 weight: 427
-lastmod: 2025-03-05T21:45:50.248Z
+categories_ref:
+  - Azure
+  - Cloud
+  - Messaging
+  - Azure Queue
+  - Azure Service Bus
+lastmod: 2025-03-14T15:45:05.637Z
 ---
 ## What is Azure Queue Storage?
 

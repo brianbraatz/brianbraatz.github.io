@@ -16,7 +16,10 @@ tags:
   - Code
 draft: false
 weight: 375
-lastmod: 2025-03-03T00:13:13.843Z
+categories_ref:
+  - CPP
+  - History
+lastmod: 2025-03-14T15:45:10.551Z
 ---
 ![](/post/Articles/NEW/1696459985733.webp)
 

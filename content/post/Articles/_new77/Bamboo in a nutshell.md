@@ -17,7 +17,16 @@ tags:
   - CICD
 draft: false
 weight: 332
-lastmod: 2025-03-05T22:00:36.347Z
+categories_ref:
+  - DevOps
+  - Infrastructure as Code-IAC
+  - Cloud
+  - Bamboo
+  - CI\CD
+  - Testing
+  - Unit Testing
+  - Container Registry
+lastmod: 2025-03-14T15:45:24.236Z
 ---
 <!-- 
 # Bamboo in a Nutshell

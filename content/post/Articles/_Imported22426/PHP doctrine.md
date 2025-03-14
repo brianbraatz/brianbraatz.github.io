@@ -22,7 +22,14 @@ tags:
   - Migrations
 draft: false
 weight: 487
-lastmod: 2025-03-03T13:11:31.957Z
+categories_ref:
+  - PHP
+  - Database
+  - ORM
+  - Doctrine
+  - Cloud
+  - SQL
+lastmod: 2025-03-14T15:45:18.235Z
 ---
 # PHP Doctrine in a Nutshell
 

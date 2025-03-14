@@ -36,7 +36,31 @@ tags:
   - Java
 weight: 3
 draft: false
-lastmod: 2025-02-28T20:41:49.514Z
+categories_ref:
+  - Mobile
+  - Azure Mobile App Data Sync Framework
+  - Web Development
+  - iPhone
+  - IOS
+  - Android
+  - Cloud
+  - Microsoft Azure Cloud
+  - Microsoft Sql Server
+  - SQL
+  - Algorithms
+  - Computer Vision Algorithms
+  - WPF
+  - Xamarin
+  - CSharp
+  - Maui
+  - 8051 Embedded Processor
+  - 3D Model File Formats
+  - 3D Model File Formats-STL
+  - Steve Wozniak
+  - GUI
+  - Bluetooth API
+  - Bluetooth Protocol
+lastmod: 2025-03-14T15:45:15.586Z
 ---
 ![](/post/Articles/_EfitAware/Pasted%20image%2020250211070710.png)
 

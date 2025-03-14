@@ -24,7 +24,16 @@ tags:
   - Go
 draft: false
 weight: 342
-lastmod: 2025-02-14T16:33:18.725Z
+categories_ref:
+  - Protobuf
+  - gRPC
+  - Cloud
+  - CSharp
+  - GoLang
+  - Python
+  - Networking
+  - Network Protocols
+lastmod: 2025-03-14T15:45:24.492Z
 ---
 I have heard more than a few people talk about these in conversation like they are the same thing..
 

@@ -23,7 +23,13 @@ tags:
   - Networking
 draft: false
 weight: 25
-lastmod: 2025-03-04T14:55:22.501Z
+categories_ref:
+  - Kubernetes
+  - Security
+  - DDoS
+  - API Rate Limiting
+  - Cloud Computing
+lastmod: 2025-03-14T15:45:28.997Z
 ---
 <!-- 
 # The Evolution of DDoS Attacks: From 2000s Chaos to Modern Cloud Security

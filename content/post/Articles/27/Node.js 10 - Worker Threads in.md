@@ -18,7 +18,11 @@ tags:
   - Processing
 draft: "False"
 weight: "110"
-lastmod: 2025-03-03T17:18:32.261Z
+categories_ref:
+  - Node.js
+  - Worker Threads
+  - Concurrency
+lastmod: 2025-03-14T15:45:04.302Z
 ---
 ## Node.js 10 - Worker Threads in a Nutshell
 

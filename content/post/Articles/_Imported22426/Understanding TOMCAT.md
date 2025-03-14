@@ -18,7 +18,10 @@ tags:
   - Server
 draft: false
 weight: 523
-lastmod: 2025-03-03T14:11:01.663Z
+categories_ref:
+  - Servers
+  - Java
+lastmod: 2025-03-14T15:45:19.036Z
 ---
 <!-- 
 # Understanding Tomcat

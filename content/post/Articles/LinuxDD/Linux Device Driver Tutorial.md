@@ -20,7 +20,12 @@ tags:
   - Source
 draft: false
 weight: 3
-lastmod: 2025-03-03T22:08:53.254Z
+categories_ref:
+  - Kernel Programming
+  - Device Drivers
+  - Linux
+  - Concurrency
+lastmod: 2025-03-14T15:45:09.632Z
 ---
 # =====================================
 

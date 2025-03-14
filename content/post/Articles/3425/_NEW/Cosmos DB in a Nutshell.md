@@ -19,7 +19,12 @@ tags:
   - Cloud
 draft: false
 weight: 337
-lastmod: 2025-03-06T15:44:48.478Z
+categories_ref:
+  - Database
+  - Azure
+  - Cosmos DB
+  - NoSQL
+lastmod: 2025-03-14T15:45:06.536Z
 ---
 # Cosmos DB in a Nutshell
 

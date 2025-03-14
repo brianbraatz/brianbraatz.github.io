@@ -28,7 +28,12 @@ tags:
   - Comparison
 draft: false
 weight: 335
-lastmod: 2025-02-11T13:47:46.458Z
+categories_ref:
+  - Haskell
+  - Languages
+  - History
+  - Functional Programming
+lastmod: 2025-03-14T15:45:22.148Z
 ---
 <!--
 

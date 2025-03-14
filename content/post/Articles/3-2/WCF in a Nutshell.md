@@ -26,7 +26,19 @@ tags:
   - REST
 draft: false
 weight: 73
-lastmod: 2025-03-03T17:08:36.028Z
+categories_ref:
+  - WCF
+  - Microsoft
+  - C#
+  - Web Services
+  - SOAP
+  - REST
+  - Cloud
+  - CSharp
+  - Soap
+  - .NET
+  - Dotnet
+lastmod: 2025-03-14T15:45:05.363Z
 ---
 # WCF in a Nutshell: A Wild Ride Through Windows Communication Foundation
 

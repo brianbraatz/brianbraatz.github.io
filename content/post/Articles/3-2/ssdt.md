@@ -18,7 +18,12 @@ tags:
   - Microsoft
 draft: false
 weight: 472
-lastmod: 2025-03-02T23:11:54.342Z
+categories_ref:
+  - SQL Server
+  - SSDT
+  - Development
+  - Microsoft
+lastmod: 2025-03-14T15:45:05.250Z
 ---
 <!-- ## SQL Server Data Tools (SSDT): The Developer’s Best Friend
 

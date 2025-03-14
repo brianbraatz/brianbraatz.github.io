@@ -26,7 +26,17 @@ categories:
   - Azure Queue
 draft: false
 weight: 6
-lastmod: 2025-03-06T16:31:26.057Z
+categories_ref:
+  - DevOps
+  - Azure
+  - Cloud
+  - Operations
+  - AWS
+  - Microsoft Azure Cloud
+  - Google Cloud
+  - Azure Service Bus
+  - Azure Queue
+lastmod: 2025-03-14T15:45:16.013Z
 ---
 # Exploring Cloud Lock-In: Should I Take the Candy from the Stranger?
 

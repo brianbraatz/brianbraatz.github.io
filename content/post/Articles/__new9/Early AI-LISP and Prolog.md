@@ -30,7 +30,14 @@ tags:
   - Systems
 draft: false
 weight: 87
-lastmod: 2025-03-03T17:21:36.831Z
+categories_ref:
+  - Artificial Intellgence
+  - History
+  - Languages
+  - Machine Learning
+  - LISP
+  - Prolog
+lastmod: 2025-03-14T15:45:25.357Z
 ---
 ## The Birth of AI: Enter LISP and Prolog
 

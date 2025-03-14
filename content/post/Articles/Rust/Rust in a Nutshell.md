@@ -22,7 +22,8 @@ tags:
   - Networking
 draft: false
 weight: 25
-lastmod: 2025-03-04T11:10:14.902Z
+categories_ref: []
+lastmod: 2025-03-14T15:45:15.013Z
 ---
 Rust is a **statically typed, compiled programming language** designed to be **safe, concurrent, and blazingly fast** (yes, they actually say "blazingly fast" in their documentation). It has a reputation for **memory safety without garbage collection**, making it one of the most powerful and beloved modern programming languages.
 

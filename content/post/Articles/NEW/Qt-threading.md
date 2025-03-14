@@ -23,7 +23,12 @@ tags:
   - CPP
 draft: false
 weight: 42
-lastmod: 2025-02-21T01:09:33.944Z
+categories_ref:
+  - Qt GUI Framework
+  - Concurrency
+  - CPP
+  - WinAPI
+lastmod: 2025-03-14T15:45:13.370Z
 ---
 # Mastering Threading in Qt: How to Make Your UI Feel Smooth and Responsive
 

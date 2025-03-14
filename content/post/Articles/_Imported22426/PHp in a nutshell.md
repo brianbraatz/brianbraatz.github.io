@@ -28,7 +28,15 @@ tags:
   - Cons
 draft: false
 weight: 567
-lastmod: 2025-03-04T15:11:44.989Z
+categories_ref:
+  - Php
+  - Programming
+  - Web Development
+  - Scripting
+  - SQL
+  - Code Examples
+  - Cloud
+lastmod: 2025-03-14T15:45:18.308Z
 ---
 # PHP - Language in a Nutshell
 

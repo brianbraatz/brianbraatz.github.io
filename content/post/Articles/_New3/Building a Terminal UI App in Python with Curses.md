@@ -17,7 +17,11 @@ tags:
   - Development
 draft: false
 weight: 333
-lastmod: 2025-02-09T20:26:28.526Z
+categories_ref:
+  - Python
+  - Python-Curses
+  - GUI
+lastmod: 2025-03-14T15:45:19.787Z
 ---
 Image from this great book:
 

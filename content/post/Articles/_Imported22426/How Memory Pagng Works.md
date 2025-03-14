@@ -27,7 +27,17 @@ categories:
 draft: false
 weight: 40
 image: post/Articles/IMAGES/oldbook.jpg
-lastmod: 2025-03-03T18:34:21.046Z
+categories_ref:
+  - Assembly Language
+  - Device Drivers
+  - C
+  - Compilers
+  - Debugging
+  - Static Libraries
+  - Dynamic Libraries
+  - Linker Errors
+  - CPP
+lastmod: 2025-03-14T15:45:17.049Z
 ---
 Back in the early days of computing, memory was **precious and extremely limited**.
 

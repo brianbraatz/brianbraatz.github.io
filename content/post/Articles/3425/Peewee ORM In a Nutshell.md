@@ -19,7 +19,12 @@ tags:
   - Postgresql
 draft: false
 weight: 524
-lastmod: 2025-03-06T01:55:27.772Z
+categories_ref:
+  - Python
+  - Database
+  - ORM
+  - Peewee
+lastmod: 2025-03-14T15:45:06.009Z
 ---
 <!-- 
 # Python Peewee ORM In a Nutshell

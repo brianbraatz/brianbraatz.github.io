@@ -20,7 +20,12 @@ tags:
   - History
 draft: false
 weight: 320
-lastmod: 2025-02-11T13:18:45.943Z
+categories_ref:
+  - DevOps
+  - Infrastructure as Code-IAC
+  - Cloud
+  - CI\CD
+lastmod: 2025-03-14T15:45:24.798Z
 ---
 # Octopus in a nutshell
 

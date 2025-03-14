@@ -20,7 +20,13 @@ tags:
   - Linkerd
 draft: false
 weight: 850
-lastmod: 2025-02-16T22:08:44.583Z
+categories_ref:
+  - Kubernetes
+  - Networking
+  - Service Mesh
+  - Cloud
+  - DevOps
+lastmod: 2025-03-14T15:45:28.934Z
 ---
 <!--
 # Envoy vs Istio vs Linkerd: A Complete Comparison with Code Samples

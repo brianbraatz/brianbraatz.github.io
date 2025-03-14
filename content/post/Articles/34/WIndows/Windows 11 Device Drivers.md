@@ -19,7 +19,13 @@ tags:
   - Windows 11
 draft: false
 weight: 241
-lastmod: 2025-03-04T10:27:57.966Z
+categories_ref:
+  - WinApi
+  - Device Drivers
+  - Development
+  - Virtual Device Drivers (VxDs)
+  - "*User-Mode Driver Framework (UMDF)"
+lastmod: 2025-03-14T15:45:05.508Z
 ---
 # Intro to Windows Device Drivers in Windows 11
 

@@ -18,7 +18,10 @@ tags:
   - Examples
 draft: false
 weight: 18
-lastmod: 2025-03-03T15:06:39.402Z
+categories_ref:
+  - VueJs
+  - Web Development
+lastmod: 2025-03-14T15:45:14.895Z
 ---
 ## A Brief History of Vue.js (How It All Began)
 

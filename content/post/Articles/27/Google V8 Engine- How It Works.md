@@ -21,7 +21,12 @@ tags:
   - Compilation
 draft: "False"
 weight: "140"
-lastmod: 2025-03-03T17:22:22.772Z
+categories_ref:
+  - JavaScript
+  - Google
+  - V8 Engine
+  - Performance
+lastmod: 2025-03-14T15:45:04.058Z
 ---
 <!-- 
 # Google V8 Engine: How It Works, Pros and Cons, History & Timeline
