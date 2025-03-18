@@ -47,7 +47,8 @@ categories_ref:
   - CSharp
   - Java
   - Network Protocols
-lastmod: 2025-03-14T15:45:30.476Z
+slug_calculated: https://brianbraatz.github.io/p/iphone-abv-video-demo
+lastmod: 2025-03-14T16:40:37.393Z
 ---
 # Adaptive Video Bitrate Streaming
 

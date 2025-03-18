@@ -25,7 +25,8 @@ categories_ref:
   - Typescript
   - Javascript
   - Web Development
-lastmod: 2025-03-14T15:45:08.315Z
+slug_calculated: https://brianbraatz.github.io/p/whats-new-in-angular-13
+lastmod: 2025-03-14T16:40:18.849Z
 ---
 [The History of Microsoft Windows CE - Windows CE 2.0, 2.10. 2.11 & 2.12 - hpcfactor.com](https://www.hpcfactor.com/support/windowsce/history/ce2/)
 

@@ -24,7 +24,8 @@ categories_ref:
   - Programming
   - Async
   - Concurrency
-lastmod: 2025-03-14T15:45:04.741Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-async-quirks
+lastmod: 2025-03-14T16:40:12.671Z
 ---
 # Understanding the Nature of Asynchronous Programming and Its Quirks and Workarounds
 

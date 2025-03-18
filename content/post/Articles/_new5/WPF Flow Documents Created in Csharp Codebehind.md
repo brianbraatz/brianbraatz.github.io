@@ -25,7 +25,8 @@ categories_ref:
   - PDF
   - Postscript
   - Document Imaging
-lastmod: 2025-03-14T15:45:21.175Z
+slug_calculated: https://brianbraatz.github.io/p/wpf-flow-documents-in-code
+lastmod: 2025-03-14T16:40:28.393Z
 ---
 ![](/post/Articles/IMAGES/FlowDocument-floater.png)\
 From\

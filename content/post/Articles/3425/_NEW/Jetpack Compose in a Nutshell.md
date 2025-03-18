@@ -21,7 +21,8 @@ categories_ref:
   - Android
   - UI
   - Kotlin
-lastmod: 2025-03-14T15:45:06.654Z
+slug_calculated: https://brianbraatz.github.io/p/jetpack-compose-in-a-nutshell
+lastmod: 2025-03-14T16:40:15.862Z
 ---
 <!-- # Jetpack Compose in a Nutshell
 

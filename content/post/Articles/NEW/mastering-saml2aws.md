@@ -24,7 +24,8 @@ categories_ref:
   - Amazon Cloud-AWS
   - Security
   - SAML
-lastmod: 2025-03-14T15:45:12.343Z
+slug_calculated: https://brianbraatz.github.io/p/mastering-saml2aws-the-best-way-to-authenticate-to-aws
+lastmod: 2025-03-14T16:40:21.842Z
 ---
 # Mastering SAML2AWS: The Best Way to Authenticate to AWS
 

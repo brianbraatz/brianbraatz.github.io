@@ -32,7 +32,8 @@ categories_ref:
   - WinAPI
   - Operating Systems
   - Device Drivers
-lastmod: 2025-03-14T15:45:15.967Z
+slug_calculated: https://brianbraatz.github.io/p/386-enh-burger
+lastmod: 2025-03-14T16:40:24.284Z
 ---
 ![](/post/Articles/IMAGES/burgermaster348s.jpg)
 

@@ -23,7 +23,8 @@ categories_ref:
   - Programming
   - Performance
   - Java
-lastmod: 2025-03-14T15:45:04.133Z
+slug_calculated: https://brianbraatz.github.io/p/just-in-time-jit-compile
+lastmod: 2025-03-14T16:40:10.828Z
 ---
 <https://www.reddit.com/r/KitchenConfidential/comments/18o1i5o/was_greeted_to_all_of_this_immediately_after_we>
 

@@ -22,7 +22,8 @@ categories_ref:
   - Android
   - Java
   - Mobile
-lastmod: 2025-03-14T15:45:08.050Z
+slug_calculated: https://brianbraatz.github.io/p/Android-SDK-cheatsheet
+lastmod: 2025-03-14T16:40:18.364Z
 ---
 | **Category**             | **Description**                                                        | **Important Classes/Components**                                       |
 | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |

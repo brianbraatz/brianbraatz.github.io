@@ -29,7 +29,8 @@ categories_ref:
   - VxD
   - CPP
   - Device Drivers
-lastmod: 2025-03-14T15:45:05.617Z
+slug_calculated: https://brianbraatz.github.io/p/virtual-device-drivers-vxds
+lastmod: 2025-03-14T16:40:13.596Z
 ---
 # Virtual Device Drivers (VxDs)
 

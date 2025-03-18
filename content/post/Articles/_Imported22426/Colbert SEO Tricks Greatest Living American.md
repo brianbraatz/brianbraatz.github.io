@@ -26,7 +26,8 @@ categories_ref:
   - Crowdsourcing
   - Stephen Colbert
   - Internet Culture
-lastmod: 2025-03-14T15:45:16.062Z
+slug_calculated: https://brianbraatz.github.io/p/how-stephen-colbert-crowdsourced-seo
+lastmod: 2025-03-14T16:40:24.328Z
 ---
 ## The SEO Power of Large Crowd -> The Colbert Nation
 

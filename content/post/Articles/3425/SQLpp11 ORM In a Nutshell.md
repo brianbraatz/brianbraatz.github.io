@@ -23,7 +23,8 @@ categories_ref:
   - SQL
   - ORM
   - Database
-lastmod: 2025-03-14T15:45:06.261Z
+slug_calculated: https://brianbraatz.github.io/p/sqlpp11-orm-in-a-nutshell
+lastmod: 2025-03-14T16:40:14.651Z
 ---
 # SQL++11 ORM In a Nutshell
 

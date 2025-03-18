@@ -33,7 +33,8 @@ categories_ref:
   - Angular
   - React
   - Mobile
-lastmod: 2025-03-14T15:45:17.457Z
+slug_calculated: https://brianbraatz.github.io/p/material-design-nutshell
+lastmod: 2025-03-14T16:40:25.548Z
 ---
 <!-- 
 # The Wild World of Material Design: From History to Modern Frameworks

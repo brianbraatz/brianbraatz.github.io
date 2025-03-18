@@ -30,7 +30,8 @@ categories_ref:
   - Unit Testing
   - GoLang
   - Testing
-lastmod: 2025-03-14T15:45:23.807Z
+slug_calculated: https://brianbraatz.github.io/p/go-whitebox
+lastmod: 2025-03-14T16:40:30.889Z
 ---
 <!--
 

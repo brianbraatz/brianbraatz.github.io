@@ -1,7 +1,7 @@
 ---
 title: Evolution of C++ 1.0 to C++ 11
 description: This one goes to ELEVEN!!!!!
-slug: from-c++-1.0-to-c++-11
+slug: from-c-10-to-c-11
 date: 2018-05-24
 image: post/Articles/IMAGES/goesto11-b.png
 categories:
@@ -19,7 +19,8 @@ weight: 375
 categories_ref:
   - CPP
   - History
-lastmod: 2025-03-14T15:45:10.551Z
+slug_calculated: https://brianbraatz.github.io/p/from-c++-1.0-to-c++-11
+lastmod: 2025-03-18T18:09:43.172Z
 ---
 ![](/post/Articles/NEW/1696459985733.webp)
 

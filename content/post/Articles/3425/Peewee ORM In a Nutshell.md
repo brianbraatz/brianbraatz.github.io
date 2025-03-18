@@ -24,7 +24,8 @@ categories_ref:
   - Database
   - ORM
   - Peewee
-lastmod: 2025-03-14T15:45:06.009Z
+slug_calculated: https://brianbraatz.github.io/p/python-peewee-orm-in-a-nutshell
+lastmod: 2025-03-14T16:40:14.153Z
 ---
 <!-- 
 # Python Peewee ORM In a Nutshell

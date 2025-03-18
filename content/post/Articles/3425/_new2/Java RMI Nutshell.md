@@ -1,7 +1,7 @@
 ---
 title: Java RMI in a Nutshell
 description: Java RMI in a Nutshell
-slug: Party Like it's 1995!
+slug: java-rmi-nutshell
 date: 2020-09-14
 image: post/Articles/IMAGES/java.png
 categories:
@@ -25,7 +25,8 @@ categories_ref:
   - Networking
   - Distributed Systems
   - Cloud
-lastmod: 2025-03-14T15:45:07.741Z
+slug_calculated: https://brianbraatz.github.io/p/Party Like it's 1995!
+lastmod: 2025-03-18T18:52:20.441Z
 ---
 # Java RMI in a Nutshell
 

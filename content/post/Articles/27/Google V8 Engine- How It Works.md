@@ -26,7 +26,8 @@ categories_ref:
   - Google
   - V8 Engine
   - Performance
-lastmod: 2025-03-14T15:45:04.058Z
+slug_calculated: https://brianbraatz.github.io/p/google-v8-engine-nutshell
+lastmod: 2025-03-14T16:40:10.763Z
 ---
 <!-- 
 # Google V8 Engine: How It Works, Pros and Cons, History & Timeline

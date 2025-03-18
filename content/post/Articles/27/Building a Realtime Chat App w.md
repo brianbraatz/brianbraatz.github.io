@@ -22,7 +22,8 @@ categories_ref:
   - Socket.IO
   - WebSockets
   - Chat Application
-lastmod: 2025-03-14T15:45:04.000Z
+slug_calculated: https://brianbraatz.github.io/p/building-realtime-chat-nodejs
+lastmod: 2025-03-14T16:40:10.714Z
 ---
 ## 🚀 Let's Build a Realtime Chat App with Node.js and Socket.IO
 

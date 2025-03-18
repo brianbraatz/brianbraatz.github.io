@@ -35,7 +35,8 @@ categories_ref:
   - CI\CD
   - DevOps
   - Cloud
-lastmod: 2025-03-14T15:45:03.759Z
+slug_calculated: https://brianbraatz.github.io/p/swagger-to-latex-pdf
+lastmod: 2025-03-14T16:40:10.258Z
 ---
 Swagger UI is **great** for interactive API docs, but sometimes you need a **professional PDF document**.
 

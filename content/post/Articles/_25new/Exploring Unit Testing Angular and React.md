@@ -30,7 +30,8 @@ categories_ref:
   - Angular
   - React
   - Testing Strategies
-lastmod: 2025-03-14T15:45:15.477Z
+slug_calculated: https://brianbraatz.github.io/p/unittesting-angular-react
+lastmod: 2025-03-14T16:40:23.961Z
 ---
 <!-- 
 # Strategies for Unit Testing Angular and React (Without Losing Your Sanity)

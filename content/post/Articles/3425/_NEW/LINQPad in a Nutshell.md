@@ -21,7 +21,8 @@ categories_ref:
   - C#
   - Development
   - Tools
-lastmod: 2025-03-14T15:45:06.718Z
+slug_calculated: https://brianbraatz.github.io/p/linqpad-in-a-nutshell
+lastmod: 2025-03-14T16:40:16.034Z
 ---
 ![](/post/Articles/3425/_NEW/linqpad.png)
 

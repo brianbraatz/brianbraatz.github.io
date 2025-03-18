@@ -22,7 +22,8 @@ categories_ref:
   - Web Development
   - PHP
   - Cloud
-lastmod: 2025-03-14T15:45:07.054Z
+slug_calculated: https://brianbraatz.github.io/p/php8-nutshell
+lastmod: 2025-03-14T16:40:17.008Z
 ---
 ## **PHP 8 in a Nutshell**
 

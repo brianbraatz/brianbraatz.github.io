@@ -21,7 +21,8 @@ categories_ref:
   - Frontend
   - JavaScript
   - Web Development
-lastmod: 2025-03-14T15:45:07.355Z
+slug_calculated: https://brianbraatz.github.io/p/svelte-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.674Z
 ---
 # Svelte in a Nutshell
 

@@ -42,7 +42,8 @@ categories_ref:
   - Redpanda
   - Microservices
   - Cheatsheet
-lastmod: 2025-03-14T15:45:12.619Z
+slug_calculated: https://brianbraatz.github.io/p/messaging-madness
+lastmod: 2025-03-14T16:40:21.933Z
 ---
 # Messaging Madness: ActiveMQ vs Kinesis vs Pub/Sub vs Pulsar vs IBM MQ vs Redpanda vs NATS
 

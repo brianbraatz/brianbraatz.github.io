@@ -44,7 +44,8 @@ categories_ref:
   - Microsoft Azure Cloud
   - Amazon Cloud-AWS
   - Azure Cloud
-lastmod: 2025-03-14T15:45:25.589Z
+slug_calculated: https://brianbraatz.github.io/p/machine-learning-modern-age-cloud-examples
+lastmod: 2025-03-14T16:40:32.940Z
 ---
 ## The Cloud ML Showdown: Azure vs. AWS vs. Google Cloud
 

@@ -16,7 +16,8 @@ draft: false
 categories_ref:
   - JQuery
   - Web Development
-lastmod: 2025-03-14T15:45:09.584Z
+slug_calculated: https://brianbraatz.github.io/p/jquery-nutshell
+lastmod: 2025-03-14T16:40:19.931Z
 ---
 # jQuery in a Nutshell
 

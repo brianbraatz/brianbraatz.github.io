@@ -26,7 +26,8 @@ categories_ref:
   - Windows
   - Windows API
   - GUI
-lastmod: 2025-03-14T15:45:21.052Z
+slug_calculated: https://brianbraatz.github.io/p/why-i-love-windows-95-developer-perspective
+lastmod: 2025-03-14T16:40:28.308Z
 ---
 <!-- 
 {{< youtube "https://www.youtube.com/watch?v=wRdl1BjTG7c" >}}

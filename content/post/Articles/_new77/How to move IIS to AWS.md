@@ -27,7 +27,8 @@ categories_ref:
   - CI\CD
   - AWS Elastic Container Registry
   - Container Registry
-lastmod: 2025-03-14T15:45:24.587Z
+slug_calculated: https://brianbraatz.github.io/p/how-to-move-a-legacy-iis-app-to-the-aws-cloud
+lastmod: 2025-03-14T16:40:32.010Z
 ---
 <!-- 
 # How to Move a legacy IIS app to the AWS Cloud with Beanstalk, App runner and docker

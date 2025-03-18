@@ -30,7 +30,8 @@ categories_ref:
   - Testing
   - Unit Testing
   - Mobile
-lastmod: 2025-03-14T15:45:15.305Z
+slug_calculated: https://brianbraatz.github.io/p/sqlite-love
+lastmod: 2025-03-14T16:40:23.816Z
 ---
 # Why I Love the SQLite Database Engine
 

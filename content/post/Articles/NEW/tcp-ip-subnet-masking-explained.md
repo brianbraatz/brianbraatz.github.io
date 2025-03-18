@@ -23,7 +23,8 @@ categories_ref:
   - Networking
   - Protocols
   - Network Protocols
-lastmod: 2025-03-14T15:45:13.639Z
+slug_calculated: https://brianbraatz.github.io/p/tcp-ip-subnet-masking-explained
+lastmod: 2025-03-14T16:40:22.755Z
 ---
 The Venetian carnival tradition is most famous for its distinctive masks. Photograph by [Frank Kovalchek](https://en.wikipedia.org/wiki/File:Venice_Carnival_-_Masked_Lovers_\(2010\).jpg) via Wikimedia Commons (CC BY 2.0).
 

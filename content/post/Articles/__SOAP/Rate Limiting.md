@@ -39,7 +39,8 @@ categories_ref:
   - Denial Of Service
   - Abuse Prevention
   - Traffic Control
-lastmod: 2025-03-14T15:45:26.367Z
+slug_calculated: https://brianbraatz.github.io/p/rate-limiting-101
+lastmod: 2025-03-14T16:40:33.699Z
 ---
 # Rate Limiting 101: Keeping Your App from Exploding (Metaphorically)
 

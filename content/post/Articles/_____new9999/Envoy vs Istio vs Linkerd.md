@@ -26,7 +26,8 @@ categories_ref:
   - Service Mesh
   - Cloud
   - DevOps
-lastmod: 2025-03-14T15:45:28.934Z
+slug_calculated: https://brianbraatz.github.io/p/envoy-istio-linkerd-comparison
+lastmod: 2025-03-14T16:40:36.222Z
 ---
 <!--
 # Envoy vs Istio vs Linkerd: A Complete Comparison with Code Samples

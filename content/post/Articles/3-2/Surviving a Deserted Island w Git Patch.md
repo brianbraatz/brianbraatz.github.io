@@ -25,7 +25,8 @@ categories_ref:
   - Version Control
   - Offline Development
   - Linux
-lastmod: 2025-03-14T15:45:05.309Z
+slug_calculated: https://brianbraatz.github.io/p/git-patching-deserted-island
+lastmod: 2025-03-14T16:40:13.233Z
 ---
 (\
 Really **GREAT** Movie:\

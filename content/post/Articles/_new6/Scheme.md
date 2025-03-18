@@ -29,7 +29,8 @@ categories_ref:
   - Languages
   - Scheme
   - History
-lastmod: 2025-03-14T15:45:23.224Z
+slug_calculated: https://brianbraatz.github.io/p/scheme-nutshell
+lastmod: 2025-03-14T16:40:30.185Z
 ---
 <!-- 
 # The Scheme Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

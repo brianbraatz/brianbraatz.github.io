@@ -21,7 +21,8 @@ categories_ref:
   - Programming
   - Ruby
   - Scripting
-lastmod: 2025-03-14T15:45:07.284Z
+slug_calculated: https://brianbraatz.github.io/p/ruby-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.599Z
 ---
 # Ruby in a Nutshell: A Fun and Informal Guide
 

@@ -40,7 +40,8 @@ categories_ref:
   - Maui
   - Testing
   - Mobile
-lastmod: 2025-03-14T15:45:23.978Z
+slug_calculated: https://brianbraatz.github.io/p/wpf-unit-test-compared
+lastmod: 2025-03-14T16:40:31.169Z
 ---
 <!--
 

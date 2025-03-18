@@ -20,7 +20,8 @@ categories_ref:
   - Python
   - ORM
   - Tortoise
-lastmod: 2025-03-14T15:45:06.333Z
+slug_calculated: https://brianbraatz.github.io/p/python-tortoise-orm-in-a-nutshell
+lastmod: 2025-03-14T16:40:14.938Z
 ---
 # Python Tortoise ORM In a Nutshell
 

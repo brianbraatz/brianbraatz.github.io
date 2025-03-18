@@ -23,7 +23,8 @@ categories_ref:
   - Python-Click
   - GUI
   - Python-Gui
-lastmod: 2025-03-14T15:45:19.895Z
+slug_calculated: https://brianbraatz.github.io/p/auto-completion-click-cli
+lastmod: 2025-03-14T16:40:26.955Z
 ---
 # How to Add Auto-Completion to Click CLI Apps
 

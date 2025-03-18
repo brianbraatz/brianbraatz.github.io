@@ -22,7 +22,8 @@ categories_ref:
   - Docker
   - Web Development
   - Containers
-lastmod: 2025-03-14T15:45:04.098Z
+slug_calculated: https://brianbraatz.github.io/p/how-to-set-up-nodejs-with
+lastmod: 2025-03-14T16:40:10.796Z
 ---
 ***
 

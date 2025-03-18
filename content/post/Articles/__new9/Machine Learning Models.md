@@ -31,7 +31,8 @@ categories_ref:
   - Artificial Intellgence
   - History
   - Languages
-lastmod: 2025-03-14T15:45:25.629Z
+slug_calculated: https://brianbraatz.github.io/p/machine-learning-models-in-depth
+lastmod: 2025-03-14T16:40:33.018Z
 ---
 <!-- 
 # Machine Learning Models in Depth: What They Are, How They Work, and Their Relationship to Neural Networks and Expert Systems

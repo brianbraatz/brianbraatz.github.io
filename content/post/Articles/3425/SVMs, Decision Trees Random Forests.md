@@ -23,7 +23,8 @@ categories_ref:
   - Machine Learning
   - Scikit-learn
   - Data Science
-lastmod: 2025-03-14T15:45:06.299Z
+slug_calculated: https://brianbraatz.github.io/p/svm-decision-trees-random-forests
+lastmod: 2025-03-14T16:40:14.811Z
 ---
 [Seeing the forest for the trees](https://www.scienceintheclassroom.org/research-papers/seeing-forest-trees)
 

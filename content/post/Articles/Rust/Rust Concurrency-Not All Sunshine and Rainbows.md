@@ -17,7 +17,8 @@ tags:
 draft: false
 weight: 35
 categories_ref: []
-lastmod: 2025-03-14T15:45:14.939Z
+slug_calculated: https://brianbraatz.github.io/p/rust-parallelism-challenges
+lastmod: 2025-03-14T16:40:23.555Z
 ---
 **or is it???**\
 """\

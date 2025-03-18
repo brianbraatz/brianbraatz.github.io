@@ -37,7 +37,8 @@ categories_ref:
   - Machine Learning
   - Python
   - CPP
-lastmod: 2025-03-14T15:45:25.306Z
+slug_calculated: https://brianbraatz.github.io/p/ai-autocoach
+lastmod: 2025-03-14T16:40:32.561Z
 ---
 # Gun Shooting Neural Network Coach with OpenCV
 

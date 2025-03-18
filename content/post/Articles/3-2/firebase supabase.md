@@ -31,7 +31,8 @@ categories_ref:
   - SQL
   - Supabase
   - Firebase
-lastmod: 2025-03-14T15:45:04.897Z
+slug_calculated: https://brianbraatz.github.io/p/supabase-vs-firebase
+lastmod: 2025-03-14T16:40:12.801Z
 ---
 <!-- # Supabase vs Firebase: The Ultimate Showdown of Backend Titans ⚔️🔥
 

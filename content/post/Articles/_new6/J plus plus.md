@@ -31,7 +31,8 @@ categories_ref:
   - Java
   - Web Development
   - Cloud
-lastmod: 2025-03-14T15:45:22.409Z
+slug_calculated: https://brianbraatz.github.io/p/j-plus-plus
+lastmod: 2025-03-14T16:40:29.628Z
 ---
 <!--
 

@@ -19,7 +19,8 @@ categories_ref:
   - Cloud
   - Ansible
   - CI\CD
-lastmod: 2025-03-14T15:45:25.224Z
+slug_calculated: https://brianbraatz.github.io/p/Latext-tricks
+lastmod: 2025-03-14T16:40:32.488Z
 ---
 in tex i want a box in the middle of the page. I want the box to take 30% of the width of the page, and inside the box I want a heading that is bold and has a line below it and the heading is centered. Bellow that I want a heriarchial bullet list which is left justified
 

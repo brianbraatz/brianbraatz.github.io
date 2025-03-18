@@ -35,7 +35,8 @@ categories_ref:
   - MFC
   - WinAPI
   - OLE
-lastmod: 2025-03-14T15:45:22.520Z
+slug_calculated: https://brianbraatz.github.io/p/java-jni
+lastmod: 2025-03-14T16:40:29.762Z
 ---
 # Java JNI in Detail: History, Motivation, Relationship to Modern Languages, and 10 Code Examples
 

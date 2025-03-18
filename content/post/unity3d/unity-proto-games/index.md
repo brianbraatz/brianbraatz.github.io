@@ -40,7 +40,8 @@ categories_ref:
   - Cloud-Real Time Multi User
   - Web Assembly
   - Azure
-lastmod: 2025-03-14T15:45:30.891Z
+slug_calculated: https://brianbraatz.github.io/p/unity-proto-games
+lastmod: 2025-03-14T16:40:37.764Z
 ---
 <!-- 
 If you are interested in a tutorial on how to setup Multiplayer in Azure , Check out my tutorial:

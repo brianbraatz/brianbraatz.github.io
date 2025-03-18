@@ -29,7 +29,8 @@ categories_ref:
   - Big Data
   - Database
   - Cloud
-lastmod: 2025-03-14T15:45:16.505Z
+slug_calculated: https://brianbraatz.github.io/p/etl-extract-transform-load-pipelines-in-a-nutshell
+lastmod: 2025-03-14T16:40:24.700Z
 ---
 # ETL (Extract, Transform, Load) Pipelines in a Nutshell
 

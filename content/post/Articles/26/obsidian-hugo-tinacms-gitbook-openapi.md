@@ -22,7 +22,8 @@ categories_ref:
   - Documentation
   - OpenAPI
   - Web Development
-lastmod: 2025-03-14T15:45:03.548Z
+slug_calculated: https://brianbraatz.github.io/p/obsidian-hugo-tinacms-gitbook-openapi
+lastmod: 2025-03-14T16:40:10.021Z
 ---
 <!-- 
 ## Introduction

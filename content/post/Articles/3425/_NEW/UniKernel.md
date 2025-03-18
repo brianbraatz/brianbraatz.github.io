@@ -23,7 +23,8 @@ categories_ref:
   - Cloud
   - Virtualization
   - Security
-lastmod: 2025-03-14T15:45:07.475Z
+slug_calculated: https://brianbraatz.github.io/p/unikernel-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.734Z
 ---
 <!-- # Unikernel in a Nutshell
 

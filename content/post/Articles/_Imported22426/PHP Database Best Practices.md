@@ -31,7 +31,8 @@ categories_ref:
   - SQL Security
   - Cloud
   - SQL
-lastmod: 2025-03-14T15:45:18.169Z
+slug_calculated: https://brianbraatz.github.io/p/hp-with-databases
+lastmod: 2025-03-14T16:40:25.681Z
 ---
 # Best Practices for PHP with Databases
 

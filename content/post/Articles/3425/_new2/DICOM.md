@@ -28,7 +28,8 @@ categories_ref:
   - HL7
   - IHE
   - Healthcare
-lastmod: 2025-03-14T15:45:07.607Z
+slug_calculated: https://brianbraatz.github.io/p/dicom-hl7-ihe-nutshell
+lastmod: 2025-03-14T16:40:17.943Z
 ---
 ## **DICOM, HL7, and IHE in a Nutshell**
 

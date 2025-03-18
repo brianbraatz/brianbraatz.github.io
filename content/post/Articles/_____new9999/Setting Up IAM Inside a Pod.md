@@ -27,7 +27,8 @@ categories_ref:
   - IAM
   - DevOps
   - Cloud
-lastmod: 2025-03-14T15:45:29.770Z
+slug_calculated: https://brianbraatz.github.io/p/setup-iam-inside-pod
+lastmod: 2025-03-14T16:40:37.018Z
 ---
 (\
 props to :\

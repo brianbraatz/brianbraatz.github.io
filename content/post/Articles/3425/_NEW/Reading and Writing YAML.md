@@ -30,7 +30,8 @@ categories_ref:
   - Go
   - Python
   - Rust
-lastmod: 2025-03-14T15:45:07.258Z
+slug_calculated: https://brianbraatz.github.io/p/reading-and-writing-yaml-cpp-csharp-go-python-rust
+lastmod: 2025-03-14T16:40:17.479Z
 ---
 <!-- # Reading and Writing YAML in C++, C#, Go, Python, and Rust -->
 

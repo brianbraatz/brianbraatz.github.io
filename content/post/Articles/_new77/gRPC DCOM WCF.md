@@ -33,7 +33,8 @@ categories_ref:
   - Python
   - GoLang
   - WinApi
-lastmod: 2025-03-14T15:45:24.381Z
+slug_calculated: https://brianbraatz.github.io/p/grpc-in-depth-comparison-with-wcf-and-dcom
+lastmod: 2025-03-14T16:40:31.757Z
 ---
 ## 🕰️ A Little Backstory (because context matters)
 

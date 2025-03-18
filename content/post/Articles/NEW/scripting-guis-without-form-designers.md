@@ -1,7 +1,7 @@
 ---
 title: Command line C# Scripting with GUIs
 description: And NO form designers
-slug: scripting-guis-without-form-designers-in-c#
+slug: scripting-cs-guis-no-form-designers
 date: 2021-07-24
 image: post/Articles/IMAGES/cmdlinescripting.png
 categories:
@@ -26,7 +26,8 @@ categories_ref:
   - Maui
   - CSharp
   - DotNet
-lastmod: 2025-03-14T15:45:13.593Z
+slug_calculated: https://brianbraatz.github.io/p/scripting-guis-without-form-designers-in-c#
+lastmod: 2025-03-18T19:15:03.483Z
 ---
 # Scripting GUIs Without Form Designers in C\#
 

@@ -1,7 +1,7 @@
 ---
 title: Java Unit Testing Tools Compared
 description: Comparison of JUnit, TestNG, Mockito, PowerMock, JMockit, Arquillian, and DbUnit
-slug: junit-testng-mockito-powermock-jmockit-arquillian-and-dbunit
+slug: junit-testing
 date: 2020-03-31
 image: https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg
 categories:
@@ -30,7 +30,8 @@ categories_ref:
   - Java
   - Unit Testing
   - Testing
-lastmod: 2025-03-14T15:45:22.460Z
+slug_calculated: https://brianbraatz.github.io/p/junit-testng-mockito-powermock-jmockit-arquillian-and-dbunit
+lastmod: 2025-03-18T22:45:33.944Z
 ---
 <!-- 
 # History and In-Depth Comparison with Code Examples of JUnit, TestNG, Mockito, PowerMock, JMockit, Arquillian, and DbUnit for More Effective Unit Testing in Java

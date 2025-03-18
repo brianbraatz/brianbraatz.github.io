@@ -47,7 +47,8 @@ categories_ref:
   - Optimization
   - Mobile
   - Cloud
-lastmod: 2025-03-14T15:45:08.034Z
+slug_calculated: https://brianbraatz.github.io/p/astar-search-algorithm
+lastmod: 2025-03-14T16:40:18.318Z
 ---
 <!-- 
 # A* Search Algorithm Explained in Detail (With Code in C# and Python)

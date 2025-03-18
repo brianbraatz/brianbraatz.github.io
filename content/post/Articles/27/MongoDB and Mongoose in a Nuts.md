@@ -24,7 +24,8 @@ categories_ref:
   - Database
   - SQL
   - GraphQL
-lastmod: 2025-03-14T15:45:04.215Z
+slug_calculated: https://brianbraatz.github.io/p/mongodb-mongoose-nutshell
+lastmod: 2025-03-14T16:40:11.102Z
 ---
 <!-- 
 

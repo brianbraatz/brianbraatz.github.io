@@ -23,7 +23,8 @@ categories_ref:
   - Protocols
   - Networking
   - Network Protocols
-lastmod: 2025-03-14T15:45:13.683Z
+slug_calculated: https://brianbraatz.github.io/p/tcp-ip-udp-explained
+lastmod: 2025-03-14T16:40:22.812Z
 ---
 # TCP/IP-UDP Explained
 

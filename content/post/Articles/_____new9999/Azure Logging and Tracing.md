@@ -43,7 +43,8 @@ categories_ref:
   - Python
   - Microsoft Azure Cloud
   - Kusto Query Language (KQL)
-lastmod: 2025-03-14T15:45:28.597Z
+slug_calculated: https://brianbraatz.github.io/p/azure-logging-tracing
+lastmod: 2025-03-14T16:40:35.797Z
 ---
 ***
 

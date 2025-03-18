@@ -28,7 +28,8 @@ categories_ref:
   - 8051 Embedded Processor
   - Languages
   - History
-lastmod: 2025-03-14T15:45:09.683Z
+slug_calculated: https://brianbraatz.github.io/p/8051-assembly-language-in-a-nutshell
+lastmod: 2025-03-14T16:40:19.972Z
 ---
 # 8051 Assembly Language in a Nutshell
 

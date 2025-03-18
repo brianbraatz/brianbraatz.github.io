@@ -1,7 +1,7 @@
 ---
 title: Understanding PHP Classes and Good Practices for OO and Isolation in PHP
 description: Understanding PHP Classes and Good Practices for OO and Isolation in PHP
-slug: understanding-php-classes-and-good-practices-for-oo-and-isolation-in-php
+slug: php-classes-oo-isolation
 date: 2018-07-15
 image: post/Articles/IMAGES/42.jpg
 categories:
@@ -31,7 +31,8 @@ categories_ref:
   - Code Organization
   - SQL
   - Cloud
-lastmod: 2025-03-14T15:45:17.259Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-php-classes-and-good-practices-for-oo-and-isolation-in-php
+lastmod: 2025-03-18T22:42:10.296Z
 ---
 w
 

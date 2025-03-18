@@ -32,7 +32,8 @@ categories_ref:
   - Windows
   - Document Imaging
   - DotNet
-lastmod: 2025-03-14T15:45:21.117Z
+slug_calculated: https://brianbraatz.github.io/p/wpf-flow-documents-compared-to-pdf
+lastmod: 2025-03-14T16:40:28.348Z
 ---
 ![](/post/Articles/IMAGES/flowdocumentexample.png)\
 From\

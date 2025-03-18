@@ -27,7 +27,8 @@ categories_ref:
   - Containers
   - Linux
   - DevOps
-lastmod: 2025-03-14T15:45:29.447Z
+slug_calculated: https://brianbraatz.github.io/p/musl-vs-glibc-busybox-explained
+lastmod: 2025-03-14T16:40:36.710Z
 ---
 <!--
 # musl vs glibc and busybox: Why They Matter for Secure Containers

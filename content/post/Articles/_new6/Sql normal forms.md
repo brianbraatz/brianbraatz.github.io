@@ -36,7 +36,8 @@ categories_ref:
   - SQL
   - Design Patterns
   - Software Architecture
-lastmod: 2025-03-14T15:45:23.387Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-the-levels-of-normalization-in-sql
+lastmod: 2025-03-14T16:40:30.442Z
 ---
 <!--
 

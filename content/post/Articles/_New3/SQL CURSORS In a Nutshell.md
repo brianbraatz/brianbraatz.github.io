@@ -25,7 +25,8 @@ categories_ref:
   - Microsoft Sql Server
   - MySql
   - Postgres Sql
-lastmod: 2025-03-14T15:45:20.132Z
+slug_calculated: https://brianbraatz.github.io/p/sql-cursors-history-motivation-understanding
+lastmod: 2025-03-14T16:40:27.142Z
 ---
 # SQL CURSORS: The History and Motivation, Understanding How They Work
 

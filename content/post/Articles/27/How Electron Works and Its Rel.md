@@ -22,7 +22,8 @@ categories_ref:
   - Node.js
   - JavaScript
   - Web Development
-lastmod: 2025-03-14T15:45:04.075Z
+slug_calculated: https://brianbraatz.github.io/p/how-electron-works
+lastmod: 2025-03-14T16:40:10.776Z
 ---
 ## What the Heck is Electron?
 

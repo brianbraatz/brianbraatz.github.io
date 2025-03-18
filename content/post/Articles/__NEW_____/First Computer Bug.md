@@ -12,11 +12,12 @@ tags:
   - Debugging
   - Grace Hopper
   - First Bug
-draft: false
+draft: true
 weight: 328
 categories_ref:
   - History
-lastmod: 2025-03-14T15:45:25.799Z
+slug_calculated: https://brianbraatz.github.io/p/the-very-first-computer-bug-seriously-it-was-a-real-bug-read-on
+lastmod: 2025-03-18T22:02:28.198Z
 ---
 # The Very FIRST Computer BUG... Seriously... It Was a Real Bug... Read On...
 

@@ -43,7 +43,8 @@ categories_ref:
   - MySql
   - Microsoft Sql Server
   - Postgres Sql
-lastmod: 2025-03-14T15:45:22.982Z
+slug_calculated: https://brianbraatz.github.io/p/oldschool-scale
+lastmod: 2025-03-14T16:40:30.078Z
 ---
 <!--
 # How We Used to Scale Websites and App Services: A Deep Dive into Pre-Cloud Scaling Methods

@@ -29,7 +29,8 @@ categories_ref:
   - Kernel
   - Development
   - CPP
-lastmod: 2025-03-14T15:45:05.389Z
+slug_calculated: https://brianbraatz.github.io/p/write-bluetooth-driver-linux
+lastmod: 2025-03-14T16:40:13.305Z
 ---
 <!-- 
 # [How to Write a Bluetooth Driver in C++ on Linux (Without Losing Your Sanity)]()

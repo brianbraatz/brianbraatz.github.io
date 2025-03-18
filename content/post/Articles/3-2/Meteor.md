@@ -27,7 +27,8 @@ categories_ref:
   - Full-Stack
   - Cloud
   - Low-Code
-lastmod: 2025-03-14T15:45:04.961Z
+slug_calculated: https://brianbraatz.github.io/p/meteor-js-fullstack-magic
+lastmod: 2025-03-14T16:40:12.829Z
 ---
 <!-- # Meteor.js: The Full-Stack JavaScript Magic Trick 🎩✨ -->
 

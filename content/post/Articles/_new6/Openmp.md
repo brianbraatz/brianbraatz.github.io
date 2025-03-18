@@ -1,7 +1,7 @@
 ---
 title: OpenMP in a Nutshell
 description: Hardcore Parallel Programming ...
-slug: openmp-in-detail:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+slug: openmp
 date: 2021-04-16
 image: post/Articles/IMAGES/openmplogo.png
 categories:
@@ -33,7 +33,8 @@ categories_ref:
   - Concurrency
   - Cloud
   - WinApi
-lastmod: 2025-03-14T15:45:23.024Z
+slug_calculated: https://brianbraatz.github.io/p/openmp-in-detail:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+lastmod: 2025-03-18T18:33:41.090Z
 ---
 <!--
 # OpenMP in Detail: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

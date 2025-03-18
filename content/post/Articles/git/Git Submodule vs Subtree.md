@@ -18,7 +18,8 @@ weight: 30
 categories_ref:
   - GIT
   - DevOps
-lastmod: 2025-03-14T15:45:09.107Z
+slug_calculated: https://brianbraatz.github.io/p/git-submodules-vs-subtrees
+lastmod: 2025-03-14T16:40:19.784Z
 ---
 # Git Submodules vs. Git Subtrees
 

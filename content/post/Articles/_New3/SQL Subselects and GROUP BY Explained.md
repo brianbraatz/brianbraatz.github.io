@@ -28,7 +28,8 @@ categories_ref:
   - Microsoft Sql Server
   - MySql
   - Postgres Sql
-lastmod: 2025-03-14T15:45:20.185Z
+slug_calculated: https://brianbraatz.github.io/p/sql-subselects-group-by-explained
+lastmod: 2025-03-14T16:40:27.192Z
 ---
 <!-- >
 # SQL Subselects and GROUP BY Explained: The History, Motivation, and How They Work

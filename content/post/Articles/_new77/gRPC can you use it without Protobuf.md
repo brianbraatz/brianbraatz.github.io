@@ -32,7 +32,8 @@ categories_ref:
   - CSharp
   - Python
   - GoLang
-lastmod: 2025-03-14T15:45:24.329Z
+slug_calculated: https://brianbraatz.github.io/p/using-grpc-with-and-without-protobuf
+lastmod: 2025-03-14T16:40:31.732Z
 ---
 <!-- 
 # 🚀 Using gRPC with and without Protobuf: 10 Code Examples in Python, C#, and Go

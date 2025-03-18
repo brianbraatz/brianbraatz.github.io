@@ -36,7 +36,8 @@ categories_ref:
   - SQL
   - Code Examples
   - Cloud
-lastmod: 2025-03-14T15:45:18.308Z
+slug_calculated: https://brianbraatz.github.io/p/php-language-in-a-nutshell
+lastmod: 2025-03-14T16:40:25.715Z
 ---
 # PHP - Language in a Nutshell
 

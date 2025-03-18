@@ -29,7 +29,8 @@ categories_ref:
   - Asp.Net Mvc
   - Asp.Net Core
   - Asp.Net 8
-lastmod: 2025-03-14T15:45:04.727Z
+slug_calculated: https://brianbraatz.github.io/p/aspnet-the-history
+lastmod: 2025-03-14T16:40:12.656Z
 ---
 <!-- # Understanding the History of ASP vs ASP.NET vs ASP.NET MVC vs ASP.NET Core vs ASP.NET 8
 

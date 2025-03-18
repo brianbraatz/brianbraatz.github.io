@@ -40,7 +40,8 @@ categories_ref:
   - ALU
   - Assembly Language
   - History
-lastmod: 2025-03-14T15:45:16.355Z
+slug_calculated: https://brianbraatz.github.io/p/your-cpu-cannot-divide-at-least-the-old-ones
+lastmod: 2025-03-14T16:40:24.560Z
 ---
 # Your CPU Cannot Divide! At Least the Old Ones
 

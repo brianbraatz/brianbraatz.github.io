@@ -23,7 +23,8 @@ categories_ref:
   - API Documentation
   - OpenAPI
   - Web Development
-lastmod: 2025-03-14T15:45:03.614Z
+slug_calculated: https://brianbraatz.github.io/p/openapi-manual-docs
+lastmod: 2025-03-14T16:40:10.128Z
 ---
 # How to Keep OpenAPI Documents Up to Date with Manual Documentation
 

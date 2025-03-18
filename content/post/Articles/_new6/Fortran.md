@@ -1,7 +1,7 @@
 ---
 title: Fortran in a Nutshell
 description: "The Fortran Programming Language: History, Motivation, Relationship to Modern Languages, and Code Examples"
-slug: the-fortran-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+slug: the-fortran-programming-language
 date: 2024-01-30
 image: post/Articles/IMAGES/fortranpunchcard.jpg
 categories:
@@ -31,7 +31,8 @@ categories_ref:
   - Fortran
   - Languages
   - History
-lastmod: 2025-03-14T15:45:22.033Z
+slug_calculated: https://brianbraatz.github.io/p/the-fortran-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+lastmod: 2025-03-18T19:40:48.381Z
 ---
 <!--
 # The Fortran Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

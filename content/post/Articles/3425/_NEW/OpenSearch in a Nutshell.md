@@ -25,7 +25,8 @@ categories_ref:
   - Database
   - SQL
   - Cloud
-lastmod: 2025-03-14T15:45:07.011Z
+slug_calculated: https://brianbraatz.github.io/p/opensearch-nutshell
+lastmod: 2025-03-14T16:40:16.873Z
 ---
 # OpenSearch in a Nutshell: A Fun and Informal Guide
 

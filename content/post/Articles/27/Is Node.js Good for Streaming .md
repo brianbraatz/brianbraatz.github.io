@@ -23,7 +23,8 @@ categories_ref:
   - Node.js
   - Streaming
   - Web Development
-lastmod: 2025-03-14T15:45:04.115Z
+slug_calculated: https://brianbraatz.github.io/p/is-nodejs-good-for-stream
+lastmod: 2025-03-14T16:40:10.810Z
 ---
 **Is Node.js Good for Streaming Applications?**
 

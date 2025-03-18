@@ -10,20 +10,11 @@ categories:
   - Networking
   - Linux
   - Unix
+  - Cloud
+  - Docker
+  - Kubernetes
+  - DevOps
 tags:
-  - Firewalls
-  - Proxy
-  - Servers
-  - Networking
-  - Cybersecurity
-  - STUN
-  - WebSockets
-  - SignalR
-  - Windows
-  - Linux
-  - REST
-  - API
-  - GoLang
   - Cloud
 draft: false
 weight: 59
@@ -33,7 +24,8 @@ categories_ref:
   - Networking
   - Linux
   - Unix
-lastmod: 2025-03-14T15:45:11.137Z
+slug_calculated: https://brianbraatz.github.io/p/firewalls-and-proxy-servers-demystified
+lastmod: 2025-03-18T23:00:22.428Z
 ---
 # Firewalls and Proxy Servers Demystified
 

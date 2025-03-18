@@ -32,7 +32,8 @@ categories_ref:
   - API Gateway
   - Networking
   - DevOps
-lastmod: 2025-03-14T15:45:29.615Z
+slug_calculated: https://brianbraatz.github.io/p/api-rate-limiting-request-filtering
+lastmod: 2025-03-14T16:40:36.911Z
 ---
 # API Rate Limiting and Request Filtering in Kubernetes: A Complete Guide
 

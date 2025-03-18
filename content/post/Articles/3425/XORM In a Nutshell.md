@@ -21,7 +21,8 @@ categories_ref:
   - Xorm
   - ORM
   - Database
-lastmod: 2025-03-14T15:45:06.426Z
+slug_calculated: https://brianbraatz.github.io/p/xorm-in-a-nutshell
+lastmod: 2025-03-14T16:40:15.229Z
 ---
 <!-- 
 # XORM In a Nutshell

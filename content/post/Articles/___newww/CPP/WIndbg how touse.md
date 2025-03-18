@@ -24,7 +24,8 @@ categories_ref:
   - DevOps
   - C++ Debugging
   - WinDbg
-lastmod: 2025-03-14T15:45:27.792Z
+slug_calculated: https://brianbraatz.github.io/p/windbg-nutshell
+lastmod: 2025-03-14T16:40:34.963Z
 ---
 ## Introduction
 

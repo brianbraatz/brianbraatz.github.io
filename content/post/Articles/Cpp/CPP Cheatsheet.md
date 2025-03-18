@@ -15,7 +15,8 @@ draft: false
 categories_ref:
   - CPP
   - Cheatsheet
-lastmod: 2025-03-14T15:45:08.516Z
+slug_calculated: https://brianbraatz.github.io/p/cpp-cheatsheet
+lastmod: 2025-03-14T16:40:19.147Z
 ---
 ## C++ Cheatsheet
 

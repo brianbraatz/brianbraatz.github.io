@@ -18,7 +18,8 @@ categories_ref:
   - Perl
   - RegEx
   - Languages
-lastmod: 2025-03-14T15:45:13.891Z
+slug_calculated: https://brianbraatz.github.io/p/perl-and-regular-expressions
+lastmod: 2025-03-14T16:40:22.965Z
 ---
 ![Perl Logo](https://cdn.perl.org/perlweb/images/icons/header_camel.png)
 

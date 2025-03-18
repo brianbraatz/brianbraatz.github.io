@@ -25,7 +25,8 @@ categories_ref:
   - Machine Learning
   - Deep Learning
   - AI
-lastmod: 2025-03-14T15:45:06.319Z
+slug_calculated: https://brianbraatz.github.io/p/tensorflow-in-a-nutshell
+lastmod: 2025-03-14T16:40:14.872Z
 ---
 # TensorFlow in a Nutshell: History, Motivation, and Code Examples
 

@@ -25,7 +25,8 @@ categories_ref:
   - Web Framework
   - MVC
   - ORM
-lastmod: 2025-03-14T15:45:05.673Z
+slug_calculated: https://brianbraatz.github.io/p/beego-in-a-nutshell
+lastmod: 2025-03-14T16:40:13.720Z
 ---
 # Beego In a Nutshell
 

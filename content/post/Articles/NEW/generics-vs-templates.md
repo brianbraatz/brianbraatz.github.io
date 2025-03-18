@@ -21,7 +21,8 @@ categories_ref:
   - CSharp
   - DotNet
   - Java
-lastmod: 2025-03-14T15:45:11.237Z
+slug_calculated: https://brianbraatz.github.io/p/generics-vs-templates-java-vs-csharp-vs-cpp
+lastmod: 2025-03-14T16:40:21.091Z
 ---
 # Generics vs Templates: Java vs C# vs C++
 

@@ -33,7 +33,8 @@ categories_ref:
   - Cloud
   - DevOps
   - Testing
-lastmod: 2025-03-14T15:45:12.133Z
+slug_calculated: https://brianbraatz.github.io/p/jenkins-cicd
+lastmod: 2025-03-14T16:40:21.704Z
 ---
 ## A Brief History of Jenkins
 

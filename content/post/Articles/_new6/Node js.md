@@ -1,7 +1,7 @@
 ---
 title: Node.js in a Nutshell
 description: What is this thing???
-slug: nodejs:-what-it-is-history-usage-and-alternatives
+slug: nodejs
 date: 2020-10-03
 image: post/Articles/IMAGES/nodejs.png
 categories:
@@ -33,7 +33,8 @@ categories_ref:
   - Typescript
   - Mobile
   - Cross Platform
-lastmod: 2025-03-14T15:45:22.896Z
+slug_calculated: https://brianbraatz.github.io/p/nodejs:-what-it-is-history-usage-and-alternatives
+lastmod: 2025-03-18T19:29:45.685Z
 ---
 <!--
 # Node.js: What It Is, History, Usage, and Alternatives

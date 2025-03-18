@@ -27,7 +27,8 @@ categories_ref:
   - SPIFFE
   - Cloud
   - DevOps
-lastmod: 2025-03-14T15:45:29.822Z
+slug_calculated: https://brianbraatz.github.io/p/setup-spire-agent-inside-pod
+lastmod: 2025-03-14T16:40:37.033Z
 ---
 <!-- 
 # Setting Up a SPIRE Agent Inside a Pod: A Complete Guide

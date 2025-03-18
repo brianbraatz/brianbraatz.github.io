@@ -20,7 +20,8 @@ categories_ref:
   - Programming
   - C++14
   - CPP
-lastmod: 2025-03-14T15:45:06.551Z
+slug_calculated: https://brianbraatz.github.io/p/cpp14-in-a-nutshell
+lastmod: 2025-03-14T16:40:15.550Z
 ---
 # C++14 in a Nutshell
 

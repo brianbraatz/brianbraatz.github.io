@@ -25,7 +25,8 @@ categories_ref:
   - Csharp
   - CSharp
   - DotNet 8
-lastmod: 2025-03-14T15:45:06.568Z
+slug_calculated: https://brianbraatz.github.io/p/dotnet-8-deep-dive
+lastmod: 2025-03-14T16:40:15.646Z
 ---
 <!-- # .NET 8.0 Deep Dive: A Journey Through Time and Code
 

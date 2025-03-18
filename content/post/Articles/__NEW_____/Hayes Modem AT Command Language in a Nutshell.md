@@ -30,7 +30,8 @@ categories_ref:
   - Computers
   - History
   - Embedded Systems
-lastmod: 2025-03-14T15:45:25.855Z
+slug_calculated: https://brianbraatz.github.io/p/inside-the-hayes-command-set
+lastmod: 2025-03-14T16:40:33.319Z
 ---
 # Inside the Hayes Command Set for Modems
 

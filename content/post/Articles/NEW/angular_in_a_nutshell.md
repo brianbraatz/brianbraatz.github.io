@@ -25,7 +25,8 @@ categories_ref:
   - Typescript
   - Javascript
   - Web Development
-lastmod: 2025-03-14T15:45:09.793Z
+slug_calculated: https://brianbraatz.github.io/p/angular-in-a-nutshell
+lastmod: 2025-03-14T16:40:20.088Z
 ---
 # Angular In a Nutshell
 

@@ -19,7 +19,8 @@ categories_ref:
   - Software Development
   - Testing
   - DevOps
-lastmod: 2025-03-14T15:45:07.780Z
+slug_calculated: https://brianbraatz.github.io/p/mountebank-overview
+lastmod: 2025-03-14T16:40:18.231Z
 ---
 # Mountebank: The Swiss Army Knife of API Mocking
 

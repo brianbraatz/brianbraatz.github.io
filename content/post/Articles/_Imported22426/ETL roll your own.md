@@ -32,7 +32,8 @@ categories_ref:
   - Big Data
   - Data Pipelines
   - Cloud
-lastmod: 2025-03-14T15:45:16.611Z
+slug_calculated: https://brianbraatz.github.io/p/etl-pipeline-roll-your-own
+lastmod: 2025-03-14T16:40:24.768Z
 ---
 # ETL Pipeline from Scratch - Should You Roll Your Own?
 

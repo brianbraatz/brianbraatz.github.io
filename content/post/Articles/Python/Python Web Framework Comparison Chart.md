@@ -47,7 +47,8 @@ categories_ref:
   - Web Server Gateway Interface-WSGI
   - Asynchronous Server Gateway Interface-ASGI
   - Cheatsheet
-lastmod: 2025-03-14T15:45:14.281Z
+slug_calculated: https://brianbraatz.github.io/p/python-webframework-compares-cheatsheet
+lastmod: 2025-03-14T16:40:23.357Z
 ---
 ## Python Web Framework Comparison Chart
 

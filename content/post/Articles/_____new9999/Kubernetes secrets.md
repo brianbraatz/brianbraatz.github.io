@@ -24,7 +24,8 @@ categories_ref:
   - Security
   - DevOps
   - Cloud
-lastmod: 2025-03-14T15:45:29.396Z
+slug_calculated: https://brianbraatz.github.io/p/kubernetes-secrets-complete-guide
+lastmod: 2025-03-14T16:40:36.693Z
 ---
 # Kubernetes Secrets: A Complete Guide with Code Examples
 

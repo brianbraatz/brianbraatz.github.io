@@ -21,7 +21,8 @@ categories_ref:
   - Performance
   - Scalability
   - Memcached
-lastmod: 2025-03-14T15:45:06.781Z
+slug_calculated: https://brianbraatz.github.io/p/memcached-in-a-nutshell
+lastmod: 2025-03-14T16:40:16.324Z
 ---
 # Memcached in a Nutshell
 

@@ -22,7 +22,8 @@ categories_ref:
   - GoLang
   - Networking
   - Network Protocols
-lastmod: 2025-03-14T15:45:11.908Z
+slug_calculated: https://brianbraatz.github.io/p/implementing-a-firewall-in-the-go-programming-language
+lastmod: 2025-03-14T16:40:21.610Z
 ---
 ## A Brief History of Go (Because Why Not?)
 

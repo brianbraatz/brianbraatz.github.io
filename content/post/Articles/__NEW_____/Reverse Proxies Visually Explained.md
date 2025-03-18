@@ -27,7 +27,8 @@ draft: false
 weight: 114
 categories_ref:
   - Foobar Examples
-lastmod: 2025-03-14T15:45:26.103Z
+slug_calculated: https://brianbraatz.github.io/p/foobar-how-reverse-proxies-visual
+lastmod: 2025-03-14T16:40:33.558Z
 ---
 See Part 2 here:
 

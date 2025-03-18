@@ -23,7 +23,8 @@ categories_ref:
   - Node.js
   - Web Frameworks
   - JavaScript
-lastmod: 2025-03-14T15:45:04.441Z
+slug_calculated: https://brianbraatz.github.io/p/nodejs-web-frameworks-pro
+lastmod: 2025-03-14T16:40:11.503Z
 ---
 # Node.js Web Frameworks: Pros, Cons, and Code Examples
 

@@ -24,7 +24,8 @@ categories_ref:
   - Web Development
   - Servers
   - Scalability
-lastmod: 2025-03-14T15:45:04.482Z
+slug_calculated: https://brianbraatz.github.io/p/nodejs-server-or-editor
+lastmod: 2025-03-14T16:40:11.815Z
 ---
 # Node.js: Is It a Server, an Editor, or a Web-Serving Magic Trick?
 

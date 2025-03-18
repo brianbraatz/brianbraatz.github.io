@@ -25,7 +25,8 @@ categories_ref:
   - Software Architecture
   - Software Project Methods
   - SAFEAgile
-lastmod: 2025-03-14T15:45:30.553Z
+slug_calculated: https://brianbraatz.github.io/p/how-safe-agile-differs-from-regular-agile
+lastmod: 2025-03-14T16:40:37.445Z
 ---
 Hey there, fellow Agile nerd!
 

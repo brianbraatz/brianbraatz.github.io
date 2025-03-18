@@ -18,7 +18,8 @@ weight: 21
 categories_ref:
   - Python
   - Performance Optimization
-lastmod: 2025-03-14T15:45:14.177Z
+slug_calculated: https://brianbraatz.github.io/p/ptyhon-performance
+lastmod: 2025-03-14T16:40:23.237Z
 ---
 # Common Performance Problems in Python and How to Solve Them
 

@@ -36,7 +36,9 @@ categories_ref:
   - Google Cloud
   - Azure Service Bus
   - Azure Queue
-lastmod: 2025-03-14T15:45:16.013Z
+slug: exploring-cloud-lock-in-should-i-take-the-candy-from-the-stranger
+slug_calculated: https://brianbraatz.github.io/p/cloud-lockin
+lastmod: 2025-03-18T19:17:06.308Z
 ---
 # Exploring Cloud Lock-In: Should I Take the Candy from the Stranger?
 

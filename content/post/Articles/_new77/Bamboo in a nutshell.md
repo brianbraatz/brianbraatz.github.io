@@ -26,7 +26,8 @@ categories_ref:
   - Testing
   - Unit Testing
   - Container Registry
-lastmod: 2025-03-14T15:45:24.236Z
+slug_calculated: https://brianbraatz.github.io/p/bamboo-in-a-nutshell
+lastmod: 2025-03-14T16:40:31.674Z
 ---
 <!-- 
 # Bamboo in a Nutshell

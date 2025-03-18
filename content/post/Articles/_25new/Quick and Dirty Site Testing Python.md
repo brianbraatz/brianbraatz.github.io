@@ -24,7 +24,8 @@ categories_ref:
   - Playwright
   - Automation
   - Web
-lastmod: 2025-03-14T15:45:15.532Z
+slug_calculated: https://brianbraatz.github.io/p/unittesting-web-low-ceremony
+lastmod: 2025-03-14T16:40:23.981Z
 ---
 <!--
 # Quick and Dirty Low Ceremony Website Testing with Python and Playwright

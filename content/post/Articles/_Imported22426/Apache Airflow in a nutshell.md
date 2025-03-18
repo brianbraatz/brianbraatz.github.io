@@ -19,7 +19,8 @@ image: post/Articles/IMAGES/apacheairflow.png
 weight: 324
 categories_ref:
   - Cloud
-lastmod: 2025-03-14T15:45:15.773Z
+slug_calculated: https://brianbraatz.github.io/p/apache-airflow
+lastmod: 2025-03-14T16:40:24.138Z
 ---
 # Apache Airflow in a Nutshell: A Guide to Workflow Automation & Testing
 

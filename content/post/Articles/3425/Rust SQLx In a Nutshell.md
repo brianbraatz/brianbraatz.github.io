@@ -22,7 +22,8 @@ categories_ref:
   - Rust
   - Database
   - SQLx
-lastmod: 2025-03-14T15:45:06.123Z
+slug_calculated: https://brianbraatz.github.io/p/rust-sqlx-in-a-nutshell
+lastmod: 2025-03-14T16:40:14.296Z
 ---
 # Rust SQLx In a Nutshell
 

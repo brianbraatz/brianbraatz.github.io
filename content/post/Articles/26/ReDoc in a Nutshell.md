@@ -20,7 +20,8 @@ categories_ref:
   - API Documentation
   - OpenAPI
   - Web Development
-lastmod: 2025-03-14T15:45:03.820Z
+slug_calculated: https://brianbraatz.github.io/p/redoc-nutshell
+lastmod: 2025-03-14T16:40:10.319Z
 ---
 # ReDoc in a Nutshell
 

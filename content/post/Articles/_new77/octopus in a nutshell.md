@@ -25,7 +25,8 @@ categories_ref:
   - Infrastructure as Code-IAC
   - Cloud
   - CI\CD
-lastmod: 2025-03-14T15:45:24.798Z
+slug_calculated: https://brianbraatz.github.io/p/octopus-in-a-nutshell
+lastmod: 2025-03-14T16:40:32.161Z
 ---
 # Octopus in a nutshell
 

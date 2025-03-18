@@ -19,7 +19,8 @@ categories_ref:
   - Software Development
   - Testing
   - DevOps
-lastmod: 2025-03-14T15:45:07.944Z
+slug_calculated: https://brianbraatz.github.io/p/wiremock-nutshell
+lastmod: 2025-03-14T16:40:18.299Z
 ---
 # WireMock in a Nutshell: Mock APIs Like a Pro
 

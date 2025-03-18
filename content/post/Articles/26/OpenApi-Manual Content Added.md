@@ -24,7 +24,8 @@ categories_ref:
   - Documentation
   - OpenAPI
   - Web Development
-lastmod: 2025-03-14T15:45:03.661Z
+slug_calculated: https://brianbraatz.github.io/p/manual-docs-openapi
+lastmod: 2025-03-14T16:40:10.203Z
 ---
 So, you've got yourself an OpenAPI-compliant API, and now you need to manually add some documentation to it.
 

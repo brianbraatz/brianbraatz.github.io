@@ -21,7 +21,8 @@ categories_ref:
   - Rabbitmq
   - Distributed Systems
   - Message Broker
-lastmod: 2025-03-14T15:45:07.095Z
+slug_calculated: https://brianbraatz.github.io/p/rabbitmq-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.058Z
 ---
 # RabbitMQ in a Nutshell: The Bouncer of Your Messages
 

@@ -27,7 +27,8 @@ categories_ref:
   - Transformation
   - XSLT
   - Data Conversion
-lastmod: 2025-03-14T15:45:19.276Z
+slug_calculated: https://brianbraatz.github.io/p/xslt-advanced-xml-transformations
+lastmod: 2025-03-14T16:40:26.627Z
 ---
 # XSLT - Advanced XML Transformations
 

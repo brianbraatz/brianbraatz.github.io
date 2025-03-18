@@ -35,7 +35,8 @@ categories_ref:
   - MySql
   - Microsoft Sql Server
   - Postgres Sql
-lastmod: 2025-03-14T15:45:22.941Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-oltp-and-olap
+lastmod: 2025-03-14T16:40:30.046Z
 ---
 <!--
 # Understanding OLTP and OLAP

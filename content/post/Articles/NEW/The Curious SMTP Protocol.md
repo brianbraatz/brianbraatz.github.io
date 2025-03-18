@@ -26,7 +26,8 @@ categories_ref:
   - Protocols
   - Networking
   - Network Protocols
-lastmod: 2025-03-14T15:45:13.734Z
+slug_calculated: https://brianbraatz.github.io/p/the-curious-smtp-protocol
+lastmod: 2025-03-14T16:40:22.855Z
 ---
 # The Curious SMTP Protocol
 

@@ -12,7 +12,8 @@ tags:
 weight: 30
 draft: true
 categories_ref: []
-lastmod: 2025-03-14T15:45:08.887Z
+slug_calculated: https://brianbraatz.github.io/p/DRAFT-cheatsheet
+lastmod: 2025-03-14T16:40:19.675Z
 ---
 5 Crazy, Weird, Unusual, and Strange Things You Can Do in Pure CSS
 

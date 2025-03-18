@@ -1,7 +1,7 @@
 ---
 title: Denodo In a Nutshell
 description: Understanding Denodo + Data Virtualization and Its Alternatives
-slug: denodo-in-depth:-understanding-data-virtualization-and-its-alternatives
+slug: denodo-in-depth
 date: 2020-01-21
 image: post/Articles/IMAGES/denodologo.png
 categories:
@@ -31,7 +31,8 @@ categories_ref:
   - Cloud
   - Data Virtualization
   - SQL
-lastmod: 2025-03-14T15:45:21.873Z
+slug_calculated: https://brianbraatz.github.io/p/denodo-in-depth:-understanding-data-virtualization-and-its-alternatives
+lastmod: 2025-03-18T18:31:26.015Z
 ---
 # Denodo In-Depth: Understanding Data Virtualization and Its Alternatives
 

@@ -1,7 +1,7 @@
 ---
 title: Ada Programming Language In A Nutshell
 description: With Examples
-slug: the-ada-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+slug: ada-language-nutshell
 date: 2022-05-20
 image: post/Articles/IMAGES/adalovelace.jpg
 categories:
@@ -31,7 +31,8 @@ categories_ref:
   - Languages
   - History
   - ADA Language
-lastmod: 2025-03-14T15:45:21.334Z
+slug_calculated: https://brianbraatz.github.io/p/the-ada-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+lastmod: 2025-03-18T22:44:19.809Z
 ---
 \*\* Ada Lovelace \*\*\
 \*\* The worlds first person to publish code \*\*\

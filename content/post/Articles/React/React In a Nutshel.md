@@ -21,7 +21,8 @@ weight: 9
 categories_ref:
   - React
   - Web Development
-lastmod: 2025-03-14T15:45:14.539Z
+slug_calculated: https://brianbraatz.github.io/p/react-nutshell
+lastmod: 2025-03-14T16:40:23.532Z
 ---
 ## 1. What is React?
 

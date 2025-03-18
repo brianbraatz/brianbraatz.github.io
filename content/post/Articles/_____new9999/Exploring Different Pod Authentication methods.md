@@ -25,7 +25,8 @@ categories_ref:
   - Authentication
   - Cloud
   - DevOps
-lastmod: 2025-03-14T15:45:29.054Z
+slug_calculated: https://brianbraatz.github.io/p/setup-authentication-identity-management-pod
+lastmod: 2025-03-14T16:40:36.289Z
 ---
 <!-- 
 # Setting Up Authentication and Identity Management Inside a Pod

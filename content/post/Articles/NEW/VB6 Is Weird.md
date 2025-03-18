@@ -24,7 +24,8 @@ weight: 34
 categories_ref:
   - Visual Basic
   - Visual Basic 6
-lastmod: 2025-03-14T15:45:13.841Z
+slug_calculated: https://brianbraatz.github.io/p/10-reasons-why-visual-basic-6-is-really-weird
+lastmod: 2025-03-14T16:40:22.919Z
 ---
 # 10 Reasons Why Visual Basic 6 is Really Weird
 

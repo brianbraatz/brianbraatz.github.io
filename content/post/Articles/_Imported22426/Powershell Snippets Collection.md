@@ -21,7 +21,8 @@ categories_ref:
   - PowerShell
   - Scripting
   - Automation
-lastmod: 2025-03-14T15:45:18.798Z
+slug_calculated: https://brianbraatz.github.io/p/Powershell-Snippets
+lastmod: 2025-03-14T16:40:26.116Z
 ---
 ## The Birth of PowerShell
 

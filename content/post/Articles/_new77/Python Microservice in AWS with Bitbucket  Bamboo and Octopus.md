@@ -2,7 +2,7 @@
 title: Python + C# Microservices in AWS -Bitbucket,  Bamboo and Octopus
 description: Full Example of Python and C# Microservices into AWS
 slug: python-and-csharp-microservice-bitbucket-bamboo-octopus
-date: 2025-12-04
+date: 2019-12-04
 image: post/Articles/IMAGES/pythoncsharpmicroservicebamboooctopus.png
 categories:
   - DevOps
@@ -38,7 +38,8 @@ categories_ref:
   - Bamboo
   - Octopus
   - CI\CD
-lastmod: 2025-03-14T15:45:24.940Z
+slug_calculated: https://brianbraatz.github.io/p/python-and-csharp-microservice-bitbucket-bamboo-octopus
+lastmod: 2025-03-18T22:01:24.673Z
 ---
 <!-- 
 # Full Example of Python and C# Microservice that Has a Method That Divides Numbers

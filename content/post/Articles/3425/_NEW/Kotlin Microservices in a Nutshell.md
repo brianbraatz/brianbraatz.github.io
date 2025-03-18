@@ -23,7 +23,8 @@ categories_ref:
   - Backend
   - Spring Boot
   - Docker
-lastmod: 2025-03-14T15:45:06.686Z
+slug_calculated: https://brianbraatz.github.io/p/kotlin-microservices-in-a-nutshell
+lastmod: 2025-03-14T16:40:15.999Z
 ---
 <!-- 
 # Kotlin Microservices in a Nutshell

@@ -1,7 +1,7 @@
 ---
 title: How the Telnet Protocol Works and Why It's Not Secure
 description: How the Telnet Protocol Works and Why It's Not Secure
-slug: how-the-telnet-protocol-works-and-why-its-not-secure
+slug: telnet-not-secure
 date: 2017-08-14
 image: post/Articles/IMAGES/typewriter.png
 categories:
@@ -30,7 +30,8 @@ categories_ref:
   - Encryption
   - Cybersecurity
   - Protocol
-lastmod: 2025-03-14T15:45:17.175Z
+slug_calculated: https://brianbraatz.github.io/p/how-the-telnet-protocol-works-and-why-its-not-secure
+lastmod: 2025-03-18T22:43:33.499Z
 ---
 <!--
 # How the Telnet Protocol Works and Why It's Not Secure

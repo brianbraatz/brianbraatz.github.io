@@ -21,7 +21,8 @@ categories_ref:
   - Node.js
   - Scaling
   - Performance
-lastmod: 2025-03-14T15:45:04.580Z
+slug_calculated: https://brianbraatz.github.io/p/scaling-nodejs-keep-app-f
+lastmod: 2025-03-14T16:40:12.321Z
 ---
 # Scaling Node.js: How to Keep Your App from Melting
 

@@ -51,7 +51,8 @@ categories_ref:
   - Security
   - Identity and access management-IAM
   - Azure Active Directory
-lastmod: 2025-03-14T15:45:10.231Z
+slug_calculated: https://brianbraatz.github.io/p/cloud-security-smackdown-aws-vs-azure-vs-google-cloud
+lastmod: 2025-03-14T16:40:20.487Z
 ---
 # Cloud Security Smackdown: AWS vs Azure vs Google Cloud
 

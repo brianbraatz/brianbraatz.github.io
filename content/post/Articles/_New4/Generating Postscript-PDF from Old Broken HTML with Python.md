@@ -25,7 +25,8 @@ categories_ref:
   - Postscript
   - PDF
   - Document Imaging
-lastmod: 2025-03-14T15:45:20.492Z
+slug_calculated: https://brianbraatz.github.io/p/parsing-old-and-new-html-and-generating-postscript-to-pdf
+lastmod: 2025-03-14T16:40:27.515Z
 ---
 ## The Nightmare: A Horde of Ancient HTML Files
 

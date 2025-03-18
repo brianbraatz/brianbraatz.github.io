@@ -37,7 +37,8 @@ categories_ref:
   - WinNT
   - CPP
   - Device Drivers
-lastmod: 2025-03-14T15:45:26.219Z
+slug_calculated: https://brianbraatz.github.io/p/windows-nt-3-51-to-nt4-huge-change
+lastmod: 2025-03-14T16:40:33.620Z
 ---
 Ah, Windows NT. The good ol' days of the 90s when Microsoft was figuring out how to build an operating system that wouldn’t crash when you sneezed on it.
 

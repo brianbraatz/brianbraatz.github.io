@@ -26,7 +26,8 @@ categories_ref:
   - Modems
   - Networking
   - Protocols
-lastmod: 2025-03-14T15:45:12.679Z
+slug_calculated: https://brianbraatz.github.io/p/modems-decoding-symphony-screeches-squawks
+lastmod: 2025-03-14T16:40:21.945Z
 ---
 # Modems: The Unsung Heroes of the Internet Age
 

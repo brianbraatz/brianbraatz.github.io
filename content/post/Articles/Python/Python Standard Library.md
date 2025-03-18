@@ -17,7 +17,8 @@ draft: false
 categories_ref:
   - Python
   - Python-Standard Library
-lastmod: 2025-03-14T15:45:14.224Z
+slug_calculated: https://brianbraatz.github.io/p/python-stdlib-cheatsheet
+lastmod: 2025-03-14T16:40:23.292Z
 ---
 ![](/post/Articles/IMAGES/pythonstandardlibrary.png)
 

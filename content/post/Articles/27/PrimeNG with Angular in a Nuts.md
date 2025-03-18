@@ -22,7 +22,8 @@ categories_ref:
   - PrimeNG
   - UI Components
   - Frontend
-lastmod: 2025-03-14T15:45:04.553Z
+slug_calculated: https://brianbraatz.github.io/p/primeng-with-angular
+lastmod: 2025-03-14T16:40:12.213Z
 ---
 <!-- 
 # PrimeNG with Angular in a Nutshell 🚀

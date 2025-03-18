@@ -48,7 +48,8 @@ categories_ref:
   - DotNet
   - History
   - Concurrency
-lastmod: 2025-03-14T15:45:21.008Z
+slug_calculated: https://brianbraatz.github.io/p/we-invented-async-1980s
+lastmod: 2025-03-14T16:40:28.281Z
 ---
 ## AND WE WOULD HAVE GOTTEN AWAY WITH TOO!! IF IT HADNT BEEN FOR YOU KIDS!!!!!
 

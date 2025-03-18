@@ -24,7 +24,8 @@ categories_ref:
   - Helm
   - DevOps
   - Cloud
-lastmod: 2025-03-14T15:45:29.235Z
+slug_calculated: https://brianbraatz.github.io/p/helm-nutshell
+lastmod: 2025-03-14T16:40:36.478Z
 ---
 <!-- 
 # Helm Explained in Detail: A Complete Guide with Code Samples

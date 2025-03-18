@@ -37,7 +37,8 @@ categories_ref:
   - Dynamic Libraries
   - Linker Errors
   - CPP
-lastmod: 2025-03-14T15:45:17.049Z
+slug_calculated: https://brianbraatz.github.io/p/mem-Paging
+lastmod: 2025-03-14T16:40:25.232Z
 ---
 Back in the early days of computing, memory was **precious and extremely limited**.
 

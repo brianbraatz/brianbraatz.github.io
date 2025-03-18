@@ -43,7 +43,8 @@ categories_ref:
   - Azure Stack
   - Google Anthos
   - Kubernetes
-lastmod: 2025-03-14T15:45:11.683Z
+slug_calculated: https://brianbraatz.github.io/p/hybrid-cloud
+lastmod: 2025-03-14T16:40:21.484Z
 ---
 # Hybrid Cloud Battle: AWS Outposts vs Azure Arc vs Azure Stack vs Google Anthos
 

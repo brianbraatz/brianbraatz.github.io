@@ -27,7 +27,8 @@ categories_ref:
   - DotNet
   - CSharp
   - Mobile
-lastmod: 2025-03-14T15:45:12.567Z
+slug_calculated: https://brianbraatz.github.io/p/maui-vs-xamarin-the-ultimate-showdown
+lastmod: 2025-03-14T16:40:21.892Z
 ---
 <!-- >
 

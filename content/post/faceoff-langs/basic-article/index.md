@@ -101,7 +101,8 @@ categories_ref:
   - Pascal
   - F#
   - FSharp
-lastmod: 2025-03-14T15:45:30.424Z
+slug_calculated: https://brianbraatz.github.io/p/bubblesort-battle
+lastmod: 2025-03-14T16:40:37.374Z
 ---
 Updated Blog Image is from the amazing Dall-e\
 <https://openai.com/index/dall-e-2>

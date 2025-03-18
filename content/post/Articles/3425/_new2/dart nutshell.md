@@ -21,7 +21,8 @@ categories_ref:
   - Programming
   - Flutter
   - Mobile
-lastmod: 2025-03-14T15:45:07.591Z
+slug_calculated: https://brianbraatz.github.io/p/dart-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.925Z
 ---
 <!-- # Dart in a Nutshell: The Language That Powers Flutter
 

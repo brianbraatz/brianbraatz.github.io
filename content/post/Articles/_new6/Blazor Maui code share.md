@@ -47,7 +47,8 @@ categories_ref:
   - ASP.NET
   - Asp.Net
   - Mobile
-lastmod: 2025-03-14T15:45:21.488Z
+slug_calculated: https://brianbraatz.github.io/p/blazor-hybrid-with-maui-can-you-share-code
+lastmod: 2025-03-14T16:40:28.699Z
 ---
 <!--
 # Advantages and Disadvantages of Blazor Hybrid with MAUI. Can You Share Code with Your Website? Should You? How to Structure Your MAUI Project to Share Code with Your Blazor Website. Alternative Approaches Pros and Cons

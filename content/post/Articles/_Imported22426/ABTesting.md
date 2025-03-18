@@ -28,7 +28,8 @@ categories_ref:
   - Software Development
   - Experimentation
   - Testing
-lastmod: 2025-03-14T15:45:15.724Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-a-b-testing
+lastmod: 2025-03-14T16:40:24.081Z
 ---
 <!-- 
 # Understanding A/B Testing and How to Implement It in Your Cloud Application  

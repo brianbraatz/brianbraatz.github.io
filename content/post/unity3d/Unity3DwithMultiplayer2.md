@@ -43,7 +43,8 @@ categories_ref:
   - Azure
   - Azure Functions
   - Azure App Services
-lastmod: 2025-03-14T15:45:30.697Z
+slug_calculated: https://brianbraatz.github.io/p/unity-tutorial-multi-player-2
+lastmod: 2025-03-14T16:40:37.533Z
 ---
 <!-- 
 (Article Image is from my Proto game "Carmangria" - more on that here [Unity 3D Multiplayer Game Experiments](post/unity3d/unity-proto-games/index.md) )

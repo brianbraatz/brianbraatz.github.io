@@ -23,7 +23,8 @@ categories_ref:
   - Scripting
   - Linux
   - Unix
-lastmod: 2025-03-14T15:45:19.374Z
+slug_calculated: https://brianbraatz.github.io/p/bash-in-a-nutshell
+lastmod: 2025-03-14T16:40:26.720Z
 ---
 # BASH in a Nutshell
 

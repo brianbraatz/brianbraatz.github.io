@@ -28,7 +28,8 @@ categories_ref:
   - Scikit-learn
   - TensorFlow
   - PyTorch
-lastmod: 2025-03-14T15:45:05.930Z
+slug_calculated: https://brianbraatz.github.io/p/ml-landscape-2020
+lastmod: 2025-03-14T16:40:14.105Z
 ---
 <!-- 
 # The 2020 Machine Learning Landscape: Comparing Scikit-Learn, TensorFlow, PyTorch, and New Alternatives

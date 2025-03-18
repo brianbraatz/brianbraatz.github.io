@@ -19,7 +19,8 @@ weight: 177
 categories_ref:
   - DNS
   - GoLang
-lastmod: 2025-03-14T15:45:09.979Z
+slug_calculated: https://brianbraatz.github.io/p/DNS-go-programming-language
+lastmod: 2025-03-14T16:40:20.212Z
 ---
 # Implementing a DNS Server in the Go Programming Language
 

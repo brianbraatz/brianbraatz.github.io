@@ -48,7 +48,8 @@ categories_ref:
   - Javascript
   - Typescript
   - Mobile
-lastmod: 2025-03-14T15:45:21.829Z
+slug_calculated: https://brianbraatz.github.io/p/cordova-ionic-phonegap-compared
+lastmod: 2025-03-14T16:40:29.145Z
 ---
 # Cordova, Ionic, PhoneGap Compared: Which One Should You Choose?
 

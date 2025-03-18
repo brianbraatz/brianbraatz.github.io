@@ -1,7 +1,7 @@
 ---
 title: "NIST 800-190: Keeping Your Containers from Becoming Security Dumpster Fires"
 description: Summary of NIST 800-190 which descirbes how to secure containers
-slug: nist-800-190-keeping-your-containers-from-becoming-security-dumpster-fires
+slug: nist-800-190-containers-security-dumpster-fires
 date: 2024-04-23
 image: post/Articles/IMAGES/Nist-800-190.png
 categories:
@@ -30,7 +30,8 @@ categories_ref:
   - Cybersecurity
   - Best practices
   - Vulnerability scanning
-lastmod: 2025-03-14T15:45:27.000Z
+slug_calculated: https://brianbraatz.github.io/p/nist-800-190-keeping-your-containers-from-becoming-security-dumpster-fires
+lastmod: 2025-03-18T22:46:57.704Z
 ---
 # NIST 800-190: Keeping Your Containers from Becoming Security Dumpster Fires
 

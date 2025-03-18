@@ -44,7 +44,8 @@ categories_ref:
   - GPL
   - Versioning
   - Build Systems
-lastmod: 2025-03-14T15:45:18.898Z
+slug_calculated: https://brianbraatz.github.io/p/cpp-static-vs-dynamic-linking-on-windows-and-linux
+lastmod: 2025-03-14T16:40:26.214Z
 ---
 [How To prevent Static Cling :) ](https://downy.com/en-us/fabric-softener-tips/how-to-use-downy/how-to-use-dryer-sheets)
 

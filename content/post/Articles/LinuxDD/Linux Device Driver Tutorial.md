@@ -25,7 +25,8 @@ categories_ref:
   - Device Drivers
   - Linux
   - Concurrency
-lastmod: 2025-03-14T15:45:09.632Z
+slug_calculated: https://brianbraatz.github.io/p/linux-device-drivers-Tutorial
+lastmod: 2025-03-14T16:40:19.948Z
 ---
 # =====================================
 

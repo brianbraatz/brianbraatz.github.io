@@ -37,7 +37,8 @@ categories_ref:
   - Web Development
   - Security
   - Identity and access management-IAM
-lastmod: 2025-03-14T15:45:10.092Z
+slug_calculated: https://brianbraatz.github.io/p/cloud-authentication-smackdown-aws-vs-azure-vs-google-cloud
+lastmod: 2025-03-14T16:40:20.339Z
 ---
 # Cloud Authentication Comparison: AWS vs Azure vs Google Cloud
 

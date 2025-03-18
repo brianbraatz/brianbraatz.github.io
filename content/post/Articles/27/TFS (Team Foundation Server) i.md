@@ -26,7 +26,8 @@ categories_ref:
   - Microsoft
   - DevOps
   - CI/CD
-lastmod: 2025-03-14T15:45:04.629Z
+slug_calculated: https://brianbraatz.github.io/p/tfs-team-foundation-serve
+lastmod: 2025-03-14T16:40:12.470Z
 ---
 # TFS (Team Foundation Server) in a Nutshell: What It Includes and How It Compares
 

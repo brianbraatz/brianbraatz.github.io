@@ -25,7 +25,8 @@ categories_ref:
   - Web Development
   - Cloud
   - Asp.Net
-lastmod: 2025-03-14T15:45:03.883Z
+slug_calculated: https://brianbraatz.github.io/p/aspnet-core-2-1-vs-aspnet
+lastmod: 2025-03-14T16:40:10.469Z
 ---
 <!-- 
 # ASP.NET Core 2.1 vs ASP.NET Framework – Key Differences and What Changed?

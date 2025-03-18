@@ -24,7 +24,8 @@ categories_ref:
   - Event-Driven
   - Non-Blocking
   - Backend
-lastmod: 2025-03-14T15:45:04.709Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-nodejs-events
+lastmod: 2025-03-14T16:40:12.643Z
 ---
 [Traffic jam in Moscow in the 50s](https://www.reddit.com/r/ussr/comments/18ej1yu/yes_this_is_a_traffic_jam_in_moscow_in_the_50s/)
 

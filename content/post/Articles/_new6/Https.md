@@ -31,7 +31,8 @@ categories_ref:
   - Security
   - Protocols
   - Network Protocols
-lastmod: 2025-03-14T15:45:22.252Z
+slug_calculated: https://brianbraatz.github.io/p/https-nutshell
+lastmod: 2025-03-14T16:40:29.473Z
 ---
 <!--
 

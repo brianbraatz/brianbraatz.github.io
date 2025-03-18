@@ -26,7 +26,8 @@ categories_ref:
   - Database
   - QxOrm
   - SQL
-lastmod: 2025-03-14T15:45:06.053Z
+slug_calculated: https://brianbraatz.github.io/p/qxorm-in-a-nutshell
+lastmod: 2025-03-14T16:40:14.214Z
 ---
 # QxOrm In a Nutshell
 

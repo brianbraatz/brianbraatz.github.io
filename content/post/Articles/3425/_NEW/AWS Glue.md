@@ -32,7 +32,8 @@ categories_ref:
   - Amazon Simple Notification Service-SNS
   - Amazon Glue
   - Cloud
-lastmod: 2025-03-14T15:45:06.474Z
+slug_calculated: https://brianbraatz.github.io/p/aws-glue-functions-in-a-nutshell
+lastmod: 2025-03-14T16:40:19.440Z
 ---
 # AWS Glue Functions in a Nutshell
 

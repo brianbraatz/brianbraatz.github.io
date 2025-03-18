@@ -23,7 +23,8 @@ categories_ref:
   - C++
   - CPP
   - Concurrency
-lastmod: 2025-03-14T15:45:06.997Z
+slug_calculated: https://brianbraatz.github.io/p/openmp-vs-mpi-cpp
+lastmod: 2025-03-14T16:40:16.797Z
 ---
 <!-- 
 # OpenMP vs MPI in a Nutshell: C++ Edition

@@ -20,7 +20,8 @@ categories_ref:
   - Multi-Tenant
   - Database
   - Software Architecture
-lastmod: 2025-03-14T15:45:06.869Z
+slug_calculated: https://brianbraatz.github.io/p/single-codebase-multiple-tenants
+lastmod: 2025-03-14T16:40:16.419Z
 ---
 <!-- 
 # How to Implement Strategies to Allow a Single Codebase to Serve Multiple Tenants with Separate Databases -->

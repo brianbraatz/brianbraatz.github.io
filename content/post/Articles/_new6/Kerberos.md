@@ -1,7 +1,7 @@
 ---
 title: Kerberos in a Nutshell
 description: Understanding this secure, ticket-based authentication system
-slug: kerberos-in-detail:-relationship-to-active-directory-history-alternatives-and-10-code-examples
+slug: kerberos
 date: 2022-12-10
 image: post/Articles/IMAGES/kerberos.png
 categories:
@@ -29,7 +29,8 @@ categories_ref:
   - Networking
   - Security
   - Kerberos
-lastmod: 2025-03-14T15:45:22.564Z
+slug_calculated: https://brianbraatz.github.io/p/kerberos-in-detail:-relationship-to-active-directory-history-alternatives-and-10-code-examples
+lastmod: 2025-03-18T18:34:36.726Z
 ---
 <!-- 
 # Kerberos in Detail: Relationship to Active Directory, History, Alternatives, and 10 Code Examples

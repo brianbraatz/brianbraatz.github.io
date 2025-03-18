@@ -1,7 +1,7 @@
 ---
 title: In C++, (Lack of) Scalar Destructors Can Kill You...
 description: 
-slug: in-c++-scalar-destructors-can-kill-you
+slug: in-c-scalar-destructors-can-kill-you/
 date: 2015-07-14
 image: post/Articles/IMAGES/cppblue.png
 categories:
@@ -17,7 +17,7 @@ tags:
   - Destructors
   - Arrays
   - Bugs
-draft: false
+draft: true
 weight: 242
 categories_ref:
   - C++
@@ -25,7 +25,8 @@ categories_ref:
   - Delete
   - Destructors
   - CPP
-lastmod: 2025-03-14T15:45:16.157Z
+slug_calculated: https://brianbraatz.github.io/p/in-c++-scalar-destructors-can-kill-you
+lastmod: 2025-03-18T19:22:46.790Z
 ---
 # In C++, Scalar Destructors Can Kill You...
 

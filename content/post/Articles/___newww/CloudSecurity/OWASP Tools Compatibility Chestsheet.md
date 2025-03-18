@@ -27,7 +27,8 @@ categories_ref:
   - Open Source
   - Penetration Testing
   - Secure Coding
-lastmod: 2025-03-14T15:45:27.243Z
+slug_calculated: https://brianbraatz.github.io/p/owasp-Tools-Cmpat
+lastmod: 2025-03-14T16:40:34.546Z
 ---
 # OWASP Tools Compatibility: A Cross-Language and Database Comparison
 

@@ -23,7 +23,8 @@ categories_ref:
   - Vector Databases
   - AI
   - Machine Learning
-lastmod: 2025-03-14T15:45:04.847Z
+slug_calculated: https://brianbraatz.github.io/p/aiss-vector-db-nutshell
+lastmod: 2025-03-14T16:40:12.731Z
 ---
 <!-- 
 {{< youtube fVq4_HhBK8Y >}}

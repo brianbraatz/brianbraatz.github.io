@@ -1,7 +1,7 @@
 ---
 title: X Windows in a Nutshell
 description: Intro to X Windows - with command line Cheat sheet
-slug: how-the-x-windows-protocol-works:-history-relationship-to-alternatives-and-10-code-examples
+slug: how-the-x-windows-protocol-works
 date: 2021-10-28
 image: post/Articles/IMAGES/xwindowslogo.png
 categories:
@@ -35,7 +35,8 @@ categories_ref:
   - Unix
   - Protocols
   - Cloud
-lastmod: 2025-03-14T15:45:24.101Z
+slug_calculated: https://brianbraatz.github.io/p/how-the-x-windows-protocol-works:-history-relationship-to-alternatives-and-10-code-examples
+lastmod: 2025-03-18T18:29:25.813Z
 ---
 <!--
 # How the X Windows Protocol Works: History, Relationship to Alternatives, and 10 Code Examples

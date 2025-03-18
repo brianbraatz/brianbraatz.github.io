@@ -21,7 +21,8 @@ categories_ref:
   - Node.js
   - Threads
   - Scaling
-lastmod: 2025-03-14T15:45:04.455Z
+slug_calculated: https://brianbraatz.github.io/p/nodejs-does-it-use-thread
+lastmod: 2025-03-14T16:40:11.567Z
 ---
 ## Node.js: Does It Use Threads?
 

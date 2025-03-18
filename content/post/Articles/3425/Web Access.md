@@ -34,7 +34,8 @@ categories_ref:
   - Cloud
   - Testing
   - Accessibility Testing
-lastmod: 2025-03-14T15:45:06.412Z
+slug_calculated: https://brianbraatz.github.io/p/digital-accessibility
+lastmod: 2025-03-14T16:40:15.159Z
 ---
 **WCAG 2.1 AA requirements**\
 [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)

@@ -24,7 +24,8 @@ categories_ref:
   - Postscript
   - Python
   - Document Imaging
-lastmod: 2025-03-14T15:45:26.890Z
+slug_calculated: https://brianbraatz.github.io/p/svg-in-a-nustshell
+lastmod: 2025-03-14T16:40:34.157Z
 ---
 <!--
 # SVG in Depth - Compared to PostScript and Others (with Python Code!)

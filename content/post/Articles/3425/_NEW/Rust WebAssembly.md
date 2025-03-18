@@ -20,7 +20,8 @@ categories_ref:
   - Rust
   - WebAssembly
   - Web Development
-lastmod: 2025-03-14T15:45:07.297Z
+slug_calculated: https://brianbraatz.github.io/p/rust-webassembly-guide
+lastmod: 2025-03-14T16:40:17.612Z
 ---
 # How to Use Rust with WebAssembly
 

@@ -31,7 +31,8 @@ categories_ref:
   - SQL
   - NOSQL
   - GraphQL
-lastmod: 2025-03-14T15:45:11.324Z
+slug_calculated: https://brianbraatz.github.io/p/graphql-in-a-nutshell
+lastmod: 2025-03-14T16:40:21.196Z
 ---
 # GraphQL In a Nutshell
 

@@ -1,7 +1,7 @@
 ---
 title: How to Make Web UIs That Are Responsive, Accessible, and Cross-Browser Compatible
-description: How to Make Web UIs That Are Responsive, Accessible, and Cross-Browser Compatible
-slug: how-to-make-web-uis-that-are-responsive-accessible-and-cross-browser-compatible
+description: WAI-ARIA Compatible
+slug: web-uis-responsive-accessible
 date: 2018-07-14
 image: post/Articles/IMAGES/29.jpg
 categories:
@@ -26,7 +26,8 @@ categories_ref:
   - UI/UX
   - Accessibility
   - WAI-ARIA
-lastmod: 2025-03-14T15:45:06.749Z
+slug_calculated: https://brianbraatz.github.io/p/how-to-make-web-uis-that-are-responsive-accessible-and-cross-browser-compatible
+lastmod: 2025-03-18T22:57:27.393Z
 ---
 # How to Make Web UIs That Are Responsive, Accessible, and Cross-Browser Compatible
 

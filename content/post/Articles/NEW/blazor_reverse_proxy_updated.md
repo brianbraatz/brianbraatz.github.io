@@ -37,7 +37,8 @@ categories_ref:
   - Apache
   - Microsoft Azure Cloud
   - Cloud
-lastmod: 2025-03-14T15:45:09.918Z
+slug_calculated: https://brianbraatz.github.io/p/c-blazor-reverse-proxy-config-apachenginx-azure
+lastmod: 2025-03-14T16:40:20.144Z
 ---
 # C# Blazor Reverse Proxy Config - Apache, NGINX, Azure
 

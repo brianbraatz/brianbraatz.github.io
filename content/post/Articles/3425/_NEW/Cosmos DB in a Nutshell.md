@@ -24,7 +24,8 @@ categories_ref:
   - Azure
   - Cosmos DB
   - NoSQL
-lastmod: 2025-03-14T15:45:06.536Z
+slug_calculated: https://brianbraatz.github.io/p/cosmos-db-in-a-nutshell
+lastmod: 2025-03-14T16:40:15.450Z
 ---
 # Cosmos DB in a Nutshell
 

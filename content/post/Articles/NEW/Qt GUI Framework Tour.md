@@ -29,7 +29,8 @@ categories_ref:
   - Python
   - Python-PyQt
   - CPP
-lastmod: 2025-03-14T15:45:13.330Z
+slug_calculated: https://brianbraatz.github.io/p/qt-ui-tour
+lastmod: 2025-03-14T16:40:22.454Z
 ---
 ## Qt
 

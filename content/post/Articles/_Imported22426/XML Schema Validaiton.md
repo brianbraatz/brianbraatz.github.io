@@ -33,7 +33,8 @@ categories_ref:
   - Disadvantages
   - Examples
   - Programming
-lastmod: 2025-03-14T15:45:19.224Z
+slug_calculated: https://brianbraatz.github.io/p/advanced-xml-schema-validation
+lastmod: 2025-03-14T16:40:26.564Z
 ---
 # Advanced XML Schema Validation
 

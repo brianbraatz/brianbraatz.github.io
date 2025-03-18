@@ -23,7 +23,8 @@ categories_ref:
   - Typescript
   - Javascript
   - Web Development
-lastmod: 2025-03-14T15:45:08.263Z
+slug_calculated: https://brianbraatz.github.io/p/whats-new-in-angular-8
+lastmod: 2025-03-14T16:40:18.690Z
 ---
 # Whats New in Angular 8?
 

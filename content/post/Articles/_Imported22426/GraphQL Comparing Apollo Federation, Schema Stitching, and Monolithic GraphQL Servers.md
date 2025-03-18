@@ -1,7 +1,7 @@
 ---
 title: "GraphQL: Comparing Apollo Federation, Schema Stitching, and Monolithic GraphQL Servers"
 description: "GraphQL: Comparing Apollo Federation, Schema Stitching, and Monolithic GraphQL Servers"
-slug: graphql-comparing-apollo-federation-schema-stitching-and-monolithic-graphql-servers
+slug: graphql-comparing-Stitching
 date: 2021-08-14
 image: post/Articles/IMAGES/32.jpg
 categories:
@@ -30,7 +30,8 @@ categories_ref:
   - Monolithic GraphQL
   - API Design
   - Cloud
-lastmod: 2025-03-14T15:45:16.815Z
+slug_calculated: https://brianbraatz.github.io/p/graphql-comparing-apollo-federation-schema-stitching-and-monolithic-graphql-servers
+lastmod: 2025-03-18T22:43:12.157Z
 ---
 # GraphQL: Comparing Apollo Federation, Schema Stitching, and Monolithic GraphQL Servers
 

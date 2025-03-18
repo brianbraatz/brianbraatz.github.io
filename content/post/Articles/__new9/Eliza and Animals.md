@@ -35,7 +35,8 @@ categories_ref:
   - Machine Learning
   - Languages
   - History
-lastmod: 2025-03-14T15:45:25.406Z
+slug_calculated: https://brianbraatz.github.io/p/the-first-ai-chatbot-eliza
+lastmod: 2025-03-14T16:40:32.676Z
 ---
 ## The Origins of Eliza: The Chatbot That Fooled the World
 

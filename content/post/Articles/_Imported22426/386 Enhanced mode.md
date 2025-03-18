@@ -26,7 +26,8 @@ categories_ref:
   - History
   - Assembly Language
   - WinAPI
-lastmod: 2025-03-14T15:45:15.679Z
+slug_calculated: https://brianbraatz.github.io/p/386-enh
+lastmod: 2025-03-14T16:40:24.063Z
 ---
 ## Introduction
 

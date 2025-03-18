@@ -26,7 +26,8 @@ categories_ref:
   - Concurrency
   - CPP
   - Unit Testing
-lastmod: 2025-03-14T15:45:09.386Z
+slug_calculated: https://brianbraatz.github.io/p/java-in-a-nutshell
+lastmod: 2025-03-14T16:40:19.859Z
 ---
 ## History and Motivation
 

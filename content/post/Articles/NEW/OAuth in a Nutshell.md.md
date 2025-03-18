@@ -25,7 +25,8 @@ categories_ref:
   - Web Development
   - Security
   - oAuth
-lastmod: 2025-03-14T15:45:12.930Z
+slug_calculated: https://brianbraatz.github.io/p/oauth-in-a-nutshell
+lastmod: 2025-03-14T16:40:22.039Z
 ---
 # OAuth in a Nutshell
 

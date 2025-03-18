@@ -20,7 +20,8 @@ categories_ref:
   - Networking
   - Technology
   - OSI Model
-lastmod: 2025-03-14T15:45:05.995Z
+slug_calculated: https://brianbraatz.github.io/p/osi-model-nutshell
+lastmod: 2025-03-14T16:40:14.141Z
 ---
 <!-- 
 osimodel.jpg 

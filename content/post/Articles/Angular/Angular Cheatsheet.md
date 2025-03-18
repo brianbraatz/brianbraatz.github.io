@@ -25,7 +25,8 @@ categories_ref:
   - Typescript
   - Javascript
   - Web Development
-lastmod: 2025-03-14T15:45:08.150Z
+slug_calculated: https://brianbraatz.github.io/p/Angular-file-cheatsheet
+lastmod: 2025-03-14T16:40:18.505Z
 ---
 ### Angular Cheatsheet
 

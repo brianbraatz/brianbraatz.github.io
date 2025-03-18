@@ -23,7 +23,8 @@ categories_ref:
   - Atl
   - Templates
   - WinApi
-lastmod: 2025-03-14T15:45:04.862Z
+slug_calculated: https://brianbraatz.github.io/p/atl-in-a-nutshell
+lastmod: 2025-03-14T16:40:12.742Z
 ---
 <!-- 
 # ATL in a Nutshell

@@ -29,7 +29,8 @@ categories_ref:
   - ASP.NET Core
   - Web Development
   - Software Updates
-lastmod: 2025-03-14T15:45:04.783Z
+slug_calculated: https://brianbraatz.github.io/p/whats-new-in-asp-net-core7
+lastmod: 2025-03-14T16:40:12.709Z
 ---
 <!-- 
 

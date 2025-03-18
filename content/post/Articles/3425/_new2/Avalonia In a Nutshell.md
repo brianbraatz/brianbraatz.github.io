@@ -25,7 +25,8 @@ categories_ref:
   - Cross-Platform
   - Maui
   - Mobile
-lastmod: 2025-03-14T15:45:07.536Z
+slug_calculated: https://brianbraatz.github.io/p/avalonia-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.840Z
 ---
 <!-- 
 # Avalonia in a Nutshell: A Friendly Guide -->

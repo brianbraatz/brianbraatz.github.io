@@ -18,7 +18,8 @@ weight: 335
 categories_ref:
   - Remix
   - React Router
-lastmod: 2025-03-14T15:45:07.274Z
+slug_calculated: https://brianbraatz.github.io/p/remix-react-router-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.534Z
 ---
 # Remix/React Router in a Nutshell
 

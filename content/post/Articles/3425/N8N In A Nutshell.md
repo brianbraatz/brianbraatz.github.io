@@ -28,7 +28,8 @@ categories_ref:
   - JavaScript
   - Node JS
   - Node.js
-lastmod: 2025-03-14T15:45:05.968Z
+slug_calculated: https://brianbraatz.github.io/p/n8n-private-workflow
+lastmod: 2025-03-14T16:40:14.119Z
 ---
 # 🚀 n8n in a Nutshell: Your Private Workflow Automation Platform
 

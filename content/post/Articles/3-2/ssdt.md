@@ -23,7 +23,8 @@ categories_ref:
   - SSDT
   - Development
   - Microsoft
-lastmod: 2025-03-14T15:45:05.250Z
+slug_calculated: https://brianbraatz.github.io/p/sql-server-data-tools-ssdt
+lastmod: 2025-03-14T16:40:13.146Z
 ---
 <!-- ## SQL Server Data Tools (SSDT): The Developer’s Best Friend
 

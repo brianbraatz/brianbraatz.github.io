@@ -24,7 +24,8 @@ categories_ref:
   - WebForms
   - History
   - Code Examples
-lastmod: 2025-03-14T15:45:07.517Z
+slug_calculated: https://brianbraatz.github.io/p/webforms-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.778Z
 ---
 <!-- # WebForms in a Nutshell
 

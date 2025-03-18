@@ -22,7 +22,8 @@ categories_ref:
   - Documentation
   - OpenAPI
   - Web Development
-lastmod: 2025-03-14T15:45:03.833Z
+slug_calculated: https://brianbraatz.github.io/p/obsidian-hugo-openapi-guide
+lastmod: 2025-03-14T16:40:10.332Z
 ---
 ## Introduction
 

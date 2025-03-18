@@ -32,7 +32,8 @@ categories_ref:
   - Unix
   - Linux
   - Mac OS
-lastmod: 2025-03-14T15:45:20.277Z
+slug_calculated: https://brianbraatz.github.io/p/awk-vs-sed
+lastmod: 2025-03-14T16:40:27.310Z
 ---
 [Manhattan Melodrama - Wikipedia](https://en.wikipedia.org/wiki/Manhattan_Melodrama)
 

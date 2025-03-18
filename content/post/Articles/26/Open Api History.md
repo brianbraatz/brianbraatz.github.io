@@ -31,7 +31,8 @@ categories_ref:
   - Software Development
   - OpenAPI
   - Web Development
-lastmod: 2025-03-14T15:45:03.567Z
+slug_calculated: https://brianbraatz.github.io/p/openapi-nutshell
+lastmod: 2025-03-14T16:40:10.033Z
 ---
 ### **The Origins (2010)**
 

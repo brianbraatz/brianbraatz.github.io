@@ -25,7 +25,8 @@ categories_ref:
   - Python-PyQt
   - Python-PySide
   - GUI
-lastmod: 2025-03-14T15:45:12.001Z
+slug_calculated: https://brianbraatz.github.io/p/pyqt-and-pyside-compared
+lastmod: 2025-03-14T16:40:21.674Z
 ---
 # PyQt and PySide Compared
 

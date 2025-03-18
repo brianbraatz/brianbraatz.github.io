@@ -35,7 +35,8 @@ categories_ref:
   - Office 365
   - ASP.NET
   - Power Apps
-lastmod: 2025-03-14T15:45:28.426Z
+slug_calculated: https://brianbraatz.github.io/p/sharepoint-leverage-aspnet
+lastmod: 2025-03-14T16:40:35.567Z
 ---
 <!-- 
 ---

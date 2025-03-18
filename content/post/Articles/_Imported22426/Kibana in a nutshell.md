@@ -27,7 +27,8 @@ categories_ref:
   - Logging
   - Data Visualization
   - Technology
-lastmod: 2025-03-14T15:45:17.315Z
+slug_calculated: https://brianbraatz.github.io/p/kibana-nutshell
+lastmod: 2025-03-14T16:40:25.506Z
 ---
 Kibana! If you've ever dealt with logs and dashboards, you've probably heard of it.\
 Or at least, you've been forced to use it while trying to impress your boss with fancy graphs.

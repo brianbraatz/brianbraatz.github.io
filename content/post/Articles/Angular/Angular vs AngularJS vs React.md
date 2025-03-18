@@ -33,7 +33,8 @@ categories_ref:
   - Typescript
   - Javascript
   - Web Development
-lastmod: 2025-03-14T15:45:08.169Z
+slug_calculated: https://brianbraatz.github.io/p/angular-vs-angularjs
+lastmod: 2025-03-14T16:40:18.567Z
 ---
 Ah, the ever-evolving world of web development frameworks!
 

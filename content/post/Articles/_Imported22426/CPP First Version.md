@@ -22,7 +22,8 @@ categories_ref:
   - C++
   - History
   - CPP
-lastmod: 2025-03-14T15:45:16.110Z
+slug_calculated: https://brianbraatz.github.io/p/how-the-first-version-of-cpp-worked
+lastmod: 2025-03-14T16:40:24.379Z
 ---
 # How the First Version of C++ Worked
 

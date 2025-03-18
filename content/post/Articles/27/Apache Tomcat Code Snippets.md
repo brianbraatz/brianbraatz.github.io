@@ -23,7 +23,8 @@ categories_ref:
   - DevOps
   - Configuration
   - Cloud
-lastmod: 2025-03-14T15:45:03.871Z
+slug_calculated: https://brianbraatz.github.io/p/apache-tomcat-code-snip
+lastmod: 2025-03-14T16:40:10.422Z
 ---
 <!-- 
 ## 10 Apache Tomcat Code Snippets You Need in Your Life

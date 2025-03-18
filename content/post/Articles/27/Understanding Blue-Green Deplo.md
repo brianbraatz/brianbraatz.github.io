@@ -34,7 +34,8 @@ categories_ref:
   - A/B Testing
   - Web Development
   - Unit Testing
-lastmod: 2025-03-14T15:45:04.659Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-blue-green-canary
+lastmod: 2025-03-14T16:40:12.570Z
 ---
 # Understanding Blue-Green Deployments and Canary Releases
 

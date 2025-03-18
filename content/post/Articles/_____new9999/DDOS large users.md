@@ -29,7 +29,8 @@ categories_ref:
   - API Rate Limiting
   - Networking
   - Cloud Computing
-lastmod: 2025-03-14T15:45:28.776Z
+slug_calculated: https://brianbraatz.github.io/p/handling-rate-limiting-large-user-pools
+lastmod: 2025-03-14T16:40:36.158Z
 ---
 [Swimmers  in crowded China pool](https://www.nbcnews.com/news/photo/swimmers-look-bowl-fruit-loops-crowded-china-pool-flna953892)
 

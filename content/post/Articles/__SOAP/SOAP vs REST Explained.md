@@ -21,7 +21,8 @@ categories_ref:
   - API
   - Web Services
   - Integration
-lastmod: 2025-03-14T15:45:26.845Z
+slug_calculated: https://brianbraatz.github.io/p/soap-vs-rest-explained-history-comparison-migration-tips
+lastmod: 2025-03-14T16:40:34.143Z
 ---
 # SOAP vs REST Explained: History, Comparison, and Migration Tips
 

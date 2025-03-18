@@ -26,7 +26,8 @@ categories_ref:
   - Python
   - Python-Decorators
   - Aspect Orientated Programming-AOP
-lastmod: 2025-03-14T15:45:03.506Z
+slug_calculated: https://brianbraatz.github.io/p/python-decorators-exploring
+lastmod: 2025-03-14T16:40:09.888Z
 ---
 # Python Decorators Explored
 

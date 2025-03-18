@@ -25,7 +25,8 @@ categories_ref:
   - Typescript
   - Javascript
   - Web Development
-lastmod: 2025-03-14T15:45:08.331Z
+slug_calculated: https://brianbraatz.github.io/p/whats-new-in-angular-13
+lastmod: 2025-03-14T16:40:18.885Z
 ---
 [GitHub - otya128/winevdm: 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
 

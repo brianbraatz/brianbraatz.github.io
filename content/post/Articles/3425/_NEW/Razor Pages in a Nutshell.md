@@ -21,7 +21,8 @@ categories_ref:
   - ASP.NET
   - Web Development
   - Razor Pages
-lastmod: 2025-03-14T15:45:07.109Z
+slug_calculated: https://brianbraatz.github.io/p/razor-pages-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.145Z
 ---
 [The Ottoman](https://barbarossabrothers.com/products/the-ottoman)
 

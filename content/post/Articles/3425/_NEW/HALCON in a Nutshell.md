@@ -20,7 +20,8 @@ categories_ref:
   - HALCON
   - Machine Vision
   - Computer Vision
-lastmod: 2025-03-14T15:45:06.640Z
+slug_calculated: https://brianbraatz.github.io/p/halcon-in-a-nutshell
+lastmod: 2025-03-14T16:40:15.838Z
 ---
 <!-- # HALCON in a Nutshell
 

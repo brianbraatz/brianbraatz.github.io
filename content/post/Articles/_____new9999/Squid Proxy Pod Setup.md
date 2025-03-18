@@ -26,7 +26,8 @@ categories_ref:
   - Proxy
   - Cloud
   - DevOps
-lastmod: 2025-03-14T15:45:29.882Z
+slug_calculated: https://brianbraatz.github.io/p/setup-squid-proxy-inside-pod
+lastmod: 2025-03-14T16:40:37.052Z
 ---
 <!-- 
 # Setting Up a Squid Proxy Inside a Pod: A Complete Guide

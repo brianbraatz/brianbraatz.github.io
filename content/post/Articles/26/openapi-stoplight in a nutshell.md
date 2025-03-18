@@ -22,7 +22,8 @@ categories_ref:
   - API Documentation
   - OpenAPI
   - Web Development
-lastmod: 2025-03-14T15:45:03.673Z
+slug_calculated: https://brianbraatz.github.io/p/stoplight-openapi-docs
+lastmod: 2025-03-14T16:40:10.243Z
 ---
 <!-- 
 # Using Stoplight for OpenAPI Documentation

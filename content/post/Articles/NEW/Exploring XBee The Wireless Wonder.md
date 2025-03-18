@@ -23,7 +23,8 @@ weight: 287
 categories_ref:
   - Networking
   - XBee
-lastmod: 2025-03-14T15:45:10.957Z
+slug_calculated: https://brianbraatz.github.io/p/exploring-xbee-the-wireless-wonder
+lastmod: 2025-03-14T16:40:20.746Z
 ---
 # Exploring XBee: The Wireless Wonder
 

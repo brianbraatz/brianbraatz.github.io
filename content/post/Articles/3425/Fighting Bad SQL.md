@@ -20,7 +20,8 @@ weight: 15
 categories_ref:
   - SQL
   - Performance Optimization
-lastmod: 2025-03-14T15:45:05.730Z
+slug_calculated: https://brianbraatz.github.io/p/fighting-bad-sql
+lastmod: 2025-03-14T16:40:13.938Z
 ---
 **Yo, you writin' SQL, huh? That's cool, that's cool. But hold up...**
 

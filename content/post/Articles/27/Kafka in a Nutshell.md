@@ -26,7 +26,8 @@ categories_ref:
   - Distributed Systems
   - Event-driven
   - Cloud
-lastmod: 2025-03-14T15:45:04.148Z
+slug_calculated: https://brianbraatz.github.io/p/kafka-in-a-nutshell
+lastmod: 2025-03-14T16:40:10.839Z
 ---
 # Kafka in a Nutshell 🥜
 

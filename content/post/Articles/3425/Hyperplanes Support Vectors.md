@@ -22,7 +22,8 @@ categories_ref:
   - Machine Learning
   - Scikit-learn
   - Data Science
-lastmod: 2025-03-14T15:45:05.901Z
+slug_calculated: https://brianbraatz.github.io/p/hyperplanes-support-vectors
+lastmod: 2025-03-14T16:40:14.078Z
 ---
 [Hydroplanes on Lake Washington](https://www.seattletimes.com/sports/other-sports/seafair-primer-what-you-need-to-know-about-hydroplanes-on-lake-washington/)
 

@@ -31,7 +31,8 @@ categories_ref:
   - Best Practices
   - Cloud
   - DynamoDb
-lastmod: 2025-03-14T15:45:16.707Z
+slug_calculated: https://brianbraatz.github.io/p/data-modeling-for-microservices
+lastmod: 2025-03-14T16:40:24.811Z
 ---
 [Paris Fashion Week](https://www.bbc.co.uk/newsround/articles/cprqjvpg71go)
 

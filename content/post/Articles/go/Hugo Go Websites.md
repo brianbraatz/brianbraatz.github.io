@@ -20,7 +20,8 @@ categories_ref:
   - GoLang
   - Web Development
   - Hugo Framework
-lastmod: 2025-03-14T15:45:09.274Z
+slug_calculated: https://brianbraatz.github.io/p/website-go-hugo-framework
+lastmod: 2025-03-14T16:40:19.827Z
 ---
 [Hugo](https://gohugo.io/)
 

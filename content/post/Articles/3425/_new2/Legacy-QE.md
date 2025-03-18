@@ -26,7 +26,8 @@ categories_ref:
   - ServiceNow
   - Strangler Pattern
   - Quality Engineering (QE) Metrics
-lastmod: 2025-03-14T15:50:11.897Z
+slug_calculated: https://brianbraatz.github.io/p/lessons-learned-legacy-conversion-strangler-pattern-qe-metrics
+lastmod: 2025-03-14T16:40:18.218Z
 ---
 <!-- 
 # Lessons Learned from a Massive Legacy Conversion with the Strangler Pattern and QE Metrics

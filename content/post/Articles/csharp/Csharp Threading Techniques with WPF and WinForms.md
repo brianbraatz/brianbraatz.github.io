@@ -40,7 +40,8 @@ categories_ref:
   - Xamarin
   - Async
   - Mobile
-lastmod: 2025-03-14T15:45:08.796Z
+slug_calculated: https://brianbraatz.github.io/p/wpf-winforms-threads
+lastmod: 2025-03-14T16:40:19.617Z
 ---
 # Updating User Interfaces in WPF and WinForms with Threading Techniques
 

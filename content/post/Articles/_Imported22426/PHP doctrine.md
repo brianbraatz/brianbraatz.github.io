@@ -29,7 +29,8 @@ categories_ref:
   - Doctrine
   - Cloud
   - SQL
-lastmod: 2025-03-14T15:45:18.235Z
+slug_calculated: https://brianbraatz.github.io/p/php-doctrine-in-a-nutshell
+lastmod: 2025-03-14T16:40:25.694Z
 ---
 # PHP Doctrine in a Nutshell
 

@@ -38,7 +38,8 @@ categories_ref:
   - Unit Testing
   - Javascript
   - Typescript
-lastmod: 2025-03-14T15:45:15.367Z
+slug_calculated: https://brianbraatz.github.io/p/bdd-angular-react
+lastmod: 2025-03-14T16:40:23.877Z
 ---
 [Animal training - Wikipedia](https://en.wikipedia.org/wiki/Animal_training)
 

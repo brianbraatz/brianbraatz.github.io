@@ -31,7 +31,8 @@ categories_ref:
   - Compliance
   - DevOps
   - Cloud
-lastmod: 2025-03-14T15:45:28.730Z
+slug_calculated: https://brianbraatz.github.io/p/data-masking-kubernetes-guide
+lastmod: 2025-03-14T16:40:36.018Z
 ---
 <!-- 
 # Data Masking in Kubernetes: A Complete Guide with Code Examples

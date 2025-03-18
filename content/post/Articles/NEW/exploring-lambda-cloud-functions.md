@@ -44,7 +44,8 @@ categories_ref:
   - AWS-Lambda
   - Azure-Functions
   - DynamoDb
-lastmod: 2025-03-14T15:45:11.036Z
+slug_calculated: https://brianbraatz.github.io/p/exploring-lambda-and-cloud-functions
+lastmod: 2025-03-14T16:40:20.844Z
 ---
 <!-- 
 # Exploring Lambda and Cloud Functions in GCP, AWS, & Azure Cloud

@@ -18,7 +18,8 @@ weight: 2453
 categories_ref:
   - Programming
   - Web Development
-lastmod: 2025-03-14T15:45:07.064Z
+slug_calculated: https://brianbraatz.github.io/p/hack-php-hhvm-nutshell
+lastmod: 2025-03-14T16:40:17.029Z
 ---
 https://engineering.fb.com/2014/03/20/developer-tools/hack-a-new-programming-language-for-hhvm/
 

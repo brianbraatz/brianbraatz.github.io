@@ -23,7 +23,8 @@ categories_ref:
   - OpenAPI
   - Swagger
   - API Design
-lastmod: 2025-03-14T15:45:04.027Z
+slug_calculated: https://brianbraatz.github.io/p/building-code-first-openapi-nodejs
+lastmod: 2025-03-14T16:40:10.739Z
 ---
 ***
 

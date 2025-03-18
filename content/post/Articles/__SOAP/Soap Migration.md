@@ -2,7 +2,7 @@
 title: "Migrating and Upgrading an Old SOAP Application: The Challenges, What Went Well, What Didn't, What I Learned, and How I Did It – Plus 10 Other People Who Did It Too"
 description: "Migrating and Upgrading an Old SOAP Application: The Challenges, What Went Well, What Didn't, What I Learned, and How I Did It – Plus 10 Other People Who Did It Too"
 slug: migrating-upgrading-old-soap-application-challenges-lessons
-date: 2025-12-04
+date: 2017-12-04
 image: post/Articles/IMAGES/473.jpg
 categories: []
 tags:
@@ -16,7 +16,8 @@ tags:
 draft: false
 weight: 426
 categories_ref: []
-lastmod: 2025-03-14T15:45:26.784Z
+slug_calculated: https://brianbraatz.github.io/p/migrating-upgrading-old-soap-application-challenges-lessons
+lastmod: 2025-03-18T22:03:09.933Z
 ---
 # Migrating and Upgrading an Old SOAP Application: The Challenges, What Went Well, What Didn't, What I Learned, and How I Did It – Plus 10 Other People Who Did It Too
 

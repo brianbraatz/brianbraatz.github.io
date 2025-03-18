@@ -33,7 +33,8 @@ categories_ref:
   - CSharp
   - DotNet
   - Testing
-lastmod: 2025-03-14T15:45:21.551Z
+slug_calculated: https://brianbraatz.github.io/p/in-depth-introduction-to-the-bogus-library
+lastmod: 2025-03-14T16:40:28.772Z
 ---
 <!--
 # In-Depth Introduction to the Bogus Library for Sample Data Generation and Unit Testing Data

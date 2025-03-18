@@ -26,7 +26,8 @@ categories_ref:
   - Entity Framework
   - SQL
   - C#
-lastmod: 2025-03-14T15:45:04.767Z
+slug_calculated: https://brianbraatz.github.io/p/orms-nutshell
+lastmod: 2025-03-14T16:40:12.696Z
 ---
 NOTE\_ this is a dupe of the other - or too simliar
 

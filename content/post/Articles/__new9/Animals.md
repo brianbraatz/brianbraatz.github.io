@@ -27,7 +27,8 @@ tags:
 draft: false
 weight: 421
 categories_ref: []
-lastmod: 2025-03-14T15:45:25.263Z
+slug_calculated: https://brianbraatz.github.io/p/the-animals-program-on-the-apple-ii
+lastmod: 2025-03-14T16:40:32.510Z
 ---
 ## The Origins of the Animals Program: A Digital Guessing Game with a Brain
 

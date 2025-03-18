@@ -38,7 +38,8 @@ categories_ref:
   - YModem
   - ZModem
   - Kermit
-lastmod: 2025-03-14T15:45:12.740Z
+slug_calculated: https://brianbraatz.github.io/p/modems-and-file-transfer-protocols-xmodem-ymodem-zmodem-kermit
+lastmod: 2025-03-14T16:40:21.957Z
 ---
 # Modems & File Transfer Protocols: XModem, YModem, ZModem, and Kermit
 

@@ -28,7 +28,8 @@ categories_ref:
   - Web Development
   - SQL
   - LINQ
-lastmod: 2025-03-14T15:45:06.881Z
+slug_calculated: https://brianbraatz.github.io/p/odata-in-a-nutshell
+lastmod: 2025-03-14T16:40:16.558Z
 ---
 # OData in a Nutshell
 

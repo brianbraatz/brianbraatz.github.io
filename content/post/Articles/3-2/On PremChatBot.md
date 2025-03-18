@@ -23,7 +23,8 @@ categories_ref:
   - AI
   - Machine Learning
   - PDF Search
-lastmod: 2025-03-14T15:45:05.044Z
+slug_calculated: https://brianbraatz.github.io/p/on-prem-ai-pdf-search
+lastmod: 2025-03-14T16:40:12.851Z
 ---
 [Omnibot 2000 - Wikipedia](https://en.wikipedia.org/wiki/Omnibot)
 

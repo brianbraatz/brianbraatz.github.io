@@ -26,7 +26,8 @@ categories_ref:
   - Virtual Destructors
   - Polymorphism
   - CPP
-lastmod: 2025-03-14T15:45:16.306Z
+slug_calculated: https://brianbraatz.github.io/p/in-cpp-virtual-destructors
+lastmod: 2025-03-18T19:20:57.755Z
 ---
 # In C++, Virtual Destructors (or Lack Thereof) Can Kill You
 

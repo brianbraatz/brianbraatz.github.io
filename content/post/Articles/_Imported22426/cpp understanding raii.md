@@ -24,7 +24,8 @@ categories_ref:
   - Memory Management
   - RAII
   - CPP
-lastmod: 2025-03-14T15:45:16.228Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-raii-in-cpp
+lastmod: 2025-03-14T16:40:24.480Z
 ---
 # Understanding RAII in C++
 

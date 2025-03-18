@@ -14,7 +14,8 @@ weight: 312
 categories_ref:
   - Python
   - Document Imaging
-lastmod: 2025-03-14T15:45:29.984Z
+slug_calculated: https://brianbraatz.github.io/p/python-ray-tracing
+lastmod: 2025-03-14T16:40:37.144Z
 ---
 ![](/post/Articles/_____new9999/PythonRayTracing/animation.gif)
 

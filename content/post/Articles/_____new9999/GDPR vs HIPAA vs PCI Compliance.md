@@ -29,7 +29,8 @@ categories_ref:
   - GDPR
   - HIPAA
   - PCI
-lastmod: 2025-03-14T15:45:29.104Z
+slug_calculated: https://brianbraatz.github.io/p/gdpr-hipaa-pci-compliance-kubernetes
+lastmod: 2025-03-14T16:40:36.359Z
 ---
 <!-- 
 # GDPR vs HIPAA vs PCI Compliance in Kubernetes: A Complete Guide

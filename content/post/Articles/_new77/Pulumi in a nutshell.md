@@ -26,7 +26,8 @@ categories_ref:
   - Cloud
   - Pulumi
   - CI\CD
-lastmod: 2025-03-14T15:45:24.861Z
+slug_calculated: https://brianbraatz.github.io/p/pulumi-in-a-nutshell
+lastmod: 2025-03-14T16:40:32.180Z
 ---
 <!-- 
 # Pulumi in a Nutshell

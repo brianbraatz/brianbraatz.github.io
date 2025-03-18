@@ -31,7 +31,8 @@ categories_ref:
   - Biztalk
   - Cloud
   - Apache Camel
-lastmod: 2025-03-14T15:45:21.436Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-biztalk-server-with-example-uses-explained
+lastmod: 2025-03-14T16:40:28.601Z
 ---
 <!--
 

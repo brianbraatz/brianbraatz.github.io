@@ -20,7 +20,8 @@ weight: "34"
 categories_ref:
   - Programming
   - Technology
-lastmod: 2025-03-14T15:45:04.529Z
+slug_calculated: https://brianbraatz.github.io/p/non-blocking-io
+lastmod: 2025-03-14T16:40:12.039Z
 ---
 <!-- # Non-Blocking I/O: The Secret Sauce Behind Snappy Applications
 

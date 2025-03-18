@@ -25,7 +25,8 @@ categories_ref:
   - Typescript
   - Javascript
   - Web Development
-lastmod: 2025-03-14T15:45:08.134Z
+slug_calculated: https://brianbraatz.github.io/p/whats-new-in-angular-16
+lastmod: 2025-03-14T16:40:18.458Z
 ---
 <!-- 
 # WHats New in Angular 16?

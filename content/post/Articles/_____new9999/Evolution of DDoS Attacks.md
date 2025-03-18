@@ -29,7 +29,8 @@ categories_ref:
   - DDoS
   - API Rate Limiting
   - Cloud Computing
-lastmod: 2025-03-14T15:45:28.997Z
+slug_calculated: https://brianbraatz.github.io/p/evolution-ddos-attacks-modern-cloud-security
+lastmod: 2025-03-14T16:40:36.261Z
 ---
 <!-- 
 # The Evolution of DDoS Attacks: From 2000s Chaos to Modern Cloud Security

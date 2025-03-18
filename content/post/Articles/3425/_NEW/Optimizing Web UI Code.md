@@ -22,7 +22,8 @@ categories_ref:
   - Web Development
   - Performance Optimization
   - Frontend
-lastmod: 2025-03-14T15:45:07.029Z
+slug_calculated: https://brianbraatz.github.io/p/optimize-web-front-end-code
+lastmod: 2025-03-14T16:40:16.920Z
 ---
 [Boston- Marathon](https://www.therunningchannel.com/whats-it-really-like-to-run-the-boston-marathon/)
 

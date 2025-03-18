@@ -24,7 +24,8 @@ categories_ref:
   - Performance
   - Benchmarking
   - JavaScript
-lastmod: 2025-03-14T15:45:04.383Z
+slug_calculated: https://brianbraatz.github.io/p/node-js-performance-showd
+lastmod: 2025-03-14T16:40:11.447Z
 ---
 <!-- 
 # Node.js Performance Showdown: How Does It Stack Up Against the Rest?

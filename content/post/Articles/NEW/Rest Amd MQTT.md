@@ -25,7 +25,8 @@ categories_ref:
   - Messaging
   - Cloud
   - Microservices
-lastmod: 2025-03-14T15:45:13.472Z
+slug_calculated: https://brianbraatz.github.io/p/rest-and-mqtt-the-dynamic-duo-of-microservice-apis
+lastmod: 2025-03-14T16:40:22.595Z
 ---
 # REST and MQTT: The Dynamic Duo of Microservice APIs
 

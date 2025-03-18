@@ -37,7 +37,8 @@ categories_ref:
   - Machine Learning
   - LISP
   - Prolog
-lastmod: 2025-03-14T15:45:25.357Z
+slug_calculated: https://brianbraatz.github.io/p/ai-early
+lastmod: 2025-03-14T16:40:32.592Z
 ---
 ## The Birth of AI: Enter LISP and Prolog
 

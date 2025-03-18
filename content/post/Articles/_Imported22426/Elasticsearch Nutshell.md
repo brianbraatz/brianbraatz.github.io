@@ -33,7 +33,8 @@ categories_ref:
   - Cloud
   - Apache
   - Apache Lucene
-lastmod: 2025-03-14T15:45:16.458Z
+slug_calculated: https://brianbraatz.github.io/p/elasticsearch-nutshell
+lastmod: 2025-03-14T16:40:24.634Z
 ---
 [Elastigirl](https://en.wikipedia.org/wiki/Elastigirl)
 

@@ -28,7 +28,8 @@ categories_ref:
   - Encryption
   - Cloud
   - DevOps
-lastmod: 2025-03-14T15:45:29.491Z
+slug_calculated: https://brianbraatz.github.io/p/mutual-tls-nutshell
+lastmod: 2025-03-14T16:40:36.763Z
 ---
 <!--
 # Mutual TLS (mTLS) Explained in Detail: A Complete Guide with Code Samples

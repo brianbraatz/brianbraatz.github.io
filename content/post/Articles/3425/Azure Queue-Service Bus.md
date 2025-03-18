@@ -24,7 +24,8 @@ categories_ref:
   - Messaging
   - Azure Queue
   - Azure Service Bus
-lastmod: 2025-03-14T15:45:05.655Z
+slug_calculated: https://brianbraatz.github.io/p/azure-queue-vs-service-bus
+lastmod: 2025-03-14T16:40:13.701Z
 ---
 ## Azure Queue vs. Azure Service Bus: Which One Should You Use?
 

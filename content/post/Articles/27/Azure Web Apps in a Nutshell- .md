@@ -25,7 +25,8 @@ categories_ref:
   - Web Apps
   - ASP.NET
   - Node.js
-lastmod: 2025-03-14T15:45:03.931Z
+slug_calculated: https://brianbraatz.github.io/p/azure-web-apps-nutshell
+lastmod: 2025-03-14T16:40:10.590Z
 ---
 <!-- 
 # Azure Web Apps in a Nutshell: The Good, The Bad, and The Cloudy

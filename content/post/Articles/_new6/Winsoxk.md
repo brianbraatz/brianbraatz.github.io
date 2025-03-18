@@ -1,7 +1,7 @@
 ---
 title: Winsock API Explained
 description: History of this interesting API...
-slug: winsock api
+slug: winsock-api
 date: 2009-05-15
 image: post/Articles/IMAGES/winsock.png
 categories:
@@ -34,7 +34,8 @@ categories_ref:
   - Protocols
   - History
   - Network Protocols
-lastmod: 2025-03-14T15:45:23.918Z
+slug_calculated: https://brianbraatz.github.io/p/winsock api
+lastmod: 2025-03-18T18:28:52.871Z
 ---
 <!--
 

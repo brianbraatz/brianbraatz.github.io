@@ -29,7 +29,8 @@ categories_ref:
   - Web Development
   - Testing
   - Unit Testing
-lastmod: 2025-03-14T15:45:12.807Z
+slug_calculated: https://brianbraatz.github.io/p/monitor-websites-with-python
+lastmod: 2025-03-14T16:40:21.980Z
 ---
 # How to Monitor Websites for Changes Like a Cyber Detective
 

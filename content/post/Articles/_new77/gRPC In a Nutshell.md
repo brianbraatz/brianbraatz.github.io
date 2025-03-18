@@ -31,7 +31,8 @@ categories_ref:
   - CSharp
   - Python
   - GoLang
-lastmod: 2025-03-14T15:45:24.432Z
+slug_calculated: https://brianbraatz.github.io/p/grpc-nutshell
+lastmod: 2025-03-14T16:40:31.784Z
 ---
 ## 📜 A Quick History Lesson
 

@@ -26,7 +26,8 @@ categories_ref:
   - Linux
   - Windows
   - Security
-lastmod: 2025-03-14T15:45:17.117Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-sshx
+lastmod: 2025-03-14T16:40:25.316Z
 ---
 SSH (Secure Shell) is the magical spell that allows you to securely log into remote computers like a hacker in the movies (minus the dramatic typing and green text on black screens).
 

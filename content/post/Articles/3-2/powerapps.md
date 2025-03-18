@@ -27,7 +27,8 @@ categories_ref:
   - Low-Code
   - Development
   - Cloud
-lastmod: 2025-03-14T15:45:05.086Z
+slug_calculated: https://brianbraatz.github.io/p/microsoft-power-apps
+lastmod: 2025-03-14T16:40:12.927Z
 ---
 <!-- 
 ## Microsoft Power Apps: The No-Code Superhero You Didn't Know You Needed -->

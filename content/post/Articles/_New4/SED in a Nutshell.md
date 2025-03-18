@@ -28,7 +28,8 @@ categories_ref:
   - Linux
   - Mac OS
   - Scripting
-lastmod: 2025-03-14T15:45:20.688Z
+slug_calculated: https://brianbraatz.github.io/p/sed-in-a-nutshell
+lastmod: 2025-03-14T16:40:27.805Z
 ---
 # SED in a Nutshell
 

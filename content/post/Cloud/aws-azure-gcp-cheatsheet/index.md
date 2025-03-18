@@ -35,7 +35,8 @@ categories_ref:
   - Azure Service Bus
   - Azure Storage
   - DynamoDb
-lastmod: 2025-03-14T15:45:30.037Z
+slug_calculated: https://brianbraatz.github.io/p/aws-azure-gcp-cheatsheet
+lastmod: 2025-03-14T16:40:37.223Z
 ---
 <!-- 
 see also [DevOps Cloud Services Comparison](post/Articles/DevOps%20Cloud%20Services%20Comparison/DevOps%20Cloud%20Services%20Comparison.md)

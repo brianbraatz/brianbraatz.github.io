@@ -22,7 +22,8 @@ categories_ref:
   - Golang
   - Database
   - ORM
-lastmod: 2025-03-14T15:45:05.785Z
+slug_calculated: https://brianbraatz.github.io/p/gorm-orm-in-a-nutshell
+lastmod: 2025-03-14T16:40:14.064Z
 ---
 # GORM ORM In a Nutshell
 

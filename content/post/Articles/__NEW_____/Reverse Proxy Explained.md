@@ -46,7 +46,8 @@ categories_ref:
   - Docker
   - Kubernetes
   - Forward Proxy
-lastmod: 2025-03-14T15:45:26.163Z
+slug_calculated: https://brianbraatz.github.io/p/reverse-proxies-perf
+lastmod: 2025-03-14T16:40:33.589Z
 ---
 Phonebooth Stuffing:
 

@@ -25,7 +25,8 @@ categories_ref:
   - Asynchronous Programming
   - Concurrency
   - CSharp
-lastmod: 2025-03-14T15:45:07.241Z
+slug_calculated: https://brianbraatz.github.io/p/reactive-extensions-rx-net-nutshell
+lastmod: 2025-03-14T16:40:17.390Z
 ---
 <!-- # Reactive Extensions (Rx.NET) for Event-Driven and Asynchronous Programming in a Nutshell
 

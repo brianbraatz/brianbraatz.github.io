@@ -29,7 +29,8 @@ categories_ref:
   - Docker
   - Cloud
   - Compliance
-lastmod: 2025-03-14T15:45:29.541Z
+slug_calculated: https://brianbraatz.github.io/p/posix-unix
+lastmod: 2025-03-14T16:40:36.839Z
 ---
 # Understanding POSIX: Security, Docker, Compliance, and Cloud Implications
 

@@ -43,7 +43,8 @@ categories_ref:
   - DotNet
   - Python
   - Azure Queue
-lastmod: 2025-03-14T15:45:10.164Z
+slug_calculated: https://brianbraatz.github.io/p/cloud-messaging-aws-vs-azure-vs-google-cloud
+lastmod: 2025-03-14T16:40:20.411Z
 ---
 # Cloud Messaging Comparison: AWS vs Azure vs Google Cloud
 

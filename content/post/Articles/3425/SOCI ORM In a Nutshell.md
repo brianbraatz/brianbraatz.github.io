@@ -21,7 +21,8 @@ categories_ref:
   - ORM
   - Database
   - SOCI
-lastmod: 2025-03-14T15:45:06.153Z
+slug_calculated: https://brianbraatz.github.io/p/soci-orm-in-a-nutshell
+lastmod: 2025-03-14T16:40:14.380Z
 ---
 # SOCI ORM In a Nutshell
 

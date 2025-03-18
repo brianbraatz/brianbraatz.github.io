@@ -28,7 +28,8 @@ categories_ref:
   - Web Development
   - VueJs
   - Vue
-lastmod: 2025-03-14T15:45:07.488Z
+slug_calculated: https://brianbraatz.github.io/p/vite-vitest-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.748Z
 ---
 <!-- # Vite, Vitest, In a Nutshell
 

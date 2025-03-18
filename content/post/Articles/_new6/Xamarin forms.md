@@ -1,7 +1,7 @@
 ---
 title: Xamarin.Forms vs Xamarin.Native
 description: Which One Should You Choose?
-slug: xamarinforms-vs-xamarinnative:-which-one-should-you-choose
+slug: xamarinforms-vs-xamarinnative
 date: 2017-01-19
 image: post/Articles/IMAGES/xmarinlogo.png
 categories:
@@ -45,7 +45,8 @@ categories_ref:
   - Windows
   - Mac OS
   - Mobile
-lastmod: 2025-03-14T15:45:24.046Z
+slug_calculated: https://brianbraatz.github.io/p/xamarinforms-vs-xamarinnative:-which-one-should-you-choose
+lastmod: 2025-03-18T18:29:16.049Z
 ---
 <!--
 

@@ -25,7 +25,8 @@ categories_ref:
   - Web Development
   - SCSS
   - Preprocessor
-lastmod: 2025-03-14T15:45:04.567Z
+slug_calculated: https://brianbraatz.github.io/p/sass-in-a-nutshell
+lastmod: 2025-03-14T16:40:12.256Z
 ---
 # SASS in a Nutshell
 

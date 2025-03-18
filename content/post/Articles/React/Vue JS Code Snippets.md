@@ -21,7 +21,8 @@ weight: 18
 categories_ref:
   - VueJs
   - Web Development
-lastmod: 2025-03-14T15:45:14.895Z
+slug_calculated: https://brianbraatz.github.io/p/vue-nutshell
+lastmod: 2025-03-14T16:40:23.543Z
 ---
 ## A Brief History of Vue.js (How It All Began)
 

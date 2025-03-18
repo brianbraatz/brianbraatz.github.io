@@ -29,7 +29,8 @@ categories_ref:
   - Frontend Development
   - Javascript
   - VueJs
-lastmod: 2025-03-14T15:45:07.502Z
+slug_calculated: https://brianbraatz.github.io/p/vuetify-3-nutshell
+lastmod: 2025-03-14T16:40:17.761Z
 ---
 [# 15 Vuetify Examples GitHub](https://themeselection.com/vuetify-examples/)
 

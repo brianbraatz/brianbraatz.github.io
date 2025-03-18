@@ -25,7 +25,8 @@ categories_ref:
   - Web Development
   - Cloud
   - Network Protocols
-lastmod: 2025-03-14T15:45:13.523Z
+slug_calculated: https://brianbraatz.github.io/p/what-are-rfcs-and-why-should-i-care
+lastmod: 2025-03-14T16:40:22.643Z
 ---
 # What Are RFCs and Why Should I Care?
 

@@ -1,7 +1,7 @@
 ---
 title: Buffer Overrun Attacks and How to Prevent Them
 description: In Python, C#, and Go
-slug: history-of-buffer-overrun-attacks-and-how-to-prevent-them-in-python-csharp-and-go
+slug: history-of-buffer-overrun-attacks
 date: 2021-10-10
 image: post/Articles/IMAGES/bufferoverflow.png
 categories:
@@ -32,7 +32,8 @@ categories_ref:
   - Security
   - Assembly Language
   - WinApi
-lastmod: 2025-03-14T15:45:26.906Z
+slug_calculated: https://brianbraatz.github.io/p/history-of-buffer-overrun-attacks-and-how-to-prevent-them-in-python-csharp-and-go
+lastmod: 2025-03-18T22:46:26.606Z
 ---
 # History of Buffer Overrun Attacks and How to Prevent Them in Python, C#, and Go
 

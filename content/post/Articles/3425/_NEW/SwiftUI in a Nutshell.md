@@ -23,7 +23,8 @@ categories_ref:
   - SwiftUI
   - iOS Development
   - Apple
-lastmod: 2025-03-14T15:45:07.382Z
+slug_calculated: https://brianbraatz.github.io/p/swiftui-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.700Z
 ---
 # SwiftUI in a Nutshell: The Future of iOS Development
 

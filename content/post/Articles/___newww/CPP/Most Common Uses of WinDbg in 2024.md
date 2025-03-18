@@ -31,7 +31,8 @@ categories_ref:
   - Debugging
   - Security
   - WinAPI
-lastmod: 2025-03-14T15:45:27.636Z
+slug_calculated: https://brianbraatz.github.io/p/windbg-2024
+lastmod: 2025-03-14T16:40:34.805Z
 ---
 # **WinDbg in 2024??**
 

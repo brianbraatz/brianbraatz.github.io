@@ -1,7 +1,7 @@
 ---
 title: How To Write an OLE Server in Raw C++
 description: Cause thats how we roll..no MFC Here...
-slug: write-an-ole-server-in-raw-c++
+slug: write-an-ole-server-in-raw-cpp
 date: 2015-09-09
 image: post/Articles/IMAGES/ole.png
 categories:
@@ -32,7 +32,8 @@ categories_ref:
   - COM
   - MFC
   - WinAPi
-lastmod: 2025-03-14T15:45:08.715Z
+slug_calculated: https://brianbraatz.github.io/p/write-an-ole-server-in-raw-c++
+lastmod: 2025-03-18T19:14:24.965Z
 ---
 <!-- 
 # Write an OLE Server in Raw C++

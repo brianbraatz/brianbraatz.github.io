@@ -24,7 +24,8 @@ categories_ref:
   - Nosql
   - Cloud
   - Scalability
-lastmod: 2025-03-14T15:45:06.582Z
+slug_calculated: https://brianbraatz.github.io/p/dynamodb-in-a-nutshell
+lastmod: 2025-03-14T16:40:15.679Z
 ---
 # DynamoDB in a Nutshell
 

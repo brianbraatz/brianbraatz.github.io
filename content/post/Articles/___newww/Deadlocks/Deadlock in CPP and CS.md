@@ -28,7 +28,8 @@ categories_ref:
   - C++
   - C#
   - WinAPI
-lastmod: 2025-03-14T15:45:28.083Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-deadlocks-and-race-conditions-in-cpp-and-csharp
+lastmod: 2025-03-14T16:40:35.237Z
 ---
 # Understanding Deadlocks and Race Conditions in C++ and C\#
 

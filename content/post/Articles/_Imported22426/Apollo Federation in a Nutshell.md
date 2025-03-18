@@ -24,7 +24,8 @@ categories_ref:
   - Federation
   - Microservices
   - Api Gateway
-lastmod: 2025-03-14T15:45:15.817Z
+slug_calculated: https://brianbraatz.github.io/p/apollo-federation-in-a-nutshell
+lastmod: 2025-03-14T16:40:24.160Z
 ---
 # Apollo Federation in a Nutshell
 

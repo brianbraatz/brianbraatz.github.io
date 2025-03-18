@@ -43,7 +43,8 @@ categories_ref:
   - Python
   - Microsoft Azure Cloud
   - Azure Storage
-lastmod: 2025-03-14T15:45:28.665Z
+slug_calculated: https://brianbraatz.github.io/p/azure-store-data
+lastmod: 2025-03-14T16:40:35.882Z
 ---
 So, you're diving into Azure and wondering, *"What's the best way to store my precious data?"*
 

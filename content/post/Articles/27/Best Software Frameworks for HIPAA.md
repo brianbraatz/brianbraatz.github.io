@@ -36,7 +36,8 @@ categories_ref:
   - Node.js
   - TypeScript
   - JavaScript
-lastmod: 2025-03-14T15:45:03.946Z
+slug_calculated: https://brianbraatz.github.io/p/best-software-frameworks-
+lastmod: 2025-03-14T16:40:10.665Z
 ---
 ## So, You Have to Parse NCPDP or HIPAA X12 EDI?
 

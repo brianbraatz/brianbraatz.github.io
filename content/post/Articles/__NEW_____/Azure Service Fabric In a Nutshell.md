@@ -1,8 +1,8 @@
 ---
 title: Understanding Azure Service Fabric with Examples in C# and Python
 description: Understanding Azure Service Fabric with Examples in C# and Python
-slug: understanding-azure-service-fabric-with-examples-in-csharp-and-python
-date: 2025-12-03
+slug: azure-service-fabric-csharp-and-python
+date: 2019-12-03
 image: post/Articles/IMAGES/27.jpg
 categories: []
 tags:
@@ -16,7 +16,8 @@ tags:
 draft: false
 weight: 357
 categories_ref: []
-lastmod: 2025-03-14T15:45:25.756Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-azure-service-fabric-with-examples-in-csharp-and-python
+lastmod: 2025-03-18T22:01:48.922Z
 ---
 # Understanding Azure Service Fabric with Examples in C# and Python
 

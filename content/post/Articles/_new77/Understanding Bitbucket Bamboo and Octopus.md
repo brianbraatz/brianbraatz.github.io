@@ -2,7 +2,7 @@
 title: How  Bamboo and Octopus Work Together
 description: 
 slug: understanding-bitbucket-bamboo-octopus
-date: 2025-11-30
+date: 2020-11-30
 image: post/Articles/IMAGES/bambooandoctopus.png
 categories:
   - DevOps
@@ -27,7 +27,8 @@ categories_ref:
   - Cloud
   - Terraform
   - CI\CD
-lastmod: 2025-03-14T15:45:25.191Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-bitbucket-bamboo-octopus
+lastmod: 2025-03-18T22:47:31.980Z
 ---
 <!-- 
 # Understanding Bitbucket + Bamboo + Octopus, Their History and How They Relate to Each Other with Example Code

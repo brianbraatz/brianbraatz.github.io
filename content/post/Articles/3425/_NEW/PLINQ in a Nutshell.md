@@ -22,7 +22,8 @@ categories_ref:
   - Parallel Programming
   - Concurrency
   - C#
-lastmod: 2025-03-14T15:45:07.080Z
+slug_calculated: https://brianbraatz.github.io/p/plinq-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.044Z
 ---
 # PLINQ in a Nutshell
 

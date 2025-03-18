@@ -26,7 +26,8 @@ weight: 49
 categories_ref:
   - Linux
   - Inter-Process Communications
-lastmod: 2025-03-14T15:45:19.528Z
+slug_calculated: https://brianbraatz.github.io/p/IPC-in-linux
+lastmod: 2025-03-14T16:40:26.800Z
 ---
 ## Introduction
 

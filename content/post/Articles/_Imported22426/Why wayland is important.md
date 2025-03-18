@@ -1,7 +1,7 @@
 ---
 title: Linux Wayland in a Nutshell
 description: ""
-slug: linux-wayland-in-a-nutshell-why-its-important-and-history-with-x-windows
+slug: linux-wayland-nutshell
 date: 2018-09-22
 image: post/Articles/IMAGES/waylandlogo.png
 categories:
@@ -23,7 +23,8 @@ categories_ref:
   - Wayland
   - X11
   - Display Servers
-lastmod: 2025-03-14T15:45:19.154Z
+slug_calculated: https://brianbraatz.github.io/p/linux-wayland-in-a-nutshell-why-its-important-and-history-with-x-windows
+lastmod: 2025-03-18T22:42:30.409Z
 ---
 ## A Brief History: X11 and Its Limitations
 

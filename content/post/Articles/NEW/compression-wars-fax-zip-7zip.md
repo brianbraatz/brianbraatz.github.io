@@ -25,7 +25,8 @@ categories_ref:
   - History
   - Algorithms
   - Compression
-lastmod: 2025-03-14T15:45:10.506Z
+slug_calculated: https://brianbraatz.github.io/p/the-compression-fax-machines-zip-7zip
+lastmod: 2025-03-14T16:40:20.580Z
 ---
 ![](/post/Articles/IMAGES/Hookes-law-springs.png)
 

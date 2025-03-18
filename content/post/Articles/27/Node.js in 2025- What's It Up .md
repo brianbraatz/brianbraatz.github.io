@@ -23,7 +23,8 @@ categories_ref:
   - Web Development
   - JavaScript
   - Technology
-lastmod: 2025-03-14T15:45:04.335Z
+slug_calculated: https://brianbraatz.github.io/p/nodejs-in-2025-whats-it-u
+lastmod: 2025-03-14T16:40:11.428Z
 ---
 <!-- 
 

@@ -25,7 +25,8 @@ categories_ref:
   - Visual Studio
   - Performance Analysis
   - Memory Dump Analysis
-lastmod: 2025-03-14T15:45:27.991Z
+slug_calculated: https://brianbraatz.github.io/p/windbg-vs-visual-studio-why
+lastmod: 2025-03-14T16:40:35.135Z
 ---
 # Why Do We Use WinDbg Instead of Visual Studio?
 

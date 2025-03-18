@@ -39,7 +39,8 @@ categories_ref:
   - MySql
   - Postgres Sql
   - Testing
-lastmod: 2025-03-14T15:45:21.717Z
+slug_calculated: https://brianbraatz.github.io/p/sql-unittest-methods
+lastmod: 2025-03-14T16:40:28.995Z
 ---
 <!-- 
 # History and In-Depth Comparison with Code Examples of tSQLt, DbUnit, SQL Server Unit Testing, pgTAP, Liquibase, Flyway, and DbFit for More Effective SQL Database Testing, Including Views and Stored Procedures

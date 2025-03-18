@@ -15,7 +15,8 @@ weight: 135
 categories_ref:
   - Python
   - Cheatsheet
-lastmod: 2025-03-14T15:45:14.126Z
+slug_calculated: https://brianbraatz.github.io/p/python-cheatsheet
+lastmod: 2025-03-14T16:40:23.193Z
 ---
 ### Python Cheatsheet
 

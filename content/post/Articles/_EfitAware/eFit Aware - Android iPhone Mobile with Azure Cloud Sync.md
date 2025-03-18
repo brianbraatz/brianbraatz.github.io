@@ -60,7 +60,8 @@ categories_ref:
   - GUI
   - Bluetooth API
   - Bluetooth Protocol
-lastmod: 2025-03-14T15:45:15.586Z
+slug_calculated: https://brianbraatz.github.io/p/efit-aware
+lastmod: 2025-03-14T16:40:24.011Z
 ---
 ![](/post/Articles/_EfitAware/Pasted%20image%2020250211070710.png)
 

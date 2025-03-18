@@ -44,7 +44,8 @@ categories_ref:
   - IOS
   - Android
   - Mobile
-lastmod: 2025-03-14T15:45:12.398Z
+slug_calculated: https://brianbraatz.github.io/p/from-mono-to-xamarin-to-maui
+lastmod: 2025-03-14T16:40:21.858Z
 ---
 <!-- 
 title: Evolution of MAUI From Mono to Xamarin to MAUI

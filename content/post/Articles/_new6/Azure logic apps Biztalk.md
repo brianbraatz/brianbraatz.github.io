@@ -34,7 +34,8 @@ categories_ref:
   - Biztalk
   - Cloud
   - Async
-lastmod: 2025-03-14T15:45:21.390Z
+slug_calculated: https://brianbraatz.github.io/p/biztalk-evolved
+lastmod: 2025-03-14T16:40:28.559Z
 ---
 <!--
 # Understanding Azure Logic Apps and How It Evolved from BizTalk Server with Example Uses Explained

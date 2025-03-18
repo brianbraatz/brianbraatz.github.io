@@ -25,7 +25,8 @@ categories_ref:
   - Python-Rich
   - GUI
   - Python-Gui
-lastmod: 2025-03-14T15:45:20.010Z
+slug_calculated: https://brianbraatz.github.io/p/beautiful-cli-dashboard-rich
+lastmod: 2025-03-14T16:40:27.054Z
 ---
 # Making a Beautiful CLI Dashboard with Rich
 

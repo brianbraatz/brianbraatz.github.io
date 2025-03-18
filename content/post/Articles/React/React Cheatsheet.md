@@ -20,7 +20,8 @@ categories_ref:
   - React
   - Cheatsheet
   - Web Development
-lastmod: 2025-03-14T15:45:14.477Z
+slug_calculated: https://brianbraatz.github.io/p/React-cheatsheet
+lastmod: 2025-03-14T16:40:23.518Z
 ---
 ## React Cheatsheet
 

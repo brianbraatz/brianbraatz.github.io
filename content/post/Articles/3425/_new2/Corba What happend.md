@@ -26,7 +26,8 @@ categories_ref:
   - Cloud
   - Java
   - CPP
-lastmod: 2025-03-14T15:45:07.549Z
+slug_calculated: https://brianbraatz.github.io/p/so-like-whatever-happened-to-corba
+lastmod: 2025-03-14T16:40:17.855Z
 ---
 <!-- Alright, tech nerds and curious souls, let’s take a trip back in time to talk about CORBA—y’know, that thing you vaguely remember hearing about but never actually used.  -->
 

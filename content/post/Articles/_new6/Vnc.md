@@ -28,7 +28,8 @@ categories_ref:
   - VNC
   - RDP
   - Networking
-lastmod: 2025-03-14T15:45:23.691Z
+slug_calculated: https://brianbraatz.github.io/p/vnc-protocol
+lastmod: 2025-03-14T16:40:30.785Z
 ---
 <!--
 # How the VNC Protocol Works: History, Relationship to Alternatives, and 10 Code Examples

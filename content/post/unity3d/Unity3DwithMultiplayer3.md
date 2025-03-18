@@ -43,7 +43,8 @@ categories_ref:
   - Azure
   - Azure Functions
   - Azure App Services
-lastmod: 2025-03-14T15:45:30.752Z
+slug_calculated: https://brianbraatz.github.io/p/unity-tutorial-multi-player-3
+lastmod: 2025-03-14T16:40:37.560Z
 ---
 # Multiplayer Unity 3D With Azure: Hooking It All Up and Making It Work
 

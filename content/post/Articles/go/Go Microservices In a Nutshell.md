@@ -20,7 +20,8 @@ categories_ref:
   - GoLang
   - Microservices
   - Docker
-lastmod: 2025-03-14T15:45:09.226Z
+slug_calculated: https://brianbraatz.github.io/p/go-microservcies-nutshell
+lastmod: 2025-03-14T16:40:19.814Z
 ---
 # Microservices with Go
 

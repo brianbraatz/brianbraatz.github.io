@@ -25,7 +25,8 @@ categories_ref:
   - APIs
   - Orchestration
   - Cloud
-lastmod: 2025-03-14T15:45:16.877Z
+slug_calculated: https://brianbraatz.github.io/p/graphql-orchestration-in-a-nutshell
+lastmod: 2025-03-14T16:40:25.029Z
 ---
 <!-- 
 [The Orchestra](https://teachingkidsmusic.weebly.com/the-orchestra.html)

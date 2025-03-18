@@ -33,7 +33,8 @@ categories_ref:
   - 8088 Processor
   - Languages
   - History
-lastmod: 2025-03-14T15:45:25.710Z
+slug_calculated: https://brianbraatz.github.io/p/8088-assembly-nutshell
+lastmod: 2025-03-14T16:40:33.190Z
 ---
 # 8088 Assembly Language in a Nutshell
 

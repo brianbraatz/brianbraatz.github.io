@@ -26,7 +26,8 @@ categories_ref:
   - WinAPI
   - MFC
   - OLE
-lastmod: 2025-03-14T15:45:08.597Z
+slug_calculated: https://brianbraatz.github.io/p/out-of-process-ole-servers-in-mfc
+lastmod: 2025-03-14T16:40:19.270Z
 ---
 # How We Used to Write an Out-of-Process OLE Server in MFC, Back in the Old Days
 

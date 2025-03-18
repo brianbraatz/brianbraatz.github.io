@@ -22,7 +22,8 @@ weight: 127
 categories_ref:
   - UML
   - Software Architecture
-lastmod: 2025-03-14T15:45:13.783Z
+slug_calculated: https://brianbraatz.github.io/p/uml-in-a-nutshell
+lastmod: 2025-03-14T16:40:22.901Z
 ---
 # UML In a Nutshell
 

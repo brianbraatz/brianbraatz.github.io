@@ -37,7 +37,8 @@ categories_ref:
   - Xamarin
   - Design Patterns
   - Model-View-View Model Pattern-MVVM
-lastmod: 2025-03-14T15:45:12.873Z
+slug_calculated: https://brianbraatz.github.io/p/the-mvvm-pattern-history-motivation-and-practical-examples
+lastmod: 2025-03-14T16:40:22.027Z
 ---
 # The MVVM Pattern: History, Motivation, and Practical Examples
 

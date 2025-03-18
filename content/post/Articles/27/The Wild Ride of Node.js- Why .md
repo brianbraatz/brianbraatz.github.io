@@ -21,7 +21,8 @@ categories_ref:
   - JavaScript
   - Node.js
   - Web Development
-lastmod: 2025-03-14T15:45:04.642Z
+slug_calculated: https://brianbraatz.github.io/p/wild-ride-nodejs
+lastmod: 2025-03-14T16:40:12.522Z
 ---
 Ah, **Node.js**.
 

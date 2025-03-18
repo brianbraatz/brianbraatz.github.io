@@ -1,7 +1,7 @@
 ---
 title: Using the GoFakeIt Library for  Data Generation + Unit Testing in Go
 description: In-Depth Introduction to the GoFakeIt Library for Sample Data Generation and Unit Testing in Go
-slug: in-depth-introduction-to-the-gofakeit-library-for-sample-data-generation-and-unit-testing-in-go
+slug: gofakeit-sample-data
 date: 2020-07-24
 image: post/Articles/IMAGES/Go-Logo_Blue.png
 categories:
@@ -31,7 +31,8 @@ categories_ref:
   - GoLang
   - Unit Testing
   - Testing
-lastmod: 2025-03-14T15:45:22.103Z
+slug_calculated: https://brianbraatz.github.io/p/in-depth-introduction-to-the-gofakeit-library-for-sample-data-generation-and-unit-testing-in-go
+lastmod: 2025-03-18T22:45:12.918Z
 ---
 # In-Depth Introduction to the GoFakeIt Library for Sample Data Generation and Unit Testing in Go
 

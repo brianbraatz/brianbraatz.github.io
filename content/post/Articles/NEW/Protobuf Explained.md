@@ -31,7 +31,8 @@ categories_ref:
   - Google Cloud-GCP
   - Protobuf
   - Network Protocols
-lastmod: 2025-03-14T15:45:13.156Z
+slug_calculated: https://brianbraatz.github.io/p/protobuf-efficient-data-serialization
+lastmod: 2025-03-14T16:40:22.247Z
 ---
 # Protobuf: The Not-So-Secret Sauce Behind Efficient Data Serialization
 

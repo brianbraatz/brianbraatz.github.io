@@ -26,7 +26,8 @@ categories_ref:
   - Performance Optimization
   - Frontend Development
   - Lodash
-lastmod: 2025-03-14T15:45:29.301Z
+slug_calculated: https://brianbraatz.github.io/p/javascript-throttling-debouncing-lodash
+lastmod: 2025-03-14T16:40:36.508Z
 ---
 # JavaScript Throttling and Debouncing with Lodash and Other Methods
 

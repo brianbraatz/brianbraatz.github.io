@@ -45,8 +45,12 @@ categories_ref:
   - Postgres Sql
   - Cloud
   - ORM
-lastmod: 2025-03-14T15:45:23.437Z
+slug_calculated: https://brianbraatz.github.io/p/sql-crud--with-stored-procedures
+lastmod: 2025-03-18T13:23:17.224Z
 ---
+See Related Article here:\
+[How we supported Multiple DB Engines in the 2000s](https://brianbraatz.github.io/p/csharp-multi-db-2000s/)
+
 <!--
 
 # SQL CRUD Design Pattern with Stored Procedures: History, Usage, Pros and Cons with Alternatives, and How to Generate CRUD Stored Procedures with MySQL, SQL Server, and PostgreSQL Using Python

@@ -25,7 +25,8 @@ categories_ref:
   - Development
   - Virtual Device Drivers (VxDs)
   - "*User-Mode Driver Framework (UMDF)"
-lastmod: 2025-03-14T15:45:05.508Z
+slug_calculated: https://brianbraatz.github.io/p/intro-to-windows-device-drivers-in-windows-11
+lastmod: 2025-03-14T16:40:13.485Z
 ---
 # Intro to Windows Device Drivers in Windows 11
 

@@ -39,7 +39,8 @@ categories_ref:
   - ETL
   - Amazon Simple Notification Service-SNS
   - Amazon Simple Queue Service-SQS
-lastmod: 2025-03-14T15:45:06.488Z
+slug_calculated: https://brianbraatz.github.io/p/aws-step-functions-in-a-nutshell
+lastmod: 2025-03-14T18:14:45.886Z
 ---
 <!-- 
 # AWS Step Functions in a Nutshell

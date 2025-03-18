@@ -1,7 +1,7 @@
 ---
 title: Comparing WebUI Testing approaches
 description: Comparison of Selenium, Cypress, Puppeteer, TestCafe, WebDriverIO, and Katalon
-slug: history-and-in-depth-comparison-with-code-examples-of-selenium-cypress-playwright-puppeteer-testcafe-webdriverio-and-katalon-for-more-effective-ui-testing-of-web-applications
+slug: webui-testing-approaches
 date: 2024-08-18
 image: post/Articles/IMAGES/32.jpg
 categories:
@@ -39,7 +39,8 @@ categories_ref:
   - Javascript
   - Typescript
   - Testing
-lastmod: 2025-03-14T15:45:21.780Z
+slug_calculated: https://brianbraatz.github.io/p/history-and-in-depth-comparison-with-code-examples-of-selenium-cypress-playwright-puppeteer-testcafe-webdriverio-and-katalon-for-more-effective-ui-testing-of-web-applications
+lastmod: 2025-03-18T22:40:52.236Z
 ---
 <!--
 

@@ -52,7 +52,8 @@ categories_ref:
   - Amazon App Runner
   - IIS
   - CI\CD
-lastmod: 2025-03-14T15:45:24.541Z
+slug_calculated: https://brianbraatz.github.io/p/legacy-app-from-bare-metal-to-aws
+lastmod: 2025-03-14T16:40:31.960Z
 ---
 # How I Took a Legacy App from Bare Metal to AWS
 

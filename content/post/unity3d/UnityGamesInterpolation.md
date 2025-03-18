@@ -47,7 +47,8 @@ categories_ref:
   - Azure App Services
   - Algorithms
   - Design Patterns
-lastmod: 2025-03-14T15:45:30.792Z
+slug_calculated: https://brianbraatz.github.io/p/unity-Interpolation-Prediction
+lastmod: 2025-03-14T16:40:37.615Z
 ---
 <!-- 
 

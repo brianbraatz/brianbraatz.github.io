@@ -20,7 +20,8 @@ weight: 342
 categories_ref:
   - Python
   - Python-SimPy
-lastmod: 2025-03-14T15:45:03.519Z
+slug_calculated: https://brianbraatz.github.io/p/simpy-nutshell
+lastmod: 2025-03-14T16:40:09.948Z
 ---
 Ever wondered how to simulate real-world processes without leaving the comfort of your Python environment?
 

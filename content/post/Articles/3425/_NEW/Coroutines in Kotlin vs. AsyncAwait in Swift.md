@@ -1,7 +1,7 @@
 ---
 title: Coroutines in Kotlin vs. Async/Await in Swift
 description: ""
-slug: coroutines-kotlin-vs-async-await-swift
+slug: coroutines-kotlin-async-await-swift
 date: 2019-11-15
 image: post/Articles/IMAGES/kotlin-swift.png
 categories:
@@ -15,10 +15,11 @@ tags:
   - Coroutines
   - Async/Await
   - Concurrency
-  - Asynchronous Programming
+  - Asynchronous
+  - Programming
 draft: false
 weight: 2642
-lastmod: 2025-03-07T15:36:20.319Z
+lastmod: 2025-03-18T23:17:16.355Z
 ---
 <!-- 
 # Coroutines in Kotlin vs. Async/Await in Swift: A Comparative Analysis

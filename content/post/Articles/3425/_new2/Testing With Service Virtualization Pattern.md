@@ -19,7 +19,8 @@ categories_ref:
   - Software Development
   - Testing
   - DevOps
-lastmod: 2025-03-14T15:45:07.922Z
+slug_calculated: https://brianbraatz.github.io/p/service-virtualization
+lastmod: 2025-03-14T16:40:18.284Z
 ---
 # Service Virtualization: The Magic Trick for Devs and Testers
 

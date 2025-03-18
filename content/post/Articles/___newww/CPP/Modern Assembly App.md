@@ -2,7 +2,7 @@
 title: Windows Hello World In Assembly??? in 2019?
 description: Would you WANT TO? .. YES! I DO!
 slug: windows-api-hello-world-in-assembly-in-2019
-date: 2025-12-18
+date: 2016-12-18
 image: post/Articles/IMAGES/Motorola_6800_Assembly_Language.png
 categories:
   - Windows
@@ -18,14 +18,15 @@ tags:
   - MessageBox
   - GUI
 draft: false
-weight: 567
+weight: 167
 categories_ref:
   - Windows
   - Assembly
   - WinAPI
   - Assembly Language
   - WinApi
-lastmod: 2025-03-14T15:45:27.585Z
+slug_calculated: https://brianbraatz.github.io/p/windows-api-hello-world-in-assembly-in-2019
+lastmod: 2025-03-18T22:05:51.520Z
 ---
 # Can you write a Windows API Hello World In Assembly in 2019?
 
@@ -179,34 +180,33 @@ end start
 4. **Handles button clicks** – Reads text from the input field and pops up a `MessageBox`.
 5. **Runs the Windows message loop** – Because Windows loves messages.
 
-***
+<!-- 
+---
 
 ## 💡 Key Ideas
 
-| Concept      | Explanation                                           |
-| ------------ | ----------------------------------------------------- |
-| Windows API  | We use the Windows API to create a GUI directly.      |
-| MASM Syntax  | Assembly language specific to Windows programming.    |
-| Message Loop | Windows apps run in an event loop.                    |
-| UI Elements  | Created using `CreateWindowEx`.                       |
-| MessageBox   | Displays the user's input after clicking "Say Hello". |
+| Concept            | Explanation |
+|--------------------|-------------|
+| Windows API       | We use the Windows API to create a GUI directly. |
+| MASM Syntax       | Assembly language specific to Windows programming. |
+| Message Loop      | Windows apps run in an event loop. |
+| UI Elements       | Created using `CreateWindowEx`. |
+| MessageBox        | Displays the user's input after clicking "Say Hello". |
 
-***
-
-***
-
-title: "Windows API Hello World: Assembly vs C"\
-description: "A deep dive into Windows API Hello World in Assembly and C, complete with code explanations, instruction breakdowns, and comparisons."\
-slug: "windows-api-hello-world-assembly-vs-c"\
-date: 2025-12-03\
-image: "post/Articles/IMAGES/45.jpg"\
-categories: \[]\
-tags: \["Windows", "Assembly", "WinAPI", "Programming", "C", "Low-Level Programming"]\
-draft: false\
+---
+---
+title: "Windows API Hello World: Assembly vs C"
+description: "A deep dive into Windows API Hello World in Assembly and C, complete with code explanations, instruction breakdowns, and comparisons."
+slug: "windows-api-hello-world-assembly-vs-c"
+date: 2025-12-03
+image: "post/Articles/IMAGES/45.jpg"
+categories: []
+tags: ["Windows", "Assembly", "WinAPI", "Programming", "C", "Low-Level Programming"]
+draft: false
 weight: 723
------------
+--- -->
 
-# Windows API Hello World: Assembly vs C
+<!-- # Windows API Hello World: Assembly vs C
 
 In our last adventure, we went full *mad scientist* and wrote a **Windows API Hello World GUI** *entirely in assembly language*. Now, if you actually *ran* that code, congratulations—you are braver than most.
 
@@ -214,7 +214,7 @@ But let’s be real. **What exactly is happening in that assembly code?** And ho
 
 Strap in! We’re about to dissect the assembly code, list the key **assembly instructions**, build a **Windows C version**, and **compare** the two.
 
-***
+--- -->
 
 ## 🔍 Breaking Down the Assembly Code
 
@@ -225,7 +225,7 @@ If you didn’t run away the first time you saw the assembly code, you probably 
 3. **Handling Windows messages** – Because Windows apps are event-driven.
 4. **Processing button clicks** – Fetching input text and displaying a message box.
 
-Now, let’s break this beast down.
+<!-- Now, let’s break this beast down. -->
 
 ***
 
@@ -348,7 +348,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
 
 ***
 
-## ⚖️ C vs Assembly: The Showdown
+## ⚖️ C vs Assembly
 
 | Feature               | Assembly         | C                             |
 | --------------------- | ---------------- | ----------------------------- |
@@ -374,22 +374,24 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
 * [Windows API Functions](https://docs.microsoft.com/en-us/windows/win32/api/)
 * [Assembly Programming on Windows](https://masm32.com/)
 
-***
+<!-- ---
 
 ## 🎉 Wrapping Up
 
-If you made it this far, congrats—you’re either a **mad genius** or you really love punishment.
+If you made it this far, congrats—you’re either a **mad genius** or you really love punishment. 
 
-Writing **Windows GUI apps in Assembly** is **painful but educational**.
+Writing **Windows GUI apps in Assembly** is **painful but educational**. 
 
 C, on the other hand, is **way more practical**.
 
-Would I recommend doing this in Assembly? **Nope.**
+Would I recommend doing this in Assembly? **Nope.**  
 
-But is it *awesome*?
+But is it *awesome*? 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\
-**Absolutely**\
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+**Absolutely**
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-If you actually run this and it works, you deserve a **medal** (or at least a cookie).
+
+If you actually run this and it works, you deserve a **medal** (or at least a cookie).  -->

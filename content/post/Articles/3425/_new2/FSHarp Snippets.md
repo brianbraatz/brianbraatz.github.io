@@ -25,7 +25,8 @@ categories_ref:
   - Programming
   - DotNet
   - FSharp
-lastmod: 2025-03-14T15:45:07.700Z
+slug_calculated: https://brianbraatz.github.io/p/fsharp-snippets
+lastmod: 2025-03-14T16:40:18.021Z
 ---
 # Common F# Code Snippets
 

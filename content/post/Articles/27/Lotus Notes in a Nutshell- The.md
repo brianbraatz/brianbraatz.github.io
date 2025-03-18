@@ -21,7 +21,8 @@ categories_ref:
   - History
   - Software
   - Lotus Notes
-lastmod: 2025-03-14T15:45:04.184Z
+slug_calculated: https://brianbraatz.github.io/p/lotus-notes-nutshell
+lastmod: 2025-03-14T16:40:10.954Z
 ---
 # Lotus Notes in a Nutshell: The Original Low-Code Pioneer
 

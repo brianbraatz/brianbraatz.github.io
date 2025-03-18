@@ -19,7 +19,8 @@ categories_ref:
   - Node.js
   - TypeScript
   - Programming
-lastmod: 2025-03-14T15:45:04.467Z
+slug_calculated: https://brianbraatz.github.io/p/nodejs-how-to-use-typescr
+lastmod: 2025-03-14T16:40:11.660Z
 ---
 <!-- 
 

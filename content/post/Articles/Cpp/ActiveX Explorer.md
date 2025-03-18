@@ -33,7 +33,8 @@ categories_ref:
   - WinAPI
   - Visual Basic
   - Visual Basic 6
-lastmod: 2025-03-14T15:45:08.464Z
+slug_calculated: https://brianbraatz.github.io/p/activex-security-nightmare
+lastmod: 2025-03-14T16:40:19.009Z
 ---
 # What is ActiveX and Why It Was a Security Nightmare?
 

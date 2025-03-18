@@ -17,7 +17,8 @@ weight: 30
 categories_ref:
   - CPP
   - CPP-STL
-lastmod: 2025-03-14T15:45:08.531Z
+slug_calculated: https://brianbraatz.github.io/p/cpp-swap-function
+lastmod: 2025-03-14T16:40:19.207Z
 ---
 # The Wondrous World of C++'s swap() Function
 

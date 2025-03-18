@@ -76,7 +76,8 @@ categories_ref:
   - OWASP
   - Mobile
   - WinAPI
-lastmod: 2025-03-14T15:45:19.334Z
+slug_calculated: https://brianbraatz.github.io/p/azure-lan-to-cloud-1-project-vision-and-goals
+lastmod: 2025-03-14T16:40:26.704Z
 ---
 <!-- # Azure LAN to Cloud: Part 1 - Project Vision and Goals
 -->

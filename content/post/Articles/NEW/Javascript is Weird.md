@@ -18,7 +18,8 @@ weight: 27
 categories_ref:
   - Javascript
   - Web Development
-lastmod: 2025-03-14T15:45:12.067Z
+slug_calculated: https://brianbraatz.github.io/p/10-reasons-javascript-is-weird
+lastmod: 2025-03-14T16:40:21.685Z
 ---
 # 10 Reasons JavaScript is Weird
 

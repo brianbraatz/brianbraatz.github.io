@@ -23,7 +23,8 @@ categories_ref:
   - Linux
   - Security
   - Device Drivers
-lastmod: 2025-03-14T15:45:25.906Z
+slug_calculated: https://brianbraatz.github.io/p/linux-kernel-mseal
+lastmod: 2025-03-14T16:40:33.403Z
 ---
 # How Hackers Used Memory Corruption to Break Into Systems
 

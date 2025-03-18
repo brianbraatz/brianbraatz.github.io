@@ -1,7 +1,7 @@
 ---
 title: Power BI vs Looker
 description: Comparison of Business Intelligence Tools
-slug: power-bi-vs-looker:-a-comprehensive-comparison-of-business-intelligence-tools
+slug: power-bi-vs-looker
 date: 2020-06-22
 image: post/Articles/IMAGES/powerbi.png
 categories:
@@ -31,7 +31,8 @@ categories_ref:
   - Business Intelligence Tools
   - SQL
   - Looker
-lastmod: 2025-03-14T15:45:23.126Z
+slug_calculated: https://brianbraatz.github.io/p/power-bi-vs-looker:-a-comprehensive-comparison-of-business-intelligence-tools
+lastmod: 2025-03-18T18:32:32.109Z
 ---
 <!-- 
 # Power BI vs Looker: A Comprehensive Comparison of Business Intelligence Tools

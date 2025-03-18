@@ -29,7 +29,8 @@ categories_ref:
   - Javascript
   - Typescript
   - Unit Testing
-lastmod: 2025-03-14T15:45:14.439Z
+slug_calculated: https://brianbraatz.github.io/p/next-js-snippets
+lastmod: 2025-03-14T16:40:23.509Z
 ---
 Next.js: the framework that turns React into a **supercharged**, **server-rendered**, **SEO-friendly** powerhouse.
 

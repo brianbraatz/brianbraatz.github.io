@@ -2,8 +2,8 @@
 title: Docker Firewall Demystified-Ingress Egress
 description: Docker Firewall Demystified-Ingress Egress
 slug: docker-firewall-demystified-ingress-egress
-date: 2026-12-21
 image: post/Articles/IMAGES/brickwall2.jpg
+date: 2024-12-21
 categories:
   - Docker
   - Firewalls
@@ -27,7 +27,8 @@ weight: 209
 categories_ref:
   - Docker
   - Firewalls
-lastmod: 2025-03-14T15:45:10.749Z
+slug_calculated: https://brianbraatz.github.io/p/docker-firewall-demystified-ingress-egress
+lastmod: 2025-03-14T16:40:20.647Z
 ---
 # Docker Firewall Demystified: Ingress & Egress
 

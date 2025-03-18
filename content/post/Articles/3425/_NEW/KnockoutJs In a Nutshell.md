@@ -26,7 +26,8 @@ categories_ref:
   - Web Development
   - Knockout.js
   - MVVM
-lastmod: 2025-03-14T15:45:06.670Z
+slug_calculated: https://brianbraatz.github.io/p/knockout-js-underdog
+lastmod: 2025-03-14T16:40:15.883Z
 ---
 <!-- # Knockout.js: The Underdog of JavaScript Frameworks
 

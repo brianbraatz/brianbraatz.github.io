@@ -1,7 +1,7 @@
 ---
 title: Maui Unit Testing Strategies
 description: Testing and How to Structure Your Project
-slug: best-unit-testing-strategies-for-maui:-alternatives-and-how-to-structure-your-project
+slug: best-unit-testing-strategies-for-maui
 date: 2022-04-21
 image: post/Articles/IMAGES/mauilogo1.png
 categories:
@@ -41,7 +41,8 @@ categories_ref:
   - DotNet
   - Testing
   - Mobile
-lastmod: 2025-03-14T15:45:22.783Z
+slug_calculated: https://brianbraatz.github.io/p/best-unit-testing-strategies-for-maui:-alternatives-and-how-to-structure-your-project
+lastmod: 2025-03-18T19:28:38.150Z
 ---
 <!--
 # Best Unit Testing Strategies for MAUI: Alternatives and How to Structure Your Project

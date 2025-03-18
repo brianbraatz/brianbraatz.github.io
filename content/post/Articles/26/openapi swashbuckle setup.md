@@ -25,7 +25,8 @@ categories_ref:
   - Swagger
   - OpenAPI
   - Web Development
-lastmod: 2025-03-14T15:45:03.580Z
+slug_calculated: https://brianbraatz.github.io/p/openapi-setup-swashbuckle-aspnetcore
+lastmod: 2025-03-14T16:40:10.101Z
 ---
 <!-- 
 # Tutorial: How to Set Up Swashbuckle with ASP.NET Core

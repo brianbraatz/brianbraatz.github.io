@@ -30,7 +30,8 @@ categories_ref:
   - Assembly Language
   - WinAPI
   - CPP
-lastmod: 2025-03-14T15:45:27.735Z
+slug_calculated: https://brianbraatz.github.io/p/pdb-crashes-in-the-field
+lastmod: 2025-03-14T16:40:34.947Z
 ---
 # Understanding PDB Files and How to Debug Release Mode Crashes in the Field
 

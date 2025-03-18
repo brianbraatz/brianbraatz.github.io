@@ -21,7 +21,8 @@ categories_ref:
   - Swift
   - Programming
   - Apple
-lastmod: 2025-03-14T15:45:07.369Z
+slug_calculated: https://brianbraatz.github.io/p/swift-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.686Z
 ---
 <!-- 
 # Swift in a Nutshell: A Fun and Fast-Paced Guide

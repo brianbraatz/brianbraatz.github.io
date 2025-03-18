@@ -41,7 +41,8 @@ categories_ref:
   - Cloud
   - Entity Framework
   - ORM
-lastmod: 2025-03-14T15:45:25.473Z
+slug_calculated: https://brianbraatz.github.io/p/entity-framework-nutshell
+lastmod: 2025-03-14T16:40:32.762Z
 ---
 <!-- 
 # Entity Framework In Depth: 20 Code Examples, LINQ, Pros, Cons, and Alternate ORMs Explained

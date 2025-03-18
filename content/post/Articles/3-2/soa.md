@@ -24,7 +24,8 @@ categories_ref:
   - Development
   - SOA
   - Microservices
-lastmod: 2025-03-14T15:45:05.169Z
+slug_calculated: https://brianbraatz.github.io/p/service-oriented-architecture-guide
+lastmod: 2025-03-14T16:40:13.037Z
 ---
 Employees behind the counter serving a line of customers at a McDonald's\
 https://www.loc.gov/resource/ppmsca.56544/\

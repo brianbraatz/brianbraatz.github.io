@@ -18,7 +18,8 @@ categories_ref:
   - CPP
   - Performance Optimization
   - CPP-Meta Programming
-lastmod: 2025-03-14T15:45:30.282Z
+slug_calculated: https://brianbraatz.github.io/p/effective-cpp
+lastmod: 2025-03-14T16:40:37.294Z
 ---
 <!--- 
 image embed

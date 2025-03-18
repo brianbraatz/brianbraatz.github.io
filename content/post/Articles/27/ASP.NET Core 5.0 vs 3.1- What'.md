@@ -27,7 +27,8 @@ categories_ref:
   - Dotnet
   - Web Development
   - Cloud
-lastmod: 2025-03-14T15:45:03.901Z
+slug_calculated: https://brianbraatz.github.io/p/aspnet-core-5-vs-3
+lastmod: 2025-03-14T16:40:10.484Z
 ---
 # ASP.NET Core 5.0 vs 3.1: What’s New?
 

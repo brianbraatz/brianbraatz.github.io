@@ -22,7 +22,8 @@ categories_ref:
   - Healthcare
   - Software Development
   - Standards
-lastmod: 2025-03-14T15:45:04.675Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-hipaa-ncpdp
+lastmod: 2025-03-14T16:40:12.618Z
 ---
 <!-- 
 

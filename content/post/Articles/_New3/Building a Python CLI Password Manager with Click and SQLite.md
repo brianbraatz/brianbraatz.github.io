@@ -23,7 +23,8 @@ categories_ref:
   - Python-Click
   - SQL
   - SQLite
-lastmod: 2025-03-14T15:45:19.742Z
+slug_calculated: https://brianbraatz.github.io/p/cli-password-manager-click-sqlite
+lastmod: 2025-03-14T16:40:26.858Z
 ---
 # Building a CLI Password Manager with Click and SQLite
 

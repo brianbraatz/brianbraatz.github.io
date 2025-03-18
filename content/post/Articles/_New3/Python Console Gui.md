@@ -31,7 +31,8 @@ categories_ref:
   - Python-Questionary
   - Python-Rich
   - Python-Click
-lastmod: 2025-03-14T15:45:20.080Z
+slug_calculated: https://brianbraatz.github.io/p/best-python-cli-menu-libraries
+lastmod: 2025-03-14T16:40:27.126Z
 ---
 If you're tired of writing boring `input()` prompts and want to build **interactive command-line menus** that don’t feel like they're from 1995, you’re in the right place.
 

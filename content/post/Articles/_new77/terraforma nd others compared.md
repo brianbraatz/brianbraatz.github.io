@@ -25,7 +25,8 @@ categories_ref:
   - Cloud
   - Terraform
   - CI\CD
-lastmod: 2025-03-14T15:45:25.139Z
+slug_calculated: https://brianbraatz.github.io/p/aws-cloudformation-terraform-pulumi-ansible
+lastmod: 2025-03-14T16:40:32.399Z
 ---
 <!-- 
 # Understanding AWS CloudFormation, Terraform, Pulumi, and Ansible

@@ -15,7 +15,8 @@ imag: cover.jpg
 categories_ref:
   - SQL
   - Performance Optimization
-lastmod: 2025-03-14T15:45:30.514Z
+slug_calculated: https://brianbraatz.github.io/p/sql-joins-illustrated
+lastmod: 2025-03-14T16:40:37.418Z
 ---
 Details
 

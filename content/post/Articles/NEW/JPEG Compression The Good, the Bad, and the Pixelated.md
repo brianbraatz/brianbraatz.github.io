@@ -23,7 +23,8 @@ categories_ref:
   - Algorithms
   - Image Compression
   - JPEG
-lastmod: 2025-03-14T15:45:12.183Z
+slug_calculated: https://brianbraatz.github.io/p/jpeg-compression-good-bad-pixelated
+lastmod: 2025-03-14T16:40:21.715Z
 ---
 Check out:\
 **Blocking effect after re-constructuring the image.  - Jpeg compression**\

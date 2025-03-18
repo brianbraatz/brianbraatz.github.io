@@ -41,7 +41,8 @@ categories_ref:
   - Cybersecurity
   - DDoS Protection
   - Attack Prevention
-lastmod: 2025-03-14T15:45:26.267Z
+slug_calculated: https://brianbraatz.github.io/p/defending-against-attacks
+lastmod: 2025-03-14T16:40:33.656Z
 ---
 <!--
 # Defending Against Attacks: Comparing CDN Protection, WAFs, and Machine Learning-Based Anomaly Detection

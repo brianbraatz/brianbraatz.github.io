@@ -27,7 +27,8 @@ categories_ref:
   - Microservices
   - Cloud
   - CPP
-lastmod: 2025-03-14T15:45:07.563Z
+slug_calculated: https://brianbraatz.github.io/p/cpp-microservice-docker-kubernetes
+lastmod: 2025-03-14T16:40:17.903Z
 ---
 <!-- # Building a Modern C++ Microservice with Docker and Kubernetes -->
 

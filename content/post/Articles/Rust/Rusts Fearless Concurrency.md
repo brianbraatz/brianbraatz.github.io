@@ -15,7 +15,8 @@ tags:
 draft: false
 weight: 423
 categories_ref: []
-lastmod: 2025-03-14T15:45:15.143Z
+slug_calculated: https://brianbraatz.github.io/p/rust-fearless-concurrency
+lastmod: 2025-03-14T16:40:23.607Z
 ---
 # Rust's Fearless Concurrency 🚀
 

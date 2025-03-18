@@ -25,7 +25,8 @@ categories_ref:
   - Scaling
   - Reverse Proxy
   - Load Balancing
-lastmod: 2025-03-14T15:45:04.243Z
+slug_calculated: https://brianbraatz.github.io/p/visualizing-nodejs-scaling-1
+lastmod: 2025-03-14T16:40:11.129Z
 ---
 \*Note: This is Part One of our series.\
 Part Two is here\

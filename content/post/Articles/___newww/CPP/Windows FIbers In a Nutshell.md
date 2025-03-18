@@ -24,7 +24,7 @@ Weight: 289
 categories_ref: []
 title: Windows FIbers In a Nutshell
 date: 2025-02-15T15:19:47.576Z
-lastmod: 2025-03-14T15:45:27.946Z
+lastmod: 2025-03-14T16:40:35.070Z
 ---
 # Understanding Windows Fibers and How They Compare to Threads and Other Concurrency APIs
 

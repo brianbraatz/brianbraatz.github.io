@@ -19,6 +19,7 @@ weight: 38
 lastmod: 2025-02-24 10:47:56.010000
 categories_ref:
   - Web Development
+slug_calculated: https://brianbraatz.github.io/p/webassembly-nutshell
 ---
 # Deep Dive into WebAssembly
 

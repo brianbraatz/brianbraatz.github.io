@@ -26,7 +26,8 @@ categories_ref:
   - XAML
   - GUI
   - Mobile
-lastmod: 2025-03-14T15:45:12.440Z
+slug_calculated: https://brianbraatz.github.io/p/maui-vs-wpf-layout
+lastmod: 2025-03-14T16:40:21.869Z
 ---
 Both WPF and .NET MAUI offer a variety of layout panels to help you organize and arrange UI elements, but there are some differences in the specific panels available and their usage.
 

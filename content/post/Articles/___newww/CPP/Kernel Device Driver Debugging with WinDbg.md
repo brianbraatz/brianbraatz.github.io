@@ -23,7 +23,8 @@ categories_ref:
   - C++ Debugging
   - WinDbg
   - Device Drivers
-lastmod: 2025-03-14T15:45:27.522Z
+slug_calculated: https://brianbraatz.github.io/p/windbg-debug-kernel-drivers
+lastmod: 2025-03-14T16:40:34.706Z
 ---
 # How to Use WinDbg to Debug Kernel Device Drivers in Windows
 

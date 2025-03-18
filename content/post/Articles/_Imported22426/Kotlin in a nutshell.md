@@ -21,7 +21,8 @@ categories_ref:
   - Programming
   - Kotlin
   - Code Examples
-lastmod: 2025-03-14T15:45:17.395Z
+slug_calculated: https://brianbraatz.github.io/p/kotlin-in-a-nutshell
+lastmod: 2025-03-14T16:40:25.527Z
 ---
 Kotlin is a modern, programming language that runs on the Java Virtual Machine (JVM).
 

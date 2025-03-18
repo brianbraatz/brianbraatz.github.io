@@ -17,7 +17,8 @@ draft: false
 weight: 589
 categories_ref:
   - Design Patterns
-lastmod: 2025-03-14T15:45:25.968Z
+slug_calculated: https://brianbraatz.github.io/p/programming-paradigms
+lastmod: 2025-03-14T16:40:33.506Z
 ---
 ## The Procedural Predicament
 

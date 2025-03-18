@@ -33,7 +33,8 @@ categories_ref:
   - CSharp
   - Office 365
   - Power Apps
-lastmod: 2025-03-14T15:45:28.339Z
+slug_calculated: https://brianbraatz.github.io/p/graphapi-nutshell
+lastmod: 2025-03-14T16:40:35.542Z
 ---
 <!-- 
 

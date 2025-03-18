@@ -21,7 +21,8 @@ categories_ref:
   - JavaScript
   - Node.js
   - Programming
-lastmod: 2025-03-14T15:45:04.498Z
+slug_calculated: https://brianbraatz.github.io/p/nodejs-perf-compare
+lastmod: 2025-03-14T16:40:11.887Z
 ---
 <!-- # Node.js: The Event-Driven, Non-Blocking Champion of the Server World
 

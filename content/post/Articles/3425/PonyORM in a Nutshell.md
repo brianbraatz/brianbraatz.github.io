@@ -21,7 +21,8 @@ categories_ref:
   - ORM
   - Database
   - PonyORM
-lastmod: 2025-03-14T15:45:06.023Z
+slug_calculated: https://brianbraatz.github.io/p/python-ponyorm-orm-in-a-nutshell
+lastmod: 2025-03-14T16:40:14.166Z
 ---
 # Python PonyORM ORM In a Nutshell
 

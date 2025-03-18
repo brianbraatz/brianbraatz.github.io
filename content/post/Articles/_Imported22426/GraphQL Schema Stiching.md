@@ -23,7 +23,8 @@ categories_ref:
   - API
   - Development
   - Cloud
-lastmod: 2025-03-14T15:45:16.927Z
+slug_calculated: https://brianbraatz.github.io/p/graphql-schema-stitching-nutshell
+lastmod: 2025-03-14T16:40:25.101Z
 ---
 [How make a patchwork quilt](https://www.diaryofaquilter.com/how-to-make-a-quilt/)
 

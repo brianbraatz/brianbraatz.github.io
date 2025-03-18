@@ -1,8 +1,8 @@
 ---
-title: Factory Pattern for C# Entity Framework Core
+title: Factory Pattern for C# Entity Framework Core-DB
 description: Switching SQL Database Engines with Ease
-slug: factory-pattern-for-entity-framework-core-switching-database-engines-with-ease
-date: 2025-12-05
+slug: factory-pattern-ef-dbcontext
+date: 2018-12-05
 image: post/Articles/IMAGES/factory.png
 categories:
   - SQL
@@ -45,17 +45,20 @@ categories_ref:
   - Postgres Sql
   - Testing
   - ORM
-lastmod: 2025-03-14T15:45:11.093Z
+slug_calculated: https://brianbraatz.github.io/p/factory-pattern-for-entity-framework-core-switching-database-engines-with-ease
+lastmod: 2025-03-18T19:02:48.906Z
 ---
-# Factory Pattern for Entity Framework Core: Switching Database Engines with Ease
+<!-- # Factory Pattern for Entity Framework Core: Switching Database Engines with Ease
 
-Ever feel like your **DatabaseContext** is acting like that clingy friend who refuses to let you try new things?
+Ever feel like your **DatabaseContext** is acting like that clingy friend who refuses to let you try new things? 
 
 You know the one – tied down to a single database engine like SQLite, MySQL, or PostgreSQL, making your life a pain when it comes to Inversion of Control (IoC) and unit testing.
 
 In this article we’re breaking those chains with the **Factory Pattern**!
 
-> **Note:** If you’re wondering what the Factory Pattern is, check out the [Wikipedia article on Factory Method Pattern](https://en.wikipedia.org/wiki/Factory_method_pattern) and [Inversion of Control](https://en.wikipedia.org/wiki/Inversion_of_control). Trust me, they’re as cool as they sound.
+>  -->
+
+**Note:** If you’re wondering what the Factory Pattern is, check out the [Wikipedia article on Factory Method Pattern](https://en.wikipedia.org/wiki/Factory_method_pattern) and [Inversion of Control](https://en.wikipedia.org/wiki/Inversion_of_control). Trust me, they’re as cool as they sound.
 
 ## The Problem with a Tightly Coupled DatabaseContext
 
@@ -66,9 +69,9 @@ When it comes time to use an IoC container to manage dependencies or to swap out
 The solution? **Factory Pattern!**\
 By putting an interface on your DatabaseContext and using a factory to create instances, you can easily switch engines based on your configuration (or even for testing).
 
-It’s like having a magical vending machine that gives you the perfect database context on demand!
+<!-- It’s like having a magical vending machine that gives you the perfect database context on demand! -->
 
-## Why the Factory Pattern Rocks
+## Why the Factory Pattern ?
 
 * **Flexibility:** Switch between SQLite, MySQL, PostgreSQL, or even an in-memory provider without rewriting your code.
 * **IoC-Friendly:** With an interface in place, you can register your contexts with your favorite IoC container.

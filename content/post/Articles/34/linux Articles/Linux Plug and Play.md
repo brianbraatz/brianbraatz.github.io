@@ -26,7 +26,8 @@ categories_ref:
   - Plug and Play
   - Device Drivers
   - CPP
-lastmod: 2025-03-14T15:45:05.415Z
+slug_calculated: https://brianbraatz.github.io/p/how-plug-and-play-works-in-cpp-and-linux
+lastmod: 2025-03-14T16:40:13.353Z
 ---
 ![](/post/Articles/IMAGES/plugnplaysmall.jpg)\
 [Plug & Play on Steam](https://store.steampowered.com/app/353560/Plug__Play/)

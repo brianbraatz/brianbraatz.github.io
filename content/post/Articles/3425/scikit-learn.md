@@ -21,7 +21,8 @@ categories_ref:
   - Python
   - Scikit-learn
   - Data Science
-lastmod: 2025-03-14T15:45:06.137Z
+slug_calculated: https://brianbraatz.github.io/p/scikit-learn-nutshell
+lastmod: 2025-03-14T16:40:14.318Z
 ---
 # Scikit-Learn in a Nutshell: History, Motivation, and Code Examples
 

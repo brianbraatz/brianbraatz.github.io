@@ -29,7 +29,8 @@ categories_ref:
   - Performance
   - CSHarp
   - SQL
-lastmod: 2025-03-14T15:45:05.705Z
+slug_calculated: https://brianbraatz.github.io/p/dapper-in-a-nutshell
+lastmod: 2025-03-14T16:40:13.812Z
 ---
 # Dapper in a Nutshell
 

@@ -27,7 +27,8 @@ categories_ref:
   - Mssql
   - Mysql
   - Postgres
-lastmod: 2025-03-14T15:45:04.592Z
+slug_calculated: https://brianbraatz.github.io/p/sql-paging-strategies
+lastmod: 2025-03-14T16:40:12.361Z
 ---
 # SQL Paging Strategies: How to Load Only What You Need
 

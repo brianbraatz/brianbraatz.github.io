@@ -22,7 +22,8 @@ categories_ref:
   - API Design
   - OpenAPI
   - Web Development
-lastmod: 2025-03-14T15:45:03.646Z
+slug_calculated: https://brianbraatz.github.io/p/lint-validate-api
+lastmod: 2025-03-14T16:40:10.186Z
 ---
 <!-- 
 # How to Lint and Validate Your API

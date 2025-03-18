@@ -1,7 +1,7 @@
 ---
 title: Haskell in a Nutshell
 description: History, Motivation, and Code Examples
-slug: the-haskell-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+slug: haskell-nutshell
 date: 2021-09-20
 image: post/Articles/IMAGES/Haskell.png
 categories:
@@ -33,7 +33,8 @@ categories_ref:
   - Languages
   - History
   - Functional Programming
-lastmod: 2025-03-14T15:45:22.148Z
+slug_calculated: https://brianbraatz.github.io/p/the-haskell-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+lastmod: 2025-03-18T18:34:04.313Z
 ---
 <!--
 

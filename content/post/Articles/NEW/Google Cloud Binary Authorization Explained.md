@@ -28,7 +28,8 @@ categories_ref:
   - Cloud
   - Docker
   - Security
-lastmod: 2025-03-14T15:45:11.272Z
+slug_calculated: https://brianbraatz.github.io/p/googles-binary-authorization-containers-in-check
+lastmod: 2025-03-14T16:40:21.131Z
 ---
 # Google's Binary Authorization: Keeping Your Containers in Check
 

@@ -33,7 +33,8 @@ categories_ref:
   - Cloud
   - Microservices
   - SignalR
-lastmod: 2025-03-14T15:45:09.011Z
+slug_calculated: https://brianbraatz.github.io/p/docker-containerization-signalr-microservice
+lastmod: 2025-03-14T16:40:19.754Z
 ---
 # Docker Containerization of C# Blazor SignalR Microservice
 

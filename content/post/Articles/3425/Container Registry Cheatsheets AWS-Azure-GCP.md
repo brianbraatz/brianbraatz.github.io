@@ -33,7 +33,8 @@ categories_ref:
   - AWS Elastic Container Registry
   - GCP Artifact Registry
   - Container Registry
-lastmod: 2025-03-14T15:45:05.688Z
+slug_calculated: https://brianbraatz.github.io/p/acr-vs-ecr-vs-artifact-registry
+lastmod: 2025-03-14T16:40:13.744Z
 ---
 Container registries are essential for modern cloud-native applications.
 

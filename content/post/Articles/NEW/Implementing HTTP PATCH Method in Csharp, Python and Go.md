@@ -31,7 +31,8 @@ categories_ref:
   - Python
   - CSharp
   - DotNet
-lastmod: 2025-03-14T15:45:11.799Z
+slug_calculated: https://brianbraatz.github.io/p/mastering-http-patch-method-fun-informal-guide
+lastmod: 2025-03-14T16:40:21.555Z
 ---
 <!-- 
 ## Introduction

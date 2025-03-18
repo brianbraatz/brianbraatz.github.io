@@ -22,7 +22,8 @@ categories_ref:
   - SQL
   - Performance Optimization
   - SQL-Query Plans
-lastmod: 2025-03-14T15:45:15.204Z
+slug_calculated: https://brianbraatz.github.io/p/sql-query-plans-performance-optimization
+lastmod: 2025-03-14T16:40:23.679Z
 ---
 <!--
 # Understanding SQL Query Plans for Performance Optimization

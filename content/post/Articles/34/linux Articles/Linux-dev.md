@@ -23,7 +23,8 @@ categories_ref:
   - Device Drivers
   - System Administration
   - CPP
-lastmod: 2025-03-14T15:45:05.430Z
+slug_calculated: https://brianbraatz.github.io/p/linux-understanding-dev
+lastmod: 2025-03-14T16:40:13.375Z
 ---
 ## Linux: Understanding /dev (And Why It’s Not Just a Folder)
 

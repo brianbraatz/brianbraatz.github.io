@@ -32,7 +32,8 @@ categories_ref:
   - CPP
   - Design Patterns
   - Finite State Machine
-lastmod: 2025-03-14T15:45:19.838Z
+slug_calculated: https://brianbraatz.github.io/p/finite-state-machines-go-python-c-and-cplusplus
+lastmod: 2025-03-14T16:40:26.897Z
 ---
 # Finite State Machines, History, Understanding How They Work, and Code Examples in Go, Python, C#, and C++
 

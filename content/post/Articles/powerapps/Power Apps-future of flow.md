@@ -32,7 +32,8 @@ categories_ref:
   - Low-Code
   - Business Apps
   - Workflow Automation
-lastmod: 2025-03-14T15:45:14.082Z
+slug_calculated: https://brianbraatz.github.io/p/power-apps-microsoft-flow-evolved
+lastmod: 2025-03-14T16:40:23.145Z
 ---
 I've been using **Microsoft Flow** for a few years now, and it's been a good ride...
 

@@ -41,7 +41,8 @@ categories_ref:
   - dbt
   - Big Data
   - Cloud
-lastmod: 2025-03-14T15:45:16.557Z
+slug_calculated: https://brianbraatz.github.io/p/etl-processing-roundup
+lastmod: 2025-03-14T16:40:24.752Z
 ---
 ## ETL Processing Roundup: Who Wins the Data Battle?
 

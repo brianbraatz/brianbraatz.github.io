@@ -34,7 +34,8 @@ categories_ref:
   - Microscope Images
   - Python
   - Python-Flask
-lastmod: 2025-03-14T15:45:11.520Z
+slug_calculated: https://brianbraatz.github.io/p/tiff-images-python-and-ajax
+lastmod: 2025-03-14T16:40:21.402Z
 ---
 See C# version here for explanation\
 [Handling TIFF Images in Blazor with SignalR](/post/Articles/NEW/Handling%20TIFF%20Images%20in%20Blazor%20with%20SignalR.md)

@@ -22,7 +22,8 @@ categories_ref:
   - Javascript
   - Obsidian
   - PlugIn Development
-lastmod: 2025-03-14T15:45:10.647Z
+slug_calculated: https://brianbraatz.github.io/p/debug-obsidian-plugins
+lastmod: 2025-03-14T16:40:20.616Z
 ---
 # Debugging Obsidian Plugins Like a Pro (Or At Least Like Someone Who Knows Where the Console Is)
 

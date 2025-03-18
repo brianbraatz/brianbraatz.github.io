@@ -25,7 +25,8 @@ categories_ref:
   - Microsoft Sql Server
   - MySql
   - Postgres Sql
-lastmod: 2025-03-14T15:45:10.387Z
+slug_calculated: https://brianbraatz.github.io/p/comparing-sql-triggers
+lastmod: 2025-03-14T16:40:20.510Z
 ---
 <https://en.wikipedia.org/wiki/Trigger_(horse)>
 

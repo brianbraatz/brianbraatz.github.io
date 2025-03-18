@@ -29,7 +29,8 @@ categories_ref:
   - Web Development
   - Async
   - Mobile
-lastmod: 2025-03-14T15:45:08.247Z
+slug_calculated: https://brianbraatz.github.io/p/Angular-Snippet-collection
+lastmod: 2025-03-14T16:40:18.650Z
 ---
 ### 1. Why were client-side frameworks like Angular introduced?
 

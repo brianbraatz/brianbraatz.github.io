@@ -23,7 +23,8 @@ categories_ref:
   - Django
   - Python
   - ORM
-lastmod: 2025-03-14T15:45:05.716Z
+slug_calculated: https://brianbraatz.github.io/p/python-django-orm-in-a-nutshell
+lastmod: 2025-03-14T16:40:13.883Z
 ---
 # Python Django ORM In a Nutshell
 

@@ -26,7 +26,8 @@ weight: "49"
 categories_ref:
   - Web Development
   - Frontend
-lastmod: 2025-03-14T15:45:03.965Z
+slug_calculated: https://brianbraatz.github.io/p/bootstrap-nutshell
+lastmod: 2025-03-14T16:40:10.679Z
 ---
 <!-- 
 # Bootstrap in a Nutshell: Spice Up Your Web Design with Some Sass!

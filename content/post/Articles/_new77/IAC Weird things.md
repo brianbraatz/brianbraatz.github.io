@@ -25,7 +25,8 @@ categories_ref:
   - Infrastructure as Code-IAC
   - Cloud
   - CI\CD
-lastmod: 2025-03-14T15:45:24.631Z
+slug_calculated: https://brianbraatz.github.io/p/10-unusual-things-you-can-do-with-infrastructure-as-code
+lastmod: 2025-03-14T16:40:32.083Z
 ---
 # 8 Unusual Things You COULD Do with Infrastructure as Code
 

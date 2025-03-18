@@ -31,7 +31,8 @@ categories_ref:
   - Open Source
   - Penetration Testing
   - Secure Coding
-lastmod: 2025-03-14T15:45:27.149Z
+slug_calculated: https://brianbraatz.github.io/p/owasp-top-10
+lastmod: 2025-03-14T16:40:34.498Z
 ---
 # OWASP: The Guardians of Web Application Security (and Your Sanity)
 

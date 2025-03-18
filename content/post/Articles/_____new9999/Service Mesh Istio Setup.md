@@ -26,7 +26,8 @@ categories_ref:
   - Service Mesh
   - Cloud
   - DevOps
-lastmod: 2025-03-14T15:45:29.716Z
+slug_calculated: https://brianbraatz.github.io/p/setup-service-mesh-inside-pod
+lastmod: 2025-03-14T16:40:36.993Z
 ---
 <!-- 
 # Setting Up a Service Mesh Inside a Pod: A Complete Guide

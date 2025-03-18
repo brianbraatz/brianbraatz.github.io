@@ -33,7 +33,8 @@ categories_ref:
   - CSharp
   - Office 365
   - Power Apps
-lastmod: 2025-03-14T15:45:28.487Z
+slug_calculated: https://brianbraatz.github.io/p/sharepoint-nutshell-dev
+lastmod: 2025-03-14T16:40:35.693Z
 ---
 <!-- 
 # SharePoint in a Nutshell - For Software Developers

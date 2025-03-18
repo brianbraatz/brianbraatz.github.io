@@ -28,7 +28,8 @@ categories_ref:
   - History
   - PL/SQL
   - Cloud
-lastmod: 2025-03-14T15:45:07.041Z
+slug_calculated: https://brianbraatz.github.io/p/oracle-db-deep-dive
+lastmod: 2025-03-14T16:40:16.988Z
 ---
 # Oracle DB Deep Dive: History, Features, and Code Examples
 

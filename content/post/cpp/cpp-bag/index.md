@@ -25,7 +25,8 @@ categories_ref:
   - CPP
   - Algorithms
   - CPP-Meta Programming
-lastmod: 2025-03-14T15:45:30.090Z
+slug_calculated: https://brianbraatz.github.io/p/cpp-bag
+lastmod: 2025-03-14T16:40:37.252Z
 ---
 [Template Metaprogramming-Wikipedia](https://en.wikipedia.org/wiki/Template_metaprogramming)
 

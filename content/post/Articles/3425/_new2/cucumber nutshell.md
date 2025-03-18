@@ -23,7 +23,8 @@ categories_ref:
   - Testing
   - Cucumber
   - BDD
-lastmod: 2025-03-14T15:45:07.577Z
+slug_calculated: https://brianbraatz.github.io/p/cucumber-bdd-testing-framework
+lastmod: 2025-03-14T16:40:17.916Z
 ---
 <!-- # Cucumber: The BDD Testing Framework Explained
 

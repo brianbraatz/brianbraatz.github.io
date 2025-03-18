@@ -30,7 +30,8 @@ categories_ref:
   - Document Imaging
   - Tex Language
   - Latex Language
-lastmod: 2025-03-14T15:45:20.903Z
+slug_calculated: https://brianbraatz.github.io/p/postscript-vs-tex-and-latex
+lastmod: 2025-03-14T16:40:28.177Z
 ---
 # PostScript, TeX and LaTeX: Understanding Their Differences and Interactions
 

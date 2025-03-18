@@ -36,7 +36,8 @@ categories_ref:
   - GoLang
   - CSharp
   - CPP
-lastmod: 2025-03-14T15:45:20.549Z
+slug_calculated: https://brianbraatz.github.io/p/how-to-auto-tag-words-in-a-markdown-file-using-sed-and-awk
+lastmod: 2025-03-14T16:40:27.699Z
 ---
 # How to Auto-Tag Words in a Markdown File Using SED and AWK
 

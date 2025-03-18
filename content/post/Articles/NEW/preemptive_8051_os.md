@@ -25,7 +25,8 @@ categories_ref:
   - 8051 Embedded Processor
   - Concurrency
   - Assembly Language
-lastmod: 2025-03-14T15:45:13.087Z
+slug_calculated: https://brianbraatz.github.io/p/multi-threaded-os-in-8051-assembly-language
+lastmod: 2025-03-14T16:40:22.180Z
 ---
 # How to write a Preemptive multi-threaded OS in 8051 Assembly Language
 

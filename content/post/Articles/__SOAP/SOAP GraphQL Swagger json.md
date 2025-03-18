@@ -25,7 +25,8 @@ categories_ref:
   - GraphQL
   - Swagger
   - Migration
-lastmod: 2025-03-14T15:45:26.480Z
+slug_calculated: https://brianbraatz.github.io/p/swagger-graphql-middleware-soap-rest
+lastmod: 2025-03-14T16:40:33.733Z
 ---
 # Adding Swagger.json to GraphQL Middleware for Migrating SOAP to REST with NSwagStudio
 

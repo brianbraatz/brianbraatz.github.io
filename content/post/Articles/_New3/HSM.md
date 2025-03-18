@@ -37,7 +37,8 @@ categories_ref:
   - CSharp
   - CPP
   - Python
-lastmod: 2025-03-14T15:45:19.950Z
+slug_calculated: https://brianbraatz.github.io/p/hsm-explained
+lastmod: 2025-03-14T16:40:26.999Z
 ---
 <!-- 
 # Hierarchical State Machines, History, Understanding How They Work, Comparison to Finite State Machines with Code Examples in Go, Python, C#, and C++

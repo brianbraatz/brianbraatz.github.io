@@ -1,7 +1,7 @@
 ---
 title: Docker Container vs Virtual Machine- What's the difference?
 description: Explaining the Difference Between a Docker Container and a Virtual Machine
-slug: what's-the-difference-between-a-docker-container-and-a-virtual-machine
+slug: docker-container-virtual-machine
 date: 2021-11-16
 image: post/Articles/IMAGES/docker1.jpg
 categories:
@@ -35,7 +35,8 @@ categories_ref:
   - Windows
   - Virtual Machines
   - Cloud
-lastmod: 2025-03-14T15:45:21.920Z
+slug_calculated: https://brianbraatz.github.io/p/what's-the-difference-between-a-docker-container-and-a-virtual-machine
+lastmod: 2025-03-18T18:32:09.850Z
 ---
   <!--
 

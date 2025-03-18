@@ -18,7 +18,8 @@ tags:
 draft: false
 weight: 22
 categories_ref: []
-lastmod: 2025-03-14T15:45:15.093Z
+slug_calculated: https://brianbraatz.github.io/p/rust-memory-safety
+lastmod: 2025-03-14T16:40:23.595Z
 ---
 https://en.wikipedia.org/wiki/300\_(film)
 

@@ -33,7 +33,8 @@ categories_ref:
   - Penetration Testing
   - Secure Coding
   - Testing
-lastmod: 2025-03-14T15:45:27.107Z
+slug_calculated: https://brianbraatz.github.io/p/owasp-security-tools
+lastmod: 2025-03-14T16:40:34.472Z
 ---
 # So, What’s OWASP? 🤔
 

@@ -26,7 +26,8 @@ categories_ref:
   - Multithreading
   - Golang
   - Python
-lastmod: 2025-03-14T15:45:28.147Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-deadlocks-and-race-conditions-in-golang-and-python
+lastmod: 2025-03-14T16:40:35.258Z
 ---
 # Understanding Deadlocks and Race Conditions in Golang and Python
 

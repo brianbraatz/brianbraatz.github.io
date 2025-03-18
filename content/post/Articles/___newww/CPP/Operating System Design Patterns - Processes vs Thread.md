@@ -33,7 +33,8 @@ categories_ref:
   - Concurrency
   - Operating Systems
   - WinApi
-lastmod: 2025-03-14T15:45:27.683Z
+slug_calculated: https://brianbraatz.github.io/p/os-design-patterns-processes-threads
+lastmod: 2025-03-14T16:40:34.877Z
 ---
 # Operating System Design Patterns - Processes vs Threads
 

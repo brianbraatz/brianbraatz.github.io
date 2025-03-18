@@ -27,7 +27,8 @@ categories_ref:
   - RBAC
   - DevOps
   - Cloud
-lastmod: 2025-03-14T15:45:29.656Z
+slug_calculated: https://brianbraatz.github.io/p/kubernetes-rbac-complete-guide
+lastmod: 2025-03-14T16:40:36.982Z
 ---
 <!-- 
 # Enforcing Role-Based Access Control (RBAC) in Kubernetes: A Complete Guide

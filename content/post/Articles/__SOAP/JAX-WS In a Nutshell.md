@@ -2,7 +2,7 @@
 title: JAX-WS in a Nutshell
 description: JAX-WS in a Nutshell
 slug: jax-ws-in-a-nutshell
-date: 2025-12-04
+date: 2017-12-04
 image: post/Articles/IMAGES/342.jpg
 categories: []
 tags:
@@ -16,7 +16,8 @@ tags:
 draft: false
 weight: 423
 categories_ref: []
-lastmod: 2025-03-14T15:45:26.322Z
+slug_calculated: https://brianbraatz.github.io/p/jax-ws-in-a-nutshell
+lastmod: 2025-03-18T22:02:43.747Z
 ---
 # JAX-WS in a Nutshell
 

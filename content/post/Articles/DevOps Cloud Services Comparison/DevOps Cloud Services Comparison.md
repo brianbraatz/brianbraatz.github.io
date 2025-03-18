@@ -37,7 +37,8 @@ categories_ref:
   - Azure Service Bus
   - Azure Queue
   - DynamoDb
-lastmod: 2025-03-14T15:45:08.946Z
+slug_calculated: https://brianbraatz.github.io/p/Devops-file-cheatsheet
+lastmod: 2025-03-14T16:40:19.735Z
 ---
 <!-- 
 see also [Amazon AWS, Microsoft Azure, Google Cloud Cheat Sheet](post/Cloud/aws-azure-gcp-cheatsheet/index.md)

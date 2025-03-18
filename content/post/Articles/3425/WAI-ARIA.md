@@ -20,7 +20,8 @@ categories_ref:
   - Accessibility
   - Web Development
   - WAI-ARIA
-lastmod: 2025-03-14T15:45:06.358Z
+slug_calculated: https://brianbraatz.github.io/p/wai-aria-guidelines
+lastmod: 2025-03-14T16:40:15.097Z
 ---
 ## Why Should You Care About WAI-ARIA?
 

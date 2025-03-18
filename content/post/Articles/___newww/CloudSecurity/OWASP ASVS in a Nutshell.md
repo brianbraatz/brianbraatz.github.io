@@ -36,7 +36,8 @@ categories_ref:
   - Authentication
   - Access Control
   - Api Security
-lastmod: 2025-03-14T15:45:27.199Z
+slug_calculated: https://brianbraatz.github.io/p/owasp-asvs-in-a-nutshell
+lastmod: 2025-03-14T16:40:34.529Z
 ---
 <https://owasp.org/www-project-application-security-verification-standard/>
 

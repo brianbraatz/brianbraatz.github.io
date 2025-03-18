@@ -27,7 +27,8 @@ categories_ref:
   - Cloud
   - Operations
   - DevOps-Operational-Framework
-lastmod: 2025-03-14T15:45:15.925Z
+slug_calculated: https://brianbraatz.github.io/p/azure-devops-operational-framework
+lastmod: 2025-03-14T16:40:24.233Z
 ---
 <!-- 
 # Azure DevOps Operational Framework: The Secret Sauce to a Smooth Pipeline

@@ -1,7 +1,7 @@
 ---
 title: SSL in a Nutshell
 description: SSL Explained
-slug: ssl-in-detail:-relationship-to-certificates-history-alternatives-and-10-code-examples
+slug: ssl-in-detail
 date: 2021-05-31
 image: post/Articles/IMAGES/ssl.png
 categories:
@@ -26,7 +26,8 @@ categories_ref:
   - Web Development
   - Security
   - Network Protocols
-lastmod: 2025-03-14T15:45:23.542Z
+slug_calculated: https://brianbraatz.github.io/p/ssl-in-detail:-relationship-to-certificates-history-alternatives-and-10-code-examples
+lastmod: 2025-03-18T18:33:13.353Z
 ---
 <!--
 

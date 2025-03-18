@@ -22,7 +22,8 @@ categories_ref:
   - Linux
   - Signals
   - Process Management
-lastmod: 2025-03-14T15:45:06.731Z
+slug_calculated: https://brianbraatz.github.io/p/linux-signals-in-a-nutshell
+lastmod: 2025-03-14T16:40:16.060Z
 ---
 # Linux Signals in a Nutshell
 

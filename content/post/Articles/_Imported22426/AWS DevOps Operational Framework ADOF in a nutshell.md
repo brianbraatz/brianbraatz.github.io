@@ -28,7 +28,8 @@ categories_ref:
   - Cloud
   - Operations
   - DevOps-Operational-Framework
-lastmod: 2025-03-14T15:45:15.867Z
+slug_calculated: https://brianbraatz.github.io/p/aws-devops-operational-framework
+lastmod: 2025-03-14T16:40:24.177Z
 ---
 <!--
 # AWS DevOps Operational Framework: The Secret Sauce to a Smooth Pipeline

@@ -25,7 +25,8 @@ categories_ref:
   - No-Code
   - Development
   - Software
-lastmod: 2025-03-14T15:45:04.199Z
+slug_calculated: https://brianbraatz.github.io/p/low-code-platforms-guide
+lastmod: 2025-03-14T16:40:11.021Z
 ---
 [Carrying & Dragging Techniques](https://www.offgridweb.com/preparation/carrying-dragging-techniques-lets-get-carried-away/)
 

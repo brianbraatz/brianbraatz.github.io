@@ -22,7 +22,8 @@ weight: 430
 categories_ref:
   - Pascal
   - History
-lastmod: 2025-03-14T15:45:13.041Z
+slug_calculated: https://brianbraatz.github.io/p/pascal-in-a-nutshell
+lastmod: 2025-03-14T16:40:22.133Z
 ---
 # PASCAL In a Nutshell
 

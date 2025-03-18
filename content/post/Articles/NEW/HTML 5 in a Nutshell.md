@@ -23,7 +23,8 @@ categories_ref:
   - HTML
   - HTML 5
   - Web Development
-lastmod: 2025-03-14T15:45:11.636Z
+slug_calculated: https://brianbraatz.github.io/p/html-5-in-a-nutshell
+lastmod: 2025-03-14T16:40:21.469Z
 ---
 ## A Brief History of HTML5
 

@@ -21,7 +21,8 @@ categories_ref:
   - Git
   - Version Control
   - Algorithms
-lastmod: 2025-03-14T15:45:04.941Z
+slug_calculated: https://brianbraatz.github.io/p/git-internals-explained
+lastmod: 2025-03-14T16:40:12.814Z
 ---
 <!-- 
 # How Git Works Under the Hood: Intervals, Algorithms, and Code Examples -->

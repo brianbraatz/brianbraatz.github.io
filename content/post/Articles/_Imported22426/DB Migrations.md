@@ -35,7 +35,8 @@ categories_ref:
   - SQL
   - Schema Evolution
   - DevOps
-lastmod: 2025-03-14T15:45:16.402Z
+slug_calculated: https://brianbraatz.github.io/p/database-migrations-flyway-liquibase-ef
+lastmod: 2025-03-14T16:40:24.615Z
 ---
 <!-- 
 # How to Use Database Migrations (Flyway, Liquibase, Entity Framework Migrations, and Custom Scripts) to Evolve Schemas Smoothly

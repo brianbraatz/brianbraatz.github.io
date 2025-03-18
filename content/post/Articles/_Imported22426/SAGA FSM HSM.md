@@ -35,7 +35,8 @@ categories_ref:
   - State Machines
   - Cloud
   - SAGA Pattern
-lastmod: 2025-03-14T15:45:18.849Z
+slug_calculated: https://brianbraatz.github.io/p/finite-state-machines-and-saga
+lastmod: 2025-03-14T16:40:26.134Z
 ---
 Used with Saga, **Finite State Machines (FSMs)** and **Hierarchical State Machines (HSMs)**—two powerful tools that can help structure SAGA workflows. 🚀
 

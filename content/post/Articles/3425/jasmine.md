@@ -31,7 +31,8 @@ categories_ref:
   - Node.js
   - Web Development
   - Unit Testing
-lastmod: 2025-03-14T15:45:05.917Z
+slug_calculated: https://brianbraatz.github.io/p/jasmine-nutshell
+lastmod: 2025-03-14T16:40:14.091Z
 ---
 # Jasmine in a Nutshell: The Friendly JavaScript Testing Framework
 

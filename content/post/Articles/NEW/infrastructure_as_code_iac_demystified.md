@@ -35,7 +35,8 @@ categories_ref:
   - Ansible
   - Pulumi
   - Virtual Machines
-lastmod: 2025-03-14T15:45:11.953Z
+slug_calculated: https://brianbraatz.github.io/p/infrastructure-as-code-iac-demystified
+lastmod: 2025-03-14T16:40:21.660Z
 ---
 <!-- 
 post/Articles/IMAGES/50.jpg

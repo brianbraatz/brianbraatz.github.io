@@ -30,7 +30,8 @@ categories_ref:
   - API Gateway
   - Cloud
   - DevOps
-lastmod: 2025-03-14T15:45:29.349Z
+slug_calculated: https://brianbraatz.github.io/p/kong-istio-traefik-comparison
+lastmod: 2025-03-14T16:40:36.604Z
 ---
 <!-- 
 # Kong vs Istio vs Traefik: A Complete Comparison with Code Samples Inside a Pod

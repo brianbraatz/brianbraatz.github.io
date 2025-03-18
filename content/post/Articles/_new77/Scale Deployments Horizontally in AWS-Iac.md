@@ -29,7 +29,8 @@ categories_ref:
   - Amazon Cloud-AWS
   - Terraform
   - CI\CD
-lastmod: 2025-03-14T15:45:25.039Z
+slug_calculated: https://brianbraatz.github.io/p/iac-aws-scale
+lastmod: 2025-03-14T16:40:32.360Z
 ---
 <!--
 # How to Deploy and Manage Applications in AWS with Infrastructure as Code

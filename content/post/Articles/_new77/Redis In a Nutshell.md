@@ -26,7 +26,8 @@ categories_ref:
   - Cloud
   - Redis
   - SQL
-lastmod: 2025-03-14T15:45:24.984Z
+slug_calculated: https://brianbraatz.github.io/p/redis-in-a-nutshell
+lastmod: 2025-03-14T16:40:32.308Z
 ---
 # Redis in a Nutshell 🥜
 

@@ -25,7 +25,8 @@ categories_ref:
   - Typescript
   - Javascript
   - Web Development
-lastmod: 2025-03-14T15:45:08.069Z
+slug_calculated: https://brianbraatz.github.io/p/whats-new-in-angular-13
+lastmod: 2025-03-14T16:40:18.387Z
 ---
 Ah, Angular 13—the version where the Angular team decided to go full throttle on performance, developer experience, and saying goodbye to things that were holding us back.
 

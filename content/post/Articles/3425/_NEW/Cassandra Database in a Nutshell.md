@@ -25,7 +25,8 @@ categories_ref:
   - NoSQL
   - Cassandra
   - DynamoDb
-lastmod: 2025-03-14T15:45:06.519Z
+slug_calculated: https://brianbraatz.github.io/p/cassandra-database-in-a-nutshell
+lastmod: 2025-03-14T16:40:15.357Z
 ---
 <!-- 
 # Cassandra Database in a Nutshell

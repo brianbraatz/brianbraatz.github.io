@@ -19,7 +19,8 @@ categories_ref:
   - Software Development
   - Testing
   - DevOps
-lastmod: 2025-03-14T15:45:07.722Z
+slug_calculated: https://brianbraatz.github.io/p/hoverfly-nutshell
+lastmod: 2025-03-14T16:40:18.092Z
 ---
 # Hoverfly in a Nutshell: Lightweight API Mocking for Developers
 

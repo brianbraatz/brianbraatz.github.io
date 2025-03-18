@@ -26,7 +26,8 @@ categories_ref:
   - Version Control
   - Programming History
   - Software Development
-lastmod: 2025-03-14T15:45:03.855Z
+slug_calculated: https://brianbraatz.github.io/p/history-revision-control
+lastmod: 2025-03-14T16:40:10.379Z
 ---
 # A Brief, Semi-Sarcastic History of Revision Control: From SourceSafe to Git
 

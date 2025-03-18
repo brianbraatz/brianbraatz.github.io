@@ -24,7 +24,8 @@ categories_ref:
   - Device Drivers
   - C
   - CPP
-lastmod: 2025-03-14T15:45:19.479Z
+slug_calculated: https://brianbraatz.github.io/p/device-drivers-in-linux
+lastmod: 2025-03-14T16:40:26.786Z
 ---
 # History of Device Drivers in Linux
 

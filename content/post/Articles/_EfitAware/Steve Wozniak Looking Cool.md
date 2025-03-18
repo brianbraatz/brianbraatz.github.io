@@ -64,7 +64,8 @@ categories_ref:
   - Bluetooth Protocol
   - History
   - Apple 2
-lastmod: 2025-03-14T15:45:15.634Z
+slug_calculated: https://brianbraatz.github.io/p/efit-aware-woz
+lastmod: 2025-03-14T16:40:24.040Z
 ---
 Background here:\
 [eFit Aware - Android iPhone Mobile with Azure Cloud Sync](/post/Articles/_EfitAware/eFit%20Aware%20-%20Android%20iPhone%20Mobile%20with%20Azure%20Cloud%20Sync.md)

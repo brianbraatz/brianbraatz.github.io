@@ -25,7 +25,8 @@ categories_ref:
   - Architecture
   - Cloud
   - SAGA Pattern
-lastmod: 2025-03-14T15:45:18.989Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-saga
+lastmod: 2025-03-14T16:40:26.271Z
 ---
 ## What the Heck is SAGA? 🤔
 

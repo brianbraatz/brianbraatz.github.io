@@ -24,7 +24,8 @@ categories_ref:
   - Node.js
   - Worker Threads
   - Concurrency
-lastmod: 2025-03-14T15:45:04.283Z
+slug_calculated: https://brianbraatz.github.io/p/Nodejs-Worker-Thread-Messages
+lastmod: 2025-03-14T16:40:11.232Z
 ---
 <!-- ## Worker Threads: How They Communicate with Messages
 

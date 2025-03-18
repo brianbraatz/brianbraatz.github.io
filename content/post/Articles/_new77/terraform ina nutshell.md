@@ -26,7 +26,8 @@ categories_ref:
   - Cloud
   - Terraform
   - CI\CD
-lastmod: 2025-03-14T15:45:25.094Z
+slug_calculated: https://brianbraatz.github.io/p/terraform-in-a-nutshell
+lastmod: 2025-03-14T16:40:32.380Z
 ---
 # Terraform in a Nutshell
 

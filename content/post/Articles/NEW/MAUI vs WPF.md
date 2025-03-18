@@ -28,7 +28,8 @@ categories_ref:
   - WPF
   - XAML
   - Mobile
-lastmod: 2025-03-14T15:45:12.522Z
+slug_calculated: https://brianbraatz.github.io/p/maui-vs-wpf-desktop
+lastmod: 2025-03-14T16:40:21.881Z
 ---
 # MAUI vs WPF
 

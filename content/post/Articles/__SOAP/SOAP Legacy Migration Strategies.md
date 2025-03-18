@@ -20,7 +20,8 @@ categories_ref:
   - API
   - Web Services
   - Migration
-lastmod: 2025-03-14T15:45:26.670Z
+slug_calculated: https://brianbraatz.github.io/p/migrating-soap-to-rest-strangler-pattern
+lastmod: 2025-03-14T16:40:33.936Z
 ---
 # 10 Strategies for Migrating from SOAP to REST Using the Strangler Pattern
 

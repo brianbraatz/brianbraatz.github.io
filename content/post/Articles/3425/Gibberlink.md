@@ -24,7 +24,8 @@ categories_ref:
   - Programming
   - Machine Learning
   - Artificial Intellgence
-lastmod: 2025-03-14T15:45:05.775Z
+slug_calculated: https://brianbraatz.github.io/p/gibberlink-nutshell
+lastmod: 2025-03-14T16:40:14.004Z
 ---
 ![](/post/Articles/3425/Pasted%20image%2020250305080311.png)
 

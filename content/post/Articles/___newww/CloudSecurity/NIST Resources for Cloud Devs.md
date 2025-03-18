@@ -34,7 +34,8 @@ categories_ref:
   - Compliance
   - Web applications
   - Risk management
-lastmod: 2025-03-14T15:45:27.056Z
+slug_calculated: https://brianbraatz.github.io/p/why-nist-matters-for-cloud-based-web-applications
+lastmod: 2025-03-14T16:40:34.448Z
 ---
 This is just a list of useful links.
 

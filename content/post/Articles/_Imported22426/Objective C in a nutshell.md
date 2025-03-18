@@ -29,7 +29,8 @@ categories_ref:
   - CPP
   - iPhone
   - Mobile
-lastmod: 2025-03-14T15:45:17.580Z
+slug_calculated: https://brianbraatz.github.io/p/objective-c-in-a-nutshell-with-10-code-examples
+lastmod: 2025-03-14T16:40:25.596Z
 ---
 Objective-C is an object-oriented programming language developed in the early 1980s.
 

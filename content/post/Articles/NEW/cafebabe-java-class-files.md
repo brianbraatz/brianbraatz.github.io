@@ -18,7 +18,8 @@ draft: false
 weight: 49
 categories_ref:
   - Java
-lastmod: 2025-03-14T15:45:10.024Z
+slug_calculated: https://brianbraatz.github.io/p/cafebabe-the-hidden-message-in-java-class-files
+lastmod: 2025-03-14T16:40:20.260Z
 ---
 # CAFEBABE - The Hidden Message in Java Class Files
 

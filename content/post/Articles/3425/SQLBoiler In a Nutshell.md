@@ -22,7 +22,8 @@ categories_ref:
   - SQLBoiler
   - ORM
   - Code Generation
-lastmod: 2025-03-14T15:45:06.242Z
+slug_calculated: https://brianbraatz.github.io/p/sqlboiler-in-a-nutshell
+lastmod: 2025-03-14T16:40:14.593Z
 ---
 # SQLBoiler In a Nutshell
 

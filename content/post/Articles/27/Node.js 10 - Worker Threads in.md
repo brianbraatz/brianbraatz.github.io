@@ -22,7 +22,8 @@ categories_ref:
   - Node.js
   - Worker Threads
   - Concurrency
-lastmod: 2025-03-14T15:45:04.302Z
+slug_calculated: https://brianbraatz.github.io/p/nodejs-10-worker-threads-
+lastmod: 2025-03-14T16:40:11.302Z
 ---
 ## Node.js 10 - Worker Threads in a Nutshell
 

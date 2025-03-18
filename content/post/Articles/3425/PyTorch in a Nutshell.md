@@ -26,7 +26,8 @@ categories_ref:
   - Python
   - Pytorch
   - Lua
-lastmod: 2025-03-14T15:45:06.039Z
+slug_calculated: https://brianbraatz.github.io/p/pytorch-in-a-nutshell
+lastmod: 2025-03-14T16:40:14.191Z
 ---
 <!-- 
 # PyTorch in a Nutshell

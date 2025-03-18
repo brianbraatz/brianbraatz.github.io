@@ -24,7 +24,8 @@ categories_ref:
   - Code Organization
   - Best Practices
   - Cloud
-lastmod: 2025-03-14T15:45:18.091Z
+slug_calculated: https://brianbraatz.github.io/p/how-autoloader-works-in-php
+lastmod: 2025-03-14T16:40:25.644Z
 ---
 # How Autoloader Works in PHP
 

@@ -24,7 +24,8 @@ categories_ref:
   - Messaging
   - Azure Queue
   - Azure Service Bus
-lastmod: 2025-03-14T15:45:05.637Z
+slug_calculated: https://brianbraatz.github.io/p/azure-queue-nutshell
+lastmod: 2025-03-14T16:40:13.656Z
 ---
 ## What is Azure Queue Storage?
 

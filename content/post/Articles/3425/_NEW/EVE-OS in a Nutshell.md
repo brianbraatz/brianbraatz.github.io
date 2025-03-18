@@ -23,7 +23,8 @@ categories_ref:
   - Virtualization
   - Edge Computing
   - Docker
-lastmod: 2025-03-14T15:45:06.627Z
+slug_calculated: https://brianbraatz.github.io/p/eve-os-in-a-nutshell
+lastmod: 2025-03-14T16:40:15.771Z
 ---
 <!-- 
 # EVE-OS in a Nutshell

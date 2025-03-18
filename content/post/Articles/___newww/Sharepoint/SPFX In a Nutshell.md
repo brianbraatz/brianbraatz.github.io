@@ -27,7 +27,8 @@ categories_ref:
   - SPFx
   - Microsoft 365
   - Power Apps
-lastmod: 2025-03-14T15:45:28.539Z
+slug_calculated: https://brianbraatz.github.io/p/spfx-nutshell
+lastmod: 2025-03-14T16:40:35.715Z
 ---
 # **What is SPFx (SharePoint Framework)?**
 

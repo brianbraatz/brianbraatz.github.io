@@ -27,7 +27,8 @@ categories_ref:
   - Architecture
   - SQL
   - Cloud
-lastmod: 2025-03-14T15:45:17.516Z
+slug_calculated: https://brianbraatz.github.io/p/breaking-up-monolithic-sql
+lastmod: 2025-03-14T16:40:25.571Z
 ---
 So, you've got this gigantic, monstrous, interrelated, join-heavy, super-normalized SQL database powering your legacy monolith. And now, some wise soul has decided it's time to go all-in on microservices.
 

@@ -25,7 +25,8 @@ categories_ref:
   - SeaORM
   - Database
   - ORM
-lastmod: 2025-03-14T15:45:06.110Z
+slug_calculated: https://brianbraatz.github.io/p/rust-seaorm-orm-in-a-nutshell
+lastmod: 2025-03-14T16:40:14.277Z
 ---
 # Rust SeaORM: ORM in a Nutshell
 

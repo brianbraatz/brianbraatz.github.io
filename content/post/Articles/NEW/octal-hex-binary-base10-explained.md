@@ -1,7 +1,7 @@
 ---
 title: Octal-Hex-Binary-Base10? Numbering Systems Explained
 description: The wheres and whys of it..
-slug: octal-hex-binary-base10?-numbering-systems-explained
+slug: octal-hex-binary-base10-numbering-systems-explained
 date: 2024-02-11
 image: post/Articles/IMAGES/30.jpg
 categories:
@@ -20,7 +20,8 @@ weight: 477
 categories_ref:
   - Algorithms
   - History
-lastmod: 2025-03-14T15:45:12.972Z
+slug_calculated: https://brianbraatz.github.io/p/octal-hex-binary-base10?-numbering-systems-explained
+lastmod: 2025-03-18T18:10:03.172Z
 ---
 # Octal-Hex-Binary-Base10? Numbering Systems Explained
 

@@ -38,7 +38,8 @@ categories_ref:
   - Soap
   - .NET
   - Dotnet
-lastmod: 2025-03-14T15:45:05.363Z
+slug_calculated: https://brianbraatz.github.io/p/wcf-in-a-nutshell
+lastmod: 2025-03-14T16:40:13.252Z
 ---
 # WCF in a Nutshell: A Wild Ride Through Windows Communication Foundation
 

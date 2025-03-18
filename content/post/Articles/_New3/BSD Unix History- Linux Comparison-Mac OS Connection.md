@@ -25,7 +25,8 @@ categories_ref:
   - Linux
   - BSD Unix
   - Mac OS
-lastmod: 2025-03-14T15:45:19.633Z
+slug_calculated: https://brianbraatz.github.io/p/bsd-unix-history-linux-comparison-mac-os
+lastmod: 2025-03-14T16:40:26.827Z
 ---
 # BSD Unix: History, Linux Comparison, and Mac OS Connection
 

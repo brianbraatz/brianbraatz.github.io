@@ -34,7 +34,8 @@ categories_ref:
   - History
   - Artificial Intellgence
   - Machine Learning
-lastmod: 2025-03-14T15:45:22.612Z
+slug_calculated: https://brianbraatz.github.io/p/lisp-nutshell
+lastmod: 2025-03-14T16:40:29.876Z
 ---
 <!--
 # The Lisp Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

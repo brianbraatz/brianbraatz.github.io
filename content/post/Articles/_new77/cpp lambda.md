@@ -27,7 +27,8 @@ categories_ref:
   - Template Programming
   - CPP-STL
   - CPP 11
-lastmod: 2025-03-14T15:45:24.280Z
+slug_calculated: https://brianbraatz.github.io/p/cpp-bind-lambda
+lastmod: 2025-03-14T16:40:31.691Z
 ---
 # Comparing Lambdas and `std::bind` in Modern C++
 

@@ -26,7 +26,8 @@ categories_ref:
   - PDO
   - SQL
   - Cloud
-lastmod: 2025-03-14T15:45:18.548Z
+slug_calculated: https://brianbraatz.github.io/p/php-pdo-in-a-nutshell
+lastmod: 2025-03-14T16:40:26.097Z
 ---
 <!-- 
 # PHP PDO in a Nutshell

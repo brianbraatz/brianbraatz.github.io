@@ -31,7 +31,8 @@ categories_ref:
   - CI\CD
   - Cloud
   - DevOps
-lastmod: 2025-03-14T15:45:03.804Z
+slug_calculated: https://brianbraatz.github.io/p/detect-openapi-changes-jenkins
+lastmod: 2025-03-14T16:40:10.312Z
 ---
 So, you’re maintaining **manual API documentation**, but how do you know **when** to update it?
 

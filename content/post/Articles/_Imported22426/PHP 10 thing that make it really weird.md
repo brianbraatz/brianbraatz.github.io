@@ -26,7 +26,8 @@ categories_ref:
   - Coding Oddities
   - SQL
   - Cloud
-lastmod: 2025-03-14T15:45:17.927Z
+slug_calculated: https://brianbraatz.github.io/p/php-is-weird
+lastmod: 2025-03-14T16:40:25.628Z
 ---
 PHP is the lovable, chaotic gremlin of programming languages.\
 It runs most of the web, powers countless CMSes, and yet—sometimes—it makes absolutely no sense.\

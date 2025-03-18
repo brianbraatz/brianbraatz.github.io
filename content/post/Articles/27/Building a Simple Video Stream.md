@@ -20,7 +20,8 @@ categories_ref:
   - Node.js
   - Video Streaming
   - Web Development
-lastmod: 2025-03-14T15:45:04.014Z
+slug_calculated: https://brianbraatz.github.io/p/building-a-simple-video-s
+lastmod: 2025-03-14T16:40:10.727Z
 ---
 <!-- # Building a Simple Video Streaming App with Node.js: A Fun and Informal Guide
 

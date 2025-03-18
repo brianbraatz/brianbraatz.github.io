@@ -43,7 +43,8 @@ categories_ref:
   - Azure
   - Azure Functions
   - Azure App Services
-lastmod: 2025-03-14T15:45:30.654Z
+slug_calculated: https://brianbraatz.github.io/p/unity-tutorial-multi-player-1
+lastmod: 2025-03-14T16:40:37.511Z
 ---
 <!-- 
 Article Image is from my Proto game "Babblewar" - more on that here [Unity 3D Multiplayer Game Experiments](post/unity3d/unity-proto-games/index.md) 

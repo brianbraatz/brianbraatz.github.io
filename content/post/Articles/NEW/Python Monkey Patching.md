@@ -30,7 +30,8 @@ categories_ref:
   - Algorithms
   - Testing
   - Unit Testing
-lastmod: 2025-03-14T15:45:13.274Z
+slug_calculated: https://brianbraatz.github.io/p/python-monkey-patching-hacking-your-code-like-a-pro
+lastmod: 2025-03-14T16:40:22.384Z
 ---
 <!-- 
 # Python Monkey Patching: Hacking Your Code Like a Pro

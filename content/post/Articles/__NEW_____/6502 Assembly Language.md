@@ -32,7 +32,8 @@ categories_ref:
   - Assembly Language
   - Languages
   - History
-lastmod: 2025-03-14T15:45:25.670Z
+slug_calculated: https://brianbraatz.github.io/p/6502-assembly-language-in-a-nutshell
+lastmod: 2025-03-14T16:40:33.105Z
 ---
 # 6502 Assembly Language in a Nutshell
 

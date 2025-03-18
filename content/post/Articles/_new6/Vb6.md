@@ -1,7 +1,7 @@
 ---
 title: Visual Basic 6 in a Nutshell
 description: The Visual Basic 6 Programming Language Explained
-slug: the-visual-basic-6-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+slug: visual-basic-6-nutshell
 date: 2022-11-15
 image: post/Articles/IMAGES/vb6splash.png
 categories:
@@ -34,7 +34,8 @@ categories_ref:
   - Languages
   - History
   - Windows
-lastmod: 2025-03-14T15:45:23.644Z
+slug_calculated: https://brianbraatz.github.io/p/the-visual-basic-6-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+lastmod: 2025-03-18T22:45:55.881Z
 ---
 <!--
 # The Visual Basic 6 Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

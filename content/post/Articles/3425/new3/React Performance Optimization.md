@@ -28,7 +28,8 @@ categories_ref:
   - Web Development
   - Frontend
   - Backend
-lastmod: 2025-03-14T15:45:06.443Z
+slug_calculated: https://brianbraatz.github.io/p/react-csharp-performance
+lastmod: 2025-03-14T16:40:15.243Z
 ---
 <!-- Front-end performance directly impacts user satisfaction.  
 

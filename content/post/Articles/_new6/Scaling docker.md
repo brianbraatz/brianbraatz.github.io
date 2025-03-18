@@ -36,7 +36,8 @@ categories_ref:
   - Microsoft Azure Cloud
   - Amazon Cloud-AWS
   - Google Cloud-GCP
-lastmod: 2025-03-14T15:45:23.174Z
+slug_calculated: https://brianbraatz.github.io/p/docker-scale-microservices
+lastmod: 2025-03-14T16:40:30.159Z
 ---
 <!--
 # How to Horizontally Scale Docker Microservices in AWS, Azure, and Google Cloud: Techniques and Comparisons

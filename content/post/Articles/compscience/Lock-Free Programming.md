@@ -31,7 +31,8 @@ categories_ref:
   - Mac OS
   - Concurrency
   - Assembly Language
-lastmod: 2025-03-14T15:45:08.402Z
+slug_calculated: https://brianbraatz.github.io/p/cs-lockfreeprog
+lastmod: 2025-03-14T16:40:18.954Z
 ---
 # Understanding Lock-Free Programming
 

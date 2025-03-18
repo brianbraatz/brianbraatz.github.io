@@ -33,7 +33,8 @@ categories_ref:
   - Microsoft Azure Cloud
   - Google Cloud-GCP
   - Testing
-lastmod: 2025-03-14T15:45:10.696Z
+slug_calculated: https://brianbraatz.github.io/p/devops-in-a-nutshell
+lastmod: 2025-03-14T16:40:20.636Z
 ---
 # DevOps In a Nutshell
 

@@ -22,7 +22,8 @@ categories_ref:
   - JQuery
   - Web Development
   - Cheatsheet
-lastmod: 2025-03-14T15:45:09.529Z
+slug_calculated: https://brianbraatz.github.io/p/jquery-cheatsheet
+lastmod: 2025-03-14T16:40:19.913Z
 ---
 ## jQuery Cheatsheet
 

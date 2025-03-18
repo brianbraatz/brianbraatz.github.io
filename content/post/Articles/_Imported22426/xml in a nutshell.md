@@ -23,7 +23,8 @@ categories_ref:
   - XML
   - Data Formats
   - Technology History
-lastmod: 2025-03-14T15:45:19.170Z
+slug_calculated: https://brianbraatz.github.io/p/xml-the-history-motivation-pros-and-cons
+lastmod: 2025-03-14T16:40:26.508Z
 ---
 ## The History of XML
 

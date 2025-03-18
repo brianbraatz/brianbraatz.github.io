@@ -30,7 +30,8 @@ categories_ref:
   - Entity Framework
   - SQL
   - ORM
-lastmod: 2025-03-14T15:45:08.861Z
+slug_calculated: https://brianbraatz.github.io/p/linq-in-a-nutshell
+lastmod: 2025-03-14T16:40:19.633Z
 ---
 ![LINQ Logo](https://seeklogo.com/images/L/linq-logo-8B9C0C6C6A-seeklogo.com.png)
 

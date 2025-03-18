@@ -23,7 +23,8 @@ categories_ref:
   - Postscript
   - PDF
   - Document Imaging
-lastmod: 2025-03-14T15:45:20.404Z
+slug_calculated: https://brianbraatz.github.io/p/deep-dive-into-pdf-internals-and-postscript-language
+lastmod: 2025-03-14T16:40:27.437Z
 ---
 # Deep Dive into PDF Internals and the PostScript Language
 

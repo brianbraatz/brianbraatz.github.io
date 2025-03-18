@@ -47,7 +47,8 @@ categories_ref:
   - Embedded Image Procesing
   - Biometrics Algorithms
   - WinApi
-lastmod: 2025-03-14T15:45:30.371Z
+slug_calculated: https://brianbraatz.github.io/p/hiide
+lastmod: 2025-03-14T16:40:37.339Z
 ---
 We used to like to say "You can RUN , but you cannot HIIDE!".\
 Which is proof that software engineers are FUNNY.. hahaha

@@ -42,7 +42,8 @@ categories_ref:
   - Testing
   - Unit Testing
   - ORM
-lastmod: 2025-03-14T15:45:23.344Z
+slug_calculated: https://brianbraatz.github.io/p/sql-data-gen
+lastmod: 2025-03-14T16:40:30.366Z
 ---
 <!--
 # In-Depth Introduction to Generating Sample Data for SQL Databases Using Faker, tSQLt, pgTAP, and More

@@ -16,7 +16,8 @@ description: Regex Cheat Sheet
 categories_ref:
   - RegEx
   - Perl
-lastmod: 2025-03-14T15:45:13.993Z
+slug_calculated: https://brianbraatz.github.io/p/regex-cheatsheet
+lastmod: 2025-03-14T16:40:23.061Z
 ---
 ![Perl Logo](https://cdn.perl.org/perlweb/images/icons/header_camel.png)
 

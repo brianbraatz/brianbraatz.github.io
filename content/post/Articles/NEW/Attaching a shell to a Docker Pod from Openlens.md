@@ -25,7 +25,8 @@ categories_ref:
   - OpenLens
   - Kubernetes
   - Cloud
-lastmod: 2025-03-14T15:45:09.861Z
+slug_calculated: https://brianbraatz.github.io/p/how-to-attach-a-shell-to-a-pod-in-openlens
+lastmod: 2025-03-14T16:40:20.097Z
 ---
 # How to Attach a Shell to a Pod in OpenLens
 

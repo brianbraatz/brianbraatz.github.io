@@ -33,7 +33,8 @@ categories_ref:
   - Memory Dump Analysis
   - WinApi
   - CPP
-lastmod: 2025-03-14T15:45:28.039Z
+slug_calculated: https://brianbraatz.github.io/p/write-your-own-debugger-windows
+lastmod: 2025-03-14T16:40:35.215Z
 ---
 # Who Needs Visual Studio?? Write Your OWN Debugger Using the Windows API for Fun and Profit 🎯
 

@@ -1,7 +1,7 @@
 ---
 title: Identity and Access Management-IAM in a Nutshell
 description: "How the IAM Protocol Works: History, Relationship to Alternatives, and Examples"
-slug: how-the-iam-protocol-works:-history-relationship-to-alternatives-and-10-code-examples
+slug: how-the-iam-protocol-works
 date: 2023-07-14
 image: post/Articles/IMAGES/iamlogo.png
 categories:
@@ -29,7 +29,8 @@ categories_ref:
   - Networking
   - Identity and access management-IAM
   - Security
-lastmod: 2025-03-14T15:45:22.356Z
+slug_calculated: https://brianbraatz.github.io/p/how-the-iam-protocol-works:-history-relationship-to-alternatives-and-10-code-examples
+lastmod: 2025-03-18T19:41:38.188Z
 ---
 <!--
 # How the IAM Protocol Works: History, Relationship to Alternatives, and 10 Code Examples

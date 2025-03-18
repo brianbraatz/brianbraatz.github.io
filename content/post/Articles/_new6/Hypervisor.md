@@ -1,7 +1,7 @@
 ---
 title: What's a Hypervisor? And Why Does My Docker Need One???
 description: Hypervisors Explained..
-slug: what's-a-hypervisor-and-why-does-my-docker-need-one
+slug: whats-a-hypervisor
 date: 2019-10-31
 image: post/Articles/IMAGES/hypervlogo.png
 categories:
@@ -29,7 +29,8 @@ categories_ref:
   - Cloud
   - Virtual Machines
   - Containers
-lastmod: 2025-03-14T15:45:22.297Z
+slug_calculated: https://brianbraatz.github.io/p/what's-a-hypervisor-and-why-does-my-docker-need-one
+lastmod: 2025-03-18T19:40:59.269Z
 ---
 # What's a Hypervisor? And Why Does My Docker Need One???  
 

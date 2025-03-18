@@ -29,7 +29,8 @@ categories_ref:
   - Microsoft Sql Server
   - MySql
   - Postgres Sql
-lastmod: 2025-03-14T15:45:20.232Z
+slug_calculated: https://brianbraatz.github.io/p/sql-transactions-nutshell
+lastmod: 2025-03-14T16:40:27.253Z
 ---
 # SQL Transactions: The History, How They Work, and Why You Should Care
 

@@ -19,7 +19,8 @@ categories_ref:
   - Git
   - Version Control
   - Cheatsheet
-lastmod: 2025-03-14T15:45:04.041Z
+slug_calculated: https://brianbraatz.github.io/p/git-cheatsheet-common-ope
+lastmod: 2025-03-14T16:40:10.750Z
 ---
 ***
 

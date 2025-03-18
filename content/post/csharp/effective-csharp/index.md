@@ -20,7 +20,8 @@ categories_ref:
   - CSharp
   - DotNet
   - Performance Optimization
-lastmod: 2025-03-14T15:45:30.321Z
+slug_calculated: https://brianbraatz.github.io/p/effective-csharp-talk
+lastmod: 2025-03-14T16:40:37.313Z
 ---
 <!-- ecsharpcover.png 
 csharpblue.png

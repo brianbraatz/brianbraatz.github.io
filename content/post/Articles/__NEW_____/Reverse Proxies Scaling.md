@@ -24,7 +24,8 @@ categories_ref:
   - Cloud
   - Kubernetes
   - Load Balancing
-lastmod: 2025-03-14T15:45:26.015Z
+slug_calculated: https://brianbraatz.github.io/p/testing-kubernetes-load-balancing-and-monitoring-orderbot-output
+lastmod: 2025-03-14T16:40:33.536Z
 ---
 See Part 1 here:\
 [Reverse Proxies Visually Explained](/post/Articles/__NEW_____/Reverse%20Proxies%20Visually%20Explained.md)

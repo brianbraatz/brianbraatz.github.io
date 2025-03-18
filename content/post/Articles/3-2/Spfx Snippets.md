@@ -23,7 +23,8 @@ categories_ref:
   - SharePoint
   - Development
   - SPFx
-lastmod: 2025-03-14T15:45:05.234Z
+slug_calculated: https://brianbraatz.github.io/p/spfx-useful-code-examples
+lastmod: 2025-03-14T16:40:13.094Z
 ---
 <!-- 
 # **10 Useful Code Examples for SPFx Development** 🚀  

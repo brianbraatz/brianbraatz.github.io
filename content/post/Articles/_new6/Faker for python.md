@@ -35,7 +35,8 @@ categories_ref:
   - Testing
   - SQL
   - ORM
-lastmod: 2025-03-14T15:45:21.977Z
+slug_calculated: https://brianbraatz.github.io/p/in-depth-introduction-to-the-faker-library-for-sample-data-generation-and-unit-testing-in-python
+lastmod: 2025-03-14T16:40:29.208Z
 ---
 # In-Depth Introduction to the Faker Library for Sample Data Generation and Unit Testing in Python
 

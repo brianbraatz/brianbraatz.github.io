@@ -27,7 +27,8 @@ categories_ref:
   - GraphQL
   - API Gateway
   - Migration
-lastmod: 2025-03-14T15:45:26.734Z
+slug_calculated: https://brianbraatz.github.io/p/comparing-soap-migration-api-gateways
+lastmod: 2025-03-14T16:40:34.035Z
 ---
 # Comparing SOAP Migration Strategies: API Gateways vs. GraphQL Middleware vs. Simple Code Approaches
 

@@ -1,7 +1,7 @@
 ---
 title: Borland Delphi In a Nutshell
 description: The Borland Delphi Programming Language Explored
-slug: the-borland-delphi-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+slug: borland-delphi
 date: 2021-02-22
 image: post/Articles/IMAGES/borlanddelphi.png
 categories:
@@ -32,7 +32,8 @@ categories_ref:
   - Delphi Language
   - Languages
   - History
-lastmod: 2025-03-14T15:45:21.613Z
+slug_calculated: https://brianbraatz.github.io/p/the-borland-delphi-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+lastmod: 2025-03-18T18:31:09.963Z
 ---
 <!--
 

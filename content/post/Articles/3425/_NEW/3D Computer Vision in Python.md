@@ -21,11 +21,13 @@ categories_ref:
   - Python
   - 3D Vision
   - Machine Learning
-lastmod: 2025-03-14T15:45:06.455Z
+slug_calculated: https://brianbraatz.github.io/p/3d-computer-vision-python-nutshell
+lastmod: 2025-03-18T22:54:03.762Z
 ---
+<!-- 
 # 3D Computer Vision in Python: A Nutshell Guide with Code & History
 
-## Welcome to the World of 3D Vision!
+## Welcome to the World of 3D Vision! -->
 
 Ever wondered how robots see the world in 3D? Or how your phone knows your face is *your* face and not a poorly drawn stick figure? Welcome to **3D Computer Vision**—where math, magic, and Python code come together to give computers eyeballs.
 

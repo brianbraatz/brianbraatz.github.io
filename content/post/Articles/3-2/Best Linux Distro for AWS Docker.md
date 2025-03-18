@@ -22,7 +22,8 @@ categories_ref:
   - Docker
   - Kubernetes
   - Linux
-lastmod: 2025-03-14T15:45:04.878Z
+slug_calculated: https://brianbraatz.github.io/p/best-linux-for-docker-aws
+lastmod: 2025-03-14T16:40:12.752Z
 ---
 # **Which Linux Should You Use for Docker Containers on AWS?**
 

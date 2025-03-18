@@ -21,7 +21,8 @@ categories_ref:
   - Testing
   - Development
   - Unit Testing
-lastmod: 2025-03-14T15:45:06.345Z
+slug_calculated: https://brianbraatz.github.io/p/karma-jasmine-testing
+lastmod: 2025-03-14T16:40:14.993Z
 ---
 <!-- 
 ## Karma and Jasmine for Testing

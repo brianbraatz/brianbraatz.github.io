@@ -19,7 +19,8 @@ categories_ref:
   - Javascript
   - Web Development
   - Cheatsheet
-lastmod: 2025-03-14T15:45:09.484Z
+slug_calculated: https://brianbraatz.github.io/p/javascript-cheatsheet
+lastmod: 2025-03-14T16:40:19.894Z
 ---
 ## Javascript Cheatsheet
 

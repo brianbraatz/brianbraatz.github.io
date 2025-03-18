@@ -27,7 +27,8 @@ categories_ref:
   - Linux
   - Programming
   - Device Drivers
-lastmod: 2025-03-14T15:45:05.449Z
+slug_calculated: https://brianbraatz.github.io/p/cross-platform-bluetooth-python
+lastmod: 2025-03-14T16:40:13.426Z
 ---
 # Cross-Platform Bluetooth Communication in Python for Windows and Linux
 

@@ -20,7 +20,8 @@ categories_ref:
   - Perl
   - RegEx
   - Languages
-lastmod: 2025-03-14T15:45:13.943Z
+slug_calculated: https://brianbraatz.github.io/p/perl-in-a-nutshell-with-extra-nuts
+lastmod: 2025-03-14T16:40:23.020Z
 ---
 Updated Blog Image is from the amazing Dall-e\
 <https://openai.com/index/dall-e-2>

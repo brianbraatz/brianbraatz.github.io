@@ -27,7 +27,8 @@ categories_ref:
   - Framework
   - Web Development
   - Low-code
-lastmod: 2025-03-14T15:45:04.167Z
+slug_calculated: https://brianbraatz.github.io/p/laravel-in-a-nutshell
+lastmod: 2025-03-14T16:40:10.852Z
 ---
 <!-- 
 

@@ -25,7 +25,8 @@ categories_ref:
   - Programming
   - DotNet
   - FSharp
-lastmod: 2025-03-14T15:45:07.641Z
+slug_calculated: https://brianbraatz.github.io/p/fsharp-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.976Z
 ---
 <!-- # F# in a Nutshell: The Functional Side of .NET
 

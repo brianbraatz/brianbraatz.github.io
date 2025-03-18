@@ -30,7 +30,8 @@ categories_ref:
   - Design Patterns
   - CQRS Pattern
   - MVC Pattern
-lastmod: 2025-03-14T15:45:10.604Z
+slug_calculated: https://brianbraatz.github.io/p/cqrs-command-query-responsibility-segregation
+lastmod: 2025-03-14T16:40:20.605Z
 ---
 [Norman Rockwell - Wikipedia](https://en.wikipedia.org/wiki/Norman_Rockwell)
 

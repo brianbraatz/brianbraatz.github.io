@@ -20,7 +20,8 @@ categories_ref:
   - Open Source
   - Licensing
   - Software Development
-lastmod: 2025-03-14T15:45:06.931Z
+slug_calculated: https://brianbraatz.github.io/p/open-source-and-contributor-license-agreements
+lastmod: 2025-03-14T16:40:16.658Z
 ---
 <!-- 
 ## Open Source and Contributor License Agreements in a Nutshell -->

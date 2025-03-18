@@ -19,7 +19,8 @@ categories_ref:
   - Cloud
   - Ansible
   - CI\CD
-lastmod: 2025-03-14T15:45:24.147Z
+slug_calculated: https://brianbraatz.github.io/p/ansible-in-a-nutshell
+lastmod: 2025-03-14T16:40:31.399Z
 ---
 # Ansible in a Nutshell
 

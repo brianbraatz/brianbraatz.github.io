@@ -27,7 +27,8 @@ categories_ref:
   - MySql
   - Postgres Sql
   - Cheatsheet
-lastmod: 2025-03-14T15:45:15.256Z
+slug_calculated: https://brianbraatz.github.io/p/sql-performance-list
+lastmod: 2025-03-14T16:40:23.759Z
 ---
 ["The Faster I Run, the More Inhuman I Become"](https://screenrant.com/flash-speed-force-secret-dark-power-transforms-speedsters/)
 

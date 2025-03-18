@@ -25,7 +25,8 @@ categories_ref:
   - Python
   - Google App Engine
   - Python-Flask
-lastmod: 2025-03-14T15:45:09.331Z
+slug_calculated: https://brianbraatz.github.io/p/personal-proxy-server-google-app-engine
+lastmod: 2025-03-14T16:40:19.840Z
 ---
 # How to Build Your Own Personal Proxy Server Using Google App Engine (Because VPNs Are Overrated)
 

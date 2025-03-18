@@ -26,7 +26,8 @@ categories_ref:
   - C++
   - CPP
   - Design Patterns
-lastmod: 2025-03-14T15:45:27.432Z
+slug_calculated: https://brianbraatz.github.io/p/cpp-have-weak-ref-ptr
+lastmod: 2025-03-14T16:40:34.589Z
 ---
 <!-- 
 # Why does C++ have a weak reference pointer? And why would you ever use it? Here are 10 examples

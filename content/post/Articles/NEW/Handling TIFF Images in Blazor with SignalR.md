@@ -31,7 +31,8 @@ categories_ref:
   - TIFF Images
   - Medical Images
   - Microscope Images
-lastmod: 2025-03-14T15:45:11.393Z
+slug_calculated: https://brianbraatz.github.io/p/images-blazor-signalr-tiff
+lastmod: 2025-03-14T16:40:21.263Z
 ---
 ![](/post/Articles/IMAGES/SEMMisc_pollen.jpg)
 

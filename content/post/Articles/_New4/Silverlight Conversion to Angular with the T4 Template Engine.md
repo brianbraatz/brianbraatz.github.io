@@ -43,7 +43,8 @@ categories_ref:
   - Web Development
   - Typescript
   - Mobile
-lastmod: 2025-03-14T15:45:20.748Z
+slug_calculated: https://brianbraatz.github.io/p/silverlight-conversion-angular-t4
+lastmod: 2025-03-14T16:40:27.834Z
 ---
 # Maui-WPF-XAML-Silverlight Conversion to Angular with the T4 Template Engine
 

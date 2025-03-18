@@ -1,8 +1,8 @@
 ---
 title: Windows Async-Async Revisited
 description: Contemplating Cancellation...
-slug: windows-async-async-revisited-what-about-cancellation
-date: 2025-12-03
+slug: windows-async-revisited-what-about-cancellation
+date: 2017-12-03
 image: post/Articles/IMAGES/asyncawait.png
 categories:
   - Concurrency
@@ -22,7 +22,8 @@ categories_ref:
   - Multithreading
   - ASP.NET
   - Async
-lastmod: 2025-03-14T15:45:27.380Z
+slug_calculated: https://brianbraatz.github.io/p/windows-async-async-revisited-what-about-cancellation
+lastmod: 2025-03-18T22:03:27.433Z
 ---
 ## Why Do We Even Need Cancellation?
 

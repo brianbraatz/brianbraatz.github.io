@@ -30,7 +30,8 @@ categories_ref:
   - Microsoft Azure Cloud
   - Google Cloud-GCP
   - Machine Learning
-lastmod: 2025-03-14T15:45:09.733Z
+slug_calculated: https://brianbraatz.github.io/p/ai-amazon--azure-gcp
+lastmod: 2025-03-14T16:40:20.042Z
 ---
 # AI Comparison: Amazon SageMaker vs Azure ML vs Google Vertex AI
 

@@ -29,7 +29,8 @@ categories_ref:
   - Linux
   - Mac OS
   - Scripting
-lastmod: 2025-03-14T15:45:20.643Z
+slug_calculated: https://brianbraatz.github.io/p/sed-reference-table
+lastmod: 2025-03-14T16:40:27.771Z
 ---
 # SED Reference Table
 

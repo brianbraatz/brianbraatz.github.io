@@ -25,7 +25,8 @@ categories_ref:
   - Cloud
   - Security
   - JWT
-lastmod: 2025-03-14T15:45:12.245Z
+slug_calculated: https://brianbraatz.github.io/p/jwt-in-a-nutshell
+lastmod: 2025-03-14T16:40:21.730Z
 ---
 # JWT in a Nutshell
 

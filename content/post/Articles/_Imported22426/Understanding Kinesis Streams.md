@@ -24,7 +24,8 @@ categories_ref:
   - Streaming
   - Data Processing
   - DynamoDb
-lastmod: 2025-03-14T15:45:18.944Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-kinesis-streams
+lastmod: 2025-03-14T16:40:26.225Z
 ---
 # Understanding Kinesis Streams
 

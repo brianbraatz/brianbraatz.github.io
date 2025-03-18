@@ -1,7 +1,7 @@
 ---
 title: SSH in a Nutshell
 description: SSH Explained
-slug: how-the-ssh-protocol-works:-history-relationship-to-alternatives-and-10-code-examples
+slug: how-the-ssh-protocol-works
 date: 2021-06-11
 image: post/Articles/IMAGES/ssh.png
 categories:
@@ -40,7 +40,8 @@ categories_ref:
   - Cloud
   - Docker
   - Network Protocols
-lastmod: 2025-03-14T15:45:23.491Z
+slug_calculated: https://brianbraatz.github.io/p/how-the-ssh-protocol-works:-history-relationship-to-alternatives-and-10-code-examples
+lastmod: 2025-03-18T18:33:05.212Z
 ---
 <!--
 # How the SSH Protocol Works: History, Relationship to Alternatives, and 10 Code Examples

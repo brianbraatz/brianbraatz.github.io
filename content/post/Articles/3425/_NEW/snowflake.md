@@ -24,7 +24,8 @@ categories_ref:
   - Cloud
   - Snowflake
   - Big Data
-lastmod: 2025-03-14T15:45:07.344Z
+slug_calculated: https://brianbraatz.github.io/p/snowflake-nutshell
+lastmod: 2025-03-14T16:40:17.661Z
 ---
 [Snowflake Structure Still Mystifies Physicists](https://www.scientificamerican.com/article/snowflake-structure-still-mystifies-physicists/)
 

@@ -33,7 +33,8 @@ categories_ref:
   - CSharp
   - Office 365
   - Power Apps
-lastmod: 2025-03-14T15:45:28.271Z
+slug_calculated: https://brianbraatz.github.io/p/graphapi-python-cs-snippets
+lastmod: 2025-03-14T16:40:35.431Z
 ---
 <!-- 
 # Exploring the Graph API (Sharepoint) with Python and C#: 10 Things You Can Do

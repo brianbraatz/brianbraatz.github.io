@@ -28,7 +28,8 @@ categories_ref:
   - COM
   - Message Handling
   - WinAPI
-lastmod: 2025-03-14T15:45:08.637Z
+slug_calculated: https://brianbraatz.github.io/p/mfc-ccommandtarget-in-detail
+lastmod: 2025-03-14T16:40:19.365Z
 ---
 # MFC CCommandTarget In Detail
 

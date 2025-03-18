@@ -1,7 +1,7 @@
 ---
 title: Smalltalk in a Nutshell
 description: The Smalltalk Programming Language Explored
-slug: the-smalltalk-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+slug: smalltalk
 date: 2024-06-17
 image: post/Articles/IMAGES/smalltalklogo.png
 categories:
@@ -31,7 +31,8 @@ categories_ref:
   - Languages
   - Smalltalk
   - History
-lastmod: 2025-03-14T15:45:23.284Z
+slug_calculated: https://brianbraatz.github.io/p/the-smalltalk-programming-language:-history-motivation-relationship-to-modern-languages-and-10-code-examples
+lastmod: 2025-03-18T18:32:54.988Z
 ---
 <!--
 # The Smalltalk Programming Language: History, Motivation, Relationship to Modern Languages, and 10 Code Examples

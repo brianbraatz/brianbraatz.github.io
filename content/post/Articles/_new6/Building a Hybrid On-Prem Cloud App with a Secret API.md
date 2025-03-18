@@ -47,7 +47,8 @@ categories_ref:
   - Mobile
   - IOS
   - Android
-lastmod: 2025-03-14T15:45:21.667Z
+slug_calculated: https://brianbraatz.github.io/p/experience-building-a-hybrid
+lastmod: 2025-03-14T16:40:28.962Z
 ---
 <!--
 # Experience Building a Hybrid On-Premise Cloud Application, and How to Do It with AWS, Azure, and Google Cloud  

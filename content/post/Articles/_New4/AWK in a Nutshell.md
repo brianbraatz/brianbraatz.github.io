@@ -30,7 +30,8 @@ categories_ref:
   - Unix
   - Linux
   - Mac OS
-lastmod: 2025-03-14T15:45:20.319Z
+slug_calculated: https://brianbraatz.github.io/p/awk-in-a-nutshell
+lastmod: 2025-03-14T16:40:27.368Z
 ---
 [Myrna Loy - Wikipedia](https://en.wikipedia.org/wiki/Myrna_Loy)
 

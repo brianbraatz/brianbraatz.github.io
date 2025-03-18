@@ -24,7 +24,8 @@ categories_ref:
   - Bundlers
   - Frontend
   - Development
-lastmod: 2025-03-14T15:45:04.753Z
+slug_calculated: https://brianbraatz.github.io/p/webpack-in-a-nutshell
+lastmod: 2025-03-14T16:40:12.685Z
 ---
 # Webpack in a Nutshell: The Magic Behind Modern JavaScript Bundling
 

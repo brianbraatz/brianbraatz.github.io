@@ -26,7 +26,8 @@ categories_ref:
   - Tools
   - Web Development
   - Cloud
-lastmod: 2025-03-14T15:45:03.600Z
+slug_calculated: https://brianbraatz.github.io/p/alternatives-nswag-studio
+lastmod: 2025-03-14T16:40:10.115Z
 ---
 ***
 

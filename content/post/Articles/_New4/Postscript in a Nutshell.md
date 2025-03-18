@@ -24,7 +24,8 @@ categories_ref:
   - PDF
   - Document Imaging
   - Languages
-lastmod: 2025-03-14T15:45:20.597Z
+slug_calculated: https://brianbraatz.github.io/p/nutshell-ostscript-language
+lastmod: 2025-03-14T16:40:27.741Z
 ---
 # Deep Dive into the PostScript Language
 

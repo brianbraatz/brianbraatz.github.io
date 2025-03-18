@@ -27,7 +27,8 @@ categories_ref:
   - Python
   - Cloud
   - Margo Initiative
-lastmod: 2025-03-14T15:45:06.766Z
+slug_calculated: https://brianbraatz.github.io/p/the-margo-initiative-in-a-nutshell
+lastmod: 2025-03-14T16:40:16.237Z
 ---
 ![](/post/Articles/3425/_NEW/margodiagram.png)
 

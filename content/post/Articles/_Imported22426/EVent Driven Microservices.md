@@ -31,7 +31,8 @@ categories_ref:
   - Python
   - Cloud
   - Azure Queue
-lastmod: 2025-03-14T15:45:16.660Z
+slug_calculated: https://brianbraatz.github.io/p/event-driven-microservices
+lastmod: 2025-03-14T16:40:24.789Z
 ---
 # Understanding Event-Driven Microservices with C# and Python
 

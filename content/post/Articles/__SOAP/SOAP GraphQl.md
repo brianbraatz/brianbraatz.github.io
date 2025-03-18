@@ -26,7 +26,8 @@ categories_ref:
   - Web Services
   - GraphQL
   - Migration
-lastmod: 2025-03-14T15:45:26.547Z
+slug_calculated: https://brianbraatz.github.io/p/graphql-middleware-soap-migration
+lastmod: 2025-03-14T16:40:33.746Z
 ---
 # Deep Dive: Using GraphQL as a Middleware for Migrating SOAP to REST
 

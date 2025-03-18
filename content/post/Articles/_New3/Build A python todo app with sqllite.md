@@ -25,7 +25,8 @@ categories_ref:
   - SQL
   - Python-Click
   - Python-Gui
-lastmod: 2025-03-14T15:45:19.689Z
+slug_calculated: https://brianbraatz.github.io/p/build-cli-app-click-sqlite
+lastmod: 2025-03-14T16:40:26.842Z
 ---
 # How to Build a Full CLI App with Click and SQLite
 

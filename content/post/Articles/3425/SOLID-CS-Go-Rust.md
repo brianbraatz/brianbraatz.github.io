@@ -25,7 +25,8 @@ categories_ref:
   - SOLID
   - Go
   - Rust
-lastmod: 2025-03-14T15:45:06.169Z
+slug_calculated: https://brianbraatz.github.io/p/solid-in-a-nutshell-go-rust
+lastmod: 2025-03-14T16:40:14.441Z
 ---
 # SOLID in Go and Rust: A Pragmatic Approach to Clean Code
 

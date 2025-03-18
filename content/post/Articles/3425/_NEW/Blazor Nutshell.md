@@ -32,7 +32,8 @@ categories_ref:
   - Web Development
   - Cloud
   - Mobile
-lastmod: 2025-03-14T15:45:06.504Z
+slug_calculated: https://brianbraatz.github.io/p/blazor-nutshell
+lastmod: 2025-03-14T16:40:15.311Z
 ---
 <!-- 
 # Blazor Deep Dive: A Fun Look Into the Future of .NET Web Apps

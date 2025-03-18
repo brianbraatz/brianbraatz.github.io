@@ -23,7 +23,8 @@ categories_ref:
   - Dart
   - Mobile Development
   - Mobile
-lastmod: 2025-03-14T15:45:07.622Z
+slug_calculated: https://brianbraatz.github.io/p/flutter-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.959Z
 ---
 <!-- 
 # Flutter in a Nutshell: The Wild Ride of Cross-Platform App Development

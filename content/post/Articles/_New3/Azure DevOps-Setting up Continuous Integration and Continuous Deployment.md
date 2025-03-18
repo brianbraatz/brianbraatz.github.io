@@ -37,7 +37,8 @@ categories_ref:
   - CI\CD
   - CSharp
   - DotNet
-lastmod: 2025-03-14T15:45:19.574Z
+slug_calculated: https://brianbraatz.github.io/p/setting-up-ci-cd-in-azure-devops
+lastmod: 2025-03-14T16:40:26.815Z
 ---
 # Setting up CI/CD in Azure DevOps
 

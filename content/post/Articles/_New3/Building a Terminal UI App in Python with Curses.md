@@ -21,7 +21,8 @@ categories_ref:
   - Python
   - Python-Curses
   - GUI
-lastmod: 2025-03-14T15:45:19.787Z
+slug_calculated: https://brianbraatz.github.io/p/building-terminal-ui-python-curses
+lastmod: 2025-03-14T16:40:26.873Z
 ---
 Image from this great book:
 

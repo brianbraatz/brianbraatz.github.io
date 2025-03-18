@@ -27,7 +27,8 @@ categories_ref:
   - Template Programming
   - CPP-STL
   - CPP 11
-lastmod: 2025-03-14T15:45:23.589Z
+slug_calculated: https://brianbraatz.github.io/p/cpp-bind
+lastmod: 2025-03-14T16:40:30.609Z
 ---
 <!--
 ## IMPORTANT

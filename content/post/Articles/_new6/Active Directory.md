@@ -1,7 +1,7 @@
 ---
 title: Active Directory in a Nutshell
 description: Code Examples in C# and Powershell
-slug: active-directory-in-detail:-adsi-history-relationship-to-ldap-and-10-code-examples
+slug: active-directory-nutshell
 date: 2020-11-02
 image: post/Articles/IMAGES/activedirectory.png
 categories:
@@ -38,7 +38,8 @@ categories_ref:
   - Biztalk
   - Microsoft Azure Cloud
   - Active Directory
-lastmod: 2025-03-14T15:45:21.284Z
+slug_calculated: https://brianbraatz.github.io/p/active-directory-in-detail:-adsi-history-relationship-to-ldap-and-10-code-examples
+lastmod: 2025-03-18T22:41:22.335Z
 ---
 <!--
 

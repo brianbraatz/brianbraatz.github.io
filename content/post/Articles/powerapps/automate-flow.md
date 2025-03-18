@@ -30,7 +30,8 @@ categories_ref:
   - Workflow Automation
   - Business Apps
   - PowerApps
-lastmod: 2025-03-14T15:45:14.036Z
+slug_calculated: https://brianbraatz.github.io/p/microsoft-flow-in-a-nutshell
+lastmod: 2025-03-14T16:40:23.102Z
 ---
 # Microsoft Flow in a Nutshell
 

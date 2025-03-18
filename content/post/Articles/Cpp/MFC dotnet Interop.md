@@ -31,7 +31,8 @@ categories_ref:
   - CSharp
   - CPP
   - WinApi
-lastmod: 2025-03-14T15:45:08.652Z
+slug_calculated: https://brianbraatz.github.io/p/mfc-dot-net-interop-options-in-2022
+lastmod: 2025-03-14T16:40:19.420Z
 ---
 # MFC Dot Net Interop Options in 2022
 

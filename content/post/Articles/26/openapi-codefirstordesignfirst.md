@@ -23,7 +23,8 @@ categories_ref:
   - API Design
   - OpenAPI
   - Web Development
-lastmod: 2025-03-14T15:45:03.632Z
+slug_calculated: https://brianbraatz.github.io/p/openapi-single-source-truth
+lastmod: 2025-03-14T16:40:10.142Z
 ---
 One of the **biggest questions** you need to answer when starting an OpenAPI project is:
 

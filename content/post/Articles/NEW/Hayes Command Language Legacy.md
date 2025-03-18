@@ -30,7 +30,8 @@ categories_ref:
   - Computers
   - History
   - Nutshell
-lastmod: 2025-03-14T15:45:11.563Z
+slug_calculated: https://brianbraatz.github.io/p/hayes-command-set-legacy
+lastmod: 2025-03-14T16:40:21.454Z
 ---
 # Inside the Hayes Command Set for Modems
 

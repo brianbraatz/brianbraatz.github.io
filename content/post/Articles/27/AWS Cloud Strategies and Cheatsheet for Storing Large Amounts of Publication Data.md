@@ -28,7 +28,8 @@ categories_ref:
   - Cloud Storage
   - Big Data
   - DynamoDb
-lastmod: 2025-03-14T15:45:03.918Z
+slug_calculated: https://brianbraatz.github.io/p/aws-cloud-strategies-cheatsheet
+lastmod: 2025-03-14T16:40:10.533Z
 ---
 # AWS Cloud Strategies and Cheatsheet for Storing Large Amounts of Publication Data 📚☁️
 

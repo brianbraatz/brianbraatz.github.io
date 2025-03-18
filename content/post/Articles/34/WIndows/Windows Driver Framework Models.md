@@ -29,7 +29,8 @@ categories_ref:
   - Development
   - WDM
   - Device Drivers
-lastmod: 2025-03-14T15:45:05.560Z
+slug_calculated: https://brianbraatz.github.io/p/windows-driver-model-wdm-evolution
+lastmod: 2025-03-14T16:40:13.536Z
 ---
 <!-- 
 # Windows Driver Model (WDM): Evolution and Best Practices

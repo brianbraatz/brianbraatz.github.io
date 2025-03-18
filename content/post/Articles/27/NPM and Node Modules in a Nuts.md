@@ -24,7 +24,8 @@ categories_ref:
   - JavaScript
   - Modules
   - Package Management
-lastmod: 2025-03-14T15:45:04.542Z
+slug_calculated: https://brianbraatz.github.io/p/npm-and-node-modules-nuts
+lastmod: 2025-03-14T16:40:12.155Z
 ---
 # NPM and Node Modules in a Nutshell
 

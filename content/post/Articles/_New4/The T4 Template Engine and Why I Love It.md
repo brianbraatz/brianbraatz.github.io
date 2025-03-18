@@ -43,7 +43,8 @@ categories_ref:
   - Postscript
   - PDF
   - Document Imaging
-lastmod: 2025-03-14T15:45:20.813Z
+slug_calculated: https://brianbraatz.github.io/p/t4-template-engine-and-why-i-love-it
+lastmod: 2025-03-14T16:40:27.898Z
 ---
 # T4 Template Engine and Why I Love It
 

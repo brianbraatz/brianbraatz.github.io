@@ -20,7 +20,8 @@ tags:
 draft: true
 weight: 326
 categories_ref: []
-lastmod: 2025-03-14T15:45:26.418Z
+slug_calculated: https://brianbraatz.github.io/p/10-other-people-who-battled-soap-and-lived-to-tell-the-tale
+lastmod: 2025-03-14T16:40:33.712Z
 ---
 # People Who Battled SOAP and Lived to Tell the Tale
 

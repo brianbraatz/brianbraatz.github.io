@@ -38,7 +38,8 @@ categories_ref:
   - Java
   - GraphQL
   - Soap
-lastmod: 2025-03-14T15:45:26.608Z
+slug_calculated: https://brianbraatz.github.io/p/soap-nutshell
+lastmod: 2025-03-14T16:40:33.827Z
 ---
 <!-- 
 

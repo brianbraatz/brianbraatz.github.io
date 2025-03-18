@@ -43,7 +43,8 @@ categories_ref:
   - Python
   - Security
   - ORM
-lastmod: 2025-03-14T15:45:22.195Z
+slug_calculated: https://brianbraatz.github.io/p/web-security-how-sql-injection-attacks-work
+lastmod: 2025-03-14T16:40:29.392Z
 ---
 <!-- 
 # Web Security: How SQL Injection Attacks Work

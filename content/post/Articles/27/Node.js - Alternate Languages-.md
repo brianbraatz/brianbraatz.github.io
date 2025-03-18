@@ -24,7 +24,8 @@ categories_ref:
   - Dart
   - TypeScript
   - ClojureScript
-lastmod: 2025-03-14T15:45:04.266Z
+slug_calculated: https://brianbraatz.github.io/p/nodejs-alternate-language
+lastmod: 2025-03-14T16:40:11.172Z
 ---
 <!-- 
 # Node.js - Alternate Languages: CoffeeScript, Dart, TypeScript, and ClojureScript -->

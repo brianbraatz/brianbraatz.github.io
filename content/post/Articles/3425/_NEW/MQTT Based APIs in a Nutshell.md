@@ -24,7 +24,8 @@ categories_ref:
   - IoT
   - Messaging
   - Cloud
-lastmod: 2025-03-14T15:45:06.803Z
+slug_calculated: https://brianbraatz.github.io/p/mqtt-based-apis-in-a-nutshell
+lastmod: 2025-03-14T16:40:16.347Z
 ---
 <!-- 
 # MQTT Based APIs in a Nutshell

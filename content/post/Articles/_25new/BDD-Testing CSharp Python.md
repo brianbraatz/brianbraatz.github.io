@@ -33,7 +33,8 @@ categories_ref:
   - CSharp
   - Python
   - Unit Testing
-lastmod: 2025-03-14T15:45:15.420Z
+slug_calculated: https://brianbraatz.github.io/p/bdd-cs-python
+lastmod: 2025-03-14T16:40:23.896Z
 ---
 This is the C# and Python Version of this Article
 

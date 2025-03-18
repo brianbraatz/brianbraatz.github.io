@@ -37,7 +37,8 @@ categories_ref:
   - Dynamic Libraries
   - Linker Errors
   - CPP
-lastmod: 2025-03-14T15:45:16.995Z
+slug_calculated: https://brianbraatz.github.io/p/how-a-c-and-cpp-linker-works
+lastmod: 2025-03-14T16:40:25.182Z
 ---
 Ah, the linker!
 

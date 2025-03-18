@@ -20,7 +20,8 @@ categories_ref:
   - Software Testing
   - DevOps
   - Automation
-lastmod: 2025-03-14T15:45:07.832Z
+slug_calculated: https://brianbraatz.github.io/p/modern-testing-strategies
+lastmod: 2025-03-14T16:40:18.255Z
 ---
 <!-- 
 # **Modern Testing Strategies: Shift Left and Continuous Testing** -->

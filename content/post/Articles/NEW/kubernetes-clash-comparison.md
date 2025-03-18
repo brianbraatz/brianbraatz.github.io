@@ -36,7 +36,8 @@ categories_ref:
   - Google-GKE-Autopilot
   - Google Cloud-GCP
   - Microsoft Azure Cloud
-lastmod: 2025-03-14T15:45:12.294Z
+slug_calculated: https://brianbraatz.github.io/p/kubernetes-clash-eks-vs-aks-vs-gke
+lastmod: 2025-03-14T16:40:21.792Z
 ---
 # Kubernetes Comparison: Amazon EKS vs Azure AKS vs Google GKE
 

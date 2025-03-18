@@ -24,7 +24,8 @@ categories_ref:
   - Web Development
   - NPM
   - Linux
-lastmod: 2025-03-14T15:45:04.227Z
+slug_calculated: https://brianbraatz.github.io/p/what-is-nodejs
+lastmod: 2025-03-14T16:40:11.114Z
 ---
 <!-- 
 # What is Node.js? Is It a Web Server? Let's Set the Record Straight!

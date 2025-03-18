@@ -33,7 +33,8 @@ categories_ref:
   - Python
   - Networking
   - Network Protocols
-lastmod: 2025-03-14T15:45:24.492Z
+slug_calculated: https://brianbraatz.github.io/p/google-protobuf--grpc
+lastmod: 2025-03-14T16:40:31.883Z
 ---
 I have heard more than a few people talk about these in conversation like they are the same thing..
 

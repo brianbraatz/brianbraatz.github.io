@@ -20,7 +20,8 @@ categories_ref:
   - GoLang
   - Concurrency
   - Docker
-lastmod: 2025-03-14T15:45:09.161Z
+slug_calculated: https://brianbraatz.github.io/p/go-nutshell
+lastmod: 2025-03-14T16:40:19.798Z
 ---
 ## GO OUT AND LEARN THIIS LANGUAGE NOW!
 

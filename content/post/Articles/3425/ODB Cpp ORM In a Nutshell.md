@@ -21,7 +21,8 @@ categories_ref:
   - Orm
   - Database
   - Persistence
-lastmod: 2025-03-14T15:45:05.984Z
+slug_calculated: https://brianbraatz.github.io/p/odb-cpp-orm-in-a-nutshell
+lastmod: 2025-03-14T16:40:14.130Z
 ---
 # ODB C++ ORM In a Nutshell
 

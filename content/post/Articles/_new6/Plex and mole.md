@@ -31,7 +31,8 @@ categories_ref:
   - DotNet
   - CSharp
   - Testing
-lastmod: 2025-03-14T15:45:23.076Z
+slug_calculated: https://brianbraatz.github.io/p/moles-and-pex-unit-testing
+lastmod: 2025-03-14T16:40:30.122Z
 ---
 [Moles](https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals/Moles)
 

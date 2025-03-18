@@ -17,7 +17,8 @@ draft: false
 categories_ref:
   - Docker
   - Cloud
-lastmod: 2025-03-14T15:45:09.056Z
+slug_calculated: https://brianbraatz.github.io/p/docker-file-cheatsheet
+lastmod: 2025-03-14T16:40:19.771Z
 ---
 ### Dockerfile Cheatsheet
 

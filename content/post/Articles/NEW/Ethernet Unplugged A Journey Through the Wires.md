@@ -27,7 +27,8 @@ categories_ref:
   - Algorithms
   - Networking
   - Network Protocols
-lastmod: 2025-03-14T15:45:10.808Z
+slug_calculated: https://brianbraatz.github.io/p/ethernet-unplugged-journey-through-wires
+lastmod: 2025-03-14T16:40:20.666Z
 ---
 # Ethernet Unplugged: A Journey Through the Wires
 

@@ -34,7 +34,8 @@ categories_ref:
   - Design Patterns
   - CSHarp
   - Python
-lastmod: 2025-03-14T15:45:06.212Z
+slug_calculated: https://brianbraatz.github.io/p/solid-in-a-nutshell-cpp-csharp-python
+lastmod: 2025-03-14T16:40:14.486Z
 ---
 # SOLID in a Nutshell: A Fun Dive into Clean Code
 

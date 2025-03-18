@@ -20,7 +20,8 @@ categories_ref:
   - CPP
   - Cheatsheet
   - CPP-STL
-lastmod: 2025-03-14T15:45:08.501Z
+slug_calculated: https://brianbraatz.github.io/p/cpp-stl-cheatsheet
+lastmod: 2025-03-14T16:40:19.100Z
 ---
 ## C++ Standard Template Library (STL) Cheatsheet
 

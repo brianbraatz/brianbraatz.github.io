@@ -20,7 +20,8 @@ categories_ref:
   - Testing
   - Javascript
   - Unit Testing
-lastmod: 2025-03-14T15:45:07.798Z
+slug_calculated: https://brianbraatz.github.io/p/react-testing-library-in-a-nutshell
+lastmod: 2025-03-14T16:40:18.242Z
 ---
 <!-- 
 # React Testing Library in a Nutshell

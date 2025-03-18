@@ -29,7 +29,8 @@ categories_ref:
   - Web Development
   - NextJs
   - React
-lastmod: 2025-03-14T15:45:08.280Z
+slug_calculated: https://brianbraatz.github.io/p/nextjs-vs-react-vs-angular
+lastmod: 2025-03-14T16:40:18.757Z
 ---
 # Next.js vs React vs Angular Compared with Code Examples
 

@@ -32,7 +32,8 @@ categories_ref:
   - GUI
   - Qt GUI Framework
   - Python-Gui
-lastmod: 2025-03-14T15:45:13.222Z
+slug_calculated: https://brianbraatz.github.io/p/pyside-pyqt-vs-other-python-gui-frameworks
+lastmod: 2025-03-14T16:40:22.328Z
 ---
 # PySide and PyQt vs Other Python GUI Frameworks
 

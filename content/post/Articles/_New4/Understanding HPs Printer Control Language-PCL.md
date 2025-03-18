@@ -27,7 +27,8 @@ categories_ref:
   - PDF
   - Printer Control Language-PCL
   - Document Imaging
-lastmod: 2025-03-14T15:45:20.856Z
+slug_calculated: https://brianbraatz.github.io/p/deep-dive-into-hps-pcl-language
+lastmod: 2025-03-14T16:40:28.101Z
 ---
 # Deep Dive into HP's PCL Language
 

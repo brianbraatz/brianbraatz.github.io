@@ -35,7 +35,8 @@ categories_ref:
   - Next.js
   - Remix
   - Document Object Model-DOM
-lastmod: 2025-03-14T15:45:13.429Z
+slug_calculated: https://brianbraatz.github.io/p/react-in-a-nutshell
+lastmod: 2025-03-14T16:40:22.538Z
 ---
 # React In a Nutshell
 

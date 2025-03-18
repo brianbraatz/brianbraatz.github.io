@@ -29,7 +29,8 @@ categories_ref:
   - Android
   - React
   - Mobile
-lastmod: 2025-03-14T15:45:07.155Z
+slug_calculated: https://brianbraatz.github.io/p/react-native-in-a-nutshell
+lastmod: 2025-03-14T16:40:17.216Z
 ---
 <!-- 
 # React Native in a Nutshell

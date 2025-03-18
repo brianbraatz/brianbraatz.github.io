@@ -28,7 +28,8 @@ categories_ref:
   - Amazon Cloud-AWS
   - AWS CloudFormation
   - CI\CD
-lastmod: 2025-03-14T15:45:24.193Z
+slug_calculated: https://brianbraatz.github.io/p/aws-cloudformation-in-a-nutshell
+lastmod: 2025-03-14T16:40:31.481Z
 ---
 <!--
 # AWS CloudFormation in a Nutshell

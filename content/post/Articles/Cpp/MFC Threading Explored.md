@@ -26,7 +26,8 @@ categories_ref:
   - MFC
   - Multithreading
   - WinApi
-lastmod: 2025-03-14T15:45:08.674Z
+slug_calculated: https://brianbraatz.github.io/p/mfc-worker-threads-explored
+lastmod: 2025-03-14T16:40:19.475Z
 ---
 # MFC Worker Threads Explored
 

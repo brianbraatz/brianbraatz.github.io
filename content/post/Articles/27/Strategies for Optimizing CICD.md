@@ -24,7 +24,8 @@ categories_ref:
   - Optimization
   - Automation
   - Performance
-lastmod: 2025-03-14T15:45:04.614Z
+slug_calculated: https://brianbraatz.github.io/p/cicd-optimizing
+lastmod: 2025-03-14T16:40:12.410Z
 ---
 So, you’ve got a CI/CD pipeline.
 

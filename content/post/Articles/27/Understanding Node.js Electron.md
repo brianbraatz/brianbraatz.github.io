@@ -23,7 +23,8 @@ categories_ref:
   - Electron
   - Obsidian
   - Visual Studio Code
-lastmod: 2025-03-14T15:45:04.690Z
+slug_calculated: https://brianbraatz.github.io/p/understanding-nodejs-elec
+lastmod: 2025-03-14T16:40:12.634Z
 ---
 <!-- ## Understanding Node.js Electron Connection
 

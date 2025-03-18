@@ -15,7 +15,8 @@ tags:
 draft: true
 weight: 370
 categories_ref: []
-lastmod: 2025-03-14T15:45:21.216Z
+slug_calculated: https://brianbraatz.github.io/p/wpf-no-xaml
+lastmod: 2025-03-14T16:40:28.418Z
 ---
 <http://www.charlespetzold.com/wpf/>
 

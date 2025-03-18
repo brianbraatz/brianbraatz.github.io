@@ -25,7 +25,8 @@ categories_ref:
   - Websockets
   - Networking
   - Network Protocols
-lastmod: 2025-03-14T15:45:14.364Z
+slug_calculated: https://brianbraatz.github.io/p/websockets-sockets-python
+lastmod: 2025-03-14T16:40:23.425Z
 ---
 <!--
 # WebSockets, Sockets, and SignalR: A Fun Dive into Real-Time Communication with Python

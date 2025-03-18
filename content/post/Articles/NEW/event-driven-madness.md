@@ -43,7 +43,8 @@ categories_ref:
   - Python
   - CSharp
   - DotNet
-lastmod: 2025-03-14T15:45:10.867Z
+slug_calculated: https://brianbraatz.github.io/p/event-driven-comparison-azure-aws-google
+lastmod: 2025-03-14T16:40:20.681Z
 ---
 # Event-Driven Madness: Azure Event Hub vs Azure Service Bus vs AWS SNS vs Google Pub/Sub
 

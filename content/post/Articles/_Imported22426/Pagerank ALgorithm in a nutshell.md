@@ -26,7 +26,8 @@ categories_ref:
   - Search Engines
   - Algorithms
   - Cloud
-lastmod: 2025-03-14T15:45:17.637Z
+slug_calculated: https://brianbraatz.github.io/p/pagerank-algorithm-is-it-still-relevant
+lastmod: 2025-03-14T16:40:25.614Z
 ---
 <!-- 
 # The PageRank Algorithm and Is It Still Relevant?

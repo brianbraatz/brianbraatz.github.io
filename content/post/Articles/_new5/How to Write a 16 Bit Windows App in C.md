@@ -37,7 +37,8 @@ categories_ref:
   - Qt GUI Framework
   - Windows API
   - WinApi
-lastmod: 2025-03-14T15:45:20.952Z
+slug_calculated: https://brianbraatz.github.io/p/windows-app-c
+lastmod: 2025-03-14T16:40:28.245Z
 ---
 <!-- 
 How to Write a Windows App in C

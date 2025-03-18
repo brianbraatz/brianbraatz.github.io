@@ -47,7 +47,8 @@ categories_ref:
   - GUI
   - Mobile
   - Testing
-lastmod: 2025-03-14T15:45:22.846Z
+slug_calculated: https://brianbraatz.github.io/p/mvvm-with-maui
+lastmod: 2025-03-14T16:40:29.998Z
 ---
 <!--
 # Should You Use MVVM with MAUI? Alternatives Explored and Compared with Code Examples

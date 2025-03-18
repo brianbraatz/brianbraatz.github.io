@@ -27,7 +27,8 @@ categories_ref:
   - PDF
   - Logo Language
   - Languages
-lastmod: 2025-03-14T15:45:22.716Z
+slug_calculated: https://brianbraatz.github.io/p/logo-postscript
+lastmod: 2025-03-14T16:40:29.949Z
 ---
 <!--
 See 

@@ -2,7 +2,7 @@
 title: Bamboo vs Jenkins In Depth
 description: Bamboo vs Jenkins In Depth - A Detailed Comparison with History, Features, and Code Samples
 slug: bamboo-vs-jenkins-in-depth
-date: 2025-12-15
+date: 2022-12-15
 image: post/Articles/IMAGES/jenkinsvsbamboo.png
 categories:
   - DevOps
@@ -25,7 +25,8 @@ categories_ref:
   - Cloud
   - Jenkins
   - CI\CD
-lastmod: 2025-03-14T15:45:24.688Z
+slug_calculated: https://brianbraatz.github.io/p/bamboo-vs-jenkins-in-depth
+lastmod: 2025-03-18T22:00:55.564Z
 ---
 <!--
 # Bamboo vs Jenkins In Depth

@@ -25,7 +25,8 @@ categories_ref:
   - SQL Server
   - Reporting
   - Microsoft
-lastmod: 2025-03-14T15:45:05.270Z
+slug_calculated: https://brianbraatz.github.io/p/ssrs-sql-server-reporting-services-explained
+lastmod: 2025-03-14T16:40:13.192Z
 ---
 <!-- 
 ## SSRS: SQL Server Reporting Services Explained (With Jokes!)

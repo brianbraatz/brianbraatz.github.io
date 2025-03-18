@@ -25,7 +25,8 @@ categories_ref:
   - WinAPI
   - Assembly Language
   - MASM
-lastmod: 2025-03-14T15:45:08.615Z
+slug_calculated: https://brianbraatz.github.io/p/masm-in-a-nutshell
+lastmod: 2025-03-14T16:40:19.297Z
 ---
 # MASM in a Nutshell
 

@@ -21,7 +21,8 @@ draft: false
 categories_ref:
   - Java
   - CSharp
-lastmod: 2025-03-14T15:45:09.423Z
+slug_calculated: https://brianbraatz.github.io/p/java-vs-csharp
+lastmod: 2025-03-14T16:40:19.883Z
 ---
 [Errol Flynn - Wikipedia](https://en.wikipedia.org/wiki/Errol_Flynn)
 

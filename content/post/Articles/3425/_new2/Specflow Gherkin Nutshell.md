@@ -31,7 +31,8 @@ categories_ref:
   - BDD
   - Unit Testing
   - CSharp
-lastmod: 2025-03-14T15:45:07.880Z
+slug_calculated: https://brianbraatz.github.io/p/specflow-and-gherkin-in-a-nutshell
+lastmod: 2025-03-14T16:40:18.271Z
 ---
 [WESTMONT PICKLES](https://www.westmontpickles.com/)
 
