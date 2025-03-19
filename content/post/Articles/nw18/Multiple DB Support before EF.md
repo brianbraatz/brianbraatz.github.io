@@ -3,7 +3,7 @@ title: How we supported Multiple DB Engines in the 2000s
 description: Examples of how we managed multiple database backends in C# before Entity Framework existed.
 slug: csharp-multi-db-2000s
 date: 2020-07-21
-image: post/Articles/IMAGES/SQL.png
+image: post/Articles/IMAGES/sql.png
 categories:
   - CSharp
   - Database
@@ -22,7 +22,7 @@ tags:
   - Support
 draft: false
 weight: 542
-lastmod: 2025-03-19T05:19:03.777Z
+lastmod: 2025-03-19T17:22:13.388Z
 ---
 See Related Article here:\
 [Enterprise Design Pattern: SQL CRUD Explained](https://brianbraatz.github.io/p/sql-crud--with-stored-procedures/)

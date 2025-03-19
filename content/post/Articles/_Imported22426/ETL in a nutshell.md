@@ -11,6 +11,7 @@ categories:
   - Big Data
   - Database
   - Cloud
+  - Apache Spark
 tags:
   - ETL
   - Data
@@ -30,7 +31,7 @@ categories_ref:
   - Database
   - Cloud
 slug_calculated: https://brianbraatz.github.io/p/etl-extract-transform-load-pipelines-in-a-nutshell
-lastmod: 2025-03-14T16:40:24.700Z
+lastmod: 2025-03-19T18:27:12.080Z
 ---
 # ETL (Extract, Transform, Load) Pipelines in a Nutshell
 

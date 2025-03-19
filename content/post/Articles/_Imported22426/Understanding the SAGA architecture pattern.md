@@ -10,6 +10,7 @@ categories:
   - Architecture
   - Cloud
   - SAGA Pattern
+  - Messaging
 tags:
   - Saga
   - Microservices
@@ -26,7 +27,7 @@ categories_ref:
   - Cloud
   - SAGA Pattern
 slug_calculated: https://brianbraatz.github.io/p/understanding-saga
-lastmod: 2025-03-14T16:40:26.271Z
+lastmod: 2025-03-19T17:12:28.132Z
 ---
 ## What the Heck is SAGA? 🤔
 
