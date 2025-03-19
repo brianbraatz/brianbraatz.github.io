@@ -22,11 +22,10 @@ tags:
   - Support
 draft: false
 weight: 542
-lastmod: 2025-03-18T13:35:13.144Z
+lastmod: 2025-03-19T05:19:03.777Z
 ---
 See Related Article here:\
-[Enterprise Design Pattern: SQL CRUD Explained](https://brianbraatz.github.io/p/sql-crud--with-stored-procedures/)\
-csharp-multi-db-2000s
+[Enterprise Design Pattern: SQL CRUD Explained](https://brianbraatz.github.io/p/sql-crud--with-stored-procedures/)
 
 ## How We Wrote C# Code to Support Multiple Database Backends in 2006
 

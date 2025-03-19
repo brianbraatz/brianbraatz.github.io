@@ -3,7 +3,7 @@ title: "Deep Dive: Using GraphQL as a Middleware for Migrating SOAP to REST"
 description: A detailed guide on leveraging GraphQL as a middleware to bridge SOAP and REST during migration using the Strangler Pattern.
 slug: graphql-middleware-soap-migration
 date: 2021-03-11
-image: post/Articles/IMAGES/30.jpg
+image: post/Articles/IMAGES/soap3.jpg
 categories:
   - API
   - Web Services
@@ -27,7 +27,7 @@ categories_ref:
   - GraphQL
   - Migration
 slug_calculated: https://brianbraatz.github.io/p/graphql-middleware-soap-migration
-lastmod: 2025-03-14T16:40:33.746Z
+lastmod: 2025-03-19T13:55:19.250Z
 ---
 # Deep Dive: Using GraphQL as a Middleware for Migrating SOAP to REST
 

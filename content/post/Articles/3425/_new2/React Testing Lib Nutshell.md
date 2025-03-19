@@ -3,7 +3,7 @@ title: React Testing Library in a Nutshell
 description: React Testing Library in a Nutshell
 slug: react-testing-library-in-a-nutshell
 date: 2017-04-15
-image: post/Articles/IMAGES/reactbluebig.jpg
+image: post/Articles/IMAGES/reactbluebig.png
 categories:
   - React
   - Testing
@@ -21,7 +21,7 @@ categories_ref:
   - Javascript
   - Unit Testing
 slug_calculated: https://brianbraatz.github.io/p/react-testing-library-in-a-nutshell
-lastmod: 2025-03-14T16:40:18.242Z
+lastmod: 2025-03-19T13:58:06.433Z
 ---
 <!-- 
 # React Testing Library in a Nutshell

@@ -3,7 +3,7 @@ title: SQL-Exploring CET Analytic(Window) Functions, Common Table Expressions (C
 description: Explored in Oracle, MSSQL , MySql and Postgres
 slug: sql-win-funcs-cte-temptable
 date: 2020-07-21
-image: post/Articles/IMAGES/SQL.png
+image: post/Articles/IMAGES/sql.png
 categories:
   - CSharp
   - Database
@@ -22,7 +22,7 @@ tags:
   - Support
 draft: false
 weight: 542
-lastmod: 2025-03-18T16:15:52.050Z
+lastmod: 2025-03-19T01:44:38.218Z
 ---
 <!-- SQL-Exploring CET Analytic(Window) Functions, Common Table Expressions (CTEs), and Temp tables in Oracle, MSSQL , MySql and Postgres -->
 

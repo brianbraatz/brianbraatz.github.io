@@ -1,9 +1,9 @@
 ---
-title: "Migrating and Upgrading an Old SOAP Application: The Challenges, What Went Well, What Didn't, What I Learned, and How I Did It – Plus 10 Other People Who Did It Too"
-description: "Migrating and Upgrading an Old SOAP Application: The Challenges, What Went Well, What Didn't, What I Learned, and How I Did It – Plus 10 Other People Who Did It Too"
-slug: migrating-upgrading-old-soap-application-challenges-lessons
+title: Migrating and Upgrading an Old SOAP Application
+description: Tips and Tricks from the Trenches
+slug: migrating-upgrading-old-soap-apps
 date: 2017-12-04
-image: post/Articles/IMAGES/473.jpg
+image: post/Articles/IMAGES/soap2.jpg
 categories: []
 tags:
   - SOAP
@@ -17,7 +17,7 @@ draft: false
 weight: 426
 categories_ref: []
 slug_calculated: https://brianbraatz.github.io/p/migrating-upgrading-old-soap-application-challenges-lessons
-lastmod: 2025-03-18T22:03:09.933Z
+lastmod: 2025-03-19T13:56:28.934Z
 ---
 # Migrating and Upgrading an Old SOAP Application: The Challenges, What Went Well, What Didn't, What I Learned, and How I Did It – Plus 10 Other People Who Did It Too
 
@@ -139,4 +139,5 @@ We monitored everything like paranoid security guards. SOAP requests eventually 
 * [SOAP to REST Conversion Guide](https://example.com/soap-to-rest)
 * [Microservices Migration Tips](https://example.com/microservices-tips)
 
-**Good luck on your SOAP migration! Remember: SOAP never dissolves easily – but with patience, humor, and enough caffeine, you can win the battle!**
+<!-- 
+**Good luck on your SOAP migration! Remember: SOAP never dissolves easily – but with patience, humor, and enough caffeine, you can win the battle!** -->

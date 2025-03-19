@@ -24,7 +24,7 @@ categories_ref:
   - Linux
   - Unix
 slug_calculated: https://brianbraatz.github.io/p/bash-in-a-nutshell
-lastmod: 2025-03-14T16:40:26.720Z
+lastmod: 2025-03-19T13:54:21.429Z
 ---
 # BASH in a Nutshell
 

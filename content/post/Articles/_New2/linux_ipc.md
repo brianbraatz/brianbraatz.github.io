@@ -27,7 +27,7 @@ categories_ref:
   - Linux
   - Inter-Process Communications
 slug_calculated: https://brianbraatz.github.io/p/IPC-in-linux
-lastmod: 2025-03-14T16:40:26.800Z
+lastmod: 2025-03-19T13:54:21.450Z
 ---
 ## Introduction
 

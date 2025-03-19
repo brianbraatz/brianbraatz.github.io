@@ -3,7 +3,7 @@ title: Migrating SOAP to REST Using the Strangler Pattern
 description: Methods to gradually migrate large SOAP-based systems to REST using the Strangler Pattern.
 slug: migrating-soap-to-rest-strangler-pattern
 date: 2019-07-18
-image: post/Articles/IMAGES/31.jpg
+image: post/Articles/IMAGES/soap2.jpg
 categories:
   - API
   - Web Services
@@ -21,7 +21,7 @@ categories_ref:
   - Web Services
   - Migration
 slug_calculated: https://brianbraatz.github.io/p/migrating-soap-to-rest-strangler-pattern
-lastmod: 2025-03-14T16:40:33.936Z
+lastmod: 2025-03-19T13:55:30.129Z
 ---
 # 10 Strategies for Migrating from SOAP to REST Using the Strangler Pattern
 

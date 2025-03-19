@@ -29,7 +29,7 @@ categories_ref:
   - SQL
   - LINQ
 slug_calculated: https://brianbraatz.github.io/p/odata-in-a-nutshell
-lastmod: 2025-03-14T16:40:16.558Z
+lastmod: 2025-03-19T13:50:48.468Z
 ---
 # OData in a Nutshell
 
@@ -48,9 +48,10 @@ Over time, OData gained traction in enterprise environments where massive data s
 * **It’s super flexible** – Need to sort, filter, or paginate? OData has your back. Want to expand related entities in a single request? No problem!
 * **It plays well with Entity Framework** – If you’re using EF, OData makes it ridiculously easy to expose your database via an API.
 
+<!-- 
 ## How to Use OData in ASP.NET Core
 
-Let’s get down to business. Here’s how you can add OData to an **ASP.NET Core Web API** project.
+Let’s get down to business. Here’s how you can add OData to an **ASP.NET Core Web API** project. -->
 
 ### Step 1: Install the Required NuGet Package
 
@@ -132,9 +133,9 @@ Once your API is up and running, you can do all sorts of cool things with OData 
 * **Select specific fields**: `GET /odata/Products?$select=Name,Price`
 * **Paginate results**: `GET /odata/Products?$top=2&$skip=1`
 
-No need to manually create extra endpoints. OData lets you query like a boss! 💪
+<!-- No need to manually create extra endpoints. OData lets you query like a boss! 💪 -->
 
-## OData vs. Regular REST API: The Showdown
+## OData vs. Regular REST API
 
 | Feature         | OData           | Regular REST             |
 | --------------- | --------------- | ------------------------ |

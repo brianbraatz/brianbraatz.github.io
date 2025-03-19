@@ -31,7 +31,7 @@ categories_ref:
   - Assembly Language
   - WinAPI
 slug_calculated: https://brianbraatz.github.io/p/history-of-windows-device-drivers
-lastmod: 2025-03-14T16:40:26.773Z
+lastmod: 2025-03-19T13:54:21.441Z
 ---
 ![](/post/Articles/_New2/Pasted%20image%2020250205091148.png)\
 **Blue screen of death**\
