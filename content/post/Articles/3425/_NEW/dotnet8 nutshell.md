@@ -3,7 +3,7 @@ title: ".NET 8.0 Deep Dive: A Journey Through Time and Code"
 description: ".NET 8.0 Deep Dive: A Journey Through Time and Code"
 slug: dotnet-8-deep-dive
 date: 2025-02-15
-image: post/Articles/IMAGES/29.jpg
+image: post/Articles/IMAGES/csharpblue.png
 categories:
   - Dotnet
   - Programming
@@ -26,7 +26,7 @@ categories_ref:
   - CSharp
   - DotNet 8
 slug_calculated: https://brianbraatz.github.io/p/dotnet-8-deep-dive
-lastmod: 2025-03-14T16:40:15.646Z
+lastmod: 2025-03-19T22:52:25.190Z
 ---
 <!-- # .NET 8.0 Deep Dive: A Journey Through Time and Code
 

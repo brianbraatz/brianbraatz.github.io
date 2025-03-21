@@ -3,7 +3,7 @@ title: "Modern Testing Strategies: Shift Left and Continuous Testing"
 description: Understanding Shift Left Testing and Continuous Testing in modern software development.
 slug: modern-testing-strategies
 date: 2019-05-14
-image: post/Articles/IMAGES/51.jpg
+image: post/Articles/IMAGES/swingdancing.png
 categories:
   - Software Testing
   - DevOps
@@ -21,8 +21,10 @@ categories_ref:
   - DevOps
   - Automation
 slug_calculated: https://brianbraatz.github.io/p/modern-testing-strategies
-lastmod: 2025-03-14T16:40:18.255Z
+lastmod: 2025-03-19T22:54:29.740Z
 ---
+https://vintageinn.wordpress.com/tag/1940s-swing-dancing-images/
+
 <!-- 
 # **Modern Testing Strategies: Shift Left and Continuous Testing** -->
 

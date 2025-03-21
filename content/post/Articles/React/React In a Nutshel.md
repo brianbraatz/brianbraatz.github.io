@@ -1,7 +1,7 @@
 ---
-title: React In a Nutshell
+title: React-Collected Bits of Wisdom And Snippets
 description: Collected Bits of React Wisdom And Snippets
-slug: react-nutshell
+slug: react-snippets
 date: 2018-12-15
 image: post/Articles/IMAGES/reactlogolong.png
 categories:
@@ -22,7 +22,7 @@ categories_ref:
   - React
   - Web Development
 slug_calculated: https://brianbraatz.github.io/p/react-nutshell
-lastmod: 2025-03-14T16:40:23.532Z
+lastmod: 2025-03-20T20:46:44.021Z
 ---
 ## 1. What is React?
 
