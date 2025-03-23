@@ -6,10 +6,11 @@ date: 2012-03-06 00:00:00+0000
 image: post/Articles/IMAGES/sqljoinscover.png
 categories:
   - SQL
-  - Performance Optimization
+  - Performance Optimization  
 tags:
   - SQL
   - Mentoring
+  - Performance
 weight: 25
 imag: cover.jpg
 categories_ref:
