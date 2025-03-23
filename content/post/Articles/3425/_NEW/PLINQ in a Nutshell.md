@@ -11,10 +11,12 @@ categories:
   - C#
 tags:
   - PLINQ
-  - Parallel Programming
+  - Parallel
+  - Programming
   - C#
   - LINQ
   - Multithreading
+  - Async
 draft: false
 weight: 243
 categories_ref:
@@ -23,7 +25,7 @@ categories_ref:
   - Concurrency
   - C#
 slug_calculated: https://brianbraatz.github.io/p/plinq-in-a-nutshell
-lastmod: 2025-03-14T16:40:17.044Z
+lastmod: 2025-03-23T15:08:39.459Z
 ---
 # PLINQ in a Nutshell
 

@@ -14,13 +14,14 @@ tags:
   - Programming
   - WebDevelopment
   - Async
+  - Asynchronous
 draft: false
 weight: 27
 categories_ref:
   - Javascript
   - Web Development
 slug_calculated: https://brianbraatz.github.io/p/10-reasons-javascript-is-weird
-lastmod: 2025-03-23T14:30:06.331Z
+lastmod: 2025-03-23T15:06:44.959Z
 ---
 # 10 Reasons JavaScript is Weird
 

@@ -20,6 +20,7 @@ tags:
   - SQL
   - Async
   - MultiThreading
+  - Asynchronous
 draft: false
 weight: 40
 categories_ref:
@@ -31,7 +32,7 @@ categories_ref:
   - SQL
   - ORM
 slug_calculated: https://brianbraatz.github.io/p/linq-in-a-nutshell
-lastmod: 2025-03-14T16:40:19.633Z
+lastmod: 2025-03-23T15:08:21.914Z
 ---
 ![LINQ Logo](https://seeklogo.com/images/L/linq-logo-8B9C0C6C6A-seeklogo.com.png)
 

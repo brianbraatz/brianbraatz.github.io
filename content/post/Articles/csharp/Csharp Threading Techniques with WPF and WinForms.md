@@ -27,6 +27,7 @@ tags:
   - Concurrency
   - Multithreading
   - Performance
+  - Asynchronous
 draft: false
 weight: 30
 categories_ref:
@@ -41,7 +42,7 @@ categories_ref:
   - Async
   - Mobile
 slug_calculated: https://brianbraatz.github.io/p/wpf-winforms-threads
-lastmod: 2025-03-23T14:21:58.092Z
+lastmod: 2025-03-23T15:07:30.844Z
 ---
 # Updating User Interfaces in WPF and WinForms with Threading Techniques
 
