@@ -13,12 +13,13 @@ tags:
   - Humor
   - Learning
   - Paradigms
+  - Async
 draft: false
 weight: 589
 categories_ref:
   - Design Patterns
 slug_calculated: https://brianbraatz.github.io/p/programming-paradigms
-lastmod: 2025-03-14T16:40:33.506Z
+lastmod: 2025-03-23T14:22:02.563Z
 ---
 ## The Procedural Predicament
 

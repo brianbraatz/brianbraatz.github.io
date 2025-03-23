@@ -13,9 +13,12 @@ categories:
 tags:
   - Node.js
   - JavaScript
-  - Web Development
+  - Web
+  - Development
   - NPM
   - Linux
+  - NodeJS
+  - Async
 draft: false
 weight: 472
 categories_ref:
@@ -25,7 +28,7 @@ categories_ref:
   - NPM
   - Linux
 slug_calculated: https://brianbraatz.github.io/p/what-is-nodejs
-lastmod: 2025-03-14T16:40:11.114Z
+lastmod: 2025-03-23T14:25:59.656Z
 ---
 <!-- 
 # What is Node.js? Is It a Web Server? Let's Set the Record Straight!

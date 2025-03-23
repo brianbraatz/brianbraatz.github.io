@@ -32,7 +32,7 @@ tags:
   - Compliance
   - Encryption
   - GCP
-draft: false
+draft: true
 weight: 378
 categories_ref:
   - Cloud
@@ -52,8 +52,10 @@ categories_ref:
   - Identity and access management-IAM
   - Azure Active Directory
 slug_calculated: https://brianbraatz.github.io/p/cloud-security-smackdown-aws-vs-azure-vs-google-cloud
-lastmod: 2025-03-14T16:40:20.487Z
+lastmod: 2025-03-23T03:53:57.380Z
 ---
+this is a dupe?
+
 # Cloud Security Smackdown: AWS vs Azure vs Google Cloud
 
 <!-- 

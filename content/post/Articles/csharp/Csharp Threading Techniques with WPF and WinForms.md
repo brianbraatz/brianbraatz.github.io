@@ -41,7 +41,7 @@ categories_ref:
   - Async
   - Mobile
 slug_calculated: https://brianbraatz.github.io/p/wpf-winforms-threads
-lastmod: 2025-03-14T16:40:19.617Z
+lastmod: 2025-03-23T14:21:58.092Z
 ---
 # Updating User Interfaces in WPF and WinForms with Threading Techniques
 

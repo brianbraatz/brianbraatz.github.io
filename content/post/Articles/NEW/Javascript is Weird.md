@@ -13,13 +13,14 @@ tags:
   - Closures
   - Programming
   - WebDevelopment
+  - Async
 draft: false
 weight: 27
 categories_ref:
   - Javascript
   - Web Development
 slug_calculated: https://brianbraatz.github.io/p/10-reasons-javascript-is-weird
-lastmod: 2025-03-14T16:40:21.685Z
+lastmod: 2025-03-23T14:30:06.331Z
 ---
 # 10 Reasons JavaScript is Weird
 

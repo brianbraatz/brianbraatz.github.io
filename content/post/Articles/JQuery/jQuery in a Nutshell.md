@@ -11,13 +11,15 @@ tags:
   - WebDevelopment
   - JQuery
   - Javascript
+  - Cloud
+  - Async
 weight: 4
 draft: false
 categories_ref:
   - JQuery
   - Web Development
 slug_calculated: https://brianbraatz.github.io/p/jquery-nutshell
-lastmod: 2025-03-14T16:40:19.931Z
+lastmod: 2025-03-23T14:23:30.469Z
 ---
 # jQuery in a Nutshell
 

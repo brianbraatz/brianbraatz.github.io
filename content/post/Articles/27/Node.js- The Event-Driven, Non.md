@@ -11,10 +11,15 @@ categories:
 tags:
   - JavaScript
   - Node.js
-  - Event-Driven Architecture
-  - Non-Blocking I/O
-  - Asynchronous Programming
-  - Performance Comparison
+  - Event-Driven
+  - Architecture
+  - Non-Blocking
+  - I/O
+  - Asynchronous
+  - Programming
+  - Performance
+  - Comparison
+  - Async
 draft: "False"
 weight: "342"
 categories_ref:
@@ -22,7 +27,7 @@ categories_ref:
   - Node.js
   - Programming
 slug_calculated: https://brianbraatz.github.io/p/nodejs-perf-compare
-lastmod: 2025-03-14T16:40:11.887Z
+lastmod: 2025-03-23T14:24:33.942Z
 ---
 <!-- # Node.js: The Event-Driven, Non-Blocking Champion of the Server World
 

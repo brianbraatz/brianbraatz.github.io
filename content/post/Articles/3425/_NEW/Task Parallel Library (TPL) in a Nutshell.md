@@ -10,11 +10,15 @@ categories:
   - CSharp
   - Concurrency
 tags:
-  - Task Parallel Library
+  - Task
+  - Parallel
+  - Library
   - TPL
   - C#
   - Multithreading
-  - Asynchronous Programming
+  - Asynchronous
+  - Programming
+  - Async
 draft: false
 weight: 356
 categories_ref:
@@ -23,7 +27,7 @@ categories_ref:
   - CSharp
   - Concurrency
 slug_calculated: https://brianbraatz.github.io/p/task-parallel-library-tpl-in-a-nutshell
-lastmod: 2025-03-14T16:40:17.723Z
+lastmod: 2025-03-23T14:22:52.932Z
 ---
 <!-- 
 # Task Parallel Library (TPL) in a Nutshell
