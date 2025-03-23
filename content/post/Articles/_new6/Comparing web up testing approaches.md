@@ -40,7 +40,7 @@ categories_ref:
   - Typescript
   - Testing
 slug_calculated: https://brianbraatz.github.io/p/history-and-in-depth-comparison-with-code-examples-of-selenium-cypress-playwright-puppeteer-testcafe-webdriverio-and-katalon-for-more-effective-ui-testing-of-web-applications
-lastmod: 2025-03-18T22:40:52.236Z
+lastmod: 2025-03-23T15:46:34.187Z
 ---
 <!--
 

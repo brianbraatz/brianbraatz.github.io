@@ -11,15 +11,17 @@ tags:
   - Hack
   - PHP
   - HHVM
-  - Web Development
+  - Web
+  - Development
   - Meta
+  - Async
 draft: false
 weight: 2453
 categories_ref:
   - Programming
   - Web Development
 slug_calculated: https://brianbraatz.github.io/p/hack-php-hhvm-nutshell
-lastmod: 2025-03-14T16:40:17.029Z
+lastmod: 2025-03-23T15:49:28.209Z
 ---
 https://engineering.fb.com/2014/03/20/developer-tools/hack-a-new-programming-language-for-hhvm/
 

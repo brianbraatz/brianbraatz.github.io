@@ -20,11 +20,12 @@ tags:
   - Cli
   - tools
   - Networking
+  - Async
 draft: false
 weight: 25
-categories_ref: []
+categories_ref: 
 slug_calculated: https://brianbraatz.github.io/p/rust-in-a-nutshell
-lastmod: 2025-03-14T16:40:23.567Z
+lastmod: 2025-03-23T15:48:53.394Z
 ---
 Rust is a **statically typed, compiled programming language** designed to be **safe, concurrent, and blazingly fast** (yes, they actually say "blazingly fast" in their documentation). It has a reputation for **memory safety without garbage collection**, making it one of the most powerful and beloved modern programming languages.
 

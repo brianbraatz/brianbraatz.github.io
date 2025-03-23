@@ -15,6 +15,9 @@ tags:
   - Node.js
   - C#
   - Python
+  - Async
+  - NodeJS
+  - CSharp
 draft: "False"
 weight: "34"
 categories_ref:
@@ -22,7 +25,7 @@ categories_ref:
   - Technology
   - Async
 slug_calculated: https://brianbraatz.github.io/p/non-blocking-io
-lastmod: 2025-03-23T14:18:06.033Z
+lastmod: 2025-03-23T15:50:33.710Z
 ---
 <!-- # Non-Blocking I/O: The Secret Sauce Behind Snappy Applications
 

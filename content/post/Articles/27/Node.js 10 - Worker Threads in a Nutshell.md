@@ -16,6 +16,7 @@ tags:
   - Concurrency
   - Parallel
   - Processing
+  - Async
 draft: "False"
 weight: "110"
 categories_ref:
@@ -23,7 +24,7 @@ categories_ref:
   - Worker Threads
   - Concurrency
 slug_calculated: https://brianbraatz.github.io/p/nodejs-10-worker-threads-
-lastmod: 2025-03-14T16:40:11.302Z
+lastmod: 2025-03-23T15:48:22.236Z
 ---
 ## Node.js 10 - Worker Threads in a Nutshell
 

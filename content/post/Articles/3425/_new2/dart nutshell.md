@@ -14,6 +14,7 @@ tags:
   - Programming
   - Flutter
   - Cross-platform
+  - Async
 draft: false
 weight: 483
 categories_ref:
@@ -22,7 +23,7 @@ categories_ref:
   - Flutter
   - Mobile
 slug_calculated: https://brianbraatz.github.io/p/dart-in-a-nutshell
-lastmod: 2025-03-14T16:40:17.925Z
+lastmod: 2025-03-23T15:47:08.774Z
 ---
 <!-- # Dart in a Nutshell: The Language That Powers Flutter
 

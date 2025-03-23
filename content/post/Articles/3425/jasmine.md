@@ -1,5 +1,5 @@
 ---
-title: Jasmine in a Nutshell
+title: Jasmine in a Nutshell-BDD Javascript Testing
 description: A Behavior Driven Development (BDD) JavaScript Testing Framework
 slug: jasmine-nutshell
 date: 2012-05-22
@@ -13,6 +13,7 @@ categories:
   - Node.js
   - Web Development
   - Unit Testing
+  - Async
 tags:
   - Testing
   - JavaScript
@@ -32,7 +33,7 @@ categories_ref:
   - Web Development
   - Unit Testing
 slug_calculated: https://brianbraatz.github.io/p/jasmine-nutshell
-lastmod: 2025-03-14T16:40:14.091Z
+lastmod: 2025-03-23T15:47:45.753Z
 ---
 # Jasmine in a Nutshell: The Friendly JavaScript Testing Framework
 

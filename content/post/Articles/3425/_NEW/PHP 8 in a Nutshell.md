@@ -23,7 +23,7 @@ categories_ref:
   - PHP
   - Cloud
 slug_calculated: https://brianbraatz.github.io/p/php8-nutshell
-lastmod: 2025-03-14T16:40:17.008Z
+lastmod: 2025-03-23T15:48:45.808Z
 ---
 ## **PHP 8 in a Nutshell**
 

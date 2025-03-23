@@ -25,7 +25,7 @@ categories_ref:
   - Best Practices
   - Event Loop
 slug_calculated: https://brianbraatz.github.io/p/nodejs-good-bad-async
-lastmod: 2025-03-14T16:40:11.979Z
+lastmod: 2025-03-23T15:48:33.208Z
 ---
 <!-- 
 # Node.js: The Good, The Bad, and The Best Practices of Async

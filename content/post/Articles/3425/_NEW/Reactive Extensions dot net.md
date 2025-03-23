@@ -12,11 +12,16 @@ categories:
   - CSharp
 tags:
   - Rx.NET
-  - Event-Driven Programming
-  - Asynchronous Programming
+  - Event-Driven
+  - Programming
+  - Asynchronous
   - Observables
-  - Reactive Programming
+  - Reactive
   - .NET
+  - Dotnet
+  - Async
+  - Concurrency
+  - RxDotNet
 draft: false
 weight: 343
 categories_ref:
@@ -26,7 +31,7 @@ categories_ref:
   - Concurrency
   - CSharp
 slug_calculated: https://brianbraatz.github.io/p/reactive-extensions-rx-net-nutshell
-lastmod: 2025-03-14T16:40:17.390Z
+lastmod: 2025-03-23T15:15:38.167Z
 ---
 <!-- # Reactive Extensions (Rx.NET) for Event-Driven and Asynchronous Programming in a Nutshell
 

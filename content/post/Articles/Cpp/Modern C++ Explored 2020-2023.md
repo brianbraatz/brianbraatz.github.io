@@ -11,6 +11,8 @@ categories:
   - Embedded
   - C++
   - Languages
+  - Async
+  - Asynchronous Programming
 tags:
   - Programming
   - Comparison
@@ -31,7 +33,7 @@ categories_ref:
   - C++
   - Languages
 slug_calculated: https://brianbraatz.github.io/p/exploring-cpp-20-and-23
-lastmod: 2025-03-14T16:40:19.499Z
+lastmod: 2025-03-23T15:48:04.210Z
 ---
 C++ has been around for so long that dinosaurs probably wrote their own game engines in it before the asteroid hit.
 

@@ -16,6 +16,8 @@ categories:
   - DotNet
   - History
   - Concurrency
+  - Async
+  - Asynchronous Programming
 tags:
   - Windows
   - MFC
@@ -34,6 +36,7 @@ tags:
   - Threading
   - WPF
   - Maui
+  - Async
 draft: false
 weight: 18
 categories_ref:
@@ -49,7 +52,7 @@ categories_ref:
   - History
   - Concurrency
 slug_calculated: https://brianbraatz.github.io/p/we-invented-async-1980s
-lastmod: 2025-03-14T16:40:28.281Z
+lastmod: 2025-03-23T15:46:12.307Z
 ---
 ## AND WE WOULD HAVE GOTTEN AWAY WITH TOO!! IF IT HADNT BEEN FOR YOU KIDS!!!!!
 

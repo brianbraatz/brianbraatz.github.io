@@ -22,9 +22,10 @@ tags:
   - Serverless
   - NextJS
   - Async
+  - Asynchronous
 draft: false
 weight: 631
-lastmod: 2025-03-23T14:19:49.303Z
+lastmod: 2025-03-23T15:17:04.137Z
 ---
 # Building a Serverless ToDo App – Part 1: Next.js, React & NextAuth Setup
 

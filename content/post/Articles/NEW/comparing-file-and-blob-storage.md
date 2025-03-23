@@ -30,7 +30,7 @@ categories_ref:
   - Microsoft Azure Cloud
   - Cloud Storage
 slug_calculated: https://brianbraatz.github.io/p/comparing-file-and-blob-storage-in-aws-gcp-azure
-lastmod: 2025-03-14T16:40:20.569Z
+lastmod: 2025-03-23T15:46:36.113Z
 ---
 ![](/post/Articles/IMAGES/theblogposter.jpg)
 

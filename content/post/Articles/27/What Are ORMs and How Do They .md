@@ -27,7 +27,7 @@ categories_ref:
   - SQL
   - C#
 slug_calculated: https://brianbraatz.github.io/p/orms-nutshell
-lastmod: 2025-03-14T16:40:12.696Z
+lastmod: 2025-03-23T15:13:51.464Z
 ---
 NOTE\_ this is a dupe of the other - or too simliar
 
