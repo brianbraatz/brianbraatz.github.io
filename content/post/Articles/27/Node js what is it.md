@@ -10,7 +10,8 @@ categories:
   - Web Development
   - NPM
   - Linux
-tags:
+  - Async
+dtags:
   - Node.js
   - JavaScript
   - Web
@@ -28,7 +29,7 @@ categories_ref:
   - NPM
   - Linux
 slug_calculated: https://brianbraatz.github.io/p/what-is-nodejs
-lastmod: 2025-03-23T14:25:59.656Z
+lastmod: 2025-03-23T16:17:17.448Z
 ---
 <!-- 
 # What is Node.js? Is It a Web Server? Let's Set the Record Straight!

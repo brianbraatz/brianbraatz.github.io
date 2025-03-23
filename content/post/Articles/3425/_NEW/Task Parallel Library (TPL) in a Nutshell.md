@@ -9,6 +9,7 @@ categories:
   - TPL
   - CSharp
   - Concurrency
+  - Async
 tags:
   - Task
   - Parallel
@@ -27,7 +28,7 @@ categories_ref:
   - CSharp
   - Concurrency
 slug_calculated: https://brianbraatz.github.io/p/task-parallel-library-tpl-in-a-nutshell
-lastmod: 2025-03-23T14:22:52.932Z
+lastmod: 2025-03-23T16:18:29.592Z
 ---
 <!-- 
 # Task Parallel Library (TPL) in a Nutshell

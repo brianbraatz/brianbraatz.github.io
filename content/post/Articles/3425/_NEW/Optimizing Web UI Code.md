@@ -9,6 +9,7 @@ categories:
   - Web Development
   - Performance Optimization
   - Frontend
+  - Async
 tags:
   - Performance
   - Web
@@ -16,7 +17,6 @@ tags:
   - Frontend
   - Optimization
   - Scalability
-  - Async
 draft: false
 weight: 723
 categories_ref:
@@ -25,7 +25,7 @@ categories_ref:
   - Performance Optimization
   - Frontend
 slug_calculated: https://brianbraatz.github.io/p/optimize-web-front-end-code
-lastmod: 2025-03-23T14:28:08.555Z
+lastmod: 2025-03-23T16:17:50.825Z
 ---
 [Boston- Marathon](https://www.therunningchannel.com/whats-it-really-like-to-run-the-boston-marathon/)
 

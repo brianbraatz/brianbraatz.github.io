@@ -7,6 +7,7 @@ image: post/Articles/IMAGES/watermelonguy-trimmed.jpg
 categories:
   - Javascript
   - Web Development
+  - Async
 tags:
   - JavaScript
   - Hoisting
@@ -21,7 +22,7 @@ categories_ref:
   - Javascript
   - Web Development
 slug_calculated: https://brianbraatz.github.io/p/10-reasons-javascript-is-weird
-lastmod: 2025-03-23T15:06:44.959Z
+lastmod: 2025-03-23T16:19:54.325Z
 ---
 # 10 Reasons JavaScript is Weird
 

@@ -9,6 +9,7 @@ categories:
   - Parallel Programming
   - Concurrency
   - C#
+  - Async
 tags:
   - PLINQ
   - Parallel
@@ -25,7 +26,7 @@ categories_ref:
   - Concurrency
   - C#
 slug_calculated: https://brianbraatz.github.io/p/plinq-in-a-nutshell
-lastmod: 2025-03-23T15:08:39.459Z
+lastmod: 2025-03-23T16:18:19.980Z
 ---
 # PLINQ in a Nutshell
 

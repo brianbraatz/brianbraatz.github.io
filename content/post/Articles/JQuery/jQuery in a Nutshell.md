@@ -7,6 +7,7 @@ image: post/Articles/IMAGES/cattinfoil-small.png
 categories:
   - JQuery
   - Web Development
+  - Async
 tags:
   - WebDevelopment
   - JQuery
@@ -19,7 +20,7 @@ categories_ref:
   - JQuery
   - Web Development
 slug_calculated: https://brianbraatz.github.io/p/jquery-nutshell
-lastmod: 2025-03-23T14:23:30.469Z
+lastmod: 2025-03-23T16:19:44.205Z
 ---
 # jQuery in a Nutshell
 

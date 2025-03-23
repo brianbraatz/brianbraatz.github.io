@@ -11,6 +11,7 @@ categories:
   - Typescript
   - Mobile
   - Cross Platform
+  - Async
 tags:
   - Javascript
   - Backend
@@ -34,7 +35,7 @@ categories_ref:
   - Mobile
   - Cross Platform
 slug_calculated: https://brianbraatz.github.io/p/nodejs:-what-it-is-history-usage-and-alternatives
-lastmod: 2025-03-18T19:29:45.685Z
+lastmod: 2025-03-23T16:19:10.143Z
 ---
 <!--
 # Node.js: What It Is, History, Usage, and Alternatives

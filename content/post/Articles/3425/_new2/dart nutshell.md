@@ -9,6 +9,7 @@ categories:
   - Programming
   - Flutter
   - Mobile
+  - Async
 tags:
   - Dart
   - Programming
@@ -23,7 +24,7 @@ categories_ref:
   - Flutter
   - Mobile
 slug_calculated: https://brianbraatz.github.io/p/dart-in-a-nutshell
-lastmod: 2025-03-23T15:47:08.774Z
+lastmod: 2025-03-23T16:18:38.894Z
 ---
 <!-- # Dart in a Nutshell: The Language That Powers Flutter
 

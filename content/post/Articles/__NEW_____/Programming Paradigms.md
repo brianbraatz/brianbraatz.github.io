@@ -6,6 +6,7 @@ date: 0216-12-15
 image: post/Articles/IMAGES/cautionthisissparta.png
 categories:
   - Design Patterns
+  - Async
 tags:
   - Programming
   - Code
@@ -19,7 +20,7 @@ weight: 589
 categories_ref:
   - Design Patterns
 slug_calculated: https://brianbraatz.github.io/p/programming-paradigms
-lastmod: 2025-03-23T14:22:02.563Z
+lastmod: 2025-03-23T16:18:51.829Z
 ---
 ## The Procedural Predicament
 

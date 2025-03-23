@@ -12,6 +12,7 @@ categories:
   - Entity Framework
   - SQL
   - ORM
+  - Async
 tags:
   - LINQ
   - CSharp
@@ -32,7 +33,7 @@ categories_ref:
   - SQL
   - ORM
 slug_calculated: https://brianbraatz.github.io/p/linq-in-a-nutshell
-lastmod: 2025-03-23T15:08:21.914Z
+lastmod: 2025-03-23T16:19:34.962Z
 ---
 ![LINQ Logo](https://seeklogo.com/images/L/linq-logo-8B9C0C6C6A-seeklogo.com.png)
 

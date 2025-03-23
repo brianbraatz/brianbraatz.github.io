@@ -8,6 +8,7 @@ categories:
   - Rust
   - Database
   - SQLx
+  - Async
 tags:
   - Rust
   - Database
@@ -15,7 +16,6 @@ tags:
   - Postgres
   - MySQL
   - SQLite
-  - Async
 draft: false
 weight: 513
 categories_ref:
@@ -23,7 +23,7 @@ categories_ref:
   - Database
   - SQLx
 slug_calculated: https://brianbraatz.github.io/p/rust-sqlx-in-a-nutshell
-lastmod: 2025-03-14T16:40:14.296Z
+lastmod: 2025-03-23T16:17:36.225Z
 ---
 # Rust SQLx In a Nutshell
 
