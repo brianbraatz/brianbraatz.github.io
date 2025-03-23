@@ -26,7 +26,7 @@ categories_ref:
   - Cassandra
   - DynamoDb
 slug_calculated: https://brianbraatz.github.io/p/cassandra-database-in-a-nutshell
-lastmod: 2025-03-14T16:40:15.357Z
+lastmod: 2025-03-23T15:55:44.435Z
 ---
 <!-- 
 # Cassandra Database in a Nutshell

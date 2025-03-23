@@ -28,7 +28,7 @@ categories_ref:
   - DevOps
   - Cloud
 slug_calculated: https://brianbraatz.github.io/p/setup-iam-inside-pod
-lastmod: 2025-03-14T16:40:37.018Z
+lastmod: 2025-03-23T15:55:22.166Z
 ---
 (\
 props to :\

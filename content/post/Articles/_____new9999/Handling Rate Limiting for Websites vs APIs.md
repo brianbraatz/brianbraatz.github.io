@@ -32,7 +32,7 @@ categories_ref:
   - DevOps
   - Cloud
 slug_calculated: https://brianbraatz.github.io/p/handling-rate-limiting-websites-vs-apis
-lastmod: 2025-03-14T16:40:36.424Z
+lastmod: 2025-03-23T15:55:09.710Z
 ---
 <!--
 # Handling Rate Limiting for Websites vs APIs: Best Practices and Code Examples

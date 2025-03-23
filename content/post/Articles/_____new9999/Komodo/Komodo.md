@@ -25,7 +25,7 @@ draft: false
 weight: 287
 categories_ref: []
 slug_calculated: https://brianbraatz.github.io/p/komodo-nutshell
-lastmod: 2025-03-14T16:40:37.125Z
+lastmod: 2025-03-23T15:55:08.868Z
 ---
 <!-- 
 ## Introduction

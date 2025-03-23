@@ -15,21 +15,22 @@ categories:
   - Authentication
   - React
 tags:
-  - Next.js
   - React
   - NextAuth
   - OAuth
   - Serverless
   - NextJS
-  - Async
   - Asynchronous
+  - Async
 draft: false
 weight: 631
-lastmod: 2025-03-23T15:17:04.137Z
+lastmod: 2025-03-23T16:09:27.903Z
 ---
+<!-- 
 # Building a Serverless ToDo App – Part 1: Next.js, React & NextAuth Setup
+-->
 
-Welcome to ur quest to build the most over-engineered, enterprise-grade ToDo list known to humankind — because simple local storage just isn’t fun enough, right?
+Welcome to our quest to build the most over-engineered, enterprise-grade ToDo list known to humankind — because simple local storage just isn’t fun enough, right?
 
 We’re going to build a fully serverless ToDo app using **Next.js**, **React**, **NextAuth.js**, **AWS Lambda**, and **DynamoDB**.
 

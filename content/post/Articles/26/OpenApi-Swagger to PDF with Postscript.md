@@ -11,7 +11,8 @@ categories:
   - PDF
   - Document Imaging
   - OpenAPI
-  - CICD
+  - CI/CD
+  - CI\CD
   - DevOps
   - Cloud
 tags:

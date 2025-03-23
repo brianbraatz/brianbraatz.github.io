@@ -28,7 +28,7 @@ categories_ref:
   - Cloud
   - DevOps
 slug_calculated: https://brianbraatz.github.io/p/setup-spire-agent-inside-pod
-lastmod: 2025-03-14T16:40:37.033Z
+lastmod: 2025-03-23T15:55:13.472Z
 ---
 <!-- 
 # Setting Up a SPIRE Agent Inside a Pod: A Complete Guide
