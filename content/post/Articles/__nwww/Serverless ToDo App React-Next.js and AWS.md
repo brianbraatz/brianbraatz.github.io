@@ -7,6 +7,7 @@ image: post/Articles/IMAGES/todo.png
 categories:
   - Cloud
   - Next.js
+  - Nextjs
   - NextAuth
   - AWS
   - AWS Lambda
@@ -21,7 +22,7 @@ tags:
   - Serverless
 draft: false
 weight: 631
-lastmod: 2025-03-21T03:50:17.484Z
+lastmod: 2025-03-21T04:15:30.639Z
 ---
 # Building a Serverless ToDo App – Part 1: Next.js, React & NextAuth Setup
 

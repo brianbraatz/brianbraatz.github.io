@@ -9,12 +9,9 @@ categories:
   - Web Development
 tags:
   - React
-  - Interview
-  - Questions
   - JavaScript
   - Frontend
   - Development
-  - Coding
   - Examples
 draft: false
 weight: 9
@@ -22,7 +19,7 @@ categories_ref:
   - React
   - Web Development
 slug_calculated: https://brianbraatz.github.io/p/react-nutshell
-lastmod: 2025-03-20T20:46:44.021Z
+lastmod: 2025-03-23T03:18:01.956Z
 ---
 ## 1. What is React?
 

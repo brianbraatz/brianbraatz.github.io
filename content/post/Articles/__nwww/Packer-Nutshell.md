@@ -2,7 +2,7 @@
 title: Packer in a Nutshell
 description: ""
 slug: packer-in-a-nutshell
-date: 2017-06-11
+date: 2021-06-11
 image: post/Articles/IMAGES/packer.png
 categories:
   - DevOps
@@ -16,7 +16,7 @@ tags:
   - VM Images
 draft: false
 weight: 513
-lastmod: 2025-03-21T02:53:37.387Z
+lastmod: 2025-03-21T04:15:22.691Z
 ---
 <!-- # 🧁 Packer in a Nutshell: Bake It Till You Make It -->
 

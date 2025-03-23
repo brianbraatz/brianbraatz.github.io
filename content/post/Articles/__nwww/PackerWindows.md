@@ -2,7 +2,7 @@
 title: Packer with Windows Images and Chocolatey
 description: ""
 slug: packer-windows-chocolatey
-date: 2018-08-14
+date: 2021-08-14
 image: post/Articles/IMAGES/packer.png
 categories:
   - DevOps
@@ -16,7 +16,7 @@ tags:
   - Infrastructure as Code
 draft: false
 weight: 629
-lastmod: 2025-03-21T02:55:52.552Z
+lastmod: 2025-03-21T04:15:26.988Z
 ---
 # 🍫 More Packer Magic: Windows Images and Chocolatey Goodness
 
