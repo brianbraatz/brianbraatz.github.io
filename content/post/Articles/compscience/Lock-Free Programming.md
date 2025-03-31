@@ -32,17 +32,18 @@ categories_ref:
   - Concurrency
   - Assembly Language
 slug_calculated: https://brianbraatz.github.io/p/cs-lockfreeprog
-lastmod: 2025-03-14T16:40:18.954Z
+lastmod: 2025-03-31T23:24:08.160Z
 ---
-# Understanding Lock-Free Programming
+<!-- # Understanding Lock-Free Programming
 
 Hey there, fellow code nerds! 🧑‍💻 Ever found yourself tangled in the web of locks, mutexes, and semaphores, only to end up in a deadlock dance?????
 
-Fear not! Today, we're diving into the world of **lock-free programming**, with a sprinkle of wisdom from the legendary Andrei Alexandrescu.
-
-> **(FAIR WARNING: I AM A SERIOUS FAN BOY of Andrei Alexandrescu. After I read his paper, I took time off to work and flew to Seattle to hang out with him and geek out over this idea... He was gracious and funny and smart (I told you i was a total fan boy) )**
-
-So, grab your favorite debugging snack, and let's get started!
+ Fear not! Today, we're diving into the world of **lock-free programming**, with a sprinkle of wisdom from the legendary Andrei Alexandrescu. 
+ 
+ > **(FAIR WARNING: I AM A SERIOUS FAN BOY of Andrei Alexandrescu. After I read his paper, I took time off to work and flew to Seattle to hang out with him and geek out over this idea... He was gracious and funny and smart (I told you i was a total fan boy) )**
+ 
+ So, grab your favorite debugging snack, and let's get started!
+-->
 
 <!-- ![Lock-Free Programming](https://example.com/lock-free-programming-meme.jpg)
 -->
@@ -67,22 +68,45 @@ For a deeper dive into the evolution of lock-free techniques, check out this [In
 
 ## The Magic Behind Lock-Free: Compare-and-Swap (CAS)
 
-At the heart of lock-free programming lies the mystical and magical **Compare-and-Swap (CAS)** instruction. Think of CAS as the "Jedi mind trick" of concurrency control. It works like this:
+At the heart of lock-free programming is the **Compare-and-Swap (CAS)** instruction.  It works like this:
 
 1. **Compare**: Check if the current value at a memory location matches an expected value.
-2. **Swap**: If it matches, swap it with a new value; if not, leave it be and try again.
+2. **Swap**: If it matches, swap it with a ( a list usually of )new value(s); if not, leave it be and try again.
 
-This atomic operation ensures that even if multiple threads attempt to modify the same data simultaneously, only one succeeds, while the others gracefully retry.
+## Basically - This is how it works In Practice:
 
+1- Grab the address of the current list (pointer to first element)\
+2- Make a copy of that list\
+3- Do whatever operation you want on your copy of the list- add - delete - sort - whatever\
+4- Now- do a CAS (compare and swap)-with the pointer for your NEW list- and the old list
+
+* CAS- takes the old value (pointer to old list) and the new value (pointer to new list)
+* The magic: IF the OLD value is still there- (compare) then SWAP the old value with the new value
+* If the old value is NOT there-CAS fails-nothing is changed- so loop back to step one
+  * Since we looped-we copy the whole list again- and do the whole operation AGAIN
+
+**This atomic operation ensures that even if multiple threads attempt to modify the same data simultaneously, only one succeeds, while the others gracefully retry.**
+
+<!-- 
 It's like multiple chefs trying to grab the last donut—only one gets it, and the rest have to wait for the next batch.
+-->
 
 For a more technical deep dive into CAS, you can refer to the [Non-blocking algorithm](https://en.wikipedia.org/wiki/Non-blocking_algorithm) page on Wikipedia.
+
+**This magic trick WORKS because CAS takes ONE cycle.. in Assembly . Preemptive Operation systems use timer interrupts -save off stack and registers. But since CAS runs in one cycle, you dont have to worry about being preempted!**
+
+for more on how Preemption works - see my article here:\
+[Write a Preemptive multi-threaded OS in 8051 Assembly Language](https://brianbraatz.github.io/p/multi-threaded-os-in-8051-assembly-language/)
+
+The threads fighting over the list- never lock each other- they just loop until its their turn to modify the list.
+
+Hence the name "Lock Free"
 
 ## Andrei Alexandrescu's Take on Lock-Free Data Structures
 
 In his enlightening and global hunger ending paper, [Lock-Free Data Structures](https://erdani.org/publications/cuj-2004-10.pdf), Alexandrescu delves into the intricacies of designing data structures that operate without locks.
 
-He emphasizes the importance of atomic operations, like CAS, in building efficient and scalable concurrent systems.
+He goes into more detail about  the importance of atomic operations, like CAS, in building efficient and scalable concurrent systems.
 
 By leveraging CAS, developers can create data structures where threads can add, remove, or modify elements without waiting for others to finish their operations.
 
