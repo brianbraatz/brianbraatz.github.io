@@ -206,7 +206,7 @@ By **adding Swagger.json to GraphQL middleware**, we enable **NSwagStudio** to g
 2. **Preserving API contracts** while transitioning to REST.
 3. **Using strongly-typed client code** instead of manual API requests.
 4. **Enabling incremental SOAP-to-REST migration** without breaking existing clients.
-
+<!-- 
 ## References
 
 * [GraphQL Official Documentation](https://graphql.org/)
@@ -232,7 +232,7 @@ weight: 345
 
 Migrating from SOAP to REST can be tricky, especially when dealing with **complex schemas** like `Person`, `Address`, `Order`, and `Order Items`. By generating **type-safe proxy classes** from **Swagger.json** using **NSwagStudio**, we can abstract the complexity of SOAP and move towards RESTful services more smoothly.
 
-This article compares **10 SOAP calls** with their equivalent **Swagger-generated RESTful client code** and analyzes the pros and cons of each approach. We'll also discuss alternative migration strategies and whether this approach is the best fit for your project.
+This article compares **10 SOAP calls** with their equivalent **Swagger-generated RESTful client code** and analyzes the pros and cons of each approach. We'll also discuss alternative migration strategies and whether this approach is the best fit for your project. -->
 
 ***
 
@@ -427,13 +427,13 @@ Console.WriteLine(order.CustomerName);
 | **Direct SOAP to REST Rewrite** | Clean REST endpoints                    | High development effort      |
 | **SOAP-to-REST Adapters**       | Allows old SOAP clients to call REST    | Requires adapter maintenance |
 
-***
+<!-- ***
 
 ## Conclusion
 
 Using **Swagger.json** to generate **type-safe REST clients** is an excellent approach to migrating from SOAP, allowing for **incremental migration** while keeping existing functionality available. However, consider the **trade-offs**, such as security differences and contract enforcement.
 
-For large enterprises with **high-security needs**, SOAP may still be relevant. However, for **modern applications**, REST and GraphQL with **Swagger-generated clients** provide a much **smoother developer experience** and **performance boost**.
+For large enterprises with **high-security needs**, SOAP may still be relevant. However, for **modern applications**, REST and GraphQL with **Swagger-generated clients** provide a much **smoother developer experience** and **performance boost**. -->
 
 ## References
 
