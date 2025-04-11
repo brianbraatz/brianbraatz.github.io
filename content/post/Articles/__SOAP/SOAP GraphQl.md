@@ -33,9 +33,13 @@ lastmod: 2025-03-19T13:55:19.250Z
 
 ## Introduction
 
-Migrating a large, legacy SOAP-based system to REST is a daunting task. The **Strangler Pattern** provides a proven approach to gradually replace legacy functionality without disrupting the entire system. One of the best tools to achieve this gradual migration is **GraphQL**, acting as an intelligent middleware between the old SOAP services and the new REST endpoints.
+Migrating a large, legacy SOAP-based system to REST is a daunting task. 
 
-This article takes a **deep dive** into using GraphQL as a middle layer to bridge SOAP and REST, allowing for incremental migration while keeping everything operational.
+The **Strangler Pattern** provides a proven approach to gradually replace legacy functionality without disrupting the entire system. 
+
+One of the best tools to achieve this gradual migration is **GraphQL**, acting as an intelligent middleware between the old SOAP services and the new REST endpoints.
+<!-- 
+This article takes a **deep dive** into using GraphQL as a middle layer to bridge SOAP and REST, allowing for incremental migration while keeping everything operational. -->
 
 ## What is the Strangler Pattern?
 
@@ -185,7 +189,7 @@ type User @key(fields: "id") {
 
 ***
 
-## Conclusion
+<!-- ## Conclusion
 
 Using GraphQL as a middleware **enables a smooth migration from SOAP to REST** while keeping the system operational. By following the Strangler Pattern, you can modernize your architecture **without disrupting** existing clients.
 
@@ -197,8 +201,8 @@ Using GraphQL as a middleware **enables a smooth migration from SOAP to REST** w
 
 # =====================================
 
-\===============================================
-
+\=============================================== -->
+<!-- 
 ***
 
 title: "How to Use GraphQL as a Middleware for Migrating SOAP to REST"\
@@ -209,16 +213,16 @@ image: "post/Articles/IMAGES/32.jpg"\
 categories: \["API", "Web Services", "GraphQL", "Migration"]\
 tags: \["GraphQL", "SOAP", "REST", "Middleware", "API Migration"]\
 draft: false\
-weight: 315
------------
+weight: 315 -->
+<!-- -----------
 
 # How to Use GraphQL as a Middleware for Migrating SOAP to REST
 
 Migrating from SOAP to REST is a challenging task, especially when dealing with a massive legacy system. One effective way to ease the transition is to use **GraphQL as a middleware**, allowing clients to request data via GraphQL while the backend gradually shifts from SOAP to REST.
 
-This article demonstrates **how to wrap SOAP calls with GraphQL**, migrate to REST, and compare the before-and-after code. We'll also discuss compatibility issues, datatype mismatches, and bad design patterns that can make this process difficult.
+This article demonstrates **how to wrap SOAP calls with GraphQL**, migrate to REST, and compare the before-and-after code. We'll also discuss compatibility issues, datatype mismatches, and bad design patterns that can make this process difficult. -->
 
-## What Did the Legacy SOAP Code Look Like?
+## Example Legacy SOAP
 
 A traditional SOAP-based system follows a **strictly structured XML format**. Here’s what a SOAP request and response for fetching a user might look like:
 
@@ -393,7 +397,7 @@ const resolvers = {
 * **Stateful Services**: Some SOAP services maintain session-based state, which contradicts REST’s stateless nature.
 
 ***
-
+<!-- 
 ## Conclusion
 
 Using **GraphQL as a middleware** provides a seamless way to migrate from SOAP to REST. It abstracts the underlying complexity, allowing clients to request data from a single GraphQL interface while backend services transition from SOAP to REST. However, be aware of **compatibility issues** such as XML vs. JSON, nested structures, and tight coupling in SOAP that can make migration more challenging.
@@ -555,4 +559,4 @@ Using **GraphQL as a middleware** provides a seamless way to migrate from SOAP t
 
 * [GraphQL Official Documentation](https://graphql.org/)
 * [SOAP to REST API Migration](https://aws.amazon.com/api-gateway/)
-* [Strangler Pattern - Martin Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html)
+* [Strangler Pattern - Martin Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html) -->
