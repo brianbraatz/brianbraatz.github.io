@@ -1,5 +1,5 @@
 ---
-title: Testing With Service Virtualization Pattern.md
+title: Testing With Service Virtualization Pattern
 description: Simulate APIs, databases, and third-party services to speed up development.
 slug: service-virtualization
 date: 2017-06-15
