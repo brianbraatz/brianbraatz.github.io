@@ -119,8 +119,3 @@ Happy coding! 🚀
 | **Difference from mocks?** | Service virtualization is for full system testing, while mocks/stubs are for unit tests. |
 
 ```
-
----
-
-This keeps it fun, informal, and packed with useful info. Want any tweaks? 😎
-```
