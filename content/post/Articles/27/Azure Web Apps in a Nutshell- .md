@@ -68,9 +68,7 @@ But how does it compare to other Azure hosting options?
 
 ***
 
-## Azure Web Apps vs.
-
-Virtual Machines (VMs)
+## Azure Web Apps vs. Virtual Machines (VMs)
 
 | Feature             | Azure Web Apps                   | Virtual Machines (VMs)            |
 | ------------------- | -------------------------------- | --------------------------------- |
@@ -86,9 +84,7 @@ VMs are great if you need full control (install your own software, tweak network
 
 ***
 
-## Azure Web Apps vs.
-
-Serverless (Azure Functions)
+## Azure Web Apps vs. Serverless (Azure Functions)
 
 | Feature        | Azure Web Apps                      | Azure Functions (Serverless)                 |
 | -------------- | ----------------------------------- | -------------------------------------------- |
@@ -106,9 +102,7 @@ Azure Web Apps are better for **full web applications**.
 
 ***
 
-## Azure Web Apps vs.
-
-Docker Containers
+## Azure Web Apps vs. Docker Containers
 
 | Feature             | Azure Web Apps                     | Azure Container Apps / Kubernetes       |
 | ------------------- | ---------------------------------- | --------------------------------------- |
@@ -240,8 +234,8 @@ If you need **full control over your environment**, **stick with VMs or Docker**
 * [Azure Web Apps Documentation](https://learn.microsoft.com/en-us/azure/app-service/)
 * [Deploying an ASP.NET App](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore)
 * [Running Node.js on Azure](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs)
-
+<!-- 
 ```
 
 Hope this helps! 🚀 Let me know if you want any tweaks. 😊
-```
+``` -->
