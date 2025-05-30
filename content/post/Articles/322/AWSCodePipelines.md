@@ -19,16 +19,19 @@ draft: false
 weight: 515
 lastmod: 2025-03-31T22:51:06.736Z
 ---
-## 🚀 Welcome to the Pipeline Party: Part 1
+<!-- ## 🚀 Welcome to the Pipeline Party -->
+<!-- : Part 1 -->
+<!-- 
+This is **Part 1** of our series *“AWS Code Pipelines in a Nutshell”*. We're gonna get our hands dirty with a **real sample app** and connect the dots between: -->
 
-This is **Part 1** of our series *“AWS Code Pipelines in a Nutshell”*. We're gonna get our hands dirty with a **real sample app** and connect the dots between:
+This article is to connect the dots between:
 
 * **AWS CodeCommit** (our Git repo)
 * **AWS CodeBuild** (to build stuff)
 * **AWS CodeDeploy** (to push the stuff)
 * **AWS CodePipeline** (to glue it all together)
 
-So buckle up, grab your keyboard, and let’s make some DevOps magic happen!
+<!-- So buckle up, grab your keyboard, and let’s make some DevOps magic happen! -->
 
 ***
 
@@ -353,15 +356,15 @@ weight: 447
 
 ## Go Beyond the Basics
 
-So you've got a simple pipeline up and running. Nice!
+<!-- So you've got a simple pipeline up and running. Nice! -->
 
-But now you're asking the big questions:
+<!-- But now you're asking the big questions: -->
 
 * How do I know if something goes wrong?
 * What’s this blue/green deployment everyone keeps talking about?
 * Can I do custom stuff during builds and deploys?
 
-You're in luck—this part covers exactly that!
+<!-- You're in luck—this part covers exactly that! -->
 
 ***
 
