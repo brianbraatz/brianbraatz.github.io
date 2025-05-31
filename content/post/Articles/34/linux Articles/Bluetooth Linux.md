@@ -1,5 +1,5 @@
 ---
-title: "How to Write a Bluetooth for Linux "
+title: "How to Write a Bluetooth Driver for Linux "
 description: For Fun and Profit (???)
 slug: write-bluetooth-driver-linux
 date: 2017-06-15

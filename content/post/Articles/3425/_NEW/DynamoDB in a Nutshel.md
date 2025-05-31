@@ -27,11 +27,11 @@ categories_ref:
 slug_calculated: https://brianbraatz.github.io/p/dynamodb-in-a-nutshell
 lastmod: 2025-03-14T16:40:15.679Z
 ---
-# DynamoDB in a Nutshell
+<!-- # DynamoDB in a Nutshell
 
 Alright, buckle up because we’re about to take a ride into the wild world of **DynamoDB**, Amazon’s fully managed NoSQL database. It’s fast, it’s scalable, and it’s got that AWS magic that makes your wallet a little lighter each month.
 
-But before we dive into the nitty-gritty of tables, partitions, and throughput limits, let's take a quick trip down memory lane and see how this beast came to life.
+But before we dive into the nitty-gritty of tables, partitions, and throughput limits, let's take a quick trip down memory lane and see how this beast came to life. -->
 
 ## A Little Bit of History
 
