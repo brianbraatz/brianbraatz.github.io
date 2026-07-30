@@ -87,12 +87,21 @@ https://www.wsj.com/articles/SB125910374196463061
 
 ## HIIDE v5 Specs \ Brochure
 
-<embed src="https://brianbraatz.com/portfolio/HIIDE/HIIDE%99%205%20-%20Solutions%20-%20L-1%20Identity%20Solutions.pdf" type="application/pdf" width="100%" height="600px">\`
+<!-- <embed src="https://brianbraatz.com/portfolio/HIIDE/HIIDE%99%205%20-%20Solutions%20-%20L-1%20Identity%20Solutions.pdf" type="application/pdf" width="100%" height="600px">\`
 
 <div style="text-align: center;"> 
 <a href="https://brianbraatz.com/portfolio/HIIDE/HIIDE%99%205%20-%20Solutions%20-%20L-1%20Identity%20Solutions.pdf" style="text-align:center; text-decoration: underline">VIEW FULLPAGE</a><br>
 
+</div> -->
+
+<embed src="https://brianbraatz.com/portfolio/HIIDE/HIIDE%E2%84%A2%205%20-%20Solutions%20-%20L-1%20Identity%20Solutions.pdf" type="application/pdf" width="100%" height="600px">\`
+
+<div style="text-align: center;"> 
+<a href="https://brianbraatz.com/portfolio/HIIDE/HIIDE%E2%84%A2%205%20-%20Solutions%20-%20L-1%20Identity%20Solutions.pdf" style="text-align:center; text-decoration: underline">VIEW FULLPAGE</a><br>
+
 </div>
+
+
 
 <!-- 
 
